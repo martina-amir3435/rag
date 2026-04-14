@@ -1,0 +1,3566 @@
+caribbean copertina ok 20-12-2007 6:41 Pagina 1
+A manual
+from the English-speaking
+Caribbean
+Food-based dietary guidelines (FBDGs) provide practical advice
+about ways to improve diets and health in a manner that is easy
+for the public to understand. This manual explains a 10-step
+process for developing FBDGs that can be used in most countries.
+By following this process, nutritionists and others can create
+FBDGs that are well-adapted to national needs and based on
+Developing
+nutrition science and communication expertise. A
+multidisciplinary approach enables governments to assess the
+Food-based
+country’s nutrition problems and to set realistic priorities for
+improving diets. Technical recommendations are transformed into
+Dietary
+simple messages the average person can follow. Nutritionists
+learn to develop strategies for communicating dietary Guidelines
+information to the public. This manual is based on the
+experiences of four Caribbean countries in developing national
+FBDGs to promote healthy diets and to prevent obesity, diabetes
+and cardiovascular diseases.
+impaginato dicembre07 20-12-2007 6:39 Pagina 1
+A Manual from the English-speaking Caribbean
+Developing Food-based
+Dietary Guidelines
+Food and Agriculture Organization of the United Nations
+2007
+impaginato dicembre07 20-12-2007 6:39 Pagina i
+i
+Table of contents
+Foreword v
+Part One:
+Reasons for developing Food-based Dietary Guidelines (FBDGs)
+1. Political commitment to improving nutrition 1
+2. Purpose and definition of FBDGs 3
+3. Rationale for FBDGs in the Caribbean 5
+Part Two:
+Process of developing Food-based Dietary Guidelines (FBDGs)
+Introduction 15
+Step 1: Planning and organizing the work 16
+Step 2: Characterizing the target group 20
+Step 3: Setting the objectives for the FBDGs 26
+Step 4: Preparing the technical guidelines 28
+Step 5: Testing the feasibility of the recommendations 39
+and developing the pictorial food guide
+Step 6: Finalizing the FBDGs 48
+Step 7: Validating the FBDGs 52
+Step 8: Correcting and adjusting the FBDGs 53
+Step 9: Implementing the FBDGs 54
+Final result: FBDGs posters 59
+Step 10: Evaluation of the FBDGs 63
+Afterword 65
+References 67
+Annex 1: Testing recommendations for feasibility 69
+Annex 2: Behavioural trial 70
+Annex 3: Choosing the pictorial diagram 74
+Annex 4: Draft communication strategy 76
+impaginato dicembre07 20-12-2007 6:39 Pagina ii
+ii
+List of Boxes
+Box 1 FBDGs around the world
+Box 2 Membership of the Grenada National FBDGs Task Force
+Box 3 Contents of the situation analysis document
+Box 4 Categorization of major problems
+Box 5 Food groups that should be used in the FBDGs
+Box 6 Reasons for behavioural trials
+Box 7 Household trial methodology used in St. Vincent
+Box 8 Testing a recommendation in St. Vincent and the Grenadines
+Box 9 Tips and motivational messages
+Box 10 Advice for writing messages
+Box 11 Places and events where FBDGs can be disseminated
+Box 12 Media for disseminating FBDGs
+Box 13 Outlines for booklets
+Box 14 Suggested activities in support of the national launch
+impaginato dicembre07 20-12-2007 6:39 Pagina iii
+iii
+List of tables
+Table 1 Problems identified by multi-sectoral groups in St. Lucia, Grenada, St.
+Vincent and the Grenadines and Dominica
+Table 2 Decision matrix for prioritization of food and nutrition problems in St.
+Lucia and St. Vincent and the Grenadines
+Table 3 Prioritized problems and objectives of nutrition guidelines
+Table 4 Population groups covered by the three established energy requirement
+levels
+Table 5 Population framework nutrient goals
+Table 6 Summary of portions from different food groups needed for the three
+energy requirement levels
+Table 7 Formulation and analysis of the technical recommendations for FBDGs
+Table 8 Summary of technical recommendations for FBDGs
+Table 9 Preliminary technical recommendations
+Table 10 Comparison of problems, objectives and technical recommendations
+Table 11 Draft FBDGs recommendations from Dominica, Grenada, St. Lucia and
+St. Vincent and the Grenadines
+List of figures
+Figure 1 Trends in adult overweight/obesity in the Caribbean
+Figure 2 Trends in young child (0-5 years) obesity in the Caribbean
+Figure 3 Testing the feasibility of the recommendations
+Figure 4 Timetable
+Figure 5 Proportionality in a food graphic
+impaginato dicembre07 20-12-2007 6:39 Pagina v
+v
+Foreword
+A fundamental goal of the Food and Agriculture Organization of the United
+Nations (FAO) is assisting the countries of the Caribbean in developing national
+strategies, methods and tools to improve diets. Food-based dietary guidelines
+(FBDGs) are a key source of information that governments can use for educating
+the public on ways to do this. Using language and symbols that the average person
+understands, FBDGs provide relevant dietary advice for preventing common diet-
+related health and nutrition problems.
+This manual’s aim is to offer practical advice to nutritionists and others working in
+related fields for producing national FBDGs for the general public. It explains the
+rationale behind national FBDGs and outlines the steps needed for producing
+FBDGs. It also gives advice on ways to communicate this information to the
+public.
+This manual is one result of a FAO technical cooperation project (TCP) for capacity
+building in nutrition education.1The project was conducted by FAO’s Sub-Regional
+Office for Latin America and the Caribbean and Nutrition and Consumer Protection
+Division in collaboration with the Caribbean Food and Nutrition Institute (referred
+to as CFNI) and the Institute of Nutrition of Central America and Panama (referred
+to as INCAP), both institutions of the Pan American Health Organization (PAHO).
+The TCP was initiated at the request of the governments of the Commonwealth of
+Dominica, Grenada, Saint Lucia, and Saint Vincent and the Grenadines, and the
+work was carried out during the period September 2004–June 2007.
+The general approach to developing FBDGs described in this manual was
+elaborated by FAO and the World Health Organization in 1995. The specific
+methods to be used in each step in the process that are described in this manual
+were first developed by INCAP. These have been applied and adapted for use in
+Caribbean countries by CFNI and FAO. FAO collaborated with experts from both
+PAHO institutions in carrying out the project.
+1“Capacity building for the development of food-based dietary guidelines to promote healthy diets
+and lifestyles” , TCP/RLA/ 3002 (A).
+impaginato dicembre07 20-12-2007 6:39 Pagina vi
+vi Developing Food-based Dietary Guidelines
+FAO would like to express its appreciation to the primary authors of this manual,
+Pauline Samuda and Verónika Molina, who also served as technical advisors and
+trainers for the project. Based on their experiences as national coordinators for the
+project to develop their national FBDGs, four nutritionists – Theresa Marietta
+Regis (Ministry of Health and Environment, Saint Vincent and the Grenadines),
+Betty Finlay (Grenada Food and Nutrition Council, Grenada), Jacqueline Lancaster
+Prevost (Ministry of Health and Social Security, Dominica) and Merlyn Severin
+(Ministry of Health, Saint Lucia) – provided valuable suggestions and insights for
+the manual. FAO would also like to thank Christa de Valverde, who served as a
+consultant for the methodology on field testing of the FBDGs and Maria Protz, who
+acted as a consultant for developing communication strategies.
+Carmen Dardano, Nutrition Officer in the FAO Sub-Regional Office for Latin
+America and the Caribbean in Barbados, had primary responsibility for
+coordinating and providing technical support in the project and contributed to this
+manual. Ellen Muehlhoff, Senior Officer, FAO Nutrition and Consumer Protection
+Division, formulated the TCP in collaboration with Carmen Dardano and Pauline
+Samuda. Janice Albert, Nutrition Officer, FAO Nutrition and Consumer Protection
+Division provided technical backstopping for the project, co-authored this manual
+and oversaw its production. Peter Glasauer provided valuable comments about the
+manual. Bernhard Reufels, Harripaul Bridgemohan, Melinda Mills and Joanna
+Lyons of FAO provided invaluable assistance in the administration of the project.
+We hope that the information provided in this manual and the knowledge and skills
+that are obtained through following the steps of developing FBDGs will strengthen
+efforts to improve nutrition and health among people in the English-speaking
+Caribbean today and in the future.
+Barbara Graham
+FAO Sub-Regional Representative for the Caribbean
+impaginato dicembre07 20-12-2007 6:39 Pagina vii
+Part one: Reasons
+for developing Food-Based
+Dietary Guidelines
+impaginato dicembre07 20-12-2007 6:39 Pagina 1
+1
+1. Political commitment
+to improving nutrition
+The United Nations (UN) and governments worldwide have declared that all
+people have the right to a nutritionally adequate diet at all times. The FBDGs are a
+tool for helping countries to achieve this goal. FAO and the World Health
+Organization (WHO) have promoted the concept of FBDGs since the International
+Conference on Nutrition (ICN) in 1992 (FAO/WHO, 1992), when the “World
+Declaration and Plan of Action for Nutrition” called upon governments to promote
+appropriate diets and healthy lifestyles. At the World Food Summit, held at FAO
+Headquarters in 1996, 180 countries approved the “Rome Declaration on World
+Food Security” in which the heads of state pledged that:
+We will implement policies aimed at eradicating poverty and inequality and
+improving physical and economic access by all, at all times, to sufficient,
+nutritionally adequate and safe food and its effective utilization. (FAO 1996,
+emphasis added) (FAO, 1996)
+At the Millennium Summit in 2000, governments established the Millennium
+Development Goals (MDGs) (UN, 2006). Three of these goals are related directly
+to improving nutrition:
+• “Eradication of poverty and hunger.”
+• “Achieve universal primary education.”
+• “Reduce child mortality.”
+Improved nutrition education can help to reduce malnutrition and hunger. It can
+enhance nutritional knowledge, attitudes and behaviours, social and dietary
+customs, family/childcare and feeding practices, and household hygiene. Better
+nutrition can improve educational achievements and reduce child mortality.
+impaginato dicembre07 20-12-2007 6:39 Pagina 2
+2 Developing Food-based Dietary Guidelines
+FBDGs: Tools for achieving nutrition goals
+In 1995 FAO and WHO sponsored an Expert Consultation on the Preparation and
+Use of Food-Based Dietary Guidelines in Cyprus (WHO, 1996). This group of
+experts reviewed experiences and elaborated a process for developing FBDGs.
+Following the recommendations of this international meeting, PAHO and INCAP
+promoted the development and implementation of FBDGs through the:
+development of a methodology to elaborate FBDGs; organization of five sub-
+regional workshops with the participation of all Latin American countries; and
+provision of technical assistance when needed.
+In April 1999 the “Development of Food-Based Dietary Guidelines and Nutrition
+Education for the Caribbean” workshop was held in Bridgetown, Barbados. Jointly
+organized by FAO and the International Life Sciences Institute (ILSI International)
+in collaboration with the Caribbean Food and Nutrition Institute (CFNI), the
+workshop was organized for countries of the English-speaking Caribbean. Its
+objective was to assist participating countries in developing and implementing
+FBDGs and to strengthen their capacity to communicate effective nutrition
+information to the public, in order to bring about lasting improvements in food
+consumption patterns and nutritional well-being. The Barbados workshop was one
+of 17 regional workshops held by FAO, involving nearly 100 countries worldwide.
+National food and nutrition policies and plans in the Caribbean
+Following the ICN, National Plans of Action for Nutrition (NPAN) have been
+developed by governments in the Caribbean in an effort to improve the nutritional
+situation of their populations. Each country’s NPAN is based on the country’s
+national development plans and is structured around the eight thematic areas
+identified in the ICN Plan of Action. “Promoting appropriate diets and healthy
+lifestyles” is included in the plans of all eastern Caribbean countries. Strategies for
+consideration include:
+• promoting better eating habits (e.g. dietary guidelines, variety of foods);
+• preventing lifestyle diseases;
+• promoting regular exercise; and
+• providing nutrition education.
+The NPAN for each country is developed by a multi-sectoral group consisting of a
+wide range of government ministries – such as agriculture, health, planning, trade,
+industry, social services, education, industry, sport, consumer affairs – as well as
+cooperation from academia, food processors, non-governmental organizations
+(NGOs), marketing and distribution sectors. The development of national FBDGs is
+a major activity emanating from the national plan of action.
+impaginato dicembre07 20-12-2007 6:39 Pagina 3
+3
+2. Purpose and definition of FBDGs
+The purpose of FBDGss is to assist the general population in following nutrition
+and related-health recommendations. FBDGs are a tool for nutrition education and
+behaviour change to be used by health providers, teachers, journalists, extension
+agents and others working directly with the public. The FBDGs present
+information that uses language and symbols that the public can easily understand.
+FBDGs focus on common foods, portion sizes, and behaviours.
+While different countries may share similar trends in dietary patterns, FAO and
+PAHO consider it important that, whenever possible, each country should
+develop its own set of guidelines. This is because large variations in food
+availability and accessibility, in food patterns as well as differences in lifestyles,
+cultures and public health priorities can exist between countries. Although
+FBDGs may appear similar, they have been developed to meet the specific needs
+of a nation’s population and to suit the cultural, social and economic contexts.
+Food graphics or pictorial diagrams associated with FBDGs are indigenous for
+the population of each country and may become important symbols in a nation’s
+nutrition communication and education strategy.
+FBDGs: Global patterns
+Throughout the world, several characteristics are commonly found in dietary
+guidelines – for instance, FBDGs always stress the importance of variety and
+balance. It is also very common for FBDGs to promote increased fruit and
+vegetable consumption since daily consumption of fruit and vegetables adds
+vitamins and fibre to the diet and could help prevent obesity, diabetes,
+cardiovascular diseases and certain cancers. FBDGs often include advice
+discouraging excessive consumption of saturated fats, salt, sugar and alcohol. In
+addition, with increasing attention to sedentary lifestyles, guidelines concerning
+the importance of physical activity are more frequent. Information relating to
+food safety can also be found in FBDGs because of concern about food-borne
+diseases.
+There are also important differences between FBDGs. This is not surprising as
+FBDGs are determined by the specific health, behaviour, culture and economic
+impaginato dicembre07 20-12-2007 6:39 Pagina 4
+4 Developing Food-based Dietary Guidelines
+conditions within a country. For example, advice about dietary fats and
+carbohydrates can vary greatly, depending on each country’s nutritional problems.
+While providing one set of guidelines for an entire nation is challenging, even very
+large countries with extremely diverse populations have decided to have one set of
+FBDGs for the adult population. For infants and small children, some countries
+have created separate dietary guidelines, while others have incorporated advice for
+these groups in their general guidelines.
+Box 1: FBDGs around the world
+Europe
+Dietary guidelines are found in the Czech Republic, Denmark, France, Germany,
+Greece, Hungary, Ireland, Italy, Latvia, the Netherlands, Slovenia, Spain, the United
+Kingdom and Turkey. It addition, the European Union has developed the “Euro
+diet” and WHO has promoted the “CINDI guidelines” (Countrywide Integrated
+Non-communicable Diseases Intervention) for Europeans.
+The Americas
+In the Americas, Canada, Mexico, the United States of America and Venezuela were
+among the first countries to publish FBDGs. Argentina, Barbados, Brazil, Chile,
+Colombia, the Commonwealth of the Bahamas, Costa Rica, Cuba, El Salvador,
+Guatemala, Guyana, Honduras, Panama and Uruguay have FBDGs.
+Asia
+In Asia and the Pacific, China, Indonesia, India, Japan, Malaysia, Nepal, New
+Zealand, the Philippines, Singapore and Thailand have developed FBDGs. In
+addition, there are WHO regional guidelines for the Western Pacific Islands.
+Africa
+Among African countries, Namibia, Nigeria, and South Africa have published
+FBDGs.
+Near East
+In the Near East, Iran has developed FBDGs and Lebanon and Egypt also have food
+guides.
+impaginato dicembre07 20-12-2007 6:39 Pagina 5
+5
+3. Rationale for FBDGs in the Caribbean
+Health and Nutrition Situation
+Epidemiological profile
+Since the 1980s an epidemiological transition has taken place across the
+Caribbean region. This transition has manifested itself in a decrease in infectious
+diseases and an increase in chronic non-communicable diseases (NCDs). Infant
+and child mortality have decreased precipitously with improvements in access to
+pre-natal care, nutrition, sanitation, immunization, and oral rehydration therapy.
+Between 1980 and 1995, communicable-disease mortality rates in children aged
+1–14 years declined by 67 percent (WHO, 2001). For the year 2000, infant
+mortality rates (deaths per 1 000 live births) for Grenada, Saint Lucia, Dominica,
+and Saint Vincent and the Grenadines were 12.5; 13.4; 17.5 and 22.0, respectively
+(PAHO, 2002).
+Most eastern Caribbean countries experienced similar crude death rates (deaths
+per 1000 persons) during the period 1998–1999 with Grenada, Saint Vincent and
+the Grenadines, Dominica and Saint Lucia recording crude death rates of 7.9,
+7.2, 8.0 and 6.4, respectively (PAHO, 2002). An examination of the overall
+mortality figures reveals that diseases of the circulatory system accounted for
+the largest proportion of deaths in most eastern Caribbean countries during
+1999. Diseases of the circulatory system were the leading cause of death in
+Dominica, Saint Lucia and Saint Vincent and the Grenadines, accounting for
+54.7 percent, 38.0 percent and 42.0 percent of total deaths, respectively (PAHO,
+2002). Cerebrovascular diseases, ischemic heart disease and hypertension
+comprised 23 percent of all deaths as reported in Grenada during 2000.
+Nutritional status of children under 5
+Both under-nutrition and obesity constitute problems in children under 5 years of
+age in Caribbean countries. While comprehensive data are not available for all
+countries, PAHO’s (2002) publication Health in the Americas provides data for
+some countries. PAHO reported a 6 percent prevalence of under-nutrition among
+children aged 1–4 years in Saint Vincent and the Grenadines in 1999. However, the
+Nutrition Unit Surveillance System of the Ministry of Health reported that in 2001
+impaginato dicembre07 20-12-2007 6:39 Pagina 6
+6 Developing Food-based Dietary Guidelines
+under-nutrition among young children was a low 0.23 percent while obesity
+among this age-group stood at 11 percent.
+In the Commonwealth of Dominica, the Health Information System of the
+Ministry of Health reported under-nutrition among children under 5 as 0.7
+percent while obesity in this age-group was 9.4 percent. In Guyana under-
+nutrition ranged from 12 percent in the 0–11-month age-group to 15 percent in
+the 12–23-month age-group.
+The Young Child Surveillance System of the Grenada Food and Nutrition
+Council reported that in 2001 under-nutrition among young children was 4.0
+percent while 4.5 percent of this population was overweight.
+The birth weight of infants continues to be monitored and used as an indicator
+of nutritional status. During 1998–99 low birth weight (<2,500 grams) was
+recorded among 8 percent of total births in Grenada; 4.1 percent in Saint Vincent
+and the Grenadines and 14 percent in Guyana (PAHO, 2002).
+Changing morbidity patterns
+As a result of the improvement in childhood mortality, there has been a general
+increase in average life expectancy throughout the English-speaking Caribbean.
+In 2000, this was estimated at 71.3 years, ranging from 64.5 to 78.9 years
+(Henry, 2001). In the same year, the gap between male and female life
+expectancy was 4.9 years. The average proportion of the population aged 60
+years and older in these countries is 9 percent. This means there is an ageing
+population, with women in particular living longer and being more at risk of
+non-communicable diseases (NCDs). The most prevalent NCDs in the region
+include cardiovascular disease, hypertension, diabetes and cancer. All are linked
+by common risk factors related to lifestyle – such as obesity, physical inactivity,
+poor nutrition and tobacco use.
+Diet-Related Non-Communicable Diseases (NCDs)
+Hypertension
+The Ministry of Health in Saint Vincent and the Grenadines reported that in
+2000 the prevalence of hypertension was 5.8 percent in the 15–34 years age-
+group and 14.3 percent in the 35 and over age-group. In Dominica, a study
+conducted by using an upper limit of 140/90, recorded a 20-percent prevalence
+of hypertension in the 18–60 year age-group. Grenada’s ministry reported that
+8.8 percent of clinic attendees in 2003 were affected by hypertension.
+impaginato dicembre07 20-12-2007 6:39 Pagina 7
+3 Rationale for FBDGs in the Caribbean 7
+Hypertension prevalence among males aged 25–74 years in Saint Lucia is 19–25
+percent and among females is approximately 28 percent (Riopel et al., 1986). At
+the threshold of 160/95 mm Hg, just 74 percent of individuals in Saint Lucia
+were aware of their condition; 59 percent were treated pharmacologically; and
+only 35 percent were controlled. Men, particularly those under 55 years, were
+less likely than women to have their blood pressure treated and controlled
+(Friesinger and Ryan, 1999).
+Diabetes
+Although diabetes is under-reported on death certificates in the Caribbean
+(Reddy, 1998), it was estimated to be the fourth leading cause of death in 1995.
+Diabetes accounted for one in ten deaths that year out of a total of approximately
+4,000 deaths. Of note is the rapid increase in proportional mortality for diabetes,
+up from seventh place (4 percent) in 1980.
+Prevalence data for diabetes are not available for most eastern Caribbean
+countries. However, clinic and hospital admission data do provide useful
+information. Using clinic data, the Ministry of Health in Grenada reported that,
+in 2003, 12 percent of clinic attendees were diabetic, while in Saint Vincent and
+the Grenadines, the Ministry of Health reported that diabetes was found in 2.7
+percent of the 15–34 age-group and 6.6 percent of the 35 and over age-group. In
+Dominica, 25 percent of admissions to the medical ward in 2000 were related to
+diabetes.
+Obesity
+The increasing trend in obesity is considered a major contributory factor in
+chronic disease prevalence in the Caribbean. Rising obesity levels –
+particularly among women – may be attributable to changes in traditional diets
+and the adoption of relatively more sedentary lifestyles. In some countries
+more than half of adult women and more than a quarter of males are reported
+to be obese.
+Empiric data on obesity are not available for all countries; however, available
+data do indicate that since the 1970s obesity among adults has risen to epidemic
+proportions in the English-speaking Caribbean. This is illustrated in Figure 1
+(Henry, 2004). The most striking features of Figure 1 are: (a) the high
+prevalence of overweight, as indicated by Body Mass Index (BMI>25) and
+obesity (BMI>30); and (b) the consistent gender difference, showing that about
+25 percent of adult Caribbean women are seriously overweight, i.e. obese,
+which is almost twice as many as their male counterparts.
+8 Developing Food-based Dietary Guidelines
+Figure 1: Trends in adult overweight/obesity in the Caribbean
+60
+50
+40
+30
+Male
+Female
+20
+10
+0
+1970s 1980s 1990s
+YEARS
+Source: Henry, 2004.
+In 1996, results of the Dominica Food and Nutrition Council (DFNC) national
+Food Consumption Pattern and Lifestyle survey revealed that 47.9 percent of the
+adult population were obese (BMI >30.0).
+When the data for obesity in young children and adolescents in the Caribbean are
+reviewed, the obesity epidemic in the region becomes even more worrying (see
+Figure 2). Although the global prevalence of overweight amongst preschool
+children is estimated at 3.3 percent, data collected from the Caribbean region show
+higher rates, such as 9.0 percent for Dominica and 7.0 percent for Saint Vincent and
+the Grenadines (CFNI, 2001).
+Iron deficiency anaemia
+Despite supplementation, fortification and dietary diversification programmes
+being implemented in the English-speaking Caribbean countries, iron deficiency
+anaemia persists as a public health problem in all countries. The population
+subgroups most adversely affected by this condition are young children (1–4
+years); school-age children (5–16 years) and prenatal women.
+Areview of the data available on the prevalence of iron deficiency anaemia in the
+Caribbean indicates varying trends over the years, although the analysis of study
+results is compounded by the varying definitions of anaemia used. Based on the
+)%(
+ecnelaverP
+impaginato dicembre07 20-12-2007 6:39 Pagina 8
+3 Rationale for FBDGs in the Caribbean 9
+Figure 2: Trends in young child (0-5 yrs) obesity in the Caribbean
+12
+10
+8
+6 1990
+1999
+4
+2
+0
+Antigua Dominica St. Kitts/Nevis St. Vincent
+Country
+Source: Unpublished data CFNI, 2001.
+WHO standards for anaemia, in 2003, the Grenada Ministry of Health (MoH)
+reported anaemia among infants (12 months) to be 65.2 percent; 14 percent among
+antenatal women and 3 percent among postnatal women.
+Dominica and Saint Vincent and the Grenadines were included in a three-country
+study conducted by the CFNI in 1996 aimed at determining micronutrient status
+among the population (CFNI, 1997). The study results showed that for Dominica
+34.4 percent of young children (1–4 years) were anaemic based on the WHO
+standard, as were 30.7 percent of school-age children (5–16 years) and 35.6 percent
+of prenatal women. For Saint Vincent and the Grenadines, the study was able to
+report only on serum ferritin levels as haemoglobin levels were not measured. Based
+on serum ferritin levels, 18.9 percent of young children were anaemic as were 42.2
+percent of school-age children and 41.8 percent of prenatal women (CFNI, 1997).
+Food Consumption
+Empirical food-consumption data over extended periods are not available for
+Caribbean countries, but crude estimates of energy intake can be gleaned from
+ecological analysis of FAO food-disappearance data. Since the 1970s there has
+been evidence of an increasing availability of kilocalories (kcals) per person in the
+Caribbean, representing an abundance of energy to meet nutritional needs. Since
+)%(
+ecnelaverP
+impaginato dicembre07 20-12-2007 6:39 Pagina 9
+impaginato dicembre07 20-12-2007 6:39 Pagina 10
+10 Developing Food-based Dietary Guidelines
+the 1990s, there has also been a proliferation of food outlets where the major
+offerings are fatty foods and refined carbohydrates. Added to this, a larger
+proportion of the population eat away from home on a daily basis.
+Changing infostyles include more
+meals outside the home
+Using a per capita recommended daily allowance of 2 250 kcals in 12 countries,
+food-disappearance data indicate that during the 1960s there was an overall
+insufficiency of kilocalories: approximately 1900 kcal/daily/per person. This
+insufficiency was reflected in the high rates of under-nutrition at that time. From
+the 1970s onwards, the average daily availability of kilocalories per person
+increased rapidly and currently stands at approximately 2 750.
+FAO food-balance sheets for Dominica, for example, show an increasing trend in per
+caput supply per day energy requirement. For example, availability of the per capita
+kilocalories food supplies increased from 2 254 kcal in 1980 to 2 866 kcal in 1993,
+indicating increased supplies relative to standard requirements. For 2002, the trends
+in food supply were not significantly different, with per caput supplies per day for
+energy, protein and fat being 2 763 kcal, 82.4 g and 77.4 g, respectively. The 1996
+food-consumption survey identified high intakes of meats (pork and chicken) and
+fish, and inadequate consumption of fruits and vegetables among the population
+surveyed.
+impaginato dicembre07 20-12-2007 6:39 Pagina 11
+3 Rationale for FBDGs in the Caribbean 11
+Qualitative food-consumption data from the Caribbean indicate that the
+consumption of food from animals and intake of sugar and salt have been
+increasing steadily since the 1980s. In contrast, consumption of fruits, vegetables,
+roots, tubers and legumes (ground provision) has been low or declining. During
+this period, the dependence on imported foodstuffs has also increased
+progressively, while consumption of local agricultural production has declined. An
+increase in the intake of high-calorie foods and the decline in the consumption of
+cereals, fruit, vegetables, legumes and ground provision, accompanied by a
+sedentary lifestyle and changing patterns of physical activity, contribute to the
+growing problem of obesity.
+Physical Activity
+The protective effects of physical activity against obesity are substantial and well
+known (Hill, et. al. 2000). As with food consumption patterns there are no trend
+analyses of physical-activity patterns in the Caribbean. There is, however,
+documentation of increased mechanization and decreased manual labour,
+improvement in transportation and low levels of physical exercise (Sinha, 1995;
+Henry et al, 2001). Results from a small study conducted by CFNI in three member
+countries show that, on average, 45 percent of adults were sedentary (spent more
+time in sleep and light activity than other activities).
+impaginato dicembre07 20-12-2007 6:39 Pagina 13
+Part two: Process
+of Developing FBDGs
+impaginato dicembre07 20-12-2007 6:39 Pagina 15
+15
+Introduction
+This chapter describes the process of developing FBDGs. Figure 3 shows the steps
+for preparing dietary guidelines that were used in Dominica, Saint Lucia, Grenada
+and Saint Vincent and the Grenadines. Each step in the process is explained in
+detail below.
+Figure 3: Steps for preparing food based dietary guidelines
+PLANNING CHARACTERIZING SETTING PREPARING TECHNICAL
+TARGET GROUP OBJECTIVES GUIDELINES
+TESTING THE
+FEASIBILITY OFTHE
+RECOMMENDATIONS
+CORRECTING
+EVALUATION IMPLEMENTATION AND VALIDATION PREPARING
+ADJUSTMENT FBDGs
+Source: Peña, M. & Molina, V. 1999.
+FBDGs development in the four eastern Caribbean countries followed the model
+proposed by INCAP as published by Peña and Molina (1999) and depicted in
+Figure 3.1 this model was first published in Spanish by Molina.
+impaginato dicembre07 20-12-2007 6:39 Pagina 16
+16 Developing Food-based Dietary Guidelines
+1
+STEP 1: Planning and organizing the work
+The purpose of this step is the formation of the multi-sectoral national committee.
+The ideas and perspectives of different public and private sector institutions and the
+users should be considered from the beginning in preparing the nutritional
+guidelines. This step comprises:
+• Identification of the project coordinator.
+• Training of project coordinators and resource personnel.
+• Mobilizing political support and sensitization of key stakeholders.
+• Convening a multi-sectorial national committee.
+• Formation of a task force.
+Identification of project coordinators
+Before the process of developing FBDGs can begin, a coordinator should be
+designated to lead the process. This coordinator should be able to dedicate a
+substantial amount of time to working on the FBDGs. Training is required so that
+the coordinator has a clear understanding of the rationale for national FBDGs and
+the steps for developing FBDGs.
+In this project, project coordinators were appointed by their respective
+governments and mandated with the task of leading the development process at the
+country level. In all four countries, the coordinators, appointed by their permanent
+secretaries, were drawn from the ministries of health and agriculture and were all
+nutritionists by profession. Other resource personnel who were trained included
+agriculturalists and communications specialists. Training was deemed necessary
+since coordinators and other resource staff lacked all of the skills needed for
+carrying out the task of developing FBDGs in their respective countries
+Training of project coordinators and resource persons
+Training allowed participants and facilitators to discuss issues such as strategies for
+mobilizing political support; establishing multi-sectoral national committees and
+the formation of national task forces. Political support from the highest level of
+government was deemed critical if the FBDGs were to form part of the National
+Plan Action for Nutrition (NPANs) and be used as tools for public education.
+impaginato dicembre07 20-12-2007 6:39 Pagina 17
+Step 1 17
+Mobilizing political support and sensitization of key stakeholders 1
+To be effective, the development and dissemination of FBDGs require the
+participation of various sectors of society. The mobilization of political support
+from the highest level of government is important and it is also vital that key
+personnel in the various sectors be sensitized at the outset regarding the process to
+be used as well as their expected level of involvement. The following activities
+were conducted in order to seek political support:
+• Project coordinator informed the permanent secretaries and key personnel in the
+ministries of agriculture, health, education and social development of this project.
+• FAO wrote to relevant ministries requesting their cooperation with the project.
+• A sensitization workshop was held (see below). Its aim was to sensitize key
+stakeholders on the objectives and proposed activities of the project and help
+the project coordinators of the participating countries to obtain political
+support.
+Sensitization in the Caribbean was facilitated through the hosting of a “virtual
+workshop” (teleconference) using the facilities of the University of the West Indies
+Distance Education Centre (UWIDEC). The UWIDEC site in each country served
+as the meeting place for participants while the meeting was “chaired” from the site
+at the Mona campus in Jamaica and lasted for approximately three hours. This
+obviated the need for a face-to-face meeting of participants from all four countries,
+thereby minimizing cost.
+The teleconference was facilitated by CFNI and FAO, Rome. The 56 participants
+were drawn from a number of agencies and organizations involved in food and
+nutrition-related programmes and services including the ministries of health,
+agriculture, education, social services and youth and culture. There were also
+representatives from the trade and commerce sector, academia, bureaux of
+standards and the media. The main issues discussed were:
+• an overview of the TCPproject under which the FBDGs would be developed;
+• the process to be used in developing the guidelines;
+• the benefits to individual countries in having culturally appropriate dietary
+guidelines;
+• the role of various sectors in both development and dissemination of FBDGs
+information;
+• the technical support which would be available to the countries; and
+• a review of individual country’s plans of action.
+The virtual meeting ended with countries agreeing to continue discussing country-
+impaginato dicembre07 20-12-2007 6:39 Pagina 18
+18 Developing Food-based Dietary Guidelines
+1 specific strategies, preparing budgets based on local costs and finalizing work
+plans for developing the FBDGs.
+Convening multi-sectoral national committees
+An important part of the process is the formation of a multi-sectoral national
+committee on FBDGs. The main task of the multi-sectoral committee is to “take
+ownership” of the national FBDGs and to appoint a task force. It is recommended
+that the national committee is composed of representatives from the public sector
+(health, education, agriculture, economy, etc.), academia and the private sector
+(universities, professional associations, research institutes, consumer groups,
+chambers of commerce and industry, non-governmental organizations, etc.) and
+international and bilateral agencies. The participation of the various sectors allows
+for the multidisciplinary approach required for preparing the guidelines and
+facilitates their implementation in the different entities.
+Each of the four countries had a multi-sectoral national committee comprised of
+over 30 personnel representing a wide range of government and non-government
+organizations (NGOs) and agencies.
+Formation of a task force
+Realistically, most of the members of the multi-sectoral committee cannot be
+expected to participate in development of the FBDGs on a frequent basis.
+Following the multi-sectoral committee meetings in the four countries, national
+FBDGs task forces were formed, comprising approximately 10 members chosen
+from the multi-sectoral committee. This task force guided the process of
+developing the national FBDGs, and task force members dedicated time for work
+on the development process.
+The national committee appointed the task force (which was answerable to the
+national committee). Task force members need to be appointed officially and given
+enough time to work on the project. Box 2 gives examples of task force members
+in Grenada. (The task force is an interdisciplinary group as Box 2shows.)
+impaginato dicembre07 20-12-2007 6:39 Pagina 19
+Step 1 19
+Box 2: Membership of the Grenada National FBDGs Task Force 1
+Ministry of Health.
+Ministry of Agriculture.
+Ministry of Education.
+Ministry Social Development.
+Grenada Food & Nutrition Council.
+St George University.
+Grenada Chamber Industry and Commerce.
+Conference of Churches of Grenada.
+Grenada Media Workers' Association.
+Marketing and National Importing Board.
+Grenada Bureau of Standards.
+Department of Youth.
+The task forces used the first meeting to introduce the project, outline steps for
+developing guidelines, identify data sources, and discuss the scope of work. The
+task force prepared a work plan document.
+It is important that minutes of each meeting are kept so that good records of
+decisions exist – the process is a long one and there needs to be a consistent focus.
+Moreover, all commitment and consensus decisions should be recorded for each
+meeting in order to ensure the group keeps track of its objectives throughout the
+project and does not become sidetracked.
+impaginato dicembre07 20-12-2007 6:39 Pagina 20
+20 Developing Food-based Dietary Guidelines
+STEP 2: Characterizing the target group
+2
+The purpose of this phase is to identify the target group, in order to diagnose the
+health and nutritional status of the target group to whom the dietary guidelines are
+directed. The end product of this phase is a descriptive document that includes the
+risk factors and problems associated with the diet of the target group.
+The diagnosis is based on a review of existing surveys, reports, and publications.
+The report should include information on the risk factors and problems associated
+with diet; epidemiological profiles; changes in morbidity mortality rates;
+nutritional status; education of the population; food availability, accessibility,
+consumption patterns, food composition and eating habits, distribution,
+classification and acquisition. The dietary patterns are analysed and the risk factors
+and problems associated with diets determined. This phase comprises:
+• Identification of the target group/ population.
+• Situation analysis on nutrition, health and risk factor.
+• Prioritization of health problems associated with diet and risk factor.
+Identification of the target group/ population
+There was consensus among the four countries that guidelines should be developed
+for healthy families, using population over two years from urban and rural areas.
+Situational analysis on nutrition, health and risk factors
+The product of this activity is a descriptive document highlighting the risk factors
+and problems associated with the population’s diet. This stage included collection
+and analyses of information on nutrition, health and risk factors and preparation of
+the report on the nutrition situation in the country. Box 3 suggests the type of
+information that needs to be collected and included in the situation analysis.
+Information for compiling the situational analysis was obtained from the various
+agencies within each country. Sources used included annual reports from the
+ministries of health, agriculture and education in addition to reports from the
+various national statistical institutes/units. Data from published and unpublished
+national and community-based surveys and studies were also used.
+impaginato dicembre07 20-12-2007 6:39 Pagina 21
+Step 2 21
+aBokx 3: Contents for the situational analysis document
+A. INTRODUCTION
+2
+B. RISK FACTORS AND PROBLEMS ASSOCIATED WITH DIET
+1. Epidemiological Profile
+1.1 Changes in morbidity
+1.2 Nutritional Status
+2. Education of the population
+3. Foods
+3.1 Availability
+3.2 Accessibility
+3.3 Consumption
+3.4 Composition
+4. Eating Habits - family
+4.1 Distribution - intra familial
+4.2 Classification - fads and fallacies
+4.3 Acquisition - food purchase, food storage
+C. CONCLUSIONS
+Information on the eating habits of population groups was available for the
+Commonwealth of Dominica and Grenada. Data for Dominica were obtained from
+a national food consumption survey undertaken in 1996. For Grenada, information
+was available from a qualitative food consumption study undertaken on a
+representative sample of the population in 2003. Dietary pattern data were not
+available for Saint Lucia and Saint Vincent and the Grenadines and consequently
+had to be obtained from the population groups quickly.
+At times, the cost of conducting quantitative food consumption studies and also the
+time needed to carry them out is prohibitive. In the case of two countries in the
+project, the countries conducted qualitative studies using the focus-group
+methodology to obtain information on the dietary habits of their population. Training
+in the methodology was facilitated in-country and involved eight participants from
+Saint Vincent and the Grenadines and six from Saint Lucia. Those trained were
+mainly nutrition personnel drawn from the ministries of health and agriculture.
+Additional personnel trained were from the Bureau of Statistics (Saint Vincent and
+the Grenadines) and the Ministry of Social Transformation (Saint Lucia).
+The training involved both theory and practice, and enabled participants to design
+and conduct focus group discussions on information collected. The core of trained
+impaginato dicembre07 20-12-2007 6:39 Pagina 22
+22 Developing Food-based Dietary Guidelines
+persons in each country was then able to carry out studies on the dietary patterns
+of their respective populations using the focus group methodology. This allowed
+for the provision of information on dietary habits for the situational analysis which
+would form the basis of characterizing the target group to whom the dietary
+2
+guidelines would be directed.
+Meetings are held to discuss nutrition priorities.
+Prioritization of health problems associated with diet and risk factors
+A two-day meeting with the multi-sectoral committee in each country was
+conducted with the following objectives:
+• Present the health and nutrition situation of the country.
+• Discuss implications of the health and nutrition situation and determine strategies
+for alleviating them.
+• Determine priority problems and set national objectives to be addressed through
+food-based dietary guidelines.
+Table 1 presents the problems identified by the multi-sectoral group. The problems
+are prioritized in terms of their scope, the feasibility of solving them,
+recommendations and priorities selected.
+Based on the health and nutrition situation presented at the multi-sectoral
+committee meeting, the task force participants were asked to prioritize the
+problems in order to arrive at a list of key issues that could be addressed through
+FBDGs.
+impaginato dicembre07 20-12-2007 6:39 Pagina 23
+Step 2 23
+Table 1: Problems identified by the multi-sectoral groups
+Saint Lucia Grenada Saint Vincent Dominica
+the Grenadines
+2
+1 Obesity 1 Chronic diseases 1 Obesity 1 Chronic non-
+2 Physical inactivity 2 Physical 2 Chronic disease communicable
+3 Food consumption Inactivity 3 Physical disease/obesity
+Quality 3 Food inactivity 2 Physical inactivity
+Quantity consumption 4 Unhealthy 3 Food preparation
+Choice 4 Nutrition intake lifestyles 4 Inequitable distribution
+4 Food handling of fat, sugar and 5 Inadequate 5 Iron deficiency
+5 Teen pregnancy salt consumption of 6 Knowledge and
+6 Food accessibility 5 Food fruit and education
+and availability preparation use vegetables 7 Unemployment/poverty
+7 Ageing population of barbeque 6 Anaemia (iron 8 Food security/policy
+8 Protein, Energy 6 Iron deficiency deficiency) 9 Female head of
+Malnutrition (PEM) 7 Low birth 7 Food household
+9 Poverty weight preparation and 10 Culture
+10 Low birth weight 8 Accessibility and preservation
+11 Alcoholism availability 8 High
+consumption of
+fats, salt, sugar
+9 Inadequate
+consumption of
+fat and
+processed food
+10 Low availability
+of food (fruit
+and vegetables)
+To assist in this process, each member of the committee is provided with a
+“Decision Matrix” (Molina et al., 2001). The matrix ranks problems in terms of
+magnitude, viability and impact on a scale of zero to ten. Once the points are
+assigned to each problem, scores are added and the problems with the highest
+scores are selected. Table 2 shows the decision matrix prioritization of food and
+nutrition problems for Saint Lucia and Saint Vincent and the Grenadines.
+impaginato dicembre07 20-12-2007 6:39 Pagina 24
+24 Developing Food-based Dietary Guidelines
+Table 2: Decision matrix prioritization of food and nutrition
+problems, Saint Lucia and Saint Vincent and the Grenadines
+Saint Lucia M V I S Saint Vincent + M V I S
+2
+the Grenadines
+1 Obesity 9 10 10 29 1 High consumption 10 10 10 30
+fats, salt, sugar
+2 Physical inactivity 9 8 9 26 2 Physical inactivity 9 9 9 27
+3 Food consumption
+quality, quantity choice 9 8 10 30 3 Unhealthy lifestyles 6 8 7 21
+4 Food handling 9 8 8 25 4 Obesity 10 9 10 29
+5 Teen pregnancy 5 4 8 17 5 Chronic disease 9 10 9 28
+6 Food availability 5 4 8 17 6 Inadequate 8 9 9 26
+consumption of fruit
+and vegetables
+7 Aging population - - - - 7 Inadequate 9 10 10 29
+consumption of fast
+and processed food
+8 PEM 9 8 8 25 8 Low availability 6 7 8 21
+of food (fruit and
+vegetables)
+9 Poverty - - - - 9 Anaemia 9 9 9 27
+(iron deficiency)
+10 LBW - low 10 Food preparation
+birth weight and preservation
+11 Alcoholism 9 8 9 26
+Note:Qualify the problems on scale where 0 = less to 10 = more. M:Expresses Magnitude and refers
+to the magnitude of the problem. V:Represents Viability or feasibility to solve the problem through
+the proposed educational intervention. I:Represents the impact on health if the problem is solved.
+S: Is the sum of the results of the three considered factors.
+The problems were qualified on a scale of zero to ten, using the three criteria of (i)
+magnitude, (ii) viability and (iii) impact. The problems with high scores were
+selected, and grouped into categories. The nine priority problems in the four project
+countries were listed and rankedo.
+impaginato dicembre07 20-12-2007 6:39 Pagina 25
+Step 2 25
+These problems were then put into three categories: diet related; related to nutrition
+status and related to beliefs and practices (see Box 4).
+Box 4: Categorization of major problems 2
+Diet-related
+1. High consumption of fat, sugar, salt.
+Related to nutrition status
+2. Obesity.
+3. Iron deficiency anaemia.
+4. Chronic diseases.
+5. Physical inactivity.
+6. Protein energy malnutrition (PEM)
+Related to beliefs and practices
+7. Inappropriate food preparation food handling.
+8. Low consumption of fruit and vegetables.
+9. Alcoholism.
+impaginato dicembre07 20-12-2007 6:39 Pagina 26
+26 Developing Food-based Dietary Guidelines
+STEP 3: Setting the objectives for the FBDGs
+3
+The purpose of this step is the definition of the FBDGs objectives, which should be
+aimed at preventing and reducing the priority risks and problems detected in the
+previous step, as well as promoting healthy diets and lifestyles. Based on the
+priority areas agreed at the multi-sectoral committee, nutrition personnel set
+general objectives for the FBDGs. Table 3 outlines the objectives for each problem.
+Multisectoral committees ensure that FBDGs are suited to the food situation in the
+country.
+impaginato dicembre07 20-12-2007 6:39 Pagina 27
+Step 3 27
+Table 3: Prioritized problems and objectives of nutrition guidelines
+Problem Objective of nutrition guidelines
+Obesity For Saint Lucia, Grenada and Saint Vincent the Grenadines
+Reduce prevalence of obesity and nutrition related chronic
+Chronic diseases diseases.
+3
+High consumption of fat, For Dominica
+sugar, salt To decrease the prevalence of chronic diseases and obesity in the
+population
+Physical inactivity For Saint Lucia, Grenada and Saint Vincent the Grenadines
+Promote healthy lifestyle behaviours with special focus on
+High alcohol increased physical activity and decreased alcohol consumption
+consumption
+For Dominica
+To promote the importance of healthy lifestyle with special focus
+on physical activity
+Low consumption of For Saint Lucia, Grenada and Saint Vincent the Grenadines
+fruits and vegetables Promote healthy food choices with respect to variety, quality,
+quantity.
+Inappropriate food
+preparation food- For Dominica
+handling practices To encourage the use of proper food preparation and practices
+in order to improve the quality of food consumed.
+Protein energy Reduce the incidence of PEM and iron deficiency anaemia.
+malnutrition (PEM)
+To decrease the incidence of anemia in the population.
+Iron deficiency anaemia
+Dominica only To ensure adequate quantities and quality of food for each
+Inequitable distribution member of the household.
+Food security
+Knowledge and To provide relevant nutrition information using appropriate
+education methodology to promote healthy food choices with respect to
+variety, quality and quantity.
+impaginato dicembre07 20-12-2007 6:39 Pagina 28
+28 Developing Food-based Dietary Guidelines
+STEP 4: Preparing the technical guidelines
+Once objectives are established, the next step is to define the technical
+recommendations. This step must be carried out by nutrition experts and it is
+comprised of the following:
+4
+• Definition of the nutrition goals and nutrient recommendations (calories,
+macro- and micro-nutrients).
+• Definition of the food groups, the profile of nutrients for each group, the
+size and number of portions that ensure appropriate food intake in terms
+of quantity and variety.
+• Definition of technical recommendations.
+The end product of this step is a technical document that summarizes the nutritional
+goals, nutrient recommendations, and additional suggestions for preventing the
+problems detected and promoting a healthy diet and lifestyle.
+This technical document contains the scientific foundations that support the
+nutritional guidelines and is aimed at health and nutrition professionals and not the
+general public.
+Definition of nutrient goals and nutrient recommendations (calories,
+macro- and micro-nutrients)
+In the project, risk factors for the target group and the daily Caribbean
+recommendations from CFNI were used to define the nutrient goals for the
+Caribbean population. A reference framework which covers the energy
+requirements of the majority of the population was established. For each country’s
+population, the framework or categories of reference established was: 2 800, 2
+200 and 1 600 kcals, to ensure that energy intake needs from different age- and
+gender-groups are covered (see Table 4).
+Once groups were defined, nutrient goals for each group were calculated (these
+included kilocalories, macro- and micronutrients). Results of the Nutrient goals are
+presented in Table 5.
+impaginato dicembre07 20-12-2007 6:39 Pagina 29
+Step 4 29
+Table 4: Population groups covered by three energy requirement
+levels
+1 600 kcals 2 200 kcals 2 800 kcals
+• Preschool • Schoolchildren (both • Male adolescents (moderate to
+children (both sexes). intense activity).
+sexes). • Male adults (low • Male adults (moderate to intense
+activity). activity).
+• Elderly people • Adult women (moderate to intense
+• Adolescents/adult activity). 4
+women. • Pregnant women (moderate to
+• Pregnant women (low intense activity).
+activity). • Breastfeeding women.
+Table 5: Population framework nutrient goals
+Nutrient distribution
+Nutrients (%) Kcal Grams
+2 800 Kcal
+Carbohydrate 60 1 680 420
+Protein 15 420 105
+Fat 25 700 78
+Total 100 2 700 -
+2 200 Kcal
+Carbohydrate 60 1 320 330
+Protein 15 330 83
+Fat 25 549 61
+Total 100 2 199 -
+1 600 Kcal
+Nutrients (%) Kcal Grams
+Carbohydrate 60 960 240
+Protein 15 240 60
+Fat 25 400 44
+Total 100 1 600
+impaginato dicembre07 20-12-2007 6:39 Pagina 30
+30 Developing Food-based Dietary Guidelines
+Definition of food groups and calculation of the recommended diet
+Food groups also need to be defined. The food groups from the Food Exchange
+Lists and CFNI food composition tables for use in the English-speaking Caribbean
+were used as the basis for the steps (see Box 5).
+Box 5: Food groups that should be used in the FBDGs
+1. Staple food which includes bread, rice and cereal.
+2. Legumes and nuts.
+4
+3. Dark green leafy, yellow and other starchy vegetables.
+4. Citrus fruit and juice.
+5. Food from animals.
+6. Fat and substitutes.
+7. Sugars.
+Calculation of the recommended diet
+Using the defined food groups, the profile of nutrients of each group, the size and
+number of portions that ensure appropriate food intake in terms on quantity and
+variety were determined. Table 6 outlines a summary of recommended diets.
+Table 6: Summary of portions from different food groups needed for
+the three energy requirement levels established*
+Food group No. of portions per diet
+1 600 kcal 2 200 kcal 2 800 kcal
+Staples 7 11 12
+Legumes/nuts 1 2 8
+Vegetable 2 5 5
+Fruits 5 8 11
+Food From Animals 4 3 7
+Fats 3 7 6
+Sugar 5 6 8
+* For reference, see Table 4 above.
+impaginato dicembre07 20-12-2007 6:39 Pagina 31
+Step 4 31
+Definition of technical recommendations
+The technical recommendations from the guidelines are selected on the basis of
+two criteria: the objectives of the guidelines and their potential for implementation
+by the target group. The potential for implementation is assessed through
+behavioural tests, which are discussed below under Step 5. In order for the
+population to remember them and to facilitate their dissemination through the
+media, the ideal number of messages in the nutrition guidelines is between six and
+eight. It was recommended that the food guide should have three characteristics:
+promote variety, appropriate portion size and be culturally acceptable to the
+4
+population.
+During this step the nutrition recommendations are written by technical experts in
+order to solve the problems identified earlier. To facilitate the process the chart that
+is presented as Table 7 was used. The chart will allow nutritionists to analyse each
+problem, and identify critical nutrients related to the problem, pinpoint critical
+foods and practices related to the problem and give specific recommendations to
+solve the problem.
+32 Developing Food-based Dietary Guidelines
+4
+*sGDBF
+rof
+noitadnemmoceR
+lacinhceT
+eht
+fo
+sisylanA
+dna
+noitalumroF
+:7
+elbaT
+noitadnemmocer
+lacinhceT
+sfeileb/stibah/secitcarP
+doof
+lacitirC
+tneirtun
+lacitirC
+htlaeh
+fo
+melborP
+melborp
+eht
+evlos
+ot
+melborp
+eht
+ot detaler
+noitirtun
+dna
+ecivda
+lacinhcet
+eht
+ot
+srefeR
+hcihw
+sruoivaheb
+ot
+srefeR
+sdoof
+ot
+srefeR
+stneirtun
+ot
+srefeR
+dezitiroirp
+eht
+ot
+srefeR
+eht
+evlos
+ot
+evig
+strepxe
+taht
+.melborp
+eht
+tceffa
+htiw
+detaler
+eht
+ni
+devlovni
+ni
+dehsilbatse
+melborp
+.melborp
+.deifitnedi
+stneirtun
+.melborp
+.)2
+elbaT
+ees(
+2
+petS
+selpmaxE
+.ytivitca
+lacisyhp
+esaercnI
+dna
+htlaew
+fo
+feileB
+,feeb
+,krop
+hgiH
+hgih
+,staf
+hgiH
+ytisebO
+fo
+noitpmusnoc
+esaerceD
+.ytirepsorp
+dna
+taog
+,yrtluop
+etardyhobaC
+.ragus
+dedda
+htiw
+stcudorp
+,taem
+nottum
+)ragus
+yllaicepse(
+fo
+noitpmusnoc
+esaercnI
+nem
+taht
+noitpecrep
+larutluC
+,stcudorp
+denifer
+.ekatni
+lohocla
+dna
+.retaw
+reivaeh
+ot
+detcartta
+erom
+era
+etihw
+,ruolf
+etihw
+.nemow
+detanobrac
+,ecir
+.ekatni
+erbif
+woL
+-hgih
+fo
+noitpmusnoc
+esaercnI
+deneteews
+dna
+.stiurf
+,selbategev
+,sdoof
+erbif
+nehw
+staf
+fo
+noitiddA
+,sekac
+,segareveb
+.gnikooc
+.seip
+dna
+seirtsap
+dna
+dewets
+fo
+ekatni
+esaerceD
+.sdoof
+deirf
+.ecneinevnoc/ssecca
+ysaE
+fo ekatni
+woL
+erofeb
+staem
+ffo
+staf
+mirT
+slaerec
+,selbategev
+.gnikooc
+.sezis
+noitrop
+egraL
+.stiurf
+dna
+-hgih
+fo
+snoitrop
+ecudeR
+sdoof
+ygrene
+.selytsefil
+yratnedeS
+impaginato dicembre07 20-12-2007 6:39 Pagina 32
+Step 4 33
+4
+*sGDBF
+rof
+noitadnemmoceR
+lacinhceT
+eht
+fo
+sisylanA
+dna
+noitalumroF
+:)deunitnoc(
+7
+elbaT
+noitadnemmocer
+lacinhceT
+sfeileb/stibah/secitcarP
+doof
+lacitirC
+tneirtun
+lacitirC
+htlaeh
+fo
+melborP
+melborp
+eht
+evlos
+ot
+melborp
+eht
+ot
+detaler
+noitirtun
+dna
+gnikooc
+ni
+dohtem
+taf
+wol
+esU
+.ecneinevnoc/ssecca
+ysaE
+fo
+noitpmusnoc
+hgiH
+noitpmusnoc
+hgiH
+,staf
+fo
+noitpmusnoc
+hgiH
+.noitaraperp
+doof
+dna
+deirf
+dna
+staem
+dna
+latot
+fo
+tlas
+dna
+ragus
+fo
+etsat
+eht
+rof
+ecnereferP
+/hsif/sekab/sdoof
+.staf
+detarutas
+,dessecorp
+fo
+esu
+eht
+ecudeR
+.sdoof
+deirf
+sekac
+elbategev
+.doof
+dennac
+dna
+degakcap
+dna
+hcanips(
+noitpmusnoc
+hgiH
+elbategev
+,)oolallac
+denifer
+fo
+dna
+tlas
+fo
+ekatni
+ecudeR
+.sdoof
+tsaf
+fo
+esu
+tneuqerF
+.seirtsap
+dna
+seittap
+.etardyhobrac
+.muidos
+fo
+noitpmusnoc
+hgiH
+noitpmusnoc
+hgiH
+.sdoof
+tsaf
+fo
+esu
+eht
+ecudeR
+,sknird
+,deneteews
+.muidos
+fo
+slaem
+yadiloh
+lanoitidarT
+,setalocohc
+,seidnac
+.ekatni
+taf
+ecudeR
+.)sknird
+tfos
+,sekac
+,mah(
+.stiucsib
+teews
+dna
+ragus
+fo
+ekatni
+ecudeR
+.doof
+ot
+tlas
+fo
+noitiddA
+fo
+noitpmusnoc
+hgiH
+.stcudorp
+teews
+,liatgip(
+staem
+detlas
+dennac
+,)hsifdoc
+dna
+staem
+dna
+selbategev
+ytlas
+,sgninosaes
+spihc
+sa
+hcus
+skcans
+.slruc
+eseehc
+dna
+impaginato dicembre07 20-12-2007 6:39 Pagina 33
+34 Developing Food-based Dietary Guidelines
+4
+*sGDBF
+rof
+noitadnemmoceR
+lacinhceT
+eht
+fo
+sisylanA
+dna
+noitalumroF
+:)deunitnoc
+(
+7
+elbaT
+noitadnemmocer
+lacinhceT
+sfeileb/stibah/secitcarP
+doof
+lacitirC
+tneirtun
+lacitirC
+htlaeh
+fo
+melborP
+melborp
+eht
+evlos
+ot
+melborp
+eht
+ot
+detaler
+noitirtun
+dna
+.ytivitca
+lacisyhp
+esaercnI
+.elbac/DVD/VT
+fo
+esu
+desaercnI
+xelpmoC
+.etardyhobraC
+ytivitcanI
+lacisyhP
+.doof
+etardyhobrac
+.retaW
+.sdoof
+fo
+yteirav
+a esoohC
+rof
+selcihev
+fo
+esu
+desaercnI
+.noitazilibom
+.noitpmusnoc
+retaw
+esaercnI
+si
+ytivitca
+lacisyhp
+taht
+feileB
+redlo
+rof
+etairporppani
+.snosrep
+otni
+ytivitca
+lacisyhp
+dliuB
+deludehcs
+fo
+level
+woL
+.efil
+yliad
+noitacude
+lacisyhp
+.sloohcs
+ni
+ytivitca
+tnemnorivne
+evitroppus-noN
+.noitacude
+lacisyhp
+ot
+taht
+sdohtem
+gnikooc
+esU
+deirf
+dna
+QBB
+fo
+ecneinevnoC
+,krop
+,feeb
+-
+staeM
+detarutas
+desaercnI
+doof
+etairporppanI
+.stneirtun
+evresnoc
+sdoof
+tsaf
+.yrtluop
+.staf
+gnildnah
+dna
+noitaraperp
+gniliob/gnikoocrevO
+dna
+gnildnah
+doof
+efas
+esU
+dna
+selbategeV
+lacitirc
+fo
+ssoL
+.selbategev
+.secitcarp
+noitatinas
+.stiurf
+elbulos
+retaw
+.)B
+&
+C(
+snimativ
+dna
+noitaraperp
+doof
+efasnU
+.secitcarp
+gnildnah
+selbategev
+gnikaos
+dna
+gnileeP
+.esu
+dna
+gnikooc
+erofeb
+impaginato dicembre07 20-12-2007 6:39 Pagina 34
+Step 4 35
+4
+*sGDBF
+rof
+noitadnemmoceR
+lacinhceT
+eht
+fo
+sisylanA
+dna
+noitalumroF
+:)deunitnoc(
+7
+elbaT
+noitadnemmocer
+lacinhceT
+sfeileb/stibah/secitcarP
+doof
+lacitirC
+tneirtun
+lacitirC
+htlaeh
+fo
+melborP
+melborp
+eht
+evlos
+ot
+melborp
+eht
+ot
+detaler
+noitirtun
+dna
+neerg
+fo
+noitpmusnoc
+esaercnI
+eb
+ot
+deveileb
+si
+ananab
+neerG
+fo
+noitpmusnoc
+woL
+6B
+,C
+nimatiV
+,norI
+aimeana
+ycneicifed
+norI
+.selbategev
+yfael
+.nori
+ni
+hgih
+,hcanips
+,oolallac
+.nietorp
+dna
+saep
+deird
+staem
+der
+dna
+nagro
+esU
+dediova
+era
+staem
+nagrO
+,staem
+der
+,snaeb
+.yletaredom
+loretselohc
+hgih
+fo
+esuaceb
+,revil(
+staem
+nagro
+.tnetnoc
+kap
+,)straeh
+,yendik
+dna
+saep
+semugel
+edulcnI
+.steeb
+dna
+iohc
+.teid
+eht
+ni
+snaeb
+nori
+dna
+C
+nimatiV
+gnitae
+toN
+.rehtegot
+doof
+hcir
+stiurf
+hcir
+C nimatiV
+seciuj
+tiurf
+ro tiurf
+edulcnI
+.selbategev
+dna
+.slaem
+hcir-nori
+htiw
+fo
+noitpmusnoc
+esaercnI
+dna
+stiurf
+hcir
+C
+nimatiV
+.selbategev
+hcihw
+secitcarp
+egaruocnE
+.nori
+fo
+ytibaliavaoib
+esaercni
+abuC
+morf
+eneigyH
+dooF
+dna
+etutitsnI
+noitirtuN
+eht
+dna
+PACNI
+yb
+depoleved
+saw
+trahc
+ehT
+*
+impaginato dicembre07 20-12-2007 6:39 Pagina 35
+impaginato dicembre07 20-12-2007 6:39 Pagina 36
+36 Developing Food-based Dietary Guidelines
+Table 8 gives a summary of the range of technical recommendation for the FBDGs
+and the frequency in which this recommendation was mentioned by committee
+members. Table 9 outlines the preliminary recommendations for the Caribbean.
+Table 8: Summary of technical recommendation for FBDGs
+Technical Recommendations Frequency
+Reduce fat intake.
+• Saturated fats and cholesterol.
+• Trim fat off meats before cooking. 4
+4 Reduce portion size.
+• Reduce portions of high-energy foods. 2
+Reduce sugar intake.
+• Refined carbohydrates.
+• Sweet products. 4
+Reduce alcohol intake.
+• Use alcohol sparingly.
+• Less alcohol in food preparation. 3
+Less frequency in snacks and fast foods.
+• Salty snacks.
+• Use dense, more nutritious snacks. 3
+Select foods low in energy. 1
+Reduce intake of salt and sodium. 2
+Increase physical activity.
+• Build physical activity into daily life. 4
+Increase water consumption. 3
+Increase fibre intake of food. 2
+Increase vegetable and fruits.
+• Increase frequency and quantity.
+• Increase portion size.
+• Timely introduction in the diet of young children. 8
+Reduce processed, canned and packaged foods. 1
+Appropriate preparation methods.
+• Nutrient saving methods.
+• Low fat cooking methods. 4
+Safe food handling and sanitation practices. 2
+Reduce smoked, salted and cured food. 1
+Moderate red meat intake. 1
+Increase legumes intake. 1
+Appropriate food combination.
+• Increase bioavailabilty of iron. 3
+Variety of food. 4
+Increase calcium-rich food. 1
+Increase fish, seeds, nuts. 1
+impaginato dicembre07 20-12-2007 6:39 Pagina 37
+Step 4 37
+Table 9: Preliminary Technical Recommendations
+Technical Recommendations for the Caribbean
+• Eat a variety of foods every day.
+• Eat larger portions of vegetables and fruits daily.
+• Reduce fat intake using less fat in cooking.
+• Trim fat off meat before cooking.
+• Reduce sugar and sweet products intake.
+• Avoid high fat/salty snacks and fast foods.
+• Increase physical activity, build physical activity into daily life.
+4
+• Consume at least 8 glasses of water a day.
+• Use alcohol sparingly also in food preparation.
+• Appropriate food combination.
+• Increase bioavailabilty of iron.
+• Use appropriate preparation methods:
+• nutrient saving methods
+• low fat cooking methods
+• salt consumption.
+impaginato dicembre07 20-12-2007 6:39 Pagina 38
+38 Developing Food-based Dietary Guidelines
+Table 10 shows a comparison of the problems, objectives and technical
+recommendations. These recommendations need to be tested on the population.
+Table 10: Comparison of problems, objectives and technical
+recommendations
+Problem Objective Technical Recommendation
+Obesity Reduce incidence of 1. Reduce fat intake using less fat
+obesity and nutrition in cooking and trimming fat off
+Chronic diseases related chronic diseases, meats before cooking
+4 High consumption of fat,
+sugar and salt 2. Reduce the amount of sugar
+used. Choose to have less sweet
+beverages and sweet products.
+3. Use less salt when cooking and
+when eating.
+Physical inactivity Promote healthy lifestyle 4. Build physical activity into your
+behaviours with special daily life. Exercise at least one
+High alcohol focus increase physical hour every day.
+consumption activity and decrease
+alcohol consumption. 5. Make water your drink of
+choice several times every day.
+(Drink at least 8 glasses of water a
+day.)
+6. If you use alcohol do so
+sparingly both in drinking and in
+food preparation.
+7. Choose to eat a variety of foods
+every day.
+Low consumption of Promote healthy food 8. Eat larger amounts of
+fruits and vegetables choices with respect to vegetables and fruits daily.
+Inappropriate food variety, quality, quantity, 9. As frequently as possible, use
+preparation and food- steaming, boiling and baking
+handling practices Reduce the incidence of instead of frying and barbequing.
+PEM and iron deficiency 10. Every day, add to your regular
+Protein Protein Energy anaemia, meals foods such as citrus fruits,
+Malnutrition (PEM) guavas, garden cherries or fresh
+Iron deficiency anaemia tomatoes,
+impaginato dicembre07 20-12-2007 6:39 Pagina 39
+Step 5 39
+STEP 5: Testing the feasibility of the recommendations and
+developing the pictorial food graphic
+The purpose of this step is to test the feasibility of the recommendations through
+behavioural trials and to develop a graphic that will be understood by the
+population. This step comprises:
+Testing the feasibility of the recommendation
+This step included: design of field-testing methodology for behavioural trails;
+5
+training in field methods for household trials; collection of the information analysis
+and interpretation (see Figure 3 below).
+Behavioural trials:Behavioural trials must be conducted in order to ascertain whether
+the messages are understood and if there is willingness and capacities, motivations of
+the target population to follow the recommended FBDGs. Behavioural trials are a
+small-scale field test with sample groups from the target population to see if the target
+population will be able to practise behaviours that will be promoted.
+The trial investigates whether the target audience likes and can carry out the
+recommendations and its reactions to such recommendations. In addition, the trial
+helps ascertain the appropriate language to be used in the messages about the
+guidelines and the motivation for implementing the recommendations. The result
+of this step is a reconciliation between technical theory and what is feasible from
+the standpoint of the target population.
+Box 6: Reasons for behavioural trials
+Behavioural trials can help in developing FBDGs in a number of ways, including:
+• Identifying and analysing if behaviours or aspects of recommended behaviours for each
+food group and portions per age were (or were not) adopted.
+• Pinpointing the changes that could be made in the adoption of behaviours or aspects of
+behaviours.
+• Detecting the reasons (cognitive, resource oriented or skill oriented) that facilitated or
+hindered the adoption of recommended behaviours.
+• Ascertaining how to reinforce the teaching of recommended behaviours.
+• Refining the teaching strategies and reinforcing the recommended behaviours.
+impaginato dicembre07 20-12-2007 6:39 Pagina 40
+40 Developing Food-based Dietary Guidelines
+Recommendations in terms of food need to be:
+• based on foods that are already available in houses or in communities;
+• based on foods that are accessible with respect to cost;
+• consistent with resources and local technology; and
+• compatible with cultural beliefs related to the correct way of eating.
+Design of the field-testing methodology
+The design of the field testing includes:
+• Developing and pre-testing the instrument.
+Figure 3: Testing the feasibility of the recommendations
+5
+5
+Testing the Feasibility of
+the Recommendations
+Preparing Technical
+4 Guidelines
+Develop instruments Develop instruments
+graphic
+Setting Objectives recommendations
+3
+Pre-test FG the Validate the outlines
+recommendations of the graphic
+ins tr u m en ts
+Characterizing
+2 Target Group
+Adapt instruments to Validate the two
+interviews for BT chosen graphic
+Planning
+1
+Methodology
+for
+Behavioural
+trial
+Field work made by
+the teams Instrument A – ONE WEEK Trial of Instrument B –
+Initial Interview the recommendation Final interview
+Duration
+Analysis and Refined Practical
+Interpretation of the Data
+Behaviours
+Source: Christa de Valverde, INCAP
+impaginato dicembre07 20-12-2007 6:39 Pagina 41
+Step 5 41
+• Sample selection.
+• Training staff.
+• Defining the timetable, data collection and tabulation
+• Analysing data.
+Developing and pre-testing the instrument
+Specific forms were developed in order to compile and record the information,
+depending on the technique to be used and the information required:
+Focus Group Form: Preliminary forms to carry out focus groups were developed
+for each of the recommendations in order to validate them with the target
+population. The purpose of this activity was: (a) to adapt the technical
+recommendations to the local language; (b) to assess if respondents understood 5
+them; (c) determine if respondents agreed with the statement (or not) and why. In
+addition, the forms were developed to compile information regarding respondents’
+food practices and, by doing so, if they perceived benefits and barriers in addition
+to describing people’s perceptions regarding variety and food groups.
+Initial Interview Form: For these instruments, the project staff, were asked to
+adapt the focus groups instruments into individual interviews, leaving enough
+space to take notes and write some observations (see Annex 1 and 2).
+Recommended Practices/ReminderCard of the Recommendation:These cards
+are used to give an explanation of the recommendation and motivate the head of
+household to follow it. For these instruments field workers were asked to:
+• Develop an introduction.
+• Make cards with reminders of each recommendation to be left in each household.
+• Write the benefits that the population would experience if they practised the
+recommendation. These benefits should come from participants in the pre-testing,
+as to what they perceive as benefits .
+Graphic/Diagram Validation Form: This form was developed to validate the
+different graphics in order to identify which graphic the population thought best
+represented their country (and why) and which graphic respondents would like to
+have their FBDGs (see Annex 3).
+Final Interview Form: This was the final form used to conduct individual
+interviews in the behaviour trials. This form was used to ascertain if the
+mother/father followed the recommendation, what happened when they did, if they
+were prepared to follow the recommendation and why.
+impaginato dicembre07 20-12-2007 6:39 Pagina 42
+42 Developing Food-based Dietary Guidelines
+Sample selection
+The sample selection for the behaviour trials was conducted by dividing the island
+into four sections, corresponding to the cardinal points. Variables used were age,
+education, and geographic location. In each of the sections or constituency the team
+was asked to test the nine recommended practices twice (urban and rural) (one
+recommended practice for each household). The largest villages in the constituency
+were selected. Box 7 describes the profile of participants.
+Staff training
+The team and the coordinator responsible for carrying out the behavioural trials had
+previous training in techniques such as focus groups. The team was trained in the
+field-testing methodology and participated in all the steps mentioned above.
+5
+Box 7: Saint Vincent and the Grenadines behavioural trial
+Profile of participants
+Behavioural trials were conducted with 87 households in Saint Vincent and the
+Grenadines: 78 on the mainland and 9 in the Grenadines. The trials were conducted
+in order to test the efficacy of nine technical recommendations from the FBDGs.
+Ten homes in each constituency of Saint Vincent and the Grenadines were surveyed,
+and the largest villages in the constituency selected. Variables were age and
+education (primary and secondary and tertiary) and geographic location.
+The age range was from 18-79 years. More than two-thirds of respondents had
+attained primary school education; less than one-third had attained secondary and
+tertiary education. Of those interviewed, the majority of respondents were
+females: less than 10 men were interviewed.
+Interviews were carried out with heads of households. Respondents received two
+visits: an initial visit to discuss the recommendation with the household head, and
+a final visit one week later to ascertain the respondent's reactions to the
+recommendation and if the recommendation was followed.
+The ten houses in each constituency were tested on all nine recommendations.
+Respondents were given reminder card of the recommendations, which they cards
+fried to follow for one week. One week later during the final interview they were
+reminded of the recommendation and questioned on their ability to follow it.
+impaginato dicembre07 20-12-2007 6:39 Pagina 43
+Step 5 43
+Design the timetable, data collection and tabulation
+Figure 4 gives an example of the timetable that was devised to allow teams to begin
+the field work.
+Figure 4: Timetable in St. Vincent and the Grenadines
+HOUSEHOLD TRIALS FOR FBDGs SAMPLE SELECTION
+Form Dates Location No. of Interviewer’s Constituencies
+households name
+Initial interview (A) Southern
+Week trial Grenadines
+Final interview (B)
+Initial interview (A) Northern 5
+Week trial Grenadines
+Final interview (B)
+Initial interview (A) Rural North
+Week trial
+Final interview (B)
+Initial interview (A) Urban North
+Week trial
+Final interview (B)
+The duration of the behavioural trials depended specifically on the number of
+field workers each of the countries had. The basic process used 13 described
+below:
+The Home visit or a meeting with the selected household.
+The Initial interview with the head of the household to discuss the
+recommendation with the household head, where an explanation of the
+recommendation was given and the woman or man was encouraged to follow the
+recommendation for a week (Annex 2). In some cases, a demonstration and
+sampling of recommended foods were offered. The card “Recommended
+Practice” was given to the household.
+TheFinal interview includeda follow-up visit and final interview in order to find
+impaginato dicembre07 20-12-2007 6:39 Pagina 44
+44 Developing Food-based Dietary Guidelines
+out if the women/men followed the recommendation, what happened when
+they did, if they were prepared to continue to follow the recommendation and
+why (see Annex 2).
+Box 7 gives details of how a recommendation 1 was tested in Saint Vincent and the
+Grenadines:
+Data analysis
+After the team recorded the data in the specific forms developed for that purpose,
+the next step was to code, tabulate and organize the data for each of the
+recommendations tested.
+In each country the first activity was to examine and tally both sets of interviewes
+(initial and final) for the recommendation to be used. The forms used in the
+5
+Box 8: Saint Vincent and the Grenadines behavioral trial example
+Recommendation 1: Use less fat in cooking and trim fat off meats before
+cooking.
+This recommendation was tested by 10 women, 7 from the rural area, 2 from the
+urban area and 1 from the Grenadines. The respondents were aged between 21
+and 79 years old, had primary- and secondary-level education, and there was an
+average of 7 people in each of the respondent's homes.
+• Eight persons or less added butter or margarine to bread, corn, rice.
+• Seven or less used vegetable oil for frying (chicken, fish, chips, luncheon, salt fish,
+vegetables),
+• Ten added margarine or butter to already cooked foods.
+• Less added fat (mayonnaise/salad cream) to different salad (potato, breadfruit,
+coleslaw, vegetables).
+• Nine out of ten trimmed fat off meat and chicken before cooking or when
+cleaning the meat, while six reported trimming fat after cooking.
+• Persons fried the fat from chicken and reused it as oil.
+• When asked if they could prepare foods in other ways, all answered yes for
+boiling (6), steaming (5), baking (3), roast, grill or BBQ (1).
+• Four of them remembered the recommendation very well, 6 partially.
+Most respondents stated that they were able to follow the recommendation,
+mentioning that they were using less fat and oil and baking instead of frying. They said:
+The other three were able to state they were able to follow it somewhat. One
+person stated that it was difficult to cut down on fats because it made the food
+taste good.
+impaginato dicembre07 20-12-2007 6:39 Pagina 45
+Step 5 45
+“It's not hard and I can do without using the oil and butter, the food does not taste
+any different.”
+“It is healthier.”
+“To make me live longer and stop me from getting bad heart.”
+“Because of my weight I know I must cut down on lots of fats and oil I do less frying
+and stewing and since you encourage me.”
+behaviour trials pertaining to respondents’ thoughts, knowledge, beliefs and
+perceptions regarding food and dietary practices were tallied and analysed.
+Second, the teams were divided into groups. Each group was given one
+recommendation to analyse. In order to interpret the information, the groups 5
+examined and tallied what the informants actually said, taking into account their
+feelings and beliefs and the veracity of their intentions. The interpretation of the
+information was as simple and direct as possible. Although it was time consuming,
+the groups tried to focus on issues that were mentioned frequently or that were
+outstanding, they tried to discover the relationships between the different aspects
+and look for similarities and differences based on the objectives of the research.
+Also they were asked to find any relationship among the different
+recommendations.
+For each of the recommendations, the group reviewed the actual behaviours,
+obstacles, and messages that were sent to the target population who participated in
+the trial and the following aspects were analysed:
+1. Were the messages understood by them?
+2. Did respondents recognize the six food groups that were being promoted?
+3. Were respondents able to follow the recommendations or follow them to some
+extent?
+4. For how many days were they able to follow the recommendations?
+5. What changes did they make to the recommendations?
+6. Reasons for following or not following the recommendations.
+7. Suggestions from respondents about informing other people of the
+recommendations.
+The recommendations were then based on the results. These reflected the needs and
+perceptions of the participants in the behaviour trial and specified the actions that
+should be adopted.
+impaginato dicembre07 20-12-2007 6:39 Pagina 46
+46 Developing Food-based Dietary Guidelines
+In order to facilitate the development of conclusions for each statement, the
+problem, the objective, and the variables that were causing the problems were
+reviewed.
+FBDGs graphic design
+The graphic representation of the FBDGs serves a number of important functions.
+It allows easy identification and is usually in the shape of an important cultural
+symbol. Pictures or a diagram are used to help the target group easily recall what
+food it should include in its diet at and in what proportions. Three major criteria
+must be met by the graphic: cultural acceptability; proportionality; and variety. The
+graphic artist should be involved in the development of the FBDGs so that they
+appreciate the concepts that are supposed to be conveyed.
+5
+Cultural acceptability
+To meet this criterion the graphic must be selected by the target population. Task-
+force members, using their knowledge of the culture, suggest six to eight potential
+graphics which are then sketched by a local artist. The graphics are shown without
+the food initially. Focus-group participants were then asked to select a graphic
+based on two questions:
+1. Which of these diagrams makes you think of your country?
+2. If we were to show you how to divide the different types of food you should eat
+every day, which of these diagrams would you like to see them on?
+Based on the results of the participants’ranking of the graphic, the first and second
+choices were then returned to the population with depictions of food added. This
+was carried out during the field testing of the messages when respondents are asked
+to select the one that best answers the two questions above. Annex 3 present the
+instruments for choosing the diagram in Saint Vincent and the Grenadines and
+Grenada.
+Proportionality
+The graphic should at a glance send a message of proportionality. This means that
+it should indicate which food group should form the largest or smallest portion of
+the daily food intake. Based on the objectives (Step 3) and the technical
+recommendations and diet calculations (Step 4) a distribution of food could be
+depicted as shown in Figure 5.
+impaginato dicembre07 20-12-2007 6:39 Pagina 47
+Step 5 47
+Fig. 5 Proportionality
+6% 2%
+12%
+30% Staples
+Fruit
+Vegetables
+Food from
+Animals
+20%
+Legumes
+Fat
+15% Sugar
+15%
+5
+Variety
+To meet the criterion of variety, the graphic should indicate all food groupings.
+Each grouping must contain examples of foods that are easily available and are
+commonly eaten by the population.
+impaginato dicembre07 20-12-2007 6:39 Pagina 48
+48 Developing Food-based Dietary Guidelines
+STEP 6: Finalizing the FBDGs
+The purpose of this step is to prepare the FBDGs messages using the results of the
+behavioural trials and to link the concept of variety of foods and portion sizes to the diagram.
+An inter-country meeting was held between the four countries which focused on
+ways to improve the recommendations, to review the results of the field testing of
+technical recommendations and to define the communication strategy and tools
+needed to implement the FBDGs. This step comprises:
+• Review the results of the behavioural trials
+• Messages development
+6
+Review the results of the behavioural trials
+Through the testing of the recommendations, the national teams found that the
+consumers’abilities to understand the recommendations varied and that messages
+needed to be revised to make them clearer and more useful.
+The field work enabled the national teams to acquire information that was useful
+for developing realistic messages. The respondents gave information for
+developing tips for following recommendations and used everyday language which
+could be incorporated into the messages so that the public would understand the
+messages and find them motivating.
+The findings from the behavioural trials indicated that:
+• Food costs and seasonal availability were major constraints which affected the
+households’ ability to follow recommendations. This was especially true in the
+case of vegetables.
+• Consumers were aware of the associations between salt and fat and
+cardiovascular diseases.
+• Preparation time and taste were obstacles to following the recommendation to
+trim off the fat from meats prior to cooking.
+• Consumers could reduce the salt used in home-made foods but could not control
+the salt in purchased foods.
+• Eating a variety of foods was difficult because of the cost of foods and the time
+needed for preparation.
+impaginato dicembre07 20-12-2007 6:39 Pagina 49
+Step 6 49
+• Eating more fruits and vegetables was too costly for many households. There was
+some concern about alcohol consumption, especially consumption by young men.
+Messages development
+After the behavioural trials, the guidelines were prepared and the messages and
+diagram were approved. The guidelines are the recommendations that the
+population will receive through messages, which may be complemented by the
+diagram.
+The recommendations from the guidelines are selected on the basis of two criteria:
+(i) the objectives of the guidelines and (ii) their potential for implementation by the
+target group. In order for the population to remember them and to facilitate their
+dissemination through the media, the ideal number of messages in the nutrition
+guidelines is between six and eight.
+The national teams developed their draft FDBG based on the results of their testing
+of the messages and the workshop discussions. All of the workshop participants
+6
+and resource persons reviewed each set of FBDGs and made suggestions to the
+national teams. The four sets of draft recommendations are included in Table 11.
+Table 11: Draft FBDGs Recommendations from Dominica, Grenada,
+Saint Lucia and Saint Vincent and the Grenadines
+Dominica - Revised Recommendations Grenada - Revised recommendations
+• Start the day with breakfast. • Choose to eat a variety of foods every
+• Always try to eat a variety of foods day
+every day. Use the basket to help you • Eat larger amounts of fruits and
+make the choices. coloured vegetables every day.
+• Eat more vegetables and fruits every • Eat less fatty, oily, greasy and
+day. barbequed foods.
+• Reduce fat and oil intake. • Use less salt, salty foods, seasonings and
+• Choose less sweet foods and drinks. snacks.
+• Use less salt, salted foods, seasonings • Choose to have less sweet foods and
+and salty snacks. drinks.
+• Make physical activity a part of your • Make water your drink of choice several
+daily life. times a day.
+• Drink water several times a day. • Satisfy your thirst with water. Drink
+• If you use alcohol, do so in moderation. more!
+• If you drink alcohol, do so sparingly.
+• Get moving! Be more physically active
+everyday.
+impaginato dicembre07 20-12-2007 6:39 Pagina 50
+50 Developing Food-based Dietary Guidelines
+Table 11 (continued): Draft FBDGs Recommendations from Dominica,
+Grenada, Saint Lucia and Saint Vincent and the Grenadines
+Dietary Guidelines for Saint Lucia - Saint Vincent and the Grenadines -
+Revised Recommendations Revised Recommendations
+• Always try to include more ground • Eat more vegetables and fruits every
+provisions, peas and beans in your day.
+meals every day. • Reduce fats and oils by cutting back on
+• Eat more vegetables and fruits daily. fatty, oily and greasy foods.
+• Buy less fatty and greasy foods and • As frequently as possible, use steaming,
+when you cook use less fats and oils. boiling, and baking instead of frying,
+• Use less salt, salted foods, packaged stewing and barbecuing.
+seasonings and salty snacks. • Reduce the intake of sugar:
+• Choose less sweet beverages and foods • Choose to use less sugar, sweet foods
+preserved or prepared with added and drinks.
+sugar. • When cooking use less salt and salted
+6 • If you drink alcohol, do so in seasonings. Eat less salted foods and
+moderation. snacks.
+• Drink water several times a day. • Water is a natural drink; choose to drink
+• Make exercise a part of your daily life. it several times a day.
+• If you drink alcohol, do so sparingly
+Following approval by the multi-sectoral committees in each country, the final
+messages were validated with focus group testing to ensure that they were
+understood by the lay person.
+In addition to drafting the messages, the workshop participants brainstormed about
+tips for assisting people to follow the FBDGs. Some examples of
+recommendations and tips are listed in Box 9:
+impaginato dicembre07 20-12-2007 6:39 Pagina 51
+Step 6 51
+Box 9: Tips and motivational messages
+Recommendation Tips and messages
+Drink water “Keep a glass of water on your desk everyday”; “Set
+your mobile phone to announce another drink
+water time”; “If you don't like plain water, drink
+coconut water.”
+Reduce fat intake “Use a teaspoon, not a pot spoon”; “Read labels,
+choose salad dressing wisely”; “Fewer fats,
+healthier hearts”; “Use less grease and take out skin
+and fat”
+Reduce salt “Use less salty seasonings”; “Use less salty snacks”;
+“Use less salt when cooking and eat less salted
+foods and products”
+Drink alcohol sparingly “Make one drink last longer”; “Replace at least one 6
+alcoholic drink with a non-alcoholic drink”; “Drink
+by choice- not by chance”; “Less alcohol - more self
+confidence and control”
+Reduce sugar “Get sugar from natural sources, like fruits”; “Love
+yourself more - choose to share all your sweets with
+a friend”; “Take less sugar to have a sweet smile”
+Messages of the FBDGs were refined using advice from communication experts.
+These are summarized in Box 11:
+Box 10: Advice for writing messages
+• Give messages that help consumers use their common sense to improve their
+lifestyle.
+• Use positive, short and simple recommendations.
+• Be specific and describe a specific action.
+• Don't assume that the consumers know the benefits. Tell them.
+• Make it easy: divide the process in easy and short steps.
+• Offer concrete and measurable results. Don't make false promises.
+• Include many examples according to the audience habits.
+• Use sense of humour when it is possible and appropriate.
+• Incorporate recommendations that save time.
+impaginato dicembre07 20-12-2007 6:39 Pagina 52
+52 Developing Food-based Dietary Guidelines
+STEP 7: Validating the FBDGs
+The purpose of this step is to link the messages with the diagram and to field test
+the FBDGs messages and diagram.
+The guidelines should be field tested on people representative of the target
+population to determine whether or not the message or picture are understood,
+relevant, acceptable and persuasive. The guidelines may be theoretically correct,
+but if they are not understood, remembered and applied by the people for whom
+they are intended, they will not achieve their purpose. It is suggested that the
+testing be conducted in three phases: (i) the message alone, (ii) the diagram and (iii)
+the two together in the testing stage.
+In Step 5, the national team pre-tested concepts and drawings of graphics to ensure
+that that they were culturally appropriate. The options for each country were varied
+from commonly available foods, such as breadfruit to the national bird to
+7
+traditional baskets to women in traditional dress. The multi-sectoral committees
+made the final decision about the graphic.
+In Step 6, the national team developed their draft FBDGs messages /
+recommendations (Table 11) based on the result of the behavioural trials. The
+multi-sectoral committees made the final decision about the messages. The final
+messages were validated with focus groups to ensure that they were understood by
+the lay person.
+After the food groups were added to the graphic, the mock-ups were tested with
+focus groups in each country to ensure that the meaning was understood.
+impaginato dicembre07 20-12-2007 6:39 Pagina 53
+Step 8 53
+STEP 8: Correcting and adjusting the FBDGs
+The purpose of this step is to prepare the final version of the FBDGs. Correction
+and adjustments were made to messages and diagram based on the test result and
+an additional technical review by the multi-sectoral committees. A graphic artist
+prepared the last version of the diagram.
+8
+The final guidelines and pictorial diagram are aproved by the committee.
+impaginato dicembre07 20-12-2007 6:39 Pagina 54
+54 Developing Food-based Dietary Guidelines
+STEP 9: Implementing the FBDGs
+The purpose of this step is to reproduce, disseminate and implement the FBDGs a
+nationally through the public and private sector, using a sound communication
+strategy. This step comprises:
+•Approval of the FBDGs by government.
+• Development of the communication strategy
+• Development of the educational material
+• Planning the official national launch
+Approval of the FBDGs and food diagram
+The draft guidelines were submitted for approval by the relevant government body
+in each country so that they could become the official FBDGs and food diagram of
+the respective national governments. In some countries this process took more than
+three months.
+Development of the communication strategy
+Once the FBDGs have been developed and approved by the government, a strategy
+and funds are needed to disseminate the guidelines to reach the target population
+9
+groups. The most common methods for disseminating the guidelines focus on
+providing materials and training through the health and education systems. For
+instance, school teachers may incorporate FBDGs into their class curricula and
+nurses and home economists can make use of them during counseling sessions.
+FBDGs can be distributed to workplaces, food markets, restaurants and food outlets.
+They can also be promoted at agricultural fairs, sports events and festivals.
+FBDGs are also widely distributed to the target population as brochures, posters or
+radio or television messages. It is best to provide related educational materials and
+programmes to elaborate and explain the guidelines so as to in turn support the
+FBDGs. Further, messages should be reinforced by using a number of channels of
+communication. Regional and national mass media campaigns when used should
+ensure a coordinated and consistent dissemination of the messages.
+Common obstacles to promoting FBDGs are the lack of expertise in
+communication strategies and lack of resources for producing materials. Some
+impaginato dicembre07 20-12-2007 6:39 Pagina 55
+Step 9 55
+countries have procedures for obtaining and approving sponsorship of materials
+and activities from the private sector. This allows for the promotion of nutrition
+messages and food guides on food packages or through other commercial channels.
+Communication strategies
+Experiences in other regions show that FBDGs are not always promoted effectively
+and that a strategy for communication, as well as resources, is needed.
+The teams identified their main goals within the communication strategies (e.g.
+slogan competition, production and airing of jingles on radio and television); they
+elaborated the objectives, indicators, messages, priorities, audiences (primary and
+secondary), channels, lead agencies, timeframes and budget for each goal. The
+draft communication strategy from Saint Vincent and the Grenadines is provided
+as an example in Annex 6.
+For each country, the communication strategy included as a minimum the
+publication of a poster and a booklet to be disseminated widely. Other activities
+such as parades, theatre, promotions in grocery stores, and messages on products,
+radio programmes and training in schools were included in the plans.
+The countries identified short-term and long-term activities for promoting the
+FBDGs. It was agreed that the countries would produce their first sets of materials
+(flyer, poster, radio spot and booklets) through the project budget to be available at the
+time of the launch of the FBDGs. In the long term, other methods were identified for
+sustained promotion such as billboards, television, packages and promotions in
+markets. The national coordinators and communication specialists identify potential
+partners to support these more costly campaigns. It was noted that social organizations
+9
+and private sector partners may be able to assist in promoting the FBDGs.
+Long-term communication strategy
+Planning a long-term communication strategy frequently requires advice from
+communication experts. This step usually requires substantial amounts of money –
+sponsoring events, designing educational materials, printing information and
+broadcasting messages can be costly. Working with communication specialists and
+finding the funds to produce information are two of the most challenging aspects
+of implementing FBDGs. At this stage, the multi-sectoral committee needs to be
+mobilized to provide contacts, ideas and resources for promoting the FBDGs.
+This phase of implementation of FBDGs was considered so vital to the successful
+implementation of FBDGs that FAO held an inter-country workshop to focus
+specifically on how to develop a communication strategy. In every country, there
+impaginato dicembre07 20-12-2007 6:39 Pagina 56
+56 Developing Food-based Dietary Guidelines
+was a range of ways that the FBDGs messages and food guides could be
+disseminated. Box 11 indicates where the FBDGs can be implemented and Box 12
+offers ideas of media that can be used to promote the FBDGs.
+Box 11: Places and events where FBDGs can be disseminated
+• Health centres and health workers.
+• Schools, teachers and food services
+• Workplace canteens/cafeterias, employers and employees.
+• Social Welfare Organizations/Services and social workers.
+• Sports facilities and events/coaches/athletes.
+• Food markets.
+• Restaurants and food outlets.
+• Meetings of professional societies (e.g. medical associations) and authoritative
+speakers/endorsements.
+• Special events - e.g. Nutrition Week, Agricultural Fairs and exhibitions, holidays,
+parades.
+• Extension agents/community workers.
+• Religious centres and religious leaders.
+• Non-governmental organizations.
+Box 12: Media for disseminating FBDGs
+• Radio. • Newspapers/magazines.
+• Television. • Websites.
+9 • Billboards/posters. • Product packages and commercial spaces.
+Educational material design
+Once each country has the messages and graphic design tested and refined,
+educational material should be developed. For the purposes of developing FBDGs,
+three kinds of educational material were proposed:
+1) Poster.
+2) Brochure.
+3) Booklet.
+An outline for the booklet was prepared and explained to the group, which is
+presented in Box 13.
+impaginato dicembre07 20-12-2007 6:39 Pagina 57
+Step 9 57
+Box 13: Outlines for booklets
+I. Description of the process
+A. Institutions that participated in the multi-sectoral group.
+B. Explanation of why the FBDGs were developed.
+C. Description of how the FBDGs were developed and by whom.
+II. Explanation of the body's need for food and nutrients
+A. Carbohydrates, fats and proteins.
+B. Vitamins and minerals.
+III. Individual messages in the FBDGs
+A. Food included in the message.
+B. Characteristics of the foods.
+C. Advice and tips for changing behaviour.
+D. Advice and tips for overcoming barriers to change in diet.
+E. Benefits of the recommendation.
+IV. Self-Assessment
+V. Portion sizes (with examples from a range of diets).
+VI. Healthy recipes.
+VII. Glossary of terms used in the booklet.
+Official national launch of the FBDGs
+To achieve the desired behavioural change, FBDGs should be communicated to the
+public through a variety of materials, programmes, settings and media. Official
+national launches were used in countries as the first step in communicating the
+FBDGs to the general public. Each national team prepared their plans for the launch.
+The first public announcement or launch of the FBDGs is considered to be essential
+9
+to the implementation process. Launches are complex events involving
+ceremonies, entertaining jingles, influential persons, distribution of materials and
+media coverage. Since they require careful planning and expenditures, the
+workshop participants devoted considerable time to discussing the launches.
+The activity of planning and organizing the launch is usually undertaken by the
+national task force under the direction of the permanent secretary of the host ministry
+(health or agriculture). The venues selected tended to be places of prominence in the
+country with large holding capacity such as a memorial hall, a trade centre or a
+national park. Several strategies have been used to sensitize and attract the public to
+the event, including using a “Town Crier” on the day of the event; press briefing prior
+to the launch and a radio panel discussion on FBDGs. In all in the project countries,
+banners announcing the event were mounted at strategic locations throughout the
+country. In addition, educational institutions and organizations represented on the
+multisectorial committee were sent special letters of invitation.
+impaginato dicembre07 20-12-2007 6:39 Pagina 58
+58 Developing Food-based Dietary Guidelines
+The format of the launching ceremony varied in each country but generally
+featured the following:
+• Presentations. Speeches delivered by prominent national and international
+officials such as ministers of health and/or agriculture, FAO regional
+representatives and director/representative of CFNI.
+• Feature address and official launch of the guidelines. This was usually done
+by the minister of health or agriculture.
+• Unveiling of the guidelines. This was carried out by the governor general or
+president.
+• Cultural items. These were usually done by school children or local artists and
+use message from the FBDGs as the content of their presentations in songs,
+poems, dance or drama. Musical presentations by local cultural groups also took
+place.
+• Dissemination of promotional materials. The official launch was used as a
+channel for disseminating materials developed for promoting the FBDGs.
+Materials included FBDGs graphic, posters, brochures, flyers, shopping bags and
+other promotional items. Box 17 suggests some other activities to support the
+national launch.
+Box 14: Suggested activities in support of the national launch
+9 Radio discussions. Billboards.
+Motorcade from launch to exhibition. Banners.
+Food exhibition highlighting each Physical activity in open spaces.
+FBDGs. Jingle.
+Development of a video. Development of promotional materials
+Composition of a song. (pens, bags).
+TV panel discussion. Newspaper pull-out/inserts.
+Radio interactive show. Mass dissemination (schools).
+Radio slots during the week. Poster exhibition.
+Radio talk shows. Mascot demonstration.
+Radio quiz.
+impaginato dicembre07 20-12-2007 6:39 Pagina 59
+Poster 59
+impaginato dicembre07 20-12-2007 6:39 Pagina 60
+60 Developing Food-based Dietary Guidelines
+impaginato dicembre07 20-12-2007 6:39 Pagina 61
+Poster 61
+impaginato dicembre07 20-12-2007 6:39 Pagina 62
+62 Developing Food-based Dietary Guidelines
+impaginato dicembre07 20-12-2007 6:39 Pagina 63
+Step 10 63
+STEP 10: Evaluation of FBDGs
+The FBDGs should be periodically evaluated in terms of both the implementation
+process and their impact on the lifestyle of target group. Campaigns and
+educational programmes for promotion and adoption of FBDGs should be
+monitored and evaluated to determine their reach, frequency and impact. However,
+relatively few countries have evaluated the impact of FBDGs – either because
+guidelines were developed only recently, it is too early to evaluate their effects, or
+because there are insufficient resources and methodologies for evaluation.
+10
+impaginato dicembre07 20-12-2007 6:39 Pagina 65
+65
+Afterword
+Lessons learned in the project
+At the end of the project, the national coordinators, consultants and FAO staff met
+to review the experiences and lessons learned during the project. In addition to the
+information shared in the manual, the project gained the following insights.
+Political
+Akey institution and support from a senior government official is needed to push
+the process forward. FBDGs need to be viewed as part of the national policy to get
+political support.
+Meetings to sensitize different actors are important. These meetings could be
+conducted by universities or prestigious institutions.
+Some topics are sensitive and affect stakeholder groups. For example, sugar
+consumption is a political issue in the Caribbean.
+Organizational
+There can be obstacles to participation of the task force or multi-sectoral committee
+members. Some members may be too busy. Sometimes the high-level members do
+not attend all the meetings.The task force members should report to the permanent
+secretary of the ministry which is leading the process.
+The process of producing FBDGs took around two years in the project (this is
+typical for most countries). The schedule should be adhered to; otherwise, the task
+force members lose interest if the process takes longer than planned.
+The participation by NGOs and the private sector cannot be taken for granted;
+many did not participate.
+The launch should be planned as a whole-week activity, including a week before raising
+awareness through the media. National committees need to invite very senior people and
+agencies to the launch at least one month before and remind them the activity.
+The National Coordinator should carry out advocacy with the government during
+impaginato dicembre07 20-12-2007 6:39 Pagina 66
+66 Developing Food-based Dietary Guidelines
+the process. After all the development work is done, the Cabinet approval of
+FBDGs usually took one month. However, when there were changes in
+government, the process was affected. Political parties and stakeholder groups
+should not view the FBDGs as belonging to one group; when the process is
+followed, the FBDGs are “made by the country not by an official group”. They are
+based on the population’s needs and perspectives.
+Resources
+Production of educational materials and field work are costly. Project planners
+should attempt to accurately plan the details of budgets. For example, the quantities
+of posters to distribute can be high.
+Training teachers, health workers, agriculture personnel, and others in how to use
+and explain FBDGs to their target population has to be planned. To train different
+personnel, the regular meetings should be used. For example, teachers and nurses
+can be trained to use FBDGs during their routine in-service training meetings.
+FDBG can be incorporated into training curricula.
+Working with graphic designers takes time. Some designers had difficulty
+understanding the technical meaning of the graphic and the concept of
+proportionality. In small countries, the choice of designers and printers may be
+limited.
+The process requires significant amounts of staff time. The ministry which leads
+the FBDGs process needs to allocate staff for this.
+impaginato dicembre07 20-12-2007 6:39 Pagina 67
+67
+References
+CFNI (Caribbean Food and Nutrition Institute). 2001. Obesity prevention and
+control – the Caribbean experience, April. Kingston.
+FAO. 1996. “Rome Declaration on World Food Security” World Food Summit
+13-17 November 1996, Rome.
+(www.fao.org/DOCREP/003/W3613E/W3613E00.htm).
+FAO and WHO. 1992. International Conference on Nutrition World Declaration
+and Plan of Action for Nutrition. December. Rome.
+FAO/WHO. 1992. World Declaration on Nutrition and Plan of Action, Food,
+Nutrition and Agriculture, 5/6: 27–49.
+FAO. 1996. Rome Declaration on World Food Security. World Food Summit 13-
+17 November. Rome. (www.fao.org/docrep/003/w3613e/w3613e00.htm)
+Friesinger,G.C.and Ryan, T.J. 1999. Coronary heart disease, stable and unstable
+conditions. Cardiology Clinics, 17:93-122.
+Grim, CE et al. 1994 The Dominica Twin Study: Blood Pressure but not HbA1c
+th
+is under genetic control in blacks in Dominica. Presented to the AHA 67
+Scientific Sessions. Circulation, 90: 1-503.
+Henry, F., Morris, A. & Anderson, S. 2001. Food and nutrition. Health
+Conditions in the Caribbean. Pan American Health Organization (PAHO),
+Washington, D.C. 190–203.
+Henry, F.J. 2001. Obesity-related mortality, morbidity and behaviour in the
+Caribbean. Cajanus, 34: 62–72.
+Henry, F.J. 2004. The obesity epidemic – a major threat to Caribbean
+development: The case for public policies. Cajanus, 37(1): 3–21.
+impaginato dicembre07 20-12-2007 6:39 Pagina 68
+68 Developing Food-based Dietary Guidelines
+Hill, J.O.,Wyatt,H.R.and Melanson, E.L. 2000. Genetic and environmental
+contributions to obesity. Medical Clinics of North America, 84(2): 333–46.
+Molina V. et. al.April 1995. Lineamientos generales para la elaboracion de guias
+alimentarias. Una propuesta de INCAP, Guatemala.
+Molina, V. et. al. 2001. Documento técnico guias alimentarias para Guatemala.
+Comision Nacional de Guias Alimentarias, Guatemala.
+PAHO (Pan American Health Organization). 2002. Health in the Americas,
+Volume II. Scientific and Technical Publication, 587, PAHO, Washington,
+DC.
+Peña, M. & Molina, V. 1999. Food based dietary guidelines and health
+promotion in Latin America. PAHO and Institute of Nutrition of Central
+America and Panama, Washington DC.
+Reddy, S.K, 1998. Cardiovascular disease in the developing countries.
+Heartbeat, 2: 4-6.
+Riopel, D.A., et al. 1986. Coronary risk factor modification in children: exercise.
+AStatement for Physicians by the Committee on Atherosclerosis and
+Hypertension in Childhood of the Council on Cardiovascular Disease in the
+Young, American Heart Association. Circulation, 74: 1189A–91A.
+Sinha, D.P. 1995. Changing patterns of food, nutrition and health in the Caribbean.
+Nutrition Research, 15: 899–938.
+UN (United Nations) 2006. The Millennium Development Goals Report 2006
+New York http://www.un.org/millenniumgoals/goals.html#
+WHO. 1996. Preparation and use of food-based dietary guidelines. Report of
+Joint FAO/WHO Consultation, Geneva, 1996.
+WHO. 2001. Diet, physical activity and Health. WHO, Geneva. (Doc #A55/16)
+http://www.who.int/dietphysicalactivity/strategy/eb11344/en/
+impaginato dicembre07 20-12-2007 6:39 Pagina 69
+69
+Annex 1
+Testing Recommendations for Feasibility
+example from Dominica
+Focus Group Guide: Recommendation No. 1
+Read the following:
+1. Reduce fat and oil intake.
+1. What do you understand from the statement?
+2. What are the foods you prepare using fats?
+PROBE solid and oils?
+3. Do you trim off the fat? (Meat /poultry)
+a) When? (Before or after cooking) PROBE Why?
+4. What do you do with the fat that you trim off meat?
+5. What foods do you add fat to before eating?
+a) Which fats?
+b) To which foods?
+6. Do you make gravy? How do you make it?
+7. What are the foods that you eat fried?
+8. What type of fats or oil do you use for frying?
+9. Could you prepare these foods any other way?
+a) How?
+10. Do you use salad dressings?
+a) (If yes) what types?
+b) What foods do you use them on?
+11. What types of packaged seasonings do you use?
+12. What foods do you consider as fast foods? PROBE
+13. How often do you and your family eat these foods?
+14. Which are the fast foods you eat more often and why?
+15. Do you understand the food labels?
+16. Name the six food groups.
+impaginato dicembre07 20-12-2007 6:39 Pagina 70
+70 Developing Food-based Dietary Guidelines
+Annex 2
+Behavioural trial
+Initial Interview: Recommendation
+Read the following:
+Reduce fat and oil intake.
+Name ____________________________________________________________
+Address______________________________________Phone________________
+Age________Education level______________________Sex_________________
+No. of persons in the house _______Adults ______Children <5_____ >5 _______
+Interviewer _____________________________Date of Interview _____________
+1. What are some of the things you prepare using fats and oils?
+__________________________________________________________________
+__________________________________________________________________
+2. Do you trim off the fat? (Meat and poultry) _____________________________
+__________________________________________________________________
+When? (Before or after cooking)________________________________________
+3. What do you do with the fats? ________________________________________
+__________________________________________________________________
+4. Are there any foods that you add fat to before eating? _____________________
+impaginato dicembre07 20-12-2007 6:39 Pagina 71
+Annex 2 71
+__________________________________________________________________
+Which fats? ________________________________________________________
+To which foods? ____________________________________________________
+5. Do you make gravy? _______________________________________________
+How do you make it?_________________________________________________
+6. What are the foods that you eat fried?
+__________________________________________________________________
+Who eats these foods?________________________________________________
+7. What type of fats or oil do you use for frying? ___________________________
+__________________________________________________________________
+8. Could you prepare these foods any other way?___________________________
+How? ____________________________________________________________
+9. Do you use salad dressings?_________________________________________
+(If yes) what types? __________________________________________________
+What foods do you use them on?______________________________________
+Who eats these foods?________________________________________________
+10. What types of seasonings do you use?_________________________________
+__________________________________________________________________
+11. What foods do you consider as fast foods? _____________________________
+__________________________________________________________________
+12. How often do you and your family eat these foods? ______________________
+__________________________________________________________________
+13. Which are the ones you eat more often and why? _______________________
+impaginato dicembre07 20-12-2007 6:39 Pagina 72
+72 Developing Food-based Dietary Guidelines
+Final Interview: Recommendation (Reduce fat and oil intake)
+Name_____________________________________________________________
+Address______________________________________Phone________________
+District____________________________________________________________
+Interviewer _________________________ Date of interview ________________
+1. Do you remember what we spoke about last time? (ASK THEM TO EXPLAIN)
+__________________________________________________________________
+__________________________________________________________________
+__________________________________________________________________
+2. Were you able to follow the recommendation? Yes______ No______
+Somewhat________ (YES) Why? ____________________________________
+__________________________________________________________________
+(NO or somewhat) Why? _____________________________________________
+__________________________________________________________________
+3. Did you have any problem following the recommendation? Yes_____ No_____
+(YES) What exactly?_________________________________________________
+__________________________________________________________________
+__________________________________________________________________
+4. For how many days did you follow this recommendation?__________________
+__________________________________________________________________
+5. Did you make any changes? YES _____ NO ______ (YES) What?
+__________________________________________________________________
+__________________________________________________________________
+impaginato dicembre07 20-12-2007 6:39 Pagina 73
+Annex 2 73
+6. Do you plan to continue with the recommendation in the future? YES________
+NO______ If YES, why?______________________________________________
+If NO, why not?_____________________________________________________
+7. What would you suggest to other people so that they would reduce their fat
+intake? _________________________________________________________
+__________________________________________________________________
+impaginato dicembre07 20-12-2007 6:39 Pagina 74
+74 Developing Food-based Dietary Guidelines
+Annex 3
+Choosing the pictorial diagram
+Saint Vincent and the Grenadines
+Instructions:
+Each diagram should have a numberon the bottom. Try to post all diagrams
+on the wall. Ask the participants to look at them very carefully and ask
+individually the following questions:
+1. Which of these diagrams makes you think more of our country?
+2. Why?
+3. If we were to show you how to divide the different types of foods you should eat
+every day, which of these diagrams would you like to see them on?
+4. Do you have any suggestions?
+impaginato dicembre07 20-12-2007 6:39 Pagina 75
+Annex 3 75
+Grenada
+Instructions:
+1. We are encouraging healthy lifestyle habits for our people and we want to
+illustrate it in picture form. On which of these diagrams would you like to see
+those tips illustrated? (Select first and second choices)
+Choice Diagram #
+1st
+2nd
+2. Why?
+Follow the sample below:
+1st 2nd Reasons Village
+Choice Choice
+Banana Nutmeg Banana – its food Harford
+Isle of spice Village
+76 Developing Food-based Dietary Guidelines
+4
+xennA
+senidanerG
+eht
+dna
+tnecniV
+tniaS
+-
+ygetartS
+noitacinummoC
+tfarD
+tegduB
+emarF
+emiT
+seicnegA
+rentraP
+ycnegA
+daeL
+slennahC
+fo epyT
+:secneiduA
+level
+ytiroirP
+tfarD
+srotacidnI
+sevitcejbO
+laog
+niaM
+ht4
+dr3
+dn2
+retrauq
+ts1
+ytivitcA
+egasseM
+retrauq
+retrauq
+retrauq
+ro/dna
+yramirP
+rohcnA(
+tuptuo
+)ytivitcA
+yradnoceS
+enotseliM(
+)ytivitcA
+naJ–ceD
+rebotcO
+yluJ
+lirpA
+,stpeD
+tvoG
+rehtO
+.cirgA
+fo
+.niM
+fo setuniM
+rohcnA
+)4(
+ruoF
+dna
+tcerid
+oT
+/larotcesitluM
+gniteem
+sOGN
+htlaeH
+dna
+dna
+sgniteem
+ylretrauq
+tnemelpmi
+gniteeM
+ecroF
+ksaT
+rotceS
+etavirP
+dna
+ylretrauq
+fo
+sgniteem
+dna
+GDBF
+eht
+sweiver
+ecroF
+ksaT
+dna
+rotinom
+eht
+etaulave
+fo
+noisivorP
+emas
+ylretrauQ
+stropeR
+detelpmoC
+OAF/INFC
+larotcesitluM
+,scinilC
+stelkoob
+052
+:yramirP
+enotseliM
+lacinhceT
+tfarD
+dna
+tfard
+oT
+fo
+noitcudorP
+dn2
+yb
+,noitaicossA
+sesruN
+ecroF
+ksaT
+srotcoD
+cilbuP
+lareneG
+noitamrofni
+laniF
+ecudorp
+telkooB
+ni htnom
+noitaicossA
+lacideM
+secfi
+fO
+eht
+ot
+detaler
+telkooB
+lacinhcet
+yraunaJ
+seicamrahP
+:yradnoceS
+GDBF
+deraperp
+no telkoob
+seirarbiL
+lacinhceT
+senilediug
+,sloohcS
+,lennosreP
+;cte sehcruhC
+,tsinoitirtuN sesruN
+,srotcoD
+,cte
+srehcaeT
+noitacudE
+fo yrtsiniM
+yrtsiniM
+,lausiv-oiduA
+no nagolS
+:yramirP
+enotseliM
+ecudorp
+oTnoititepmoC
+nagolS
+erutluC
+dna
+,htlaeH
+fo
+dna oidaR
+lanoitomorp
+cilbuP
+lareneG
+lanoitomorp
+fo
+yrtsiniM
+tnirP dna
+VT
+smeti
+ot meti
+erutlucirgA
+slairetaM
+troppus ngiapmac
+.raM–.naJ
+CBN
+,IPA
+yrtsiniM
+dna oidaR
+llA
+)9( eniN
+:yramirP
+enotseliM
+selgniJ
+ecudorp
+oT
+dna
+noitcudorP
+dna
+oidaR
+rehto
+llA
+,htlaeH
+fo
+noisiveleT
+selgnij
+cilbuP
+lareneG
+no deraperp
+lanoitomorp
+selgniJ
+fo gniria
+snoitatS
+VT
+fo
+yrtsiniM
+snoitatS
+deraperp
+eht
+fo
+hcae
+ot smeti
+VT
+dna
+oidaR
+–
+rotceS
+etaroproC
+erutlucirgA
+:yradnoceS
+senilediug
+troppus
+esuoH
+aideM
+dna
+ngiapmac
+dna
+sreganaM
+eht eruces
+lennosreP
+fo troppus
+dna
+oidar lacol
+rof
+snoitats
+VT
+fo
+tsacdaorb emas
+impaginato dicembre07 20-12-2007 6:39 Pagina 76
+Annex 4 77
+.guA
+–yluJ
+enuJ–.rpA
+gninnalP
+lartneC
+larotcesitluM
+) 2( owT
+:yramirP
+enotseliM
+sdraoB
+,eraperp oT
+dna
+noitcudorP
+yrtsudnI
+fo rebmahC
+ecroF
+ksaT
+sdraobllib
+lareneG
+niam htiw
+dna hsilbatse
+fo tnemhsilbatsE
+ecremmoC
+dna
+dna deraperp
+noitalupoP
+dna
+cihparg
+niatniam
+sdraoblliB
+owT
+rotceS
+etaroproC
+–
+dehsilbatse
+senilediug
+sdraobllib
+)CGCE(
+cigetarts ta
+cigetarts ta
+snoitacol
+snoitacol eht gnitciped GDBF
+.voN–.tcO
+/sseleriW
+dna elbaC
+larotcesitluM
+dna oidaR
+eviL
+:yramirP
+enotseliM
+eht esu oT
+gnikaepS-cilbuP
+seecyaJ
+ecroF
+ksaT
+noisivelet
+noisivelet
+cfi
+icepS
+noititepmoc
+noititepmoC
+oidar dna
+ecneiduA
+rehtruf ot
+)sloohcS(
+fo tsacdaorb
+eht thgilhgih
+tneve eht
+:yradnoceS
+senilediug
+stnapicitraP srehcaeT
+tpeS
+enuJ
+–
+.rpA
+.raM–.naJ
+TTBR
+larotcesitluM
+suoiraV
+suoiraV
+:yramirP
+enotseliM
+lanoitomorP
+eht esu oT
+sredaeL
+gnuoY
+.ceD
+–
+sloohcS
+yradnoceS
+ecroF
+ksaT
+sa slennahc
+lanoitomorp
+cilbuP
+lareneG
+fo
+slairetam
+tneve launna
+emmargorP
+denimreted
+sa smeti
+sredael
+gnuoy
+thgilhgih ot
+gnuoY
+eht
+yb
+denimreted
+:yradnoceS
+emmargorp
+fo eussi eht
+sredaeL
+gnuoY eht yb
+sloohcS
+eht htiw
+rof deen eht
+sredaeL
+stnapicitraP
+segassem
+senilediug eht
+srehcaeT
+yhtlaeh a dna noitalupop
+.ceD
+..voN
+yrtsudnI
+fo rebmahC
+larotcesitluM
+,tekramrepuS
+suoiraV
+:yramirP
+enotseliM
+rehtie
+GDBF
+lebal oT
+fo gnillebaL
+ecremmoC
+dna
+ecroF
+ksaT
+tnaruatseR
+,segakcap
+seviwesuoH
+yllaudividni
+,segakcap
+.cte
+sgab
+,segakcaP
+,tekramrepuS
+–
+dooF
+dna
+,sgab
+cilbuP
+lareneG
+a ni
+ro
+taht .cte sgab
+stekramrepuS
+ni
+dooF
+dna
+tnaruatseR
+serots
+sreniatnoc
+noitanibmoc
+rof esu era
+ytilicaf
+gnissecorP
+stcudorp
+htiw
+:yradnoceS
+lacol gnicalp
+,sreganaM
+senilediug
+,tekramrepuS
+smeti doof
+serotS
+dooF
+,selbategev –
+tnaruatseR
+dna
+stiurf ,taem
+srenwO
+a rof – .cte owt fo doirep sraey )2(
+.ceD
+.naJ
+retaW
+poT
+niatnuoM
+larotcesitluM
+eb
+ot stcudorP
+,elpmaxe roF
+:yramirP
+enotseliM
+GDBF
+a esu oT
+a
+fo noitpodA
+tunocoC
+dna gnilttoB
+ecroF
+ksaT
+denimreted
+retaw delttob
+cilbuP
+lareneG
+a fo tcudorp
+a
+yb enilediuG
+,gnilttoB
+retaW
+fo
+rebmahC
+–
+deen eht dna
+fo )s( rebmem
+eht
+fo rebmeM
+muucaV
+,CGCE
+dna
+yrtsudnI
+gniknird rof
+:yradnoceS
+etaroproc eht
+rotceS
+etaroproC
+stcudorP
+gnikcaP
+ecremmoC
+retaw erom
+etaroproC
+ot rotces
+stcudorP
+avassaC
+rotceS
+etomorp enilediug
+impaginato dicembre07 20-12-2007 6:39 Pagina 77
+78 Developing Food-based Dietary Guidelines
+)deunitnoc(
+4
+xennA
+.ceD
+tpeS–.luJ
+enuJ–.rpA
+knaB
+,celniV
+larotcesitluM
+radnelaC
+radnelaC
+:yramirP
+enotseliM
+GDBF
+etomorp
+oT
+a fo
+noitcudorP
+ecroF
+ksaT
+gnitciped
+cilbuP
+lareneG
+enilediug
+a
+radnelaC
+senilediug
+hcae spit htiw
+htnom
+hcae
+:yradnoceS
+htnom
+fo tnemeganaM celniV
+ro knaB
+keew
+tsaL
+srepapsweN
+larotcesitluM
+srepapsweN
+sreifl
+000,01
+:yramirP
+enotseliM
+GDBF
+)9(
+eniN
+ecudorp
+oT
+ni
+sreylF
+dna
+.ceD
+ro
+thgilhcraeS
+,sweN
+ecroF
+ksaT
+cilbuP
+lareneG
+cihparg
+dna
+,yssolg
+srepapsweN
+naitnecniV
+doof
+htiw
+-eno ,lufruoloc
+spuorg
+htiw sreyfl fael dna scihparg ot segassem hgih eveihca eht ni tcapmi noitalupop
+.voN–
+.tcO
+fo
+yrtsiniM
+,tinU
+beW
+yrtsiniM
+tnemnrevoG
+beW
+:yramirP
+enotseliM
+dna
+cihparG
+,ecudorp
+oT
+htiw
+egaP
+beW
+,snoitacinummoceleT
+,htlaeH
+fo
+,etisbeW
+htiw
+etiS
+cilbuP
+lareneG
+GDBF
+hsilbatse
+senilediuG
+cisaB
+dna
+ecneicS
+dna
+noitacudE
+ot
+sknil
+htiw
+senilediuG
+bew
+a
+dna
+ygolonhceT
+erutlucirgA
+tnaveler
+eht
+yradnoceS
+htiw ecneserp
+yrtsudnI
+,seirtsiniM
+etiS beW
+dna senilediug
+tenartnI
+sreganaM
+telkoob
+.ceD
+.naJ
+stropS
+lanoitaN
+larotcesitluM
+gnisitrevdA
+3
+tsael
+tA
+yramirP
+enotseliM
+htiw
+cihparG
+etomorp
+oT
+fo
+noitaraperP
+dna
+licnuoC
+ecroF
+ksaT
+sdraoB
+gnisitrevda
+snosrepstropS
+spuorg
+doof
+rojam ta GDBF
+sdraoB
+gnisitrevdA
+gnitrops
+tnaveler
+sdraob
+cilbuP
+lareneG
+sGDBF
+dna
+sdlefi gniyalp
+snoitasinagro
+drah dna
+yradnoceS
+struoc
+stropS
+dna
+snoitaicossA
+snoitasinagrO
+.raM
+.naJ
+ytinummoC
+fo
+yrtsiniM
+ytinummoC
+51
+yramirP
+enotseliM
+dna
+GDBF
+etomorp
+oT
+ot snoitatneserP
+,tnempoleveD
+htlaeH
+snoitatneserP
+ycneutitsnoc
+cfi icepS
+spuorg
+doof
+hguorht GDBF
+spuorG
+ytinummoC
+fo
+yrtsiniM
+sgniteem
+tludA
+– spuorG
+cihparg
+ni
+ytinummoc
+tludA
+,noitacudE
+noitalupoP
+,spuorg
+edasurC
+ycaretiL
+dna sbulc
+yradnoceS
+snoitasinagro
+dna civiC
+tludA dna
+ytinummoC
+ycaretiL
+,snoitasinagrO
+emmargorp
+dna
+pihsredaeL srebmem
+impaginato dicembre07 20-12-2007 6:39 Pagina 78
+Annex 4 79
+tpeS
+htlaeH
+fo
+yrtsiniM
+fo
+yrtsiniM
+mulucirruC
+senilediuG
+yramirP
+enotseliM
+spuorg
+dooF
+erusne oT
+noitaroprocnI
+noitacudE
+loohcS
+dna
+lla
+ni
+detpoda
+GDBF
+dna
+eht taht
+emoH
+eht
+otni
+gnideeF
+eht
+ni
+sloohcs
+loohcS
+era senilediug
+scimonocE
+emmargorp
+semmargorp
+noitalupoP
+detaroprocni
+dna mulucirruC
+senilediug
+defi
+itnedi
+emoh eht otni
+gnideeF
+loohcS
+yradnoceS
+,scimonoce
+emmargorP
+seiduts laicos
+fo
+yrtsiniM
+ylimaf dna
+noitacudE
+noitacude efil
+dna
+slaicfi
+fO
+mulucirruc
+mulucirruC
+loohcs eht dna
+tnempoleveD
+gnideef
+,tinU
+emmargorp
+tnemeganaM loohcS
+eht
+fo
+gnideeF
+emmargorP
+tpeS
+htlaeH
+fo
+yrtsiniM
+fo
+yrtsiniM
+noisnetxE
+elbategeV
+yramirP
+enotseliM
+GDBF
+erusne oT
+rof noitomorP
+;cte
+stekramrepuS
+erutlucirgA
+ecivreS
+noitcudorP
+sremraF
+erom
+taE–
+mumitpo taht
+elbategeV
+desaercnI
+sremraF
+nalP
+selbategev
+fo seititnauq
+noitcudorP
+sgniteem
+,stiurf
+dna
+era selbategev
+dna
+oidaR
+yradnoceS
+egaruocne
+taht elbaliava
+noisiveleT
+fo
+yrtsiniM
+ot
+sremraf
+doog fo era
+smargorP
+erutlucirgA
+erom
+ecudorp
+dna ytilauq
+ffatS
+noisnetxE
+selbategev
+elbadroffa na
+yciloP
+dna
+rof ecirp
+srekaM
+lareneg eht noitalupop
+.luJ–
+.luJ
+.naJ–
+.naJ
+larotcesitluM
+tcudnoc oT
+dna gnirotinoM
+ecroF
+ksaT
+)4( ruof
+eht fo noitaulavE
+elpmas
+fo
+noitatnemelpmI
+yreve syevrus
+sti
+dna ygetartS
+eht
+shtnom xis
+tcapmI
+eht ssessa ot eht fo tcapmi ngiapmac
+impaginato dicembre07 20-12-2007 6:39 Pagina 79
+caribbean copertina ok 20-12-2007 6:41 Pagina 1
+A manual
+from the English-speaking
+Caribbean
+Food-based dietary guidelines (FBDGs) provide practical advice
+about ways to improve diets and health in a manner that is easy
+for the public to understand. This manual explains a 10-step
+process for developing FBDGs that can be used in most countries.
+By following this process, nutritionists and others can create
+FBDGs that are well-adapted to national needs and based on
+Developing
+nutrition science and communication expertise. A
+multidisciplinary approach enables governments to assess the
+Food-based
+country’s nutrition problems and to set realistic priorities for
+improving diets. Technical recommendations are transformed into
+Dietary
+simple messages the average person can follow. Nutritionists
+learn to develop strategies for communicating dietary Guidelines
+information to the public. This manual is based on the
+experiences of four Caribbean countries in developing national
+FBDGs to promote healthy diets and to prevent obesity, diabetes
+and cardiovascular diseases.

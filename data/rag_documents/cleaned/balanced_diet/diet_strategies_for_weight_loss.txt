@@ -1,0 +1,510 @@
+Journal of Obesity & Metabolic Syndrome 2021;30:20-31
+https://doi.org/10.7570/jomes20065
+CROSSMARK_logo_3_Test 1/ 1
+Review pISSN 2508-6235
+eISSN 2508-7576
+https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_square.svg2017-03-16
+Optimal Diet Strategies for Weight Loss and Weight
+Loss Maintenance
+Ju Young Kim*
+Department of Family Medicine, Seoul National University Bundang Hospital, Seongnam, Korea
+Obesity has become one of the most important public health problems worldwide, which suggests the need for
+Received June 25, 2020
+evidence-based dietary strategies for weight loss and its maintenance. Weight management depends upon
+Reviewed July 14, 2020
+complex factors such as amount of food eaten, type of food eaten, and timing of meals. In this review, we identi- Accepted August 19, 2020
+fied evidence-based dietary strategies for weight management based on these three components. An energy
+* Corresponding author
+deficit is the most important factor in weight loss. A low-calorie diet with a low fat or carbohydrate content has
+Ju Young Kim
+been recommended; however, in some cases, a very-low-calorie diet is required for a short period. Some macro-
+nutrient composition-based diets, such as the ketogenic diet or high-protein diet, could be considered in some
+cases, although the potential risks and long-term effectiveness remain unknown. Meal timing is also an impor- https://orcid.org/0000-0001-6018-3337
+tant factor in weight management, and higher-calorie breakfasts in combination with overnight fasting may
+Department of Family Medicine, Seoul
+help to prevent obesity. Our review indicated that there is no single best strategy for weight management. National University Bundang Hospital,
+Hence, strategies for weight loss and its maintenance should be individualized, and healthcare providers must 82 Gumi-ro 173beon-gil, Bundang-gu,
+Seongnam 13620, Korea
+choose the best strategy based on patient preferences.
+Tel: +82-31-787-7796
+Fax: +82-31-787-4014
+Key words: Carbohydrate-restricted diet, Fat-restricted diet, High-protein diet, Mediterranean diet, Fasting E-mail: kkamduri@snubh.org
+INTRODUCTION tion.6 Another study examined the effects of popular diets without
+specific calorie targets and showed that the Atkins diet resulted in
+More than 650 million adults worldwide suffer from obesity, and clinically meaningful weight loss after 6 months.7 In contrast, an-
+the prevalence of this condition has increased rapidly during the other review revealed that the Atkins, Weight Watchers, and Zone
+past 50 years.1 Obesity has become one of the most important diets resulted in modest and similar long-term weight loss after
+public health problems globally and is strongly associated with type 1 year.8 Recently, intermittent fasting and time-restricted eating
+2 diabetes mellitus (T2DM); cardiovascular diseases including have become popular and seem to be effective for weight loss.9
+myocardial infarction and stroke; osteoarthritis; obstructive sleep However, several questions remain unanswered. Does a high-pro-
+apnea; depression; and some types of cancer, such as breast, ovari- tein diet aid in weight loss and maintenance? Can a ketogenic diet
+an, prostate, liver, kidney, and colon cancer.2,3 burn fat? Do carbohydrates increase abdominal fat? Can intermit-
+Optimal diets for weight management have been a topic of de- tent fasting help one lose weight? New dietary information has
+bate not only among researchers, nutrition experts, and healthcare only added to the current confusion due to several controversial di-
+professionals, but also among the general public.4,5 According to a etary regimens, and there is no clear guidance on the optimal diet
+meta-analysis of several diet programs, calorie restriction was the for weight loss.
+primary driver of weight loss, followed by macronutrient composi- Obesogenic environments and biological and psychological fac-
+Copyright © 2021 Korean Society for the Study of Obesity
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (https://creativecommons.org/licenses/by-nc/4.0/) which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+20 | https://www.jomes.org J Obes Metab Syndr 2021;30:20-31
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+tors all contribute to obesity.10 However, obesogenic environments, Traditionally, a very-low-calorie diet (VLCD), which provides
+including social determinants, cultures, and food supply systems, <800 kcal a day, is not recommended for routine weight manage-
+are challenging to modify. Therefore, dietary interventions remain ment and should only be used in limited circumstances along with
+Optimal Diet Strategies for Weight Loss and Weight
+the cornerstone of weight-management strategies, and pharmaco- medical monitoring according to obesity guidelines.12 However, a
+Loss Maintenance logic and surgical interventions also aim to improve dietary man- recent review suggested that a VLCD used in combination with
+agement. behavioral programs can provide greater long-term weight loss than
+Ju Young Kim* Complex factors shape and influence diets, especially for weight behavioral programs alone, and that it is tolerable and has few ad-
+Department of Family Medicine, Seoul National University Bundang Hospital, Seongnam, Korea management. However, amount of food eaten, type of food con- verse effects.17 Additionally, a VLCD with meal replacement is ef-
+sumed (macronutrient composition), and meal timing of meals are fective for achieving diabetes remission in individuals with obesity
+Obesity has become one of the most important public health problems worldwide, which suggests the need for
+Received June 25, 2020 the key components of weight-management strategies. In this re- lasting for at least 2 years.18,19 Another form of the VLCD—the very-
+evidence-based dietary strategies for weight loss and its maintenance. Weight management depends upon
+Reviewed July 14, 2020
+view, we discuss several evidence-based dietary interventions for low-calorie ketogenic diet (VLCKD)—has been proposed as a prom-
+complex factors such as amount of food eaten, type of food eaten, and timing of meals. In this review, we identi- Accepted August 19, 2020
+fied evidence-based dietary strategies for weight management based on these three components. An energy weight loss and weight-loss management based on these compo- ising option for significant weight loss in a short duration of time
+* Corresponding author
+deficit is the most important factor in weight loss. A low-calorie diet with a low fat or carbohydrate content has Ju Young Kim nents. and stability for 2 years.20 The VLCKD consists of very-low-calorie
+been recommended; however, in some cases, a very-low-calorie diet is required for a short period. Some macro-
+(<700–800 kcal/day) and low-carbohydrate (<30–50 g/day) in-
+nutrient composition-based diets, such as the ketogenic diet or high-protein diet, could be considered in some
+cases, although the potential risks and long-term effectiveness remain unknown. Meal timing is also an impor- https://orcid.org/0000-0001-6018-3337 AMOUNT OF FOOD INTAKE take along with adequate protein consumption (equivalent to 0.8–
+tant factor in weight management, and higher-calorie breakfasts in combination with overnight fasting may Department of Family Medicine, Seoul 1.2 g/day/kg of ideal body weight) for a short period, followed by
+help to prevent obesity. Our review indicated that there is no single best strategy for weight management. National University Bundang Hospital,
+Low-calorie diet vs. very-low-calorie diet a gradual switch to a low-calorie diet. The VLCKD program is rec-
+Hence, strategies for weight loss and its maintenance should be individualized, and healthcare providers must 82 Gumi-ro 173beon-gil, Bundang-gu,
+Seongnam 13620, Korea The key component of diets for weight loss and weight-loss ommended by the Italian Society of Endocrinology in cases of se-
+choose the best strategy based on patient preferences.
+Tel: +82-31-787-7796
+Fax: +82-31-787-4014 maintenance is an energy deficit. Under the “calories-in, calories- vere obesity, sarcopenic obesity, obesity associated with T2DM,
+Key words: Carbohydrate-restricted diet, Fat-restricted diet, High-protein diet, Mediterranean diet, Fasting E-mail: kkamduri@snubh.org
+out” model, dietary management has focused on the concept of “eat hypertriglyceridemia, and hypertension.21 However, this program
+less, move more,” and patients have been advised to consider and is contraindicated in pregnant women; those with type 1 diabetes
+calculate their calorie balance whenever they eat. However, energy mellitus (T1DM), kidney failure, or cardiac arrhythmia; and older
+intake and energy expenditure are dynamic processes influenced patients with frailty.
+by body weight and influence each other.11 Thus, interventions
+aimed at creating an energy deficit through the diet are countered Meal replacements
+by physiological adaptations that resist weight loss. Meal replacements include not only products marketed as soups,
+A low-calorie diet involves consumption of 1,000–1,500 calories shakes, and bars, but also portion-controlled, ready-made meals.
+per day; deficits of 500–750 calories per day have been used for Meal replacements are used instead of “normal” food for one or
+weight loss and are recommended by many obesity societies and more meals to reduce the daily calorie intake. Meal replacements
+guidelines.12-15 Low-calorie diets typically restrict fats or carbohy- can be useful for calorie control because people tend to overesti-
+drates, neither of which has been determined to be more important mate or underestimate the amount of calories in food.22 A system-
+for weight loss if only a calorie deficit occurs. The 2018 the Diet atic review showed the usefulness of meal replacement in weight
+Intervention Examining The Factors Interacting with Treatment loss, demonstrating a mean difference of –2.22 to –6.13 kg com-
+Success (DIETFITS) study found no significant differences in pared with other diets involving support alone.23 Despite their con-
+weight loss between low-fat and low-carbohydrate diets.16 However, venience and affordability, meal replacements are typically not suc-
+meal planning and preparation take effort, and weight-loss mainte- cessful for maintaining weight loss over a long duration.
+nance requires a sustained low-calorie diet. Moreover, metabolic In summary, evidence shows that an energy deficit is the most
+adaptations to decrease energy expenditure can lead to a plateau important factor for weight loss, but metabolic adaptations to de-
+with this type of diet, which individuals may misinterpret as “fail- crease energy intake can also lead to reduced energy expenditure.
+ure” due to “lack of willpower.” Therefore, long-term strategies for inducing an energy deficit are
+J Obes Metab Syndr 2021;30:20-31 https://www.jomes.org | 21
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+needed. If traditional low-calorie diet programs do not work or only for weight reduction, but also to manage T2DM; many random-
+when there is a need for significant weight loss, a VLCD and meal ized controlled trials have been conducted.32,33 A low-carb diet is
+replacement diets can be useful options. defined as a carbohydrate intake below the lower boundary of the
+macronutrient distribution range for healthy adults (45%–65% of
+TYPES OF FOOD EATEN total daily energy)34 and encompasses a range of carbohydrate in-
+take from 50–130 g/day or 10%–45% total energy from carbohy-
+Low-fat diet drates.35,36 With carbohydrate intake <10% (or <20–50 g/day),
+The strategy of reducing total fat intake is widely used for weight nutritional ketosis can occur; this type of diet is called a ketogenic
+loss because a single gram of fat contains more calories than a gram diet. In this situation, daily protein intake is usually 0.8–1.5 g/kg of
+of carbohydrates or protein. A low-fat diet usually consists of a di- ideal body weight to preserve lean body mass.37
+etary composition of fat ranging from very low (≤10% of calories A systematic review and network meta-analysis that compared
+from fat) to more moderate (≤30% of calories from fat and <7%– 14 dietary macronutrient patterns showed that most macronutrient
+10% from saturated fatty acids).24 However, randomized trials have diets resulted in modest weight loss over 6 months, but weight re-
+failed to demonstrate better weight-loss maintenance by reducing duction and improvements in cardiometabolic factors largely dis-
+energy intake from fat than other dietary interventions.25 The re- appeared after 12 months.38 A review of macronutrient pattern-
+sults of a meta-analysis did not support use of low-fat diets over based diets without specific calorie targets suggested that the At-
+other dietary interventions for long-term weight loss.26 kins diet, which involves low carbohydrate intake and high protein
+In another study, although low-density lipoprotein cholesterol intake, was effective for clinically meaningful weight loss at 6 and
+(LDL-C) level was reduced among individuals with obesity who 12 months post-initiation.7 Moreover, a recent review showed that
+followed a low-fat diet, triglyceride level increased and high-density the Mediterranean diet provided the strongest and most consistent
+lipoprotein cholesterol levels decreased.27 Another review revealed benefits for both weight loss and improvement in cardiometabolic
+that diets high in fat and saturated fatty acids could have unfavor- parameters.39 It should be noted that adequate protein intake is ex-
+able effects on the gut microbiota and are associated with an un- tremely important in calorie restriction for preservation of muscle
+healthy metabolic state.28 Consuming large amounts of energy- mass40 regardless of diet.
+dense foods with a high saturated fatty acid content can cause dys-
+biosis in the gut and is associated with obesity and low-grade Ketogenic diet
+chronic inflammation.29 Thus, diets low in saturated fatty acids, as Ketogenic diet is characterized by an extreme reduction in car-
+well as those supplemented with good-quality fat and fibers, are a bohydrate intake (<50 g/day) and a relative increase in the pro-
+reliable and healthy strategy for people with obesity to achieve portions of protein and fat.41 Ketogenic diets may decrease appetite
+weight management and to prevent some types of cancer (includ- and increase lipolysis, which may result in greater metabolic effi-
+ing colorectal cancer and breast cancer)30,31 when combined with ciency for fat consumption and can provide the same thermic ef-
+total calorie restriction. fects as proteins.41 There are several types of carbohydrate-restrict-
+ed diets, some of which limit carbohydrates to certain levels with-
+Low-carbohydrate diet out restricting dietary protein and fat (such as the Atkins diet),
+Although an energy deficit is the most important way to lose whereas others allow moderate carbohydrate intake as well as
+weight, weight regain after successful weight loss is very common moderate protein and fat intake.37
+and may seem inevitable. Thus, alternative dietary approaches for In one study, ketogenic diet showed mixed effects on LDL-C
+weight loss and its maintenance have become an area of interest level and was not superior to other dietary interventions for weight
+among researchers and healthcare professionals. loss.37 Ketogenic diet can suppress hunger during calorie restriction
+Low-carbohydrate (low-carb) diets have been widely used not and may have some therapeutic effects on T2DM, polycystic ovary
+22 | https://www.jomes.org J Obes Metab Syndr 2021;30:20-31
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+syndrome, and cardiovascular and neurological diseases. However, risk of chronic kidney disease; in contrast, low-fat dairy proteins,
+more evidence is required to confirm its effectiveness and safe- fish, and seafood do not have such an effect; proteins from fruits
+ty.37,41,42 Similar to VLCKDs, ketogenic diet is contraindicated in and vegetables actually might be renal protective.55 Considering
+pregnant women; those with T1DM, kidney failure, or cardiac ar- that obesity is associated with chronic kidney disease and a high
+rhythmia; and in older patients with frailty. prevalence of subclinical chronic kidney disease,56 long-term high-
+protein intake, especially from animal sources, should be closely
+High-protein diet monitored in patients with obesity.57
+High-protein diet has been popularized as a promising tool for
+weight loss because it improves satiety and decreases fat mass.43 Di- Mediterranean diet
+etary guidelines for adults recommend protein intake of 46–56 g or The Mediterranean diet involves high intake of fruits and vegeta-
+0.8 g/kg of ideal body weight per day.44 Thus, if dietary protein bles, poultry, and fish and dairy products, and little to no consump-
+consumption exceeds 0.8 g/kg/day, it is considered a high-protein tion of red meat.58 The effectiveness of the Mediterranean diet for
+diet. Usually, a high-protein diet refers to an increased protein in- weight loss and preventing cardiovascular disease is supported by
+take to 30% of the total daily calories or 1–1.2 g/kg of the ideal sufficient evidence.59,60 Its benefits may extend to the reduction in
+body weight per day. The Atkins diet has gained popularity as a cancer risk and significant reduction in digestive cancer risk.61 Ad-
+non-energy-restricting, low-carbohydrate, high-protein, and high- ditionally, adherence to a Mediterranean diet may improve cogni-
+fat diet.45 In addition, diets high in protein with normal amounts of tive function and decrease the risk of dementia, although the evi-
+carbohydrates have been used to improve metabolic parameters.46 dence supporting this association is weak to moderate.62 One sys-
+Diets with higher protein intake can provide significant benefits to tematic review of the Mediterranean diet for long-term weight loss
+prevent weight regain.47 A satiating effect is most significant with reported similar results to other diets despite greater weight loss
+high-protein diets, and this effect helps decrease energy intake and than with a low-fat diet after 12 months.63 Despite this finding, a re-
+maintain successful weight loss. cent review reported that the Mediterranean diet showed the stron-
+The thermic effect of food, which is called diet-induced thermo- gest evidence for weight loss and improvements in cardiometabolic
+genesis, is increased energy expenditure that results from nutrient parameters (Fig. 1).39 The Mediterranean diet is food-based, nutri-
+processing; these values are highest for protein.48 Secretion of gut ent adequate, and focused on vegetables, healthy fats, and fish; thus,
+neuropeptides that induce satiation, such as glucagon-like pep- it is a good strategy for maintaining long-term weight reduction.
+tide-1 or cholecystokinin, is increased in high-protein diets.49 These Low-fat and low-carbohydrate diets are good options for initial
+types of diets also may help preserve lean body mass during weight weight loss; in some cases, a ketogenic diet could be a viable alter-
+loss.50 A meta-analysis showed that protein supplementation can native. High-protein diets may be effective in weight loss mainte-
+help preserve lean body mass in adults and older adults, although nance, and the Mediterranean diet not only helps with weight loss
+the effects on muscle strength and synthesis were less clear.51 maintenance, but also aids in improving cardiovascular risk factors,
+Some studies have indicated that high intakes of protein and fat cognitive functions, and mood.
+can increase the risk of T2DM.52 In addition, diets high in protein
+pose a potential risk to the kidneys due to their associated protein- OTHER DIETARY STRATEGIES
+induced acid loads, such as the sulfuric acid produced from oxida-
+tion of methionine and cysteine.53 High-protein diets do not ad- Paleolithic
+versely influence kidney function in healthy adults, though they are The Paleolithic (Paleo) diet is also known as the hunter-gatherer
+associated with increases in serum urea level and urinary calcium diet, caveman diet, primal diet, or Stone Age diet; all these diets
+excretion, which might be related to a higher risk of kidney stone suggest that our bodies have not evolved to handle highly processed
+formation.54 Protein from red meat consumption may increase the foods.64 This diet follows the nutritional patterns of early humans
+J Obes Metab Syndr 2021;30:20-31 https://www.jomes.org | 23
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+Figure 1. Summary of the results reported by a meta-analysis of randomized controlled trials in adults according to dietary interventions. Green: evidence of a beneficial
+effect (i.e., a decrease in all outcomes except HDL-C); grey: no effect; red: evidence of a detrimental effect (i.e., an increase in all outcomes except HDL-C). The size of the
+circles reflects the number of unique meta-analyses available. BMI, body mass index; TC, total cholesterol; LDL-C, low-density lipoprotein cholesterol; HDL-C, high-density
+lipoprotein cholesterol; TG, triglycerides; HbA1c, glycated hemoglobin; BP, blood pressure; GI, glycemic index; GL, glycemic load; ER, energy restriction; DASH, Dietary Ap-
+proaches to Stop Hypertension. Adapted from Dinu M, et al. Adv Nutr 2020;11:815-33, with permission from Elsevier.39
+who lived in the Paleolithic era, which began more than 2 million different foods raise blood glucose level are ranked in comparison
+years ago and continued until about 10,000 years ago, when humans with absorption of 50 g of pure glucose as a reference (GI=100).67
+started to cultivate plants and domesticate animals. Estimates are A low-GI diet emphasizes exchanging high-GI foods for low-GI al-
+that our ancestors took in 35% of their calories from fat, 35% as ternatives. Nothing is strictly forbidden with the low-GI diet, but
+carbohydrates (mostly fruits and vegetables), and 30% from pro- high-GI foods such as white bread, bagels, cereals, mashed potatoes,
+tein.65 This diet advises consuming lean meat, fish, vegetables, fruits, pasta, and noodles should be replaced by low-GI foods. The low-GI
+and nuts while avoiding grains, dairy products, processed foods, diet offers benefits in managing T2DM and decreasing body weight.68
+and added sugar and salt. A review regarding the Paleo diet and its However, one study found no differences in weight among low-GI
+impact on cardiovascular risk factors suggested that it has favorable diets and a diet based on healthy nutritional recommendations
+effects on lipid profile, blood pressure, and circulating C-reactive among overweight adolescent girls.69 The low-GI diet also does not
+protein concentrations, but the evidence is not yet conclusive.66 provide a complete nutritional picture and does not include recom-
+The Paleo diet emphasizes vegetables and unprocessed foods, but mendations for daily intake of fat, protein, or fiber.
+it is also high in saturated fats, which might increase the risk of car-
+diovascular disease. Nordic diet
+The new Nordic diet is based on unprocessed whole grains,
+Low glycemic index/glycemic load diet high-fiber vegetables, fish, low-fat dairy foods, lean meat of all types
+The glycemic index (GI) is a measurement system that ranks (beef, pork, lamb), beans and lentils, fruit, dense breads, tofu, and
+foods according to effect on blood glucose level; the rates at which skinless poultry.70 This diet recommends more calories from plant
+24 | https://www.jomes.org J Obes Metab Syndr 2021;30:20-31
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+foods and fewer from meat and more foods from the sea, lakes, and 10–25 g of soluble fibers from plant foods, and 50 g of soy protein;
+the wild countryside. It is based on whole and minimally processed meat, poultry, seafood, dairy, and eggs are not allowed. This diet
+foods and is high in both fiber and omega-3 fats. A systemic review also helps reduce LDL-C,86 but its effects on weight loss were small
+showed that adherence to the Nordic diet significantly improved (–0.8 kg to –1.2 kg).87
+body weight.71 However, these types of food may be not easily ac-
+cessible or affordable for everyone and may make the diet difficult TIMING OF MEAL CONSUMPTION
+to maintain.
+Intermittent fasting
+Vegetarian diet Recently, fasting has received interest not only from medical ex-
+There are many reasons to adopt a vegetarian diet for health. perts, but also from members of the general public with an interest
+These diets can lower the risk of ischemic heart disease, T2DM, in health. Intermittent fasting involves regular periods with no or
+and cancer.72 Vegetarian diets can reduce blood pressure,73 lipid very limited calorie intake. The three most widely used regimens
+profiles,74 and inflammatory biomarkers75 and improve glycemic are alternate-day fasting, 5:2 intermittent fasting (fasting or con-
+control76 and other cardiometabolic risk factors.77 This diet ex- suming 900–1,000 calories for 2 days each week), and daily time-
+cludes meat, fish, and poultry, but there are many variations of the restricted feeding (fasting for 16–18 hours a day).88 The benefits of
+diet, including lactovegetarians and lacto-ovo-vegetarians. Dietary intermittent fasting come not only from reduction in calorie intake,
+guidelines recommend vegetarian-patterned diets.78 A systemic re- but also from its effects on metabolic switching to reverse insulin
+view suggested that vegetarian diets reduce mean body weight, but resistance, strengthen the immune system, and enhance physical
+the studies are few and of variable quality.79 Since fish and seafood and cognitive functions.88 Recent reviews on intermittent fasting
+are excluded, this diet is low in omega-3 fats. have suggested that, as a weight-loss strategy, it could benefit pa-
+tients with obesity and has effects comparable to daily calorie re-
+Dietary approaches to stop hypertension striction.89 However, little is known about the long-term sustain-
+The Dietary Approaches to Stop Hypertension (DASH) diet ability and health effects of this type of fasting.
+was originally developed to lower blood pressure without medica- Intermittent fasting focuses on the time window of eating instead
+tion, but it is now considered one of the healthiest eating patterns.80 of calorie calculations or macronutrient composition, helping peo-
+The DASH plan includes many vegetables, fruits, and grains with ple to restrict food intake without having to count calories and to
+an emphasis on whole grains. Low-fat or non-fat dairy foods, pulses, avoid late-night snacking. With this diet, careful attention should be
+nuts, seeds, lean meats, poultry, and seafood are also allowed. The paid to patients being treated with hypoglycemic agents because
+diet limits sodium intake to 2,300 mg/day and can reduce the risk fasting might cause dizziness, general weakness, halitosis, headache,
+of cancer,81 cardiovascular risk factors,82 and both all-cause and cause- chills, and lack of concentration, although no serious adverse events
+specific mortality.83 The DASH diet also aids in losing weight, but have been reported.89
+the differences were relatively small.84
+Meal timing
+Portfolio Recently, much interest has focused on “when to eat.” Meal tim-
+The Portfolio diet is a vegan plan that emphasizes a “portfolio” of ing and the circadian rhythm have raised a novel issue in weight
+foods or food components that lower cholesterol.85 When these management.90 Alterations in circadian rhythms produce bio-
+foods are eaten together as part of a healthy diet, they presumably chemical, physiological, and behavioral circadian rhythm disrup-
+lower LDL-C better than any one of the portfolio foods could tions, which can be caused by the lack of change between day/night
+alone. To include a portfolio of cholesterol-lowering foods, the diet synchronization (such as being exposed to artificial light at night),
+recommends daily consumption of 2 g of plant sterols, 50 g of nuts, eating at night, or a shift in time due to jet lag or shift work.90 Eating
+J Obes Metab Syndr 2021;30:20-31 https://www.jomes.org | 25
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+late can cause circadian disruption, resulting in production of free CONCLUSION
+cortisol, changes in daily rhythms of body temperature, decreased
+resting energy expenditure, and decreased glucose tolerance.91,92 There is no single best strategy for weight management, although
+Thus, timing of meals could have serious implications not only some evidence-based methods have been suggested (Table 1). Re-
+for weight management, but also for development of cardiovascu- ducing daily calorie intake is the most important factor for weight
+lar disease. A recent review confirmed that skipping breakfast in- loss. Low-calorie recipes, especially those for low-fat or low-carbo-
+creased the risk of overweight and obesity.93 Additionally, late- hydrate diets, have been suggested as the first dietary strategy, al-
+night eating was associated with obesity as well as metabolic syn- though in some cases, a VLCD is required for a short period. Ex-
+drome.94 cept for energy deficit, there seems to be no significant difference
+The American Heart Association recommends distributing calo- between macronutrient composition-based diets. Improvement in
+ries over a defined period of the day, consuming a greater share of cardiometabolic factors strongly depends on degree of weight loss.
+the total calorie intake earlier in the day, and maintaining consistent However, as in the Mediterranean diet, increasing consumption of
+overnight fasting periods.95 Eating a high-calorie breakfast and fruits and vegetables and intake of healthy fats (including monoun-
+overnight fasting could have positive effects on prevention of obe- saturated as well as polyunsaturated fats) can be a healthy strategy
+sity, while intermittent fasting may help control calorie intake in for weight loss and maintenance. Additionally, increased protein in-
+people with obesity. take can help with weight loss maintenance.
+Eating breakfast and avoiding late-night eating should be consid-
+Table 1. Dietary strategies for weight loss
+Type Brief description
+Amount of food intake
+Low-calorie diet Consumption of 1,000–1,500 calories and deficit of 500–750 calories per day12-15
+Recommended as the initial strategy
+Very-low-calorie diet Consumption of 600–900 calories per day17
+Can be maintained for a relatively short time period of time (2 weeks to 3 months), followed by a gradual switch to a low-calorie diet18,19
+Considered for severe obesity, sarcopenic obesity, obesity associated with type 2 diabetes, hypertriglyceridemia, and hypertension21
+Meal replacements Useful for controlling calories without placing much effort on calorie calculation or meal planning
+May include either total or partial meal replacements (one or two meals a day)23
+Type of food eaten
+Low-fat diet Consumption of fat as <15%–20% of daily calories, especially saturated fatty acids as <7%–10%24
+Mostly plant-based meals
+Low-carbohydrate diet Consumption of carbohydrates as <45% of daily calories or <130 mg/day32-34
+Recommended as a dietary strategy for type 2 diabetes32,33
+Might be useful for initial weight loss, but long-term results are similar to following a low-fat diet38
+Ketogenic diet Consumption of carbohydrates as <10% of daily calories or <50 mg/day41
+May decrease appetite, but long-term safety is unknown
+High-protein diet Increase protein intake to 30% of total daily calories or 1–1.2 g/kg of ideal body weight43
+Useful in maintaining weight loss and increasing satiety47
+High-protein diets from animal sources should be handled with caution for people with risk of chronic kidney disease.57
+Mediterranean diet Consists of high consumption of fruits and vegetables, poultry, fish, dairy products, and monounsaturated fats, with little to no consumption of red
+meat58
+Helpful in improving cardiometabolic parameters and cognitive function59,60
+Timing of meal consumption
+Intermittent fasting88 Alternate day fasting
+5:2 Intermittent fasting (fasting or consuming <1,000 calories for 2 days each week)
+Daily time-restricted feeding (fasting for 16–18 hours a day)
+Effective as a weight-loss strategy89
+Attention should be paid to patients currently being treated with hypoglycemic agents89
+Meal timing Consume a higher calorie breakfast and comply with overnight fasting to prevent obesity95
+26 | https://www.jomes.org J Obes Metab Syndr 2021;30:20-31
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+ered important dietary strategies not only for weight loss, but also clinical trials. Nutrients 2017;9:822.
+for metabolic health and are based on the physiologic clock. Time- 8. Atallah R, Filion KB, Wakil SM, Genest J, Joseph L, Poirier P,
+restricted eating or intermittent fasting can be considered other op- et al. Long-term effects of 4 popular diets on weight loss and
+tions for weight loss and its maintenance. Maintenance of a low- cardiovascular risk factors: a systematic review of randomized
+calorie intake should be continued throughout an individual’s lifes- controlled trials. Circ Cardiovasc Qual Outcomes 2014;7:
+pan. Thus, the best diet for weight management is one that can be 815-27.
+maintained in the long term. Healthcare providers should consult 9. Cho Y, Hong N, Kim KW, Cho SJ, Lee M, Lee YH, et al. The
+with patients before choosing the optimal diet strategy because effectiveness of intermittent fasting to reduce body mass index
+successful weight loss and its maintenance depend on the patient’s and glucose metabolism: a systematic review and meta-analy-
+choices, preferences, and long-term adherence to the diet plan. sis. J Clin Med 2019;8:1645.
+10. Mendenhall E, Singer M. The global syndemic of obesity, un-
+CONFLICTS OF INTEREST dernutrition, and climate change. Lancet 2019;393:741.
+11. Hall KD, Guo J. Obesity energetics: body weight regulation
+Ju Young Kim is the Editorial Board member of the Journal of and the effects of diet composition. Gastroenterology 2017;
+Obesity & Metabolic Syndrome. However, she is not involved in 152:1718-27.
+the peer reviewer selection, evaluation, or decision process of this 12. Seo MH, Lee WY, Kim SS, Kang JH, Kang JH, Kim KK, et al.
+article. Otherwise, no other potential conflicts of interest relevant 2018 Korean society for the study of obesity guideline for the
+to this article were reported. management of obesity in Korea. J Obes Metab Syndr 2019;
+28:40-5.
+REFERENCES 13. Yi DY, Kim SC, Lee JH, Lee EH, Kim JY, Kim YJ, et al. Clini-
+cal practice guideline for the diagnosis and treatment of pedi-
+1. World Health Organization. Controlling the global obesity atric obesity: recommendations from the Committee on Pe-
+epidemic. Geneva: World Health Organization; 2020. diatric Obesity of the Korean Society of Pediatric Gastroen-
+2. Egger G, Dixon J. Beyond obesity and lifestyle: a review of terology Hepatology and Nutrition. Korean J Pediatr 2019;62:
+21st century chronic disease determinants. Biomed Res Int 3-21.
+2014;2014:731685. 14. Ryan DH, Kahan S. Guideline recommendations for obesity
+3. Smith CJ, Perfetti TA, Hayes AW, Berry SC. Obesity as a source management. Med Clin North Am 2018;102:49-63.
+of endogenous compounds associated with chronic disease: a 15. Turner LR, Harris MF, Mazza D. Obesity management in gen-
+review. Toxicol Sci 2020;175:149-55. eral practice: does current practice match guideline recommen-
+4. Makris A, Foster GD. Dietary approaches to the treatment of dations? Med J Aust 2015;202:370-2.
+obesity. Psychiatr Clin North Am 2011;34:813-27. 16. Gardner CD, Trepanowski JF, Del Gobbo LC, Hauser ME,
+5. Volek JS, Vanheest JL, Forsythe CE. Diet and exercise for weight Rigdon J, Ioannidis JP, et al. Effect of low-fat vs low-carbohy-
+loss: a review of current issues. Sports Med 2005;35:1-9. drate diet on 12-month weight loss in overweight adults and
+6. Johnston BC, Kanters S, Bandayrel K, Wu P, Naji F, Siemieniuk the association with genotype pattern or insulin secretion:
+RA, et al. Comparison of weight loss among named diet pro- the DIETFITS randomized clinical trial. JAMA 2018;319:
+grams in overweight and obese adults: a meta-analysis. JAMA 667-79.
+2014;312:923-33. 17. Parretti HM, Jebb SA, Johns DJ, Lewis AL, Christian-Brown
+7. Anton SD, Hida A, Heekin K, Sowalsky K, Karabetian C, Mutchie AM, Aveyard P. Clinical effectiveness of very-low-energy diets
+H, et al. Effects of popular diets without specific calorie targets in the management of weight loss: a systematic review and
+on weight loss outcomes: systematic review of findings from meta-analysis of randomized controlled trials. Obes Rev 2016;
+J Obes Metab Syndr 2021;30:20-31 https://www.jomes.org | 27
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+17:225-34. 27. Lu M, Wan Y, Yang B, Huggins CE, Li D. Effects of low-fat
+18. Lean ME, Leslie WS, Barnes AC, Brosnahan N, Thom G, compared with high-fat diet on cardiometabolic indicators in
+McCombie L, et al. Primary care-led weight management for people with overweight and obesity without overt metabolic
+remission of type 2 diabetes (DiRECT): an open-label, clus- disturbance: a systematic review and meta-analysis of randomised
+ter-randomised trial. Lancet 2018;391:541-51. controlled trials. Br J Nutr 2018;119:96-108.
+19. Lean ME, Leslie WS, Barnes AC, Brosnahan N, Thom G, 28. Wolters M, Ahrens J, Romaní-Pérez M, Watkins C, Sanz Y,
+McCombie L, et al. Durability of a primary care-led weight- Benítez-Páez A, et al. Dietary fat, the gut microbiota, and met-
+management intervention for remission of type 2 diabetes: abolic health: a systematic review conducted within the MyNew-
+2-year results of the DiRECT open-label, cluster-randomised Gut project. Clin Nutr 2019;38:2504-20.
+trial. Lancet Diabetes Endocrinol 2019;7:344-55. 29. Redondo-Useros N, Nova E, González-Zancada N, Díaz LE,
+20. Chang JJ, Bena J, Kannan S, Kim J, Burguera B, Kashyap SR. Gómez-Martínez S, Marcos A. Microbiota and lifestyle: a
+Limited carbohydrate refeeding instruction for long-term weight special focus on diet. Nutrients 2020;12:1776.
+maintenance following a ketogenic, very-low-calorie meal plan. 30. Ocvirk S, Wilson AS, Appolonia CN, Thomas TK, O’Keefe
+Endocr Pract 2017;23:649-56. SJ. Fiber, fat, and colorectal cancer: new insight into modifi-
+21. Caprio M, Infante M, Moriconi E, Armani A, Fabbri A, Man- able dietary risk factors. Curr Gastroenterol Rep 2019;21:62.
+tovani G, et al. Very-low-calorie ketogenic diet (VLCKD) in 31. Brennan SF, Woodside JV, Lunny PM, Cardwell CR, Cantwell
+the management of metabolic diseases: systematic review and MM. Dietary fat and breast cancer mortality: a systematic re-
+consensus statement from the Italian Society of Endocrinolo- view and meta-analysis. Crit Rev Food Sci Nutr 2017;57:1999-
+gy (SIE). J Endocrinol Invest 2019;42:1365-86. 2008.
+22. Brown RE, Canning KL, Fung M, Jiandani D, Riddell MC, 32. van Zuuren EJ, Fedorowicz Z, Kuijpers T, Pijl H. Effects of
+Macpherson AK, et al. Calorie estimation in adults differing low-carbohydrate- compared with low-fat-diet interventions
+in body weight class and weight loss status. Med Sci Sports on metabolic control in people with type 2 diabetes: a system-
+Exerc 2016;48:521-6. atic review including GRADE assessments. Am J Clin Nutr
+23. Astbury NM, Piernas C, Hartmann-Boyce J, Lapworth S, Ave- 2018;108:300-31.
+yard P, Jebb SA. A systematic review and meta-analysis of the 33. Kelly T, Unwin D, Finucane F. Low-carbohydrate diets in the
+effectiveness of meal replacements for weight loss. Obes Rev management of obesity and type 2 diabetes: a review from
+2019;20:569-87. clinicians using the approach in practice. Int J Environ Res
+24. Liu AG, Ford NA, Hu FB, Zelman KM, Mozaffarian D, Kris- Public Health 2020;17:2557.
+Etherton PM. A healthy approach to dietary fats: understand- 34. Dietary Guidelines Advisory Committee. Scientific report of
+ing the science and taking action to reduce consumer confu- the 2015 Dietary Guidelines Advisory Committee: advisory
+sion. Nutr J 2017;16:53. report to the secretary of health and human services and the
+25. McManus K, Antinoro L, Sacks F. A randomized controlled secretary of agriculture. Washington (DC): U.S. Department
+trial of a moderate-fat, low-energy diet compared with a low of Agriculture; 2015.
+fat, low-energy diet for weight loss in overweight adults. Int J 35. Mansoor N, Vinknes KJ, Veierød MB, Retterstøl K. Effects of
+Obes Relat Metab Disord 2001;25:1503-11. low-carbohydrate diets v. low-fat diets on body weight and
+26. Tobias DK, Chen M, Manson JE, Ludwig DS, Willett W, Hu cardiovascular risk factors: a meta-analysis of randomised con-
+FB. Effect of low-fat diet interventions versus other diet inter- trolled trials. Br J Nutr 2016;115:466-79.
+ventions on long-term weight change in adults: a systematic 36. Sackner-Bernstein J, Kanter D, Kaul S. Dietary intervention
+review and meta-analysis. Lancet Diabetes Endocrinol 2015;3: for overweight and obese adults: comparison of low-carbohy-
+968-79. drate and low-fat diets: a meta-analysis. PLoS One 2015;10:
+28 | https://www.jomes.org J Obes Metab Syndr 2021;30:20-31
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+e0139817. el RH, et al. Dietary protein and weight reduction: a statement
+37. Kirkpatrick CF, Bolick JP, Kris-Etherton PM, Sikand G, Aspry for healthcare professionals from the Nutrition Committee of
+KE, Soffer DE, et al. Review of current evidence and clinical the Council on Nutrition, Physical Activity, and Metabolism
+recommendations on the effects of low-carbohydrate and very- of the American Heart Association. Circulation 2001;104:
+low-carbohydrate (including ketogenic) diets for the manage- 1869-74.
+ment of body weight and other cardiometabolic risk factors: 47. van Baak MA, Mariman EC. Dietary strategies for weight loss
+a scientific statement from the National Lipid Association maintenance. Nutrients 2019;11:1916.
+Nutrition and Lifestyle Task Force. J Clin Lipidol 2019;13: 48. Westerterp KR. Diet induced thermogenesis. Nutr Metab (Lond)
+689-711. 2004;1:5.
+38. Ge L, Sadeghirad B, Ball GD, da Costa BR, Hitchcock CL, 49. Lejeune MP, Westerterp KR, Adam TC, Luscombe-Marsh ND,
+Svendrovski A, et al. Comparison of dietary macronutrient Westerterp-Plantenga MS. Ghrelin and glucagon-like peptide
+patterns of 14 popular named dietary programmes for weight 1 concentrations, 24-h satiety, and energy and substrate me-
+and cardiovascular risk factor reduction in adults: systematic tabolism during a high-protein diet and measured in a respi-
+review and network meta-analysis of randomised trials. BMJ ration chamber. Am J Clin Nutr 2006;83:89-94.
+2020;369:m696. 50. Pasiakos SM, Cao JJ, Margolis LM, Sauter ER, Whigham LD,
+39. Dinu M, Pagliai G, Angelino D, Rosi A, Dall’Asta M, Bresciani McClung JP, et al. Effects of high-protein diets on fat-free mass
+L, et al. Effects of popular diets on anthropometric and cardio- and muscle protein synthesis following weight loss: a random-
+metabolic parameters: an umbrella review of meta-analyses of ized controlled trial. FASEB J 2013;27:3837-47.
+randomized controlled trials. Adv Nutr 2020;11:815-33. 51. Wirth J, Hillesheim E, Brennan L. The role of protein intake
+40. Rondanelli M, Faliva MA, Gasparri C, Peroni G, Spadaccini D, and its timing on body composition and muscle function in
+Maugeri R, et al. Current opinion on dietary advice in order healthy adults: a systematic review and meta-analysis of ran-
+to preserve fat-free mass during a low-calorie diet. Nutrition domized controlled trials. J Nutr 2020;150:1443-60.
+2020;72:110667. 52. Shan R, Duan W, Liu L, Qi J, Gao J, Zhang Y, et al. Low-car-
+41. Paoli A, Rubini A, Volek JS, Grimaldi KA. Beyond weight loss: bohydrate, high-protein, high-fat diets rich in livestock, poul-
+a review of the therapeutic uses of very-low-carbohydrate (ke- try and their products predict impending risk of type 2 diabe-
+togenic) diets. Eur J Clin Nutr 2013;67:789-96. tes in Chinese individuals that exceed their calculated caloric
+42. Gibson AA, Seimon RV, Lee CM, Ayre J, Franklin J, Markovic requirement. Nutrients 2018;10:77.
+TP, et al. Do ketogenic diets really suppress appetite? A sys- 53. Reddy ST, Wang CY, Sakhaee K, Brinkley L, Pak CY. Effect
+tematic review and meta-analysis. Obes Rev 2015;16:64-76. of low-carbohydrate high-protein diets on acid-base balance,
+43. Halton TL, Hu FB. The effects of high protein diets on ther- stone-forming propensity, and calcium metabolism. Am J Kid-
+mogenesis, satiety and weight loss: a critical review. J Am Coll ney Dis 2002;40:265-74.
+Nutr 2004;23:373-85. 54. Schwingshackl L, Hoffmann G. Comparison of high vs. nor-
+44. Berryman CE, Lieberman HR, Fulgoni VL 3rd, Pasiakos SM. mal/low protein diets on renal function in subjects without
+Protein intake trends and conformity with the dietary refer- chronic kidney disease: a systematic review and meta-analysis.
+ence intakes in the United States: analysis of the National Health PLoS One 2014;9:e97656.
+and Nutrition Examination Survey, 2001-2014. Am J Clin Nutr 55. Haring B, Selvin E, Liang M, Coresh J, Grams ME, Petruski-
+2018;108:405-13. Ivleva N, et al. Dietary protein sources and risk for incident
+45. Nagy R. Dr. Atkins’ diet revolution: a review. Va Med Mon chronic kidney disease: results from the atherosclerosis risk in
+(1918) 1974;101:383-5. communities (ARIC) study. J Ren Nutr 2017;27:233-42.
+46. St Jeor ST, Howard BV, Prewitt TE, Bovee V, Bazzarre T, Eck- 56. Garofalo C, Borrelli S, Minutolo R, Chiodini P, De Nicola L,
+J Obes Metab Syndr 2021;30:20-31 https://www.jomes.org | 29
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+Conte G. A systematic review and meta-analysis suggests obe- Low-glycemic index diets as an intervention for diabetes: a
+sity predicts onset of chronic kidney disease in the general systematic review and meta-analysis. Am J Clin Nutr 2019;
+population. Kidney Int 2017;91:1224-35. 110:891-902.
+57. Ko GJ, Rhee CM, Kalantar-Zadeh K, Joshi S. The effects of 69. Rouhani MH, Kelishadi R, Hashemipour M, Esmaillzadeh A,
+high-protein diets on kidney health and longevity. J Am Soc Azadbakht L. The effect of low glycemic index diet on body
+Nephrol 2020;31:1667-79. weight status and blood pressure in overweight adolescent girls:
+58. Shai I, Schwarzfuchs D, Henkin Y, Shahar DR, Witkow S, Green- a randomized clinical trial. Nutr Res Pract 2013;7:385-92.
+berg I, et al. Weight loss with a low-carbohydrate, Mediterra- 70. Mithril C, Dragsted LO, Meyer C, Blauert E, Holt MK, Astrup
+nean, or low-fat diet. N Engl J Med 2008;359:229-41. A. Guidelines for the new Nordic diet. Public Health Nutr
+59. Sánchez-Sánchez ML, García-Vigara A, Hidalgo-Mora JJ, Gar- 2012;15:1941-7.
+cía-Pérez MÁ, Tarín J, Cano A. Mediterranean diet and health: 71. Ramezani-Jolfaie N, Mohammadi M, Salehi-Abargouei A. Ef-
+a systematic review of epidemiological studies and interven- fects of a healthy Nordic diet on weight loss in adults: a sys-
+tion trials. Maturitas 2020;136:25-37. tematic review and meta-analysis of randomized controlled
+60. Liyanage T, Ninomiya T, Wang A, Neal B, Jun M, Wong MG, clinical trials. Eat Weight Disord 2020;25:1141-50.
+et al. Effects of the Mediterranean diet on cardiovascular out- 72. Dinu M, Abbate R, Gensini GF, Casini A, Sofi F. Vegetarian,
+comes-a systematic review and meta-analysis. PLoS One 2016; vegan diets and multiple health outcomes: a systematic review
+11:e0159252. with meta-analysis of observational studies. Crit Rev Food Sci
+61. Barak Y, Fridman D. Impact of Mediterranean diet on cancer: Nutr 2017;57:3640-9.
+focused literature review. Cancer Genomics Proteomics 2017; 73. Lee KW, Loh HC, Ching SM, Devaraj NK, Hoo FK. Effects
+14:403-8. of vegetarian diets on blood pressure lowering: a systematic
+62. Petersson SD, Philippou E. Mediterranean diet, cognitive func- review with meta-analysis and trial sequential analysis. Nutri-
+tion, and dementia: a systematic review of the evidence. Adv ents 2020;12:1604.
+Nutr 2016;7:889-904. 74. Wang F, Zheng J, Yang B, Jiang J, Fu Y, Li D. Effects of vege-
+63. Mancini JG, Filion KB, Atallah R, Eisenberg MJ. Systematic tarian diets on blood lipids: a systematic review and meta-anal-
+review of the Mediterranean diet for long-term weight loss. ysis of randomized controlled trials. J Am Heart Assoc 2015;
+Am J Med 2016;129:407-15. 4:e002408.
+64. Challa HJ, Bandlamudi M, Uppaluri KR. Paleolithic diet. Trea- 75. Haghighatdoost F, Bellissimo N, Totosy de Zepetnek JO, Rou-
+sure Island (FL): StatPearls; 2020. hani MH. Association of vegetarian diet with inflammatory
+65. Kuipers RS, Luxwolda MF, Dijck-Brouwer DA, Eaton SB, Craw- biomarkers: a systematic review and meta-analysis of observa-
+ford MA, Cordain L, et al. Estimated macronutrient and fatty tional studies. Public Health Nutr 2017;20:2713-21.
+acid intakes from an East African Paleolithic diet. Br J Nutr 76. Yokoyama Y, Barnard ND, Levin SM, Watanabe M. Vegetari-
+2010;104:1666-87. an diets and glycemic control in diabetes: a systematic review
+66. Ghaedi E, Mohammadi M, Mohammadi H, Ramezani-Jolfaie and meta-analysis. Cardiovasc Diagn Ther 2014;4:373-82.
+N, Malekzadeh J, Hosseinzadeh M, et al. Effects of a paleolith- 77. Viguiliouk E, Kendall CW, Kahleová H, Rahelić D, Salas-Sal-
+ic diet on cardiovascular disease risk factors: a systematic re- vadó J, Choo VL, et al. Effect of vegetarian dietary patterns
+view and meta-analysis of randomized controlled trials. Adv on cardiometabolic risk factors in diabetes: a systematic re-
+Nutr 2019;10:634-46. view and meta-analysis of randomized controlled trials. Clin
+67. Livesey G. Low-glycaemic diets and health: implications for Nutr 2019;38:1133-45.
+obesity. Proc Nutr Soc 2005;64:105-13. 78. Melina V, Craig W, Levin S. Position of the academy of nutri-
+68. Zafar MI, Mills KE, Zheng J, Regmi A, Hu SQ, Gou L, et al. tion and dietetics: vegetarian diets. J Acad Nutr Diet 2016;
+30 | https://www.jomes.org J Obes Metab Syndr 2021;30:20-31
+Kim JY Diet for Weight Loss and Weight Loss Maintenance
+116:1970-80. disease: a systematic review and meta-analysis of controlled
+79. Barnard ND, Levin SM, Yokoyama Y. A systematic review trials. Prog Cardiovasc Dis 2018;61:43-53.
+and meta-analysis of changes in body weight in clinical trials 87. Jenkins DJ, Boucher BA, Ashbury FD, Sloan M, Brown P, El-
+of vegetarian diets. J Acad Nutr Diet 2015;115:954-69. Sohemy A, et al. Effect of current dietary recommendations
+80. Filippou CD, Tsioufis CP, Thomopoulos CG, Mihas CC, Dim- on weight loss and cardiovascular risk factors. J Am Coll Car-
+itriadis KS, Sotiropoulou LI, et al. Dietary approaches to stop diol 2017;69:1103-12.
+hypertension (DASH) diet and blood pressure reduction in 88. de Cabo R, Mattson MP. Effects of intermittent fasting on
+adults with and without hypertension: a systematic review health, aging, and disease. N Engl J Med 2019;381:2541-51.
+and meta-analysis of randomized controlled trials. Adv Nutr 89. Welton S, Minty R, O’Driscoll T, Willms H, Poirier D, Madden
+2020;11:1150-60. S, et al. Intermittent fasting and weight loss: systematic review.
+81. Ali Mohsenpour M, Fallah-Moshkani R, Ghiasvand R, Khos- Can Fam Physician 2020;66:117-25.
+ravi-Boroujeni H, Mehdi Ahmadi S, Brauer P, et al. Adherence 90. Lopez-Minguez J, Gómez-Abellán P, Garaulet M. Circadian
+to dietary approaches to stop hypertension (DASH)-style diet rhythms, food timing and obesity. Proc Nutr Soc 2016;75:
+and the risk of cancer: a systematic review and meta-analysis 501-11.
+of cohort studies. J Am Coll Nutr 2019;38:513-25. 91. Bandín C, Scheer FA, Luque AJ, Ávila-Gandía V, Zamora S,
+82. Siervo M, Lara J, Chowdhury S, Ashor A, Oggioni C, Mathers Madrid JA, et al. Meal timing affects glucose tolerance, sub-
+JC. Effects of the Dietary Approach to Stop Hypertension strate oxidation and circadian-related variables: a randomized,
+(DASH) diet on cardiovascular risk factors: a systematic re- crossover trial. Int J Obes (Lond) 2015;39:828-33.
+view and meta-analysis. Br J Nutr 2015;113:1-15. 92. Ding G, Gong Y, Eckel-Mahan KL, Sun Z. Central circadian
+83. Soltani S, Arablou T, Jayedi A, Salehi-Abargouei A. Adherence clock regulates energy metabolism. Adv Exp Med Biol 2018;
+to the dietary approaches to stop hypertension (DASH) diet 1090:79-103.
+in relation to all-cause and cause-specific mortality: a system- 93. Ma X, Chen Q, Pu Y, Guo M, Jiang Z, Huang W, et al. Skipping
+atic review and dose-response meta-analysis of prospective breakfast is associated with overweight and obesity: a system-
+cohort studies. Nutr J 2020;19:37. atic review and meta-analysis. Obes Res Clin Pract 2020;14:
+84. Soltani S, Shirani F, Chitsazi MJ, Salehi-Abargouei A. The ef- 1-8.
+fect of dietary approaches to stop hypertension (DASH) diet 94. Gouda M, Matsukawa M, Iijima H. Associations between
+on weight and body composition in adults: a systematic review eating habits and glycemic control and obesity in Japanese
+and meta-analysis of randomized controlled clinical trials. Obes workers with type 2 diabetes mellitus. Diabetes Metab Syndr
+Rev 2016;17:442-54. Obes 2018;11:647-58.
+85. Kendall CW, Jenkins DJ. A dietary portfolio: maximal reduction 95. St-Onge MP, Ard J, Baskin ML, Chiuve SE, Johnson HM, Kris-
+of low-density lipoprotein cholesterol with diet. Curr Athero- Etherton P, et al. Meal timing and frequency: implications for
+scler Rep 2004;6:492-8. cardiovascular disease prevention: a scientific statement from
+86. Chiavaroli L, Nishi SK, Khan TA, Braunstein CR, Glenn AJ, the American heart association. Circulation 2017;135:e96-121.
+Mejia SB, et al. Portfolio dietary pattern and cardiovascular
+J Obes Metab Syndr 2021;30:20-31 https://www.jomes.org | 31

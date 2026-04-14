@@ -1,0 +1,713 @@
+EFSA Journal 2014;12(5):3658
+SCIENTIFIC OPINION
+Scientific Opinion on the substantiation of a health claim related to a
+combination of Bifidobacterium longum LA 101, Lactobacillus helveticus LA
+102, Lactococcus lactis LA 103 and Streptococcus thermophilus LA 104 and
+reducing intestinal discomfort pursuant to Article 13(5) of Regulation (EC)
+No 1924/20061
+EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)2,3
+European Food Safety Authority (EFSA), Parma, Italy
+ABSTRACT
+Following an application from PiLeJe, submitted pursuant to Article 13(5) of Regulation (EC) No 1924/2006 via
+the Competent Authority of France, the Panel on Dietetic Products, Nutrition and Allergies (NDA) was asked to
+deliver an opinion on the scientific substantiation of a health claim related to a combination of Bifidobacterium
+longum LA 101, Lactobacillus helveticus LA 102, Lactococcus lactis LA 103 and Streptococcus thermophilus
+LA 104 and reducing intestinal discomfort. The food that is the subject of the health claim is a combination of
+four bacterial strains—B. longum LA 101, L. helveticus LA 102, L. lactis LA 103 and S. thermophilus LA 104.
+The Panel considers that the food, a combination of B. longum LA 101, L. helveticus LA 102, L. lactis LA 103
+and S. thermophilus LA 104, which is the subject of the health claim is sufficiently characterised. The claimed
+effect proposed by the applicant is ―improves intestinal comfort‖. The Panel considers that reduction of gastro-
+intestinal discomfort is a beneficial physiological effect. The Panel considers that the only human study provided
+for the substantiation of the claim (with limitations) did not find an effect of a combination of the bacterial
+strains being the subject of the claim on gastrointestinal discomfort. The Panel concludes that a cause and effect
+relationship has not been established between the consumption of a combination of B. longum LA 101,
+L. helveticus LA 102, L. lactis LA 103 and S. thermophilus LA 104 and reducing gastro-intestinal discomfort.
+© European Food Safety Authority, 2014
+KEY WORDS
+Bifidobacterium longum LA 101, Lactobacillus helveticus LA 102, Lactococcus lactis LA 103, Streptococcus
+thermophilus LA 104, intestinal discomfort, health claims
+1 On request from the Competent Authority of France following an application by PiLeJe, Question No EFSA-Q-2013-
+00892, adopted on 10 April 2014.
+2 Panel members: Carlo Agostoni, Roberto Berni Canani, Susan Fairweather-Tait, Marina Heinonen, Hannu Korhonen,
+Sébastien La Vieille, Rosangela Marchelli, Ambroise Martin, Androniki Naska, Monika Neuhäuser-Berthold, Grażyna
+Nowicka, Yolanda Sanz, Alfonso Siani, Anders Sjödin, Martin Stern, Sean (J.J.) Strain, Inge Tetens, Daniel Tomé,
+Dominique Turck and Hans Verhagen. Correspondence: nda@efsa.europa.eu
+3 Acknowledgement: The Panel wishes to thank the members of the Working Group on Claims: Carlo Agostoni, Jean-Louis
+Bresson, Susan Fairweather-Tait, Marina Heinonen, Ambroise Martin, Hildegard Przyrembel, Yolanda Sanz, Alfonso
+Siani, Anders Sjödin, Sean (J.J.) Strain, Inge Tetens, Hendrik van Loveren, Hans Verhagen and Peter Willatts for the
+preparatory work on this scientific opinion.
+Suggested citation: EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies), 2014. Scientific Opinion
+on the substantiation of a health claim related to a combination of Bifidobacterium longum LA 101, Lactobacillus helveticus
+LA 102, Lactococcus lactis LA 103 and Streptococcus thermophilus LA 104 and reducing intestinal discomfort pursuant to
+Article 13(5) of Regulation (EC) No 1924/2006. EFSA Journal 2014;12(5):3658, 10 pp. doi:10.2903/j.efsa.2013.3658
+Available online: www.efsa.europa.eu/efsajournal
+© European Food Safety Authority, 2014
+A combination of LA101, LA102, LA103 and LA104 and intestinal discomfort
+SUMMARY
+Following an application from PiLeJe, submitted pursuant to Article 13(5) of Regulation (EC) No
+1924/2006 via the Competent Authority of France, the Panel on Dietetic Products, Nutrition and
+Allergies (NDA) was asked to deliver an opinion on the scientific substantiation of a health claim
+related to a combination of Bifidobacterium longum LA 101, Lactobacillus helveticus LA 102,
+Lactococcus lactis LA 103 and Streptococcus thermophilus LA 104 and reducing intestinal
+discomfort.
+The scope of the application was proposed to fall under a health claim based on newly developed
+scientific evidence. The application includes a request for the protection of proprietary data.
+The food that is the subject of the health claim is a combination of B. longum LA 101, L. helveticus
+LA 102, L. lactis LA 103 and S. thermophilus LA 104. The Panel considers that the food, a
+combination of B. longum LA 101, L. helveticus LA 102, L. lactis LA 103 and S. thermophilus LA
+104, is sufficiently characterised.
+The claimed effect proposed by the applicant is ―improves intestinal comfort‖. The target population
+proposed by the applicant is people characterised by a digestive discomfort such as bloating and
+flatulence and change in stool frequency. The Panel considers that reduction of gastro-intestinal
+discomfort is a beneficial physiological effect.
+For the scientific substantiation of the claim, the applicant provided the results of one published
+human study and one in vitro study. The Panel considers that the only human study provided (with
+methodological limitations) did not find an effect of a combination of the bacterial strains being the
+subject of the claim on reducing gastrointestinal discomfort. The Panel considers that the in vitro study
+evaluating survival of the four bacterial strains that are the subject of the claim in an artificial gastro-
+intestinal model does not provide data that can be used for the substantiation of a claim related to
+gastro-intestinal discomfort.
+On the basis of the data presented, the Panel concludes that a cause and effect relationship has not
+been established between the consumption of a combination of B. longum LA 101, L. helveticus LA
+102, L. lactis LA 103 and S. thermophilus LA 104 and reducing intestinal discomfort.
+EFSA Journal 2014;12(5):3658 2
+18314732,
+2014,
+5,
+Downloaded
+from
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3658
+by
+Egyptian
+National
+Sti.
+Network
+(Enstinet),
+Wiley
+Online
+Library
+on
+[22/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+A combination of LA101, LA102, LA103 and LA104 and intestinal discomfort
+TABLE OF CONTENTS
+Abstract .................................................................................................................................................... 1
+Summary .................................................................................................................................................. 2
+Table of contents ...................................................................................................................................... 3
+Background .............................................................................................................................................. 4
+Terms of reference.................................................................................................................................... 4
+EFSA Disclaimer ...................................................................................................................................... 4
+Information provided by the applicant ..................................................................................................... 6
+Assessment ............................................................................................................................................... 6
+1. Characterisation of the food ............................................................................................................. 6
+2. Relevance of the claimed effect to human health ............................................................................. 7
+3. Scientific substantiation of the claimed effect .................................................................................. 7
+Conclusions .............................................................................................................................................. 9
+Documentation provided to EFSA ........................................................................................................... 9
+References ................................................................................................................................................ 9
+Abbreviations ......................................................................................................................................... 10
+EFSA Journal 2014;12(5):3658 3
+18314732,
+2014,
+5,
+Downloaded
+from
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3658
+by
+Egyptian
+National
+Sti.
+Network
+(Enstinet),
+Wiley
+Online
+Library
+on
+[22/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+A combination of LA101, LA102, LA103 and LA104 and intestinal discomfort
+BACKGROUND
+Regulation (EC) No 1924/20064 harmonises the provisions that relate to nutrition and health claims,
+and establishes rules governing the Community authorisation of health claims made on foods. As a
+rule, health claims are prohibited unless they comply with the general and specific requirements of this
+Regulation, are authorised in accordance with this Regulation, and are included in the lists of
+authorised claims provided for in Articles 13 and 14 thereof. In particular, Article 13(5) of this
+Regulation lays down provisions for the addition of claims (other than those referring to the reduction
+of disease risk and to children’s development and health) which are based on newly developed
+scientific evidence, or which include a request for the protection of proprietary data, to the Community
+list of permitted claims referred to in Article 13(3).
+According to Article 18 of this Regulation, an application for inclusion in the Community list of
+permitted claims referred to in Article 13(3) shall be submitted by the applicant to the national
+competent authority of a Member State, which will make the application and any supplementary
+information supplied by the applicant available to the European Food Safety Authority (EFSA).
+STEPS TAKEN BY EFSA
+The application was received on 11/11/2013.
+The scope of the application was proposed to fall under a health claim based on newly
+developed scientific evidence.
+The scientific evaluation procedure started on 4/12/2013.
+On 22/01/2014, the Working Group on Claims of the NDA Panel agreed on a list of questions
+for the applicant to provide additional information to accompany the application. The clock
+was stopped on 29/01/2014 and restarted on 05/02/2014, in compliance with Article 18(3) of
+Regulation (EC) No 1924/2006.
+On 05/02/2014, EFSA received the requested information (which was made available to EFSA
+in electronic format on 04/02/2014).
+During its meeting on 10/04/2014, the NDA Panel, having evaluated the data submitted,
+adopted an opinion on the scientific substantiation of a health claim related to a combination
+of B. longum LA 101, L. helveticus LA 102, L. lactis LA 103 and S. thermophilus LA 104 and
+reducing intestinal discomfort.
+TERMS OF REFERENCE
+EFSA is requested to evaluate the scientific data submitted by the applicant in accordance with Article
+16(3) of Regulation (EC) No 1924/2006. On the basis of that evaluation, EFSA will issue an opinion
+on the scientific substantiation of a health claim related to a combination of B. longum LA 101, L.
+helveticus LA 102, L. lactis LA 103 and S. thermophilus LA 104 and reducing intestinal discomfort.
+EFSA DISCLAIMER
+The present opinion does not constitute, and cannot be construed as, an authorisation for the marketing
+of a combination of B. longum LA 101, L. helveticus LA 102, L. lactis LA 103 and S. thermophilus
+LA 104, a positive assessment of its safety, nor a decision on whether a combination of B. longum LA
+101, L. helveticus LA 102, L. lactis LA 103 and S. thermophilus LA 104 is, or is not, classified as a
+foodstuff. It should be noted that such an assessment is not foreseen in the framework of Regulation
+(EC) No 1924/2006.
+4 Regulation (EC) No 1924/2006 of the European Parliament and of the Council of 20 December 2006 on nutrition and
+health claims made on foods. OJ L 404, 30.12.2006, p. 9–25.
+EFSA Journal 2014;12(5):3658 4
+18314732,
+2014,
+5,
+Downloaded
+from
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3658
+by
+Egyptian
+National
+Sti.
+Network
+(Enstinet),
+Wiley
+Online
+Library
+on
+[22/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+A combination of LA101, LA102, LA103 and LA104 and intestinal discomfort
+It should also be highlighted that the scope, the proposed wording of the claim, and the conditions of
+use as proposed by the applicant may be subject to changes, pending the outcome of the authorisation
+procedure foreseen in Article 18(4) of Regulation (EC) No 1924/2006.
+EFSA Journal 2014;12(5):3658 5
+18314732,
+2014,
+5,
+Downloaded
+from
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3658
+by
+Egyptian
+National
+Sti.
+Network
+(Enstinet),
+Wiley
+Online
+Library
+on
+[22/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+A combination of LA101, LA102, LA103 and LA104 and intestinal discomfort
+INFORMATION PROVIDED BY THE APPLICANT
+Applicant’s name and address: PiLeJe, 37 Quai de Grenelle, 75738 Paris Cedex 15, France.
+The application includes a request for the protection of proprietary data in accordance with Article 21
+of Regulation (EC) No 1924/2006 (Drouault-Holowacz et al., 2008).
+Food/constituent as stated by the applicant
+According to the applicant, the food for which a health claim is made is a combination of four
+bacterial strains—Bifidobacterium longum LA 101 (29 %), Lactobacillus helveticus LA 102 (29 %),
+Lactococcus lactis LA 103 (29 %) and Streptococcus thermophilus LA 104 (13 %)—mixed with
+excipients as mentioned below: potato starch (Perfectamyl D6) (quantity per 2.5 g sachet—1.956 g),
+dextrose (ROFEROSE® ST) (0.25 g), maltodextrin (GLUCIDEX®) (0.03 g), chicory fructo-
+oligosaccharides (Beneo®P95), mix of four probiotic strains (0.114 g) and cellulose (Avicell® PH)
+(0.025 g).
+Health relationship as claimed by the applicant
+According to the applicant, the claimed effect is ―improves intestinal comfort‖.
+Wording of the health claim as proposed by the applicant
+The applicant has proposed the following wording for the health claim: ―improves intestinal comfort‖,
+―helps to alleviate/decrease intestinal discomfort‖, ―helps to alleviate/reduces bloating‖ and ―helps to
+alleviate/reduces flatulence‖.
+Specific conditions of use as proposed by the applicant
+The applicant has proposed an intake of one sachet (2.5 g) per day for 28 days. Each sachet has to be
+taken once daily in the fasting state, at least 3 hours after a meal and 15 minutes before the next meal.
+The powder has to be dissolved in water 10 minutes before its ingestion. The target population is
+people characterised by a digestive discomfort such as bloating and flatulence and change in stool
+frequency.
+ASSESSMENT
+1. Characterisation of the food
+The food that is the subject of the health claim is a combination of four bacterial strains—
+Bifidobacterium longum LA 101 (29 %), Lactobacillus helveticus LA 102 (29 %), Lactococcus lactis
+LA 103 (29 %) and Streptococcus thermophilus LA 104 (13 %)—with other food ingredients or
+excipients: 1.96 g potato starch (Perfectamyl D6), 0.25 g dextrose (ROFEROSE® ST), 0.03 g
+maltodextrin (GLUCIDEX®), 0.125 g chicory fructo-oligosaccharides (Beneo®P95) and 0.025 g
+cellulose (Avicell® PH). The concentration of the bacterial strains in colony-forming units (CFU) is
+1010 CFU per sachet (2.9 109 CFU B. longum LA 101; 2.9 109 CFU L. helveticus LA 102;
+2.9 109 CFU L. lactis LA 103; 1.3 109 CFU S. thermophilus LA 104).
+Data related to microbiological safety and stability of the strains were provided.
+The strain B. longum LA 101 (also named R0175) was deposited in the Collection Nationale de
+Cultures de Microorganismes (CNCM) under the deposit number I-3470. The CNCM is a restricted-
+access non-public collection which has the status of International Depositary Authority under the
+Budapest Treaty. Data on phenotypic (morphology, fermentation pattern, biochemical tests) and
+genotypic characterisation of the strain, including species-specific polymerase chain reaction (PCR)
+and 16S rRNA gene and tuf gene sequence analyses for species identification, and pulsed-field gel
+EFSA Journal 2014;12(5):3658 6
+18314732,
+2014,
+5,
+Downloaded
+from
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3658
+by
+Egyptian
+National
+Sti.
+Network
+(Enstinet),
+Wiley
+Online
+Library
+on
+[22/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+A combination of LA101, LA102, LA103 and LA104 and intestinal discomfort
+electrophoresis (PFGE) for strain typing, were provided. The Panel considers that the strain B. longum
+LA 101 is sufficiently characterised.
+The strain L. helveticus LA 102 (also named R0052) was deposited in the CNCM under the deposit
+number I-1722. Data on phenotypic (morphology, fermentation pattern, enzymatic activities, 2D-
+protein analysis) and genotypic characterisation of the strain, including 16S rRNA gene and 16S–23S
+rRNA intergenic region sequence analyses, DNA–DNA hybridisation and amplified ribosomal DNA
+restriction analysis (ARDRA) for species identification, and PFGE for strain typing, were provided.
+According to the applicant, this strain was initially identified as L. acidophilus, but more recently re-
+classified as L. helveticus. The Panel considers that the strain L. helveticus LA 102 is sufficiently
+characterised.
+The strain L. lactis LA 103 (also named R1058) was deposited in the CNCM under the deposit number
+MA 67/4J. Data on phenotypic (morphology, fermentation pattern, biochemical tests) and genotypic
+characterisation of the strain, including 16S rRNA gene sequence analysis for species identification
+and multi-locus sequence typing (MLST), randomly amplified polymorphic DNA (RAPD) and PFGE
+analyses for strain typing, were provided. The Panel considers that the strain L. lactis LA 103 is
+sufficiently characterised.
+The strain S. thermophilus LA 104 (also named R1018) was characterised phenotypically
+(morphology, fermentation pattern, biochemical tests) and genotypically, including 16S rRNA gene
+sequence analysis for species identification and PFGE for strain typing. The strain was deposited in
+the CNCM with the number CNCM-I4691. The Panel considers that the strain S. thermophilus LA 104
+is sufficiently characterised.
+The Panel considers that the food, a combination of B. longum LA 101, L. helveticus LA 102, L. lactis
+LA 103 and S. thermophilus LA 104, which is the subject of the health claim is sufficiently
+characterised.
+2. Relevance of the claimed effect to human health
+The claimed effect proposed by the applicant is ―improves intestinal comfort‖. The target population
+proposed by the applicant is people characterised by a digestive discomfort such as bloating and
+flatulence and change in stool frequency.
+The Panel considers that reduction of gastrointestinal discomfort is a beneficial physiological effect.
+3. Scientific substantiation of the claimed effect
+The applicant performed a literature search in the PubMed database. The following search terms were
+used: ―probiotic‖, ―probiotics‖, ―Lactibiane‖, ―probiotic/ibs‖, ―probiotics/ibs‖, ―probiotic/transit‖,
+―probiotics/transit‖. A manual search was also performed.
+The applicant identified one published human study (Drouault-Holowacz et al., 2008, claimed as
+proprietary) and one in vitro study (Denis et al., unpublished) as pertinent to the claim.
+A placebo-controlled, randomised, double-blind, multi-centre, parallel study by Drouault-Holowacz et
+al. (2008) investigated the effects of daily consumption of the combination of bacterial strains which is
+the subject of the claim on symptoms related to gastro-intestinal discomfort. The study was performed
+in a group of 116 outpatients with irritable bowel syndrome (IBS) according to the Rome II criteria
+and a discomfort/pain score superior or equal to 1 assessed using a 0–3 Likert scale. The combination
+of four bacterial strains which is the subject of the claim, was provided in the form of 2.5 g sachet
+taken once daily or placebo (of identical appearance and identical composition except for the bacterial
+strains) and was given randomly for four weeks. A questionnaire assessing intensity of symptoms was
+completed by the subjects each week. The primary outcome was ―satisfactory relief‖ of overall IBS
+symptoms measured weekly by a binary scale answer (Yes/No) to a question about satisfactory relief
+EFSA Journal 2014;12(5):3658 7
+18314732,
+2014,
+5,
+Downloaded
+from
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3658
+by
+Egyptian
+National
+Sti.
+Network
+(Enstinet),
+Wiley
+Online
+Library
+on
+[22/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+A combination of LA101, LA102, LA103 and LA104 and intestinal discomfort
+of IBS symptoms as reported in a previous study (Kellow et al., 2003). The subjects also had to
+answer a second question related to the relief of symptoms of abdominal discomfort/pain using a scale
+with five different severity descriptors in accordance with Müller-Lissner et al. (2001). It was unclear
+to the Panel whether answers to both questions were used to determine the primary outcome (and how
+results were combined) or if the second question was used only to determine the secondary outcome
+(abdominal pain). Upon a request by EFSA, the applicant indicated that both questions were used for
+the assessment of the primary outcome, defined as ―satisfactory relief‖ of overall IBS symptoms, and
+that relief of pain was treated as a secondary outcome. Other secondary endpoints included weekly
+assessment of discomfort/pain, intensity of abdominal pain using a 10 cm visual analogue scale (0, not
+at all; 10, acute, unimaginable) and self-assessment of stool frequency and consistency. Additionally,
+subjects completed the IBS specific FDD-QoL (Functional Digestive Disorders Quality-of-Life)
+questionnaire and health status Short Form-36 (SF-36) questionnaire at baseline and at the end of the
+treatment.
+The study was adequately powered in relation to primary outcomes. A total of 100 subjects finished
+the study (76 women, mean age 46 years, 48 in the study group and 52 in control group). The reasons
+for drop-outs (one in the placebo group and five in the test group) were given. Characteristics of
+subjects of both groups were reported to be comparable at baseline regarding discomfort/pain score.
+In statistical analysis of the results, the differences in items from questionnaires between the two
+intervention groups were analysed applying the two-sided chi2-test or Fisher exact test, as appropriate.
+Answers on visual analogue scales were measured in centimetres and compared (row values and
+changes expressed in percentages) between groups by the Mann–Whitney test and within groups
+(week 5 and week 1) by Wilcoxon’s rank-sum test. The percentage of variation were calculated using
+the formula ([Wk4 –Wk0]/Wk0) 100. The Panel notes that correction for multiple comparisons was
+not taken into account in the statistical analyses. In the study report, the results were presented as both
+per protocol (PP) (100 subjects) and intention to treat (ITT) (106 subjects) analyses.
+The study reported that the combination of bacterial strains had no effect on the primary outcome,
+―relieving symptoms of IBS‖, compared with placebo (42.6 % of subjects with improvement vs. 42.3
+% subjects with improvement in per protocol analysis, and 37.7 % vs. 42.7 % in ITT analysis). The
+differences in relation to relief of symptoms of abdominal discomfort/pain with the use of five scale
+questionnaires were not statistically significant for each of five time points measured for both PP and
+ITT analyses. The differences in the intensity of pain/discomfort on the visual analogue scale, stool
+frequency and consistency, SF-36 and FDD-QoL were also not statistically significant. Significant
+differences were reported for some components of the questionnaires only and in certain subgroups of
+subjects and were inconsistent at different time points. The Panel notes that results of these secondary
+analyses were inconsistent.
+The Panel notes also that only two of the questionnaires used in the study were validated (SF-36 and
+FDD-QoL), while other questionnaires/scales were previously used in other studies. Upon a request by
+EFSA regarding the validation of questionnaires/scales, the applicant indicated that ―they employed
+definitions of clinically meaningful improvement in IBS as a patient response (yes or not) of
+satisfactory relief of overall IBS symptoms or abdominal pain and discomfort (Irvine et al., 2006) and
+that these definitions are assumed to have faced validation‖. The Panel notes that the previous use of a
+questionnaire/scale is not necessarily a proof of validity and that the applicant has not provided
+specific evidence of the validation of the questionnaires used.
+The Panel considers that this study (with some methodological limitations) did not show an effect of a
+combination of bacterial strains, which is the subject of the claim, on gastro-intestinal discomfort.
+In the second study provided, the survival of the four bacterial strains, a combination of which is the
+subject of the claim, was evaluated in an artificial gastro-intestinal model (TIM) (Denis et al.,
+unpublished). The Panel considers that this study does not provide data that can be used for the
+substantiation of a claim related to gastro-intestinal discomfort.
+EFSA Journal 2014;12(5):3658 8
+18314732,
+2014,
+5,
+Downloaded
+from
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3658
+by
+Egyptian
+National
+Sti.
+Network
+(Enstinet),
+Wiley
+Online
+Library
+on
+[22/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+A combination of LA101, LA102, LA103 and LA104 and intestinal discomfort
+In weighing the evidence, the Panel considers that the only human study (with methodological
+limitations) provided for the substantiation of the claim did not show an effect of a combination of the
+bacterial strains, which is the subject of the claim, on reducing gastro-intestinal discomfort.
+The Panel concludes that a cause and effect relationship has not been established between the
+consumption of a combination of Bifidobacterium longum LA 101, Lactobacillus helveticus LA 102,
+Lactococcus lactis LA 103 and Streptococcus thermophilus LA 104 and reducing gastro-intestinal
+discomfort.
+CONCLUSIONS
+On the basis of the data presented, the Panel concludes that:
+The food, a combination of Bifidobacterium longum LA 101, Lactobacillus helveticus LA
+102, Lactococcus lactis LA 103 and Streptococcus thermophilus LA 104, which is the subject
+of the health claim, is sufficiently characterised.
+The claimed effect is ―improves intestinal comfort‖. The target population proposed by the
+applicant is people characterised by a digestive discomfort such as bloating and flatulence and
+change in stool frequency. The Panel considers that reduction of gastro-intestinal discomfort is
+a beneficial physiological effect.
+A cause and effect relationship has not been established between the consumption of a
+combination of Bifidobacterium longum LA 101, Lactobacillus helveticus LA 102,
+Lactococcus lactis LA 103 and Streptococcus thermophilus LA 104 and reducing gastro-
+intestinal discomfort.
+DOCUMENTATION PROVIDED TO EFSA
+Health claim application on a combination of Bifidobacterium longum LA 101, Lactobacillus
+helveticus LA 102, Lactococcus lactis LA 103 and Streptococcus thermophilus LA 104 and reducing
+intestinal discomfort pursuant to Article 13(5) of Regulation (EC) No 1924/2006 (Claim serial No:
+0401_FR). November 2013. Submitted by PiLeJe.
+REFERENCES
+Denis S, Alric M, Holowacz S, Martin F, Rousseau V and Paul F, unpublished. Collaboration de
+Recherche No ERT 03/01 (suite de la collaboration No ERT02/02, Rapport final).
+Drouault-Holowacz S, Bieuvelet S, Burckel A, Cazaubiel M, Dray X and Marteau P, 2008. A double
+blind randomized controlled trial of a probiotic combination in 100 patients with irritable bowel
+syndrome. Gastroentérologie Clinique et Biologique, 32, 147–152.
+Irvine EJ, Whitehead WE, Chey WD, Matsueda K, Shaw M, Talley NJ, Veldhuyzen van Zanten SJ
+and Design of Treatment Trials Committee, 2006. Design of treatment trials for functional
+gastrointestinal disorders. Gastroenterology, 130, 1538–1551.
+Kellow J, Lee OY, Chang FY, Thongsawat S, Mazlam MZ, Yuen H, Gwee KA, Bak YT, Jones J and
+Wagner A, 2003. An Asia-Pacific, double blind, placebo controlled randomised study to evaluate
+the efficacy, safety, and tolerability of tegaserod in patients with irritable bowel syndrome. Gut, 52,
+671–676.
+Müller-Lissner SA, Fumagalli I, Bardhan KD, Pace F, Pecher E, Nault B and Ruegg P, 2001.
+Tegaserod, a 5-HT4 receptor partial agonist, relieves symptoms in irritable bowel syndrome
+patients with abdominal pain, bloating and constipation. Alimentary Pharmacology and
+Therapeutics, 15, 1655–1666.
+EFSA Journal 2014;12(5):3658 9
+18314732,
+2014,
+5,
+Downloaded
+from
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3658
+by
+Egyptian
+National
+Sti.
+Network
+(Enstinet),
+Wiley
+Online
+Library
+on
+[22/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+A combination of LA101, LA102, LA103 and LA104 and intestinal discomfort
+ABBREVIATIONS
+ARDRA amplified ribosomal DNA restriction analysis
+CFU colony-forming unit
+CNCM Collection Nationale de Cultures de Microorganismes
+DNA deoxyribonucleic acid
+FDD Functional Digestive Disorders
+IBS irritable bowel syndrome
+ITT intention to treat
+MLST multi-locus sequence typing
+PCR polymerase chain reaction
+PFGE pulsed-field gel electrophoresis
+PP per protocol
+RAPD randomly amplified polymorphic DNA
+RNA ribonucleic acid
+SF-36 Short Form-36
+TIM polyfermentor intestinal model
+EFSA Journal 2014;12(5):3658 10
+18314732,
+2014,
+5,
+Downloaded
+from
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3658
+by
+Egyptian
+National
+Sti.
+Network
+(Enstinet),
+Wiley
+Online
+Library
+on
+[22/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License

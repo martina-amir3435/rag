@@ -1,0 +1,576 @@
+Vitamins
+Definition
+vitamins may be defined as potent organic compounds which is found in foods in variable and
+minute quantity, and must be supplied to the animal organisms from external sources, so that
+specific physiological functions, vital to life
+Characteristics of the Vitamins:
+1. The vitamins are widely distributed in nature-both in the animal and vegetable kingdoms
+2. Vitamins can perform their work in very low concentration. Hence, the total daily
+requirement is usually very small.
+3. Vitamins can be stored in the body to some extent, for example, the fat-soluble vitamins
+are stored in the liver and the subcutaneous tissue, vitamin C in adrenal cortex,
+4. Vitamins are partly destroyed and are partly excreted.
+5. Some vitamins are synthesized in the body, (vitamin A from pro-vitamin carotene and
+vitamin D from ultra-violet irradiation of vitamin D-precursors, e.g., ergosterol). Some
+members of the vitamin B complex are synthesized by micro-organisms in the intestinal
+tract. Vitamin C is also synthesized in some animals e.g., rat.
+6. Vitamins are not destroyed in the digestive process and are, therefore, absorbed as such.
+Hence, all vitamins are effective when administered orally.
+7. They do not provide any energy for the animals but they regulate the physiological
+activities functioning as coenzymes.
+8. They processes high specificity of function, each vitamin is related to a definite disease
+which is caused by its deficiency. Its cure is effected only by supply of the same vitamins
+Classification of Vitamins
+Vitamins are essential nutrients that your body needs in small amounts to function.
+Vitamins are generally classified as water-soluble vitamins and fat-soluble vitamins.
+1. Fat-Soluble Vitamins
+Vitamin A, D, E and K are fat-soluble. These are stored in adipose tissues and hence are called
+fat-soluble vitamins.
+2. Water-Soluble Vitamins
+Vitamins in B-group and vitamin C are water-soluble and cannot be stored in our bodies as they
+pass with the water in urine. These vitamins must be supplied to our bodies with regular diets.
+Characteristics of Fat Soluble Vitamins
+Fat-soluble vitamins have specific characteristics that help differentiate them from other
+vitamins.
+Storage: Fat-soluble vitamins are stored in your liver and fatty tissue.
+Longevity: Fat-soluble vitamins last longer in your body, because you do not need them every
+day. They can be tucked away until they are required for such functions as blood clotting, as in
+the case of vitamin K.
+Absorption and Excretion: The fat-soluble vitamins are absorbed through the small intestine
+with dietary fat and are excreted slowly.
+Vitamin A:
+Chemical name:
+Chemically, vitamin A (C H OH) is an unsaturated alcohol called retinol. Vitamin A exists in two
+20 29
+isomeric forms: vitamin A (retinol) is a trans-isomer and occurs naturally, whereas vitamin
+A (dehydroretinal or retional2) is a cisisomer and has 30 – 40% of vitamin A actively.
+2
+Vitamin A aldehyde (retinal) is derived from β-carotene by cleavage at the midpoint of polyene chain
+1
+connecting the β-ionone rings.
+The potency of vitamin A (3-dehydroretinol) is 40% that of vitamin A and it differs from A structurally
+2 1 1
+by the presence of an additional double bond between carbon 3 and 4 of the β-ionone ring.
+Sources:
+a. Plant Sources:
+All pigmented (particularly yellow) vegetables and fruits (e.g., sweet potatoes, carrots, pumpkins,
+papayas, tomatoes, apricots and peaches) and the leafy green vegetables which supply pro-vitamin A
+(carotene) in the diet. Cereals also contain carotene.
+b. Animal Sources:
+Preformed vitamin A (retinol) is supplied by foods of animal origin; they are liver, milk, butter, eggs,
+kidney, the fat of muscle, meats, and fish liver oil which is very rich in the vitamin.
+Functions:
+• Retinol (vitamin A aldehyde) combines with lysine residues of opsin protein to form
+rhodopsin pigments of rod cells of retina, so it is essential for night vision,
+• Retinoic acid (vitamin A acid) has some anticancer effects,
+• Vitamin A maintains the integrity of epithelial cells; permeability of cell membranes as
+well as the membranes of organelles,
+• In young animals vitamin A causes growth, formation of bones and teeth.
+Daily requirements
+Adults-5000IU
+Pregnant women-6000 to 8000 IU
+Children 2000-3000 IU 1 IU=0.3mg retinol 0.6mg β-carotene
+Deficiency Symptoms:
+Vitamin A deficiency causes the defective night vision called night blindness (nyctalopia or
+Henerolopia). Vitamin A is essesntial for synthesis of rhodopsin pigment which is very important
+for vision in dim light. When vitamin A deficient rhodopsin cannt be synthesized .this leads to a
+failure of vision in dim light
+In children deficiency of vitamin A causes xerophthalmia (drying of conjunctiva)
+2
+keratomalacia (ulceration and softening of cornea) that may lead to complete blindness,
+(iii) Toad’s skin is another detectable early symptom of vitamin A where the skin becomes dry
+and rough particularly in the lateral part of forearms and sides of thigh.
+Vitamin D:
+Clinical name:
+Clinically, Vitamin D is called antirachitic vitamin because it possesses the property of curing or
+preventing ticket.
+Chemically Vitamin D is a steroid which is related to calcium metabolism. Hence it is called
+calciferol. Vitamin D exists in 2 forms i.e. Vitamin D (ergocalciferol) and Vitamin
+2
+D (cholecalciferol). They are synthesized from the provitamins by the action of UV-rays of
+3
+sunlight. Because of it, vitamin D is called sunshine vitamin. The provitamin D (ergosterol)
+2
+occurs in plants and the provitamin D (7-dehydrocholesterol) occurs in animals. The term
+3
+vitamin D is no longer used.
+1
+Ergosterol occurs in plants and 7-de-hydro-cholesterol in animals. Ergosterol is unsaturated and
+contains an extra methyl group in its side chain than 7-dehydrocholesterol. Ultraviolet irradiation
+from sunlight cleaves B ring of both compounds. Ergocalciferol (Vit. D ) is formed in plants and
+2
+cholecalciferol (Vit D ) is formed in exposed skin. Both vitamins are of equal potency giving rise
+3
+to D calcitriol and D calcitriol.
+2 3
+The most important D vitamins are D (activated ergosterol) or ergocalciferol or viosterol and
+2
+D (activated 7-dehydrocholesterol, cholecalciferol) on the basis of nutrition.
+3
+Provitamin D (ergosterol) occurs in the plant kingdom; whereas vitamin D occurs in fish liver
+2 3
+oil in nature.
+Sources:
+Vit. D obtained from fish liver oil, egg, milk, butter, ghee etc.
+3
+Daily requirements
+Adults-200IU
+Pregnant women-400 IU
+1IU=0.025 micro grams
+Functions:
+• Vitamin D is also considered as a prohormone which gives rise to a hormone colcitriol
+3
+(1, 2, 5 Dihydroxy cholecalciferol) by various metabolic changes. Calcitriol has a role in
+calcium and phosphate metabolism,
+• Vitamin D activates the transcription of mRNA for calcium binding protein,
+• It helps in the growth and development of bone and teeth,
+• Increase the excretion of phosphate.
+Deficiency symptoms:
+Vitamin D deficiency leads to rickets in children and osteomalacia in adult.
+Osteomalacia
+Osteomalacia refers to a marked softening of your bones, most often caused by severe vitamin D
+deficiency.
+When osteomalacia is in its early stages, you might not have symptoms, although signs of
+osteomalacia might show on an X-ray or other diagnostic tests. As osteomalacia progresses, you
+might develop bone pain and muscle weakness.
+The dull, aching pain associated with osteomalacia most commonly affects the lower back,
+pelvis, hips, legs and ribs. The pain might be worse at night or when you put pressure on the
+bones. The pain is rarely relieved completely by rest.
+Rickets
+Rickets is the softening and weakening of bones in children, usually because of an extreme and
+prolonged vitamin D deficiency. Rare inherited problems also can cause rickets. Vitamin D helps
+your child's body absorb calcium and phosphorus from food. Not enough vitamin D makes it
+difficult to maintain proper calcium and phosphorus levels in bones, which can cause rickets.
+Signs and symptoms of rickets can include:
+• Delayed growth
+• Delayed motor skills
+• Pain in the spine, pelvis and legs
+• Muscle weakness
+Because rickets softens the areas of growing tissue at the ends of a child's bones (growth plates),
+it can cause skeletal deformities such as:
+• Bowed legs or knock knees
+• Thickened wrists and ankles
+• Breastbone projection
+Vitamin E:
+Clinical name:
+It is called antisterility vitamin or fertility vitamin because of its requirement in proper functioning of
+reproductive system. Tocopherol (tokes = child birth; phero = to bear, ol = alcohol)
+Structure
+a. Vitamin E refers to a group of compounds known as tocopherols.
+b. Four tocopherols namely α-, β-, γ- and δ- have been isolated. β- and γ-tocopherols have two
+methyl groups in the aromatic nucleus whereas α-tocopherol has three methyl groups in the
+aromatic nucleus and δ- has only one methyl group.
+c. Tocopherols are soluble in fat solvents and destroyed in an alkaline medium. The vitamin
+activity is destroyed by oxidation.
+d. The tocopherols are largely methyl derivatives of the parent compound tocol; they are yellow
+oily substances.
+e. Some tocopherols are derivatives of tocotrienol which contains three double bonds in the
+aliphatic side chain and is, therefore, terpenoid in structure.
+Source:
+Vegetable oil, leafy vegetables, milk, cheese, egg, meat etc.
+Daily Requirements:
+Adults: 25-30 mg.
+Function:
+• It acts as an antioxidant and prevents oxidation of vitamin A, K, essential fatty acids.
+• It keeps the skin glowing by reducing keratinization. Hence, it is also called as beauty
+vitamin,
+• It helps in the normal functioning of skeletal muscles, gonads and renal tubules.
+• Vitamin E prevents the per-oxidative changes in membranes of mitochondria and helps in
+maintaining the smooth translocation of phosphate ions into mitochondria. So the
+oxidative phosphorylation is enhanced.
+• It prevents the hepatic necrosis produced by the lack of sulphur containing amino acids in
+dietary proteins.
+• It prevents development of cerebral disorder.
+Deficiency symptomes:
+a. Increased susceptibility of erythrocytes to hemolysis by hydrogen peroxide and decrease in the
+erythrocyte lifespan in human adult males.
+b. Anemia, edema and skin changes are observed in infants when fed unsaturated oils.
+c. Decreased erythrocyte lifespan, hemolysis, creatinuria and ceriod deposition in malabsorption
+syndromes in children.
+d. Smaller testis and permanent sterility in male rats.
+e. Resorption of foetus in female rats.
+f. Increased oxygen consumption by skeletal muscle.
+g. Hepatic necrosis.
+h. Anemia occurs in pregnant and lactating women and in newborn infants due to the deficiency
+of vitamin E.
+i. Its deficiency causes neurologic disorder.
+j. Vitamin E deficiency causes muscular dystrophy leading to the increased oxidation of
+polyunsaturated fatty acids in the muscle with a consequent rise in O consumption and peroxide
+2
+production which causes an increase in hydrolase activity producing muscular dystrophy and
+exhibiting increased respiration.
+k. Production of nocturnal muscle cramp.
+l. Its deficiency causes fibrocystic breast disease and atherosclerosis.
+Vitamin K:
+Clinical name:
+It is called antihemorrhagic vitamin or vitamin for blood clotting or coagulation vitamin.
+Chemically vitamin K is a naphthoquinone derivative. Naturally it occurs in two forms, i.e.
+vitamin K (phylloquinone) and vitamin K (menaquinone or farnoquinone). The vitamin
+1 2
+K (mendione) is a synthetic product.
+3
+Structure
+a.The several substances (natural and synthetic) with vitamin K (anti-hemorrhagic) activity are
+naphthoquinones.
+b. Two naturally occurring vitamins K have been identified. Vitamin K was isolated originally
+from alfalfa and vitamin K was originally isolated from putrid fish meal. Menadione is the most
+2
+important of the synthetic vitamins K.
+c. The natural vitamins K are “fat-soluble” vitamins. The synthetic vitamins K are lacking the
+long hydrocarbon chain and hence are soluble in water to some extent.
+Source:
+Green leafy vegetables, soybean, carrots, potatoes, milk, fish and meats etc.
+Daily Requirements:
+The average diet contains adequate amounts of vitamin K and K being synthesized by bacteria
+1 2
+in the intestine. So the vitamin K deficiency has not been reported in healthy individuals except
+in newborn infants fed on mother’s milk when mother’s diet has low vitamin K content.
+Physiological Functions:
+a. Vitamin K catalyzes the synthesis of prothrombin by the liver after transcription from
+information carried on messenger RNA.
+b. It reduces the prothrombin time.
+c. It. regulates the synthesis of plasma clotting factors (factors VII, IX and X).
+d. Vitamin K is an essential component of the phosphorylation processes involved in
+1
+photosynthesis in green plants. It is also involved in oxidative phosphorylation in animal tissues.
+e. Vitamin K is involved in the maintenance of normal levels of blood clotting factors II, VII, IX
+and X, all of which are synthesized in the liver initially as inactive precursor proteins.
+f. Vitamin K acts as cofactor of the carboxylase that forms γ-carboxyglutamate residues in
+precursor proteins.
+g. Vitamin K is used therapeutically as an antidote to poisoning by dicoumarol-type drugs. The
+quinone forms of vitamin K will bypass the inhibited epoxide reductase and provide a potential
+source of the active hydroquinone form of vitamin K.
+h. Vitamin K acts as a cofactor of carboxylase.
+i. Vitamin K is required for absorption of fat.
+Deficiency symptomes:
+a. The deficiency of Vit. K leads to a lowering of prothrombin level and increased clotting time
+of blood. This may lead to hemorrhagic conditions.
+b. Vitamin K deficiency causes hemorrhagic disease of the newborn.
+c. Vitamin K deficiency is caused by fat malabsorption which may be associated with pancreatic
+dysfunction, biliary disease, atrophy of the intestinal mucosa or any cause of steatorrhea.
+d. Sterilization of the large intestine by antibiotics can result in deficiency when dietary intake is
+limited.
+e. Short circuiting of the bowel as a result of surgery may also cause deficiency which may not
+respond even to large doses of vitamin K. Water-soluble form of vitamin K (vitamin K ) is alone
+3
+useful in such cases.
+WATER SOLUBLE VITAMINS
+A vitamin that can dissolve in water. Water-soluble vitamins are carried to the body's tissues but
+are not stored in the body. They are found in plant and animal foods or dietary supplements and
+must be taken in daily. Vitamin C and members of the vitamin B complex are water-soluble.
+Vitamin B-Complex:
+It includes at least 10-11 different water soluble vitamins. They are grouped together as B-
+complex because all the members’ acts as coenzymes and their actions are closely related.
+Vitamin B1- Thamine
+Vitamin B1, also called thiamine, is a B complex vitamin On account of its curing action against
+beri beri. It is commonly known as antiberiberi factor . According to the University of Maryland
+Medical Center (UMM), thiamine was named B1 because it was the first B complex vitamin to
+be discovered.
+Structure
+Thiamine is readily soluble in water. It is stable in acid medium. It is destroyed when autoclaved
+at 120°C for 30 minutes. It is destroyed even at room temperature in an alkaline medium.
+Sources
+There are many natural ways to add thiamine-rich foods to an everyday diet. Food sources of
+thiamine include beef, liver, dried milk, nuts, oats, oranges, pork, eggs, seeds, legumes, peas and
+yeast. Foods are also fortified with thiamine. Some foods that are often fortified with B1 are
+rice, pasta, breads, cereals and flour.
+Dosage
+• Males who are 14 and older should consume 1.2 milligrams per day (mg/day).
+• Females who are 14 to 18 years old should consume 1.0 mg/day.
+• Females who are 19 and older should consume 1.1 mg/day, though women who are pregnant or
+breastfeeding may need more and should consult her doctor.
+Functions
+• Thiamine is essential for growth.
+• It is essential for maintaining the nerves in normal condition.
+• It undergoes reaction with ATP in which two terminal phosphate from ATP are
+transferred to form thiamine pyrophosphate(TPP). TPP acts as a coenzyme in glycolysis
+pathway as well as in krebs cycle.
+Deficiency Manifestation:
+I. Beriberi:
+It is a nutritional disorder i.e. thiamine deficiency.
+Three forms of disease are:
+(a) Wet beriberi:
+(Oedema is the most prominent feature and develops rapidly in the legs, face etc.
+Anorexia and dyspepsia are present.
+The calf muscles are tense, slightly swollen and tender on pressure (pins and needles).
+The pulse is fast.
+The apex beat of heart is displaced outwards.
+(b) Dry beriberi:
+The essential feature is polyneuropathy.
+The subject needs stick to stand and walk and finally becomes bedridden.
+The concentrations of pyruvic acids and lactic acids are increased.
+Transketolase activity of red cells is decreased.
+The muscles become wasted and weak and it is difficult to walk.
+(c) Infantile beriberi:
+This occurs in breast-fed infants between 2nd to 5th months.
+In acute form—Cardiac failure develops, the mother notices that infant is restless, cries a lot, is
+passing less urine, than normal. The infant may be cyanosed with dyspnoea and tachycardia and
+may die within 24 to 48 hours.
+In chronic form—the main symptoms are due to gastrointestinal disturbances. There is
+constipation and vomiting. The child is fretful and sleeps poorly.
+Polyneuritis in birds
+Polyneuritis may be seen in mature birds ~3 wk after they are fed a thiamine-deficient diet. As
+the deficiency progresses, birds may sit on flexed legs and draw back their heads in a star-
+gazing position. Retraction of the head is due to paralysis of the anterior neck muscles. Soon
+after this stage, chickens lose the ability to stand or sit upright and topple to the floor,
+VitaminB2(Riboflavin)
+It was first isolated from milk hence the erlier name was Lactoflavin. It was also known as
+ovaflavin(from egg) ans hepatoflavin(from liver). It is popularly called as the yellow enzyme
+because of its colour
+Structure
+It contains an isoalloxazine nucleus.
+It is water-soluble, heat-stable and sensitive to light.
+d. The solution of vitamin B , when exposed to ultraviolet light, emits a strong greenish yellow
+2
+fluorescence.
+e. On oxidation with ultraviolet rays or visible light, it undergoes irreversible decomposition.
+f. It is rapidly destroyed when the solution is exposed to bright light.
+Source
+Riboflavin is widely distributed throughout the plant and animal kingdom
+Rich source=anaerobic fermentating bacteria
+Good source-Milk Liver Kidney heart fish and leafy vegetables are excellent
+Fair source-cereals roots vegetables germinating wheat and barley
+Daily requirements
+Infants 0.4-0.6mg
+Children-0.8-1.2mg
+Adult male 1.5-1.8
+Adult female 1.1-1.4mg
+Pregnant and lactating wokmen1.5-1.9mg
+Functions:
+1 Riboflavin is involved in the regulatory functions of some hormones connected with
+carbohydrate metabolism.
+2 The free riboflavin present in retina is converted by light to a compound involved in
+stimulation of the optic nerve.
+3.Riboflavin is a component of two importantant co enzymes namely
+a. FMN — Flavin mononucleotide
+b. FAD — Flavin adenine dinucleotide
+4. It acts as a coenzyme for enzyme catalysed oxidation-reduction reaction.
+5. It is the component of aerobic dehydrogenase.
+6.This is one of the component of respiratory chain for the trans-part of electron:
+Deficiency disease:
+a. Lips—Redness and shiny appearance of lips.
+b. Cheilosis—Lesions at the mucocutaneous junction at the angles of mouth leading to painful
+fissures.
+c. Tongue—Painful glossitis, the tongue assuming a red purple (magenta) colour.
+d. Seborrheic dermatitis—Scaly, greasy, desquamation chiefly about the ears, nose and
+nasolabial folds.
+e. Eyes—May lead to corneal vascularization and inflammation with cloudiness of cornea,
+watering, burning of eyes, photophobia and cataract.
+Vit. B Niacin (Nicotinic Acid):
+3-
+During 1922-1928 Goldberger and coworkers treated the disease pellagra in human beings
+Goldberger named niacin as the Pellagra-Preventive (P-P) factor. As this vitamin ha a curing
+avtion against Black tongue disease in Dogs it is also called as antiblack tongue factor
+Structure
+Niacin is pyridine 3-carboxylic acid. It occurs in tissues as niacin amide (nicotinamide) It is
+soluble in water. It is stable to heat and not destroyed by autoclaving at 120°C for 20 minutes in
+acid or alkaline medium Excess nicotinic acid is not stored in the body.
+Source
+Richest source: yeast, rice polishing
+Good source: Meat liver and poultry
+Fair source: milk , eggs, tomatoes, leafy green vegetable
+Poor source: Most fruits and vegetables
+Functions:
+• Nicotinic acid is essential for the normal functioning of the skin, intestinal tract and the
+nervous system.
+• It is essential for growth
+• It prevents pellagra(rough skin)
+• Nicotinic acid is used therapeutically for lowering plasma cholesterol.
+• It is a component of two coenzymes NAD (di-hydro-nicotinamide adenine) and
+NADP(di-hydro-nicotinamide adenine dinucleotide phosphate). These coenzymes play an
+important role in metabolism by acting as hydrogen and electron transfer agents by
+means of reversible oxidation and reduction.
+• Neacin has a great importance in human nutrition as well as in the requirements of many
+other organisms including bacteria and yeast.
+Deficiency Disease:
+The deficiency of niacin causes the disease pellagra. The clinical features of the disease include
+three D’S-dermatitis (lesion of skin of face, neck, knees, breasts, thick and scaly skin), diarrhoea,
+dementia (headache, depression, anxiety, insomnia and forgetfulness).
+Vitamin B5-(Panthonic acid)
+Williams and co-workers isolated this vitamin in a pure form as its calcium salt.
+On account of its wide distribution it is called as panthonic acid (panthos means everyehere)
+Structure:
+Pantothenic acid consists of β-alanine and pantoic acid joined through a peptide bond. It is
+highly soluble in water. It is stable to autoclaving at 120°C for 30 minutes in neutral solution but
+is destroyed in acid or alkaline medium.
+Source
+Richest source: Jelly
+Good source: yeast liver rice polishing and wheat germ
+Fair source: Meat ,milk , eggs, and leafy vegetables
+Poor source: fruits and vegetables
+Daily requirements
+Infants: 1-2mg
+Children:4-5mg
+Adults:5-10mg
+Pregnant and lactating women-10-15mg
+Functions
+• Pantothenic acid is essential for the growth of infants and children
+• Pantothenic acid as a constituent of coenzyme A is required for several fundamental
+reactions in metabolism.
+• significant amount of the cellular pantothenic acid is protein-bound. This form is
+contained in a compound known as acyl carrier protein, a coenzyme required in the
+biosynthesis of fatty acids.
+Deficiency Symptoms:
+Deficiency of this vitamin in humans results in nausea, vomiting, certain gastrointestinal
+disorders, irritability, inadequate growth, anemia, fatty liver, failure in gaining weights.
+Pantothenate deficiency causes burning foot syndrome in prisoners of war and is associated with
+reduced capacity for acetylation.
+Vitamin B6(Pyridoxine)
+It is also named as adermin or antidermatitis factor. It includes 3 compounds Pyridoxine,
+pyridoxal and Pyridoxamine
+Structure:
+The more active derivatives are pyridoxal and pyridoxamine phosphates. Pyridoxine is readily
+soluble in water. It is readily absorbed from the small intestine. The excess amount, if ingested,
+is not stored in the body but is excreted in urine.
+Daily requirements
+Infants: 0.3mg
+Children:0.6-1.2mg
+Adults:1.6-2,0mg
+Pregnant and lactating women-2.5mg
+Functions:
+a. Pyridoxine is essential for the growth of infants.
+b. pyridoxial phosphate acts as a coenzyme
+It is involved in the active transport of amino acid and certain metabolic ions across cell
+membrane
+Deficiency Symptoms:
+Fortunately, deficiency of vitamin B is rare because of its easy availability in most foodstuffs
+6
+and intestinal bacteria are capable of synthesizing vit-B6
+Deficiency gives rise to irritability and depression.
+Deficiency of this vitamin occurs in infants on inadequate milk formulas.
+The major symptoms are convulsions due to depletion of brain
+Vitamin B7 (Biotin)
+It is also called as anti egg white injury factor. Vitamin B7 also known as bioti is one of the
+water soluble and highly essential B complex vitamins. Termed as Vitamin H where the letter H
+represents Haar and Haut, which are german words for “hair and Skin”
+Structure
+Source
+Biotin is widely distributed in natural foods. Intestinal bacteria also supply biotin in large
+proportions
+Richest source: Egg, yolk , kidney molasses
+Good source: yeast, milk, tomatoes
+Fair source: fruits and vegetables and human milk
+Functions
+Biotin is essential for the body’s metabolism. It acts as a coenzyme in a number of metabolic
+pathways involving fatty acids and essential amino acids, as well as in gluconeogenesis
+It helps in conversion of pyruvic acid to oxalo acetic acid
+Succinic dehydrogeninase succinic acid decarboxylase aspartic acid deaminase serine deaminase
+etc are influenced by Biotin
+Daily requirements
+Infants: 10-15 μg
+Children:20-40 μg
+Adults:50-60μg
+Deficiency symptomes
+Although quite rare, biotin deficiency mostly occurs due to a lack of this quintessential
+ingredient from the daily diet. Regular consumption of egg white for several months can lead to
+biotin deficiency due to the avidin content in eggs. Avidin is a type of protein found in eggs,
+which binds tightly with the biotin in the intestines and prevents them to get absorbed by the
+body or function properly.
+Some of the signs of biotin deficiency are characterized by loss of hair, dry brittle nails, scaly,
+red rash around the eyes, nose, and mouth, dry eyes, scaly dry skin causing dermatitis,
+conjunctivitis, sore tongue, nausea, vomiting and loss of appetite. Other symptoms are related to
+psychological or neurological problems, which include depression, types of insomnia,
+hallucinations, lethargy, numbness and tingling sensation in the arms and legs.
+Vitamin B9 (Folic Acid)
+This vitamin was obtained from spinach leaf and this led to its nomenclature as folic acid. The
+official name of this vitamin is folacin
+Structure
+Folic acid (folacin, pteroylglutamic acid) is a compound made up of the Pteridine nucleus, P-
+amino-benzoic acid and glutamic acid. Folic acid is soluble in water
+Source
+Richest source: yeast, Liver Kidney, wheat
+Good source: Meat, fish green leaf vegetables
+Fair source: milk, potato rice tomato banana etc
+Functions
+It functions as a coenzyme
+Its main role is in the formation and maturation of red blood cells
+It takes part in the synthesis of purines, hence they are fundamentally involved in the growth and
+reproduction of cells
+Daily requirements
+Infants: 50 μg
+Children:100-300μg
+Adults:400μg
+Pregnant women-800 μg
+Deficiency
+The deficiency gives rise to a megaloblastic anemia. The nuclei of the neutrophil polymorpho-
+nuclear leukocytes contain more than the normal number of lobes. Other deficiency
+manifestations include retardation of growth, weakness, infertility, inadequate lactation in
+females
+Vitamin B (Cyanocobalamin)
+12
+Vitamin B is a member of the vitamin B complex. Vitamin B contains cobalt and therefore is
+12 12
+also known as cobalamin.
+Vitamin B was discovered from its relationship to the disease pernicious anemia, which is an
+12
+autoimmune disease that destroys parietal cells in the stomach that secrete intrinsic factor
+Source
+Vitamin B12 is present only in the foods of animal origin. It is not present in plants, Bacterial
+synthesis of cobalmine occurs in human colon but it is not obsorbed
+Richest source: Liver Kidney,
+Good source: Meat, fish
+Fair source: milk, cheese
+Functions
+• It is essential for the development of RBCs
+• It is involved in the synthesis of nuclic acids
+• It stimulate the appetite and general health
+• It cures the symptoms ofperinecious anemia
+• Coenzyme B12 is involved in the biosynthesis of proteins
+• Co enzyme B12 is involved in the synthesis of methyl group
+Daily requirements
+Infants: 0.3μg
+Children:1-2μg
+Adults:3μg
+Pregnant women-4μg
+Deficiency
+It is exclusively synthesized by bacteria and is found primarily in meat, eggs and dairy products.
+Vitamin B is necessary for the synthesis of red blood cells, the maintenance of the nervous
+12
+system, and growth and development in children.
+Deficiency of vitamin B can cause pernicious anaemia,(charactersed by the drastic decrease in
+12
+the blood cell count). RBC becomes abnormally large, haemoglobin content gets low.
+vitamin B neuropathy, (degeneration of nerve fibres and irreversible neurological damage).
+12
+Vitamin C( Ascorbic acid)
+It is one of the important biochemical redox system. Oxidation of ascorbic acid gives rise to
+dehydroascorbic acid. This reaction is reversible. Both forms are physiologically active. This
+reaction has provided the basis of oxidation and reduction process (biological oxidation).
+Structure
+It is white crystal, soluble in water, (insoluble ion fat-sol-vents) and heat-labile. Easily oxidizes
+at 100° C in presence of oxygen.
+Source
+Fresh fruits, mainly citrus fruits, e.g., emblic myrobalan (amlaki), orange, lemon, tomato, pine-
+apple, papaya, etc., fresh vegetables, e.g. cabbage, cauliflower, lettuce, spinach, green peppers,
+beans etc.; properly sprouted pulses, germinating grams etc., are also rich sources. Potato and
+seeds are poor, but rich during germination. In the animal body the adrenal cortex contains a good
+amount. Cow’s milk, meat and fish contain a little.
+Functions:
+a. Since it is very sensitive to reversible oxidation (ascorbic acid ⇋ dehydroascorbic acid) it is
+involved in the oxidation-reduction reactions of the cell.
+b. It is involved in the conversion of folic acid to folinic acid (citrovorum factor).
+c. It is involved in the hydroxylation of steroids in the adrenal cortex.
+d. It is required in the metabolism of tyrosine and phenylalanine and also in tryptophan.
+e. It is required for the absorption of iron and incorporation of plasma iron in ferritin.
+f. It is involved in the formation of norepinephrine.
+g. It is essential for the normal regulation of the colloidal condition of intercellular substances
+including the fibrils and collagen of connective tissue, osteoid tissue, dentine, the intercellular
+‘cement substance’ of the capillaries.
+h. It is concerned in the hydroxylation of proline and hydroxyproline which is an important
+constituent of collagen.
+i. It has an inhibitory effect on the hyaluronidase-hyaluronic acid system.
+j. High doses of vitamin C prevent the common cold or reduce the duration of its symptoms.
+Deficiency Diseases:
+Severe ascorbic acid deficiency produces scurvy. The signs of this deficiency are entirely
+confined to supporting tissues of mesenchymal origin (bone, dentine, cartilage, and connective
+tissue). Scurvy is characterized by failure in the formation and maintenance of intercellular
+materials which causes typical symptoms such as:
+a. Internal haemorrhages.
+b. Loosening of the teeth.
+c. Poor healing of wounds.
+d. Swelling of long bones.
+e. Easy fracturability of bones.
+f. Swelling, sponginess, tenderness and bleeding of gums.
+g. Anemia.
+h. Susceptibility to infections.
+i. General weakness.

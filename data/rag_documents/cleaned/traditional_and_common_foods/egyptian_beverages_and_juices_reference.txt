@@ -1,0 +1,868 @@
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Journal of Health, Population
+https://doi.org/10.1186/s41043-024-00558-8
+and Nutrition
+RESEARCH Open Access
+Unveiling the lockdown effects: exploring
+behavior, dietary habits and weight changes
+in rural Egypt during COVID-19 lockdown:
+a cross-sectional retrospective study
+Mahmoud Reda Saleh1*, Mohamed Y. Abdelgaied2, Naira Galal1, Mai Tarek1, Aya Fouda1 and Khaled Abdelkawy1
+Abstract
+Background The COVID-19 lockdown significantly impacted dietary habits and body weights globally, particularly
+in Egypt, where 57.03% of the population resides in rural areas, despite lack of information. The study examines the
+impact of COVID-19 lockdown on the weight changes of the rural Egyptian population through behavioral, physical,
+and dietary changes.
+Methods A cross-sectional online survey using Microsoft Forms was distributed in Delta regions in Egypt. The
+questionnaire used a modified version of the validated 14- items PREDIMED MedDiet Adherence Screener (MEDAS).
+The first part of the questionnaire addressed sociodemographic variables whereas the second one included
+questions related to dietary, behavioral and weight changes of participants. These changes were statistically tested for
+significance in relation to BMI, gender, home living, current job and family history of obesity.
+Results A total of 306 participated in the study (70% females, 13% obese, 95% living with family, 56% university
+students, and 36% with family history of obesity). Obese showed a significant increase in sweet intake whereas
+underweight and normal weight people displayed a significant decrease in eating desire. Both females and males
+showed significant increase in consumption of fruits and vegetables with significant decrease in soft drink. However,
+women showed a significant decrease in sport activity relative to men. Participants living with family showed an
+increase in sweet intake while those living alone explored an increase in meal frequency. Employers revealed a
+significant decrease in sport activities and people with family history of obesity reported more sleeping times than
+those without family history of obesity.
+Conclusion During Covid-19 quarantine, Egyptians’ eating habits improved, but daily routines were disrupted.
+Raising awareness about obesity and providing guidance on maintaining activity, energy, and mood is crucial for
+future quarantine situations.
+Keywords COVID-19, Dietary habits, Lockdown, Obesity, Egypt
+*Correspondence:
+Mahmoud Reda Saleh
+Mahmoud_pg673@pharm.kfs.edu.eg
+1Faculty of Pharmacy, Kafrelsheikh University, Kafr- Elsheikh 33511, Egypt
+2Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta,
+Edmonton, AB T6G 2E1, Canada
+© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use,
+sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included
+in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will
+need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The
+Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available
+in this article, unless otherwise stated in a credit line to the data.
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 2 of 15
+Introduction
+rural Egyptian population “57.03% of the population pop-
+On January 30, 2020, the World Health Organization ulation”, during the COVID-19 lockdown and to ascertain
+(WHO) designated the COVID-19 a worldwide health their effect on changes in weight [8]. By examining these
+emergency [1]. Several governments have had to make variables, the Egyptian government can more effectively
+difficult choices as a result of this epidemic, beginning develop their suggestions in the event that a lockdown
+with the rigorous lockdown of the majority of social occurs in the future.
+and economic activity, the imposition of curfews, and
+Methods
+the prohibition of any gatherings or parties in groups.
+Universities, secondary schools, and other indoor insti- Study design and participants
+tutions were closed, and the majority of workers were Six of Egypt’s most populous cities were the focus of a
+asked to work from home [2]. The reactions of various cross-sectional study on the country’s rural population.
+populations to the COVID-19 lockdown showed signifi- The study was conducted between April and August
+cant variation. Above all, Egypt requires special attention 2020, during the lockdown period. The participants com-
+because, on February 14, 2020, it was the first nation to pleted a voluntary, anonymous questionnaire, were told
+report a COVID-19 instance involving a Chinese tourist of the aim of the study, and were asked if they could use
+[3]. Being the most populated country in the Arab world, and publish the information gathered. Participants in the
+Egypt has a dense population that is expanding quickly, study had to be adults 18 years of age or older; those who
+which has increased concerns about rapid virus trans- were younger or had concomitant diseases such thyroid,
+mission. Egyptians are renowned for their fondness of diabetes, ascites, active hepatic disease, or renal abnor-
+socializing over food and dining in public [4]. malities were not allowed to participate. By using strict
+People’s basic way of life was abruptly altered, societal selection criteria, it was made sure that any alterations
+structures were upset, and uncertainty about the future that were noticed were solely related to the COVID-19
+created a sense of despondency [5]. In actuality, while lockdown’s impacts.
+some societies experienced growing social isolation, oth-
+ers benefited from a well-organized social system sup- Procedure
+ported by families. In addition, people were compelled An online questionnaire was used, leveraging the user-
+to spend far longer hours at home than normal; this gave friendly Microsoft Forms platform, in order to optimize
+them more time for cooking and snacking in addition to the population’s reach and inclusion. Widespread distri-
+increasing their emotional eating, which was exacerbated bution of the questionnaire was achieved by a number
+by the stress and worry of the situation [4]. In addition, of means, including well-known social media sites like
+participants focused more on foods that boost immunity, Facebook and Twitter, professional networking sites like
+like citrus fruits, ginger, almonds, and turmeric, in the LinkedIn, and instant messaging apps like WhatsApp. A
+hopes of protecting themselves against the COVID-19 snowball sampling technique was used to carry out this
+effects [6]. People kept non-perishable goods like canned distribution plan, allowing participants to distribute the
+food and dried beans in storage because they were dubi- questionnaire across their networks and connections.
+ous about the availability of food and other resources. The online questionnaire was completely voluntary and
+The growth of online grocery shopping has made it we made it clear for the respondents that they can reject
+possible for consumers to more thoroughly assess the to receive survey invitations before starting response to
+nutritional content and quality of food than in the past questionnaire.
+[7]. With the disruption of international trade between
+nations, people’s interest in domestic products increased. Questionnaire design
+Furthermore, the majority of people’s physical activity The survey consisted of 41 closed-ended, multiple-choice
+was restricted by this overeating and the closed, out-of- items divided into two portions, which are shown in Sup-
+door clubs and gyms, which led to an energy imbalance— plementary Table S1. The first part of the study collected
+a high energy intake and a low energy expenditure [4]. data related to sociodemographic variables, including
+Their eating habits, level of physical activity, and state of age, gender, body mass index (BMI), place of residence,
+mind all changed, and this had an impact on their body type of housing, Presence of children, employment sta-
+weight. More research is needed to fully understand tus, and educational attainment. The second section
+these developments in Egypt, as there is currently little consists of 28 questions that particularly address eating
+data available. patterns, such as the quantity and variety of foods, food
+This study used a modified validated questionnaire and drink consumption rates, and behavioral changes,
+that was distributed online across various social plat- such as starting an exercise regimen in addition to chang-
+forms among Egyptian governorates in order to assess ing weight. The second part of the questionnaire was
+the behavioral, physical, and dietary changes made by the a modification of the validated 14-items PREDIMED
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 3 of 15
+Mediterranean diet (MedDiet) Adherence Screener and Shapiro-Wilk statistical tests were used to first deter-
+(MEDAS-14) [9]. Due to religious convictions, alcohol mine if continuous variables were normally distributed.
+consumption was not included in the study because it Data that were not normally distributed were described
+was an uncommon occurrence in Egypt [10]. The original by the median (interquartile range), whereas normally
+MEDAS-14 questionnaire is in English language. How- distributed data were described by the mean (standard
+ever, we made an Arabic translation of the questionnaire deviation). To compare groups for categorical data, a chi-
+to be easily understood by the participants. The added square or Fisher’s exact test was employed. Unless the
+questions to reflect changes in physical activity and Mann-Whitney U test was utilized, an unpaired Student
+behavior were obtained from previous questionnaires in t-test was performed for continuous data with normally
+literatures or from experts or professors in behavior and distributed data. Cronbach’s alpha was used to test the
+public health at University of Kafrelsheikh [4]. The survey reliability (internal consistency) of the scales of the ques-
+employed a closed-ended, multiple-choice format that tionnaire. Tests with P value < 0.05 were identified as sta-
+give specific answer to the question to facilitate a statis- tistically significant.
+tical analysis, like the following example “Consumption
+Results
+of fruit and vegetable” the available answers were 1-nor-
+mal, 2-more, 3-less” and the participants had to choose Demographic characteristics of participants
+only one option. To ensure all questions were answered Although 340 individuals participated in the research,
+to get complete questionnaire application, each question only 306 finished the questionnaire. As shown in Fig. 1,
+has red asterisk (*) to indicate that the question had to a total of 34 participants were eliminated from the
+be answered before submission unless error message will study due to information misrepresentation or incom-
+appear and the questionnaire application would not be plete information such as living outside of Egypt. The
+submitted. By this way, we ensured the completeness of majority of participants (70%) were female, and 83%
+our questionnaire before online submission. As the ques- of them were between the ages of 20 and 35. This study
+tionnaire was conducted using Google Form and to pre- included the densely populated Egyptian rural cities, with
+vent duplicate answers, we limited responses by Google Kafrelsheikh serving as the primary participant city. Fur-
+account. Users responding to the form had to sign in with thermore, according to BMI, 46% of people had a normal
+a Google account to respond, with each account limited body weight, whereas 51% of people were overweight or
+to a single response. Google forms have many advantages obese. In addition, 95% of participants reside with their
+like easy to use, simple and feasible for all participants. families, demonstrating the strong social bonds among
+Before beginning the questionnaire, participants were Egyptians. The majority of participants have advanced
+informed about the purpose of the study and requested degrees because they are better at using surveys. 64% of
+permission to use and publish the data from the study. the participants in total said they had no family history of
+The survey did not have any questions that might reveal obesity as shown in Table 1.
+respondent’s identity. In order to ensure the validity and
+reliability of participants´ response, pilot study of 25 par- General findings
+ticipants who answered the survey twice, separated by As shown in Tables 2 and 16% of those who were evalu-
+five weeks, was carried out to verify the internal valid- ated had lost weight during the lockdown, while 34%
+ity (reliability) of the questions. With Cronbach’s alpha, had gained it. Of these weight changes, about 40% were
+the survey’s reliability was evaluated. In more details, the planned. Out of the total, 36% of people said they didn’t
+implemented pilot study showed good internal validity exercise during lockdown, and 30% reported their exer-
+and reliability with Cronbach’s alpha = 0.85. The Clinical cise rate dropped. Conversely, 10% of participants
+Pharmacy Research Center at Kafrelsheikh University’s increased the intensity of their workout. Precisely, 50% of
+Faculty of Pharmacy supervised the coordination of the the subjects revealed sleeping more than they had previ-
+Egyptian study. ously, while 38% reported no change at all. In addition,
+64% reported experiencing behavioral changes, includ-
+Statistical analysis ing sadness or disinterest. Of the total, 68.3% reported
+The statistical analysis was conducted using version 26 maintaining their normal daily meals. The intake of fruits
+of the Statistical Package for Social Sciences (SPSS) soft- and vegetables increased in 41.5% of the participants
+ware. A statistical analysis was conducted to determine and remained normal within 51.3% of them. The same
+the significance of the dietary, behavioral, and weight way, 72.5% maintained their normal consumption levels
+changes with respect to age, gender, body mass index of protein. Furthermore, 23.5% of participants reported
+(BMI), residential location, living arrangements, and edu- a rise in their consumption of sweets. 27.8% declared to
+cation level. Numbers and percentages were used to rep- have an enhanced appetite, while 53.9% had no changes.
+resent categorical variables. The Kolmogorov-Smirnov
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 4 of 15
+Fig. 1 Flow chart of patients’ enrollment in the study
+Participant´s changes in dietary, behavioral and weight of fruits and vegetables increased in 31.5% of males
+changes in relation to body mass index and 45.8% of females (Pearson’s χ2, p = 0.067). While
+A substantial variation in weight was seen based on the the majority of the males and females, 56.5% and 64%,
+participants’ BMI during the COVID-19 quarantine respectively, did not have any daily takeaway meals,
+(Pearson’s χ2, p < 0.001), with 68.3% and 43% of the obese 27.2% and 32.2% of the males and females, had one daily
+and overweight persons, respectively, reporting a rise in takeaway meal in a car or on the street (Pearson’s χ2,
+weight. Nonetheless, within the same time frame, 66.7% p < 0.001). With 36% of the participants being female and
+of slim people and 65.5% of those with a normal weight 41.3% of the participants being male, the neighborhood
+did not see any changes in their weight. Sweets consump- walks lost their appeal. Apart from 15.2% of men, 33.2%
+tion decreased in 44.4% of underweight participants but of women did not stroll around the neighborhood at all
+increased in 43.9% of obese participants (Pearson’s χ2, while under quarantine (Pearson’s χ2, p = 0.011). In terms
+p = 0.003). Just 7.3% and 18.4% of the obese and over- of cigarette smoking rates, 1.9% of females and 5.4% of
+weight participants, respectively, as well as 21.1% of the males continued to smoke as they had done before the
+normal weight and 22.2% of the underweight partici- quarantine (Pearson’s χ2, p = 0.002). There was a discern-
+pants showed a decrease in eating desire (Pearson’s χ2, ible difference in the sports practices of the sexes dur-
+p < 0.001). Only one third (33.3%) of underweight partici- ing quarantine; 51.1% of the men participated in sports,
+pants reported having behavioral changes, compared to while 77.1% of the women did not practice any sport
+78% of obese participants, 57.9% of overweight partici- (Pearson’s χ2, p < 0.001). Male and female gender differ-
+pants, and 67.6% of normal weight participants. Behav- ences in behavior were significant, accounting for 53.3%
+ioral changes included depressed mood, loss of interest of males and 69.2% of females (Pearson’s χ2, p = 0.008) as
+or pleasure, and thoughts of death or suicide attempt explored in Table 2.
+(Pearson’s χ2, p < 0.05) as shown in Table 2.
+Participant´s changes in dietary, behavioral and weight
+Participant´s changes in dietary, behavioral and weight changes in relation to current job
+changes in relation to gender As revealed in Table 3, The Participants current job was
+Gender did not significantly affect changes in food con- categorized as students, employed, retired, and free
+sumption, the quantity of snacks consumed, or daily individuals. Consumption of cereals remained normal
+routines throughout the quarantine. A decrease in soft in (52.7%) of employed participants, (73.2%) of free par-
+drink intake was observed in 46.7% of males and 46.3% ticipants, (50%) of retired and (73.3%) of students (Pear-
+of females (Pearson’s χ2, p = 0.523), whereas consumption son’s χ2, p = 0.023). Regarding proteins intake, it followed
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 5 of 15
+Table 1 Demographic and anthropometric characteristics of p = 0.016). Behavioral changes showed considerable varia-
+questionnaire respondents during the COVID-19 lockdown in
+tion between these sectors as just over half of employed
+Egypt
+ones (51.6%) didn’t suffer from any behavior changes, in
+Baseline characteristics Frequency, n (%)
+opposition to (70.7%) of free individuals had behavior
+Age (years)
+changes (Pearson’s χ2, p = 0.002), and (71.5%) of students.
+20–35 254 (83%)
+Besides, (48.4%) of the employed participants reported
+35–50 9 (2.9%)
+no alteration in their sleeping hours, while (53.7%) of the
+< 20 39 (13%)
+free ones and (56.4%) of the students had more sleep-
+> 50 4 (1.3%)
+ing hours in comparison to the period before pandemic
+Gender
+(Pearson’s χ2, p = 0.028).
+Male 92 (30%)
+Female 214 (70%)
+Participant´s changes in dietary, behavioral and weight
+BMI
+changes in relation to living home
+Under weight 9 (2.9%)
+Normal 142 (46.4%) The participants’ residences have an enormous effect on
+Overweight 114 (37.25%) their daily schedules and dietary decisions. Just 22.3% of
+Obese 41 (13.4%) participants who lived with family showed an increas-
+Governorate ing tendency in terms of sweets consumption, compared
+Behera 8 (2.6%) to 46.7% of participants who lived alone or with friends
+Qalubia 11 (3.59%) (Pearson’s χ2, p < 0.05). Approximately 46.7% of individu-
+Gharbia 19 (6.2%) als who were alone or living with friends reported having
+Kafrelsheikh 222 (72.55%) more meals per day than they did previously, while 69.8%
+Menoufia 14 (4.57%) of participants who were living with family reported no
+Dakahlia 19 (6.2%) change in daily meal consumption (Pearson’s χ2, p < 0.05).
+Sharqia 13 (4.2%) About half of the respondents who were alone (40%) said
+Place of Residence they never had takeout, compared to a higher percentage
+Alone or sharing friends 15 (4.9%) of those who were living with family (62.9%) who never
+With family 291 (95%) had takeaway. It was discovered that this difference was
+Children in Care statistically significant (p = 0.002). 32.6% of participants
+No 232 (76%) who were living with relatives increased their multivita-
+Yes 74 (24%)
+min intake during the quarantine, compared to 46.7% of
+Work Status
+participants who were living alone or with friends (Pear-
+Employed 91 (30%) son’s χ2, p < 0.02) as presented in Table 3.
+Unemployed 41 (13%)
+Retired 2 (0.7%) Participant´s changes in dietary, behavioral and weight
+Student 172 (56%) changes in relation to family history of obesity
+Education Level
+Individuals were categorized based on whether or not
+Postgraduate degrees “Diploma, MSc, PhD” 52 (17%)
+there was a family history of obesity. During the quar-
+Secondary or less 24 (7.8%)
+antine period, the weight of both those without a family
+Bachelor 230 (75%)
+history of obesity (54.8%) and those with a family his-
+Family history of obesity
+tory of obesity (41.3%) remained normal (Pearson’s χ2,
+No 197 (64%)
+p < 0.02). Of the participants without a family history of
+Yes 109 (36%)
+obesity, 67.5% made unintentional weight adjustments,
+BMI: Body mass index
+whereas 54.1% of those with a family history of obe-
+sity had planned to make weight changes (Pearson’s χ2,
+the same pattern as (69.2%) of employed, (80.5%) of free, p < 0.001). In terms of candy consumption, individuals
+(50%) of retired and (72.7%) of students-maintained pro- without a family history of obesity exhibited an increase
+teins standard intake (Pearson’s χ2, p = 0.039). Most of the in intake (26.9%), whereas those with a family history of
+participants declared that their daily meals remained the obesity saw a decrease in intake (31.2%) (Pearson’s χ2,
+same as before Covid-19; (70.3%) of employed, (65.9%) p = 0.024). Just 2.8% of participants with a family history
+of free, and (68.6%) of students, however all retired par- of obesity were unaware of the negative health impacts of
+ticipants had more daily meals (Pearson’s χ2, p = 0.032). obesity, compared to about 14.2% of those without a fam-
+Around (74.7%) of employed participants didn’t practice ily history (Pearson’s χ2, p = 0.001). The rate of insomnia
+any sports, in addition to (82.9%) of free participants, also varied; in 41.1% of people without a family history of
+(100%) of retired, and (61.6%) of students (Pearson’s χ2, obesity, it stayed normal, whereas in 46.8% of participants
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 6 of 15
+Table 2 Participants’ dietary, behavioral and weight changes in relation to body mass index and gender
+Questions Response Total BMI P Gender P
+Thin (n = 9) Normal (n = 142) Male ( n = 92 ) Female
+Overweight(n = 114) Obese(n = 41) (n = 214 )
+Weight change Normal 153 (50.0%) 6(66.7%) 93(65.5%) 44(38.6%) 10(24.4%) < 0.001* 49 (53.3%) 104(48.60%) 0.437
+during covid-19 Increase 104(34.0%) 1(11.11%) 26(18.3%) 49(43.0%) 28(68.3%) 32(34.8%) 72(33.6%)
+Decrease 49(16.0%) 2(22.22%) 23(16.2%) 21(18.4%) 3(7.3%) 11(12.0%) 38(17.8%)
+Weight change is Yes 123(40.2%) 3(33.33%) 49(34.5%) 51(44.7%) 20(48.8%) 0.229 37(40.22%) 86(40.2%) 0.996
+intended No 183(59.8%) 6(66.67%) 93(65.5%) 63(55.3%) 21(51.2%) 55(59.8%) 128(59.8%)
+Numbers of 0–1 133 (43.5%) 6(66.67%) 61(43.0%) 51(44.7%) 15(36.6%) 0.299 39(42.4%) 94(43.9%) 0.138
+snacks that you 2 107(35.0%) 2(22.22%) 55(38.7%) 38(33.3%) 12(29.3%) 27(29.3%) 80(37.4%)
+consume > 2 66(21.6%) 1(11.1%) 26(18.3%) 25(21.9%) 14(34.1%) 26(28.3%) 40(18.7%)
+The number of Normal 205(67.0%) 6(66.67%) 101(71.1%) 69(60.5%) 29(70.7%) 0.575 65(70.7%) 140(65.4%) 0.607
+consumption of More 56(18.3%) 1(11.11%) 23(16.2%) 24(21.1%) 8(19.5%) 16(17.4%) 40(18.7%)
+cereals Less 45(14.7%) 2(22.22%) 18(12.7%) 21(18.4%) 4(9.8%) 11(12.0%) 34(15.9%)
+Consumption of Normal 222(72.5%) 6(66.67%) 105(73.9%) 82(71.9%) 29(70.7%) 0.952 61(66.3%) 161(75.2%) 0.085
+protein during More 69(22.5%) 3(33.33%) 31(21.8%) 25(21.9%) 10(24.4%) 23(25.0%) 46(21.5%)
+covid-19 Less 15(4.9%) 0(0.00%) 6(4.2%) 7(6.1%) 2(4.9%) 8(8.7%) 7(3.3%)
+Consumption Normal 157(51.3%) 6(66.67%) 73(51.4%) 57(50.00%) 21(51.2%) 0.945 55(59.8%) 102(47.7%) 0.067
+of fruit and More 127(41.5%) 2(22.22%) 60(42.3%) 48(42.1%) 17(41.5%) 29(31.5%) 98(45.8%)
+vegetable Less 22(7.2%) 1(11.11%) 9(6.3%) 9(7.9%) 3(7.3%) 8(8.7%) 14(6.5%)
+Consumption Normal 163(53.3%) 4(44.44%) 90(63.4%) 54(47.4%) 15(36.6%) 0.003* 54(58.7%) 109(50.9%) 0.339
+of sweet during More 72(23.5%) 1(11.11%) 23(16.2%) 30(26.3%) 18(43.9%) 17(18.5%) 55(25.7%)
+covid Less 71(23.2%) 4(44.44%) 29(20.4%) 30(26.3%) 8(19.5%) 21(22.8%) 50(23.4%)
+Consumption of Normal 110(35.9%) 4(44.44%) 47(33.1%) 42(36.8%) 17(41.5%) 0.632 36(39.1%) 74(34.6%) 0.523
+soft drinks during More 54(17.6%) 3(33.33%) 24(16.9%) 19(16.7%) 8(19.5%) 13(14.1%) 41(19.2%)
+covid Less 142(46.4%) 2(22.22%) 71(50.0%) 53(46.5%) 16(39.0%) 43(46.7%) 99(46.3%)
+Consumption of Normal 186(60.8%) 5(55.56%) 87(61.3%) 70(61.4%) 24(58.5%) 0.430 62(67.4%) 124(57.9%) 0.300
+natural juices dur- More 64(20.9%) 0(0.00%) 32(22.5%) 23(20.2%) 9(22.0%) 16(17.4%) 48(22.4%)
+ing covid Less 56(18.3%) 4(44.44%) 23(16.2%) 21(18.4%) 8(19.5%) 14(15.2%) 42(19.6%)
+Changes in daily Normal 209(68.3%) 6(66.67%) 104(73.2%) 68(59.6%) 31(75.6%) 0.235 62(67.4%) 147(68.7%) 0.961
+meals during More 70(22.9%) 2(22.22%) 27(19.0%) 32(28.1%) 9(22.0%) 22(23.9%) 48(22.4%)
+covid Less 27(8.8%) 1(11.11%) 11(7.7%) 14(12.3%) 1(2.4%) 8(8.7%) 19(8.9%)
+Daily meals in car 0 189(61.8%) 6(66.67%) 96(67.6%) 66(57.9%) 21(51.2%) 0.225 52(56.5%) 137(64.0%) 0.001*
+or street 1 94(30.7%) 3(33.33%) 36(25.48%) 40(35.1%) 15(36.6%) 25(27.2%) 69(32.2%)
+2 13(4.2%) 0(0.00%) 6(4.2%) 6(5.3%) 1(2.4%) 7(7.6%) 6(2.8%)
+> 2 10(3.3%) 0(0.00%) 4(2.8%) 2(1.8%) 4(9.8%) 8(8.7%) 2(0.9%)
+Daily meals at 0 236(77.1%) 8(88.9%) 108(76.1%) 90(78.9%) 30(73.2%) 0.872 68(73.9%) 168(78.5%) 0.208
+restaurant 1 66(21.6%) 1(11.1%) 33(23.2%) 22(19.3%) 10(24.4%) 24(26.1%) 42(19.6%)
+> 2 4(1.3%) 0(0.00%) 1(0.7%) 2(1.8%) 1(2.4%) 0(00.00%) 4(1.9%)
+Daily meals or 0 64(20.9%) 2(22.22%) 32(22.5%) 24(21.1%) 6(14.6%) 0.957 24(26.1%) 40(18.7%) 0.402
+snacks while 1 132(43.1%) 4(44.44%) 62(43.7%) 49(43.00%) 17(41.5%) 34(37.0%) 98(45.8%)
+watching TV 2 63(20.6%) 2(22.22%) 25(17.6%) 26(22.8%) 10(24.4%) 20(21.7%) 43(20.1%)
+> 2 47(15.4%) 1(11.11%) 23(16.2%) 15(13.2%) 8(19.5%) 14(15.2%) 33(15.4%)
+Appetite “eating Normal 165(53.9%) 6(66.67%) 89(62.7%) 52(45.6%) 18(43.9%) 0.001* 51(55.4%) 114(53.3%) 0.936
+desire “changes More 85(27.8%) 1(11.11%) 23(16.2%) 41(36.0%) 20(48.8%) 25(27.2%) 60(28.0%)
+during covid − 19 Less 56(18.3%) 2(22.22%) 30(21.1%) 21(18.4%) 3(7.3%) 16(17.4%) 40(18.7%)
+Exercise rate dur- Normal 71(23.2%) 3(33.33%) 40(28.2%) 23(20.2%) 5(12.2%) 0.347 17(18.5%) 54(25.2%) 0.240
+ing covid − 19 More 32(10.5%) 1(11.11%) 16(11.3%) 13(11.4%) 2(4.9%) 13(14.1%) 19(8.9%)
+Less 93(30.4%) 1(11.11%) 42(29.6%) 35(30.7%) 15(36.6%) 32(34.8%) 61(28.5%)
+No 110(35.9%) 4(44.44%) 44(31.0%) 43(37.7%) 19(46.3%) 30(32.6%) 80(37.4%)
+Walking rate in Normal 88(28.8%) 3(33.33%) 50(35.2%) 29(25.4%) 6(14.6%) 0.184 34(37.0%) 54(25.2%) 0.011*
+neighborhood More 18(5.9%) 1(11.11%) 7(4.9%) 8(7.00%) 2(4.9%) 6(6.5%) 12(5.6%)
+during covid − 19 Less 115(37.6%) 1(11.11%) 48(33.8%) 44(38.6%) 22(53.7%) 38(41.3%) 77(36.0%)
+No 85(27.8%) 4(44.44%) 37(26.1%) 33(28.9%) 11(26.8%) 14(15.2%) 71(33.2%)
+Trail or bicycle use Normal 39(12.7%) 1(11.11%) 21(14.8%) 14(12.3%) 3(7.3%) 0.480 16(17.4%) 23(10.7%) 0.170
+during covid − 19 More 6(2.0%) 0(0.00%) 3(2.1%) 2(1. 8%) 1(2.4%) 3(3.3%) 3(1.4%)
+Less 21(6.9%) 0(0.00%) 11(7.7%) 4(3.5%) 6(14.6%) 8(8.7%) 13(6.1%)
+No 240(78.4%) 8(88.89%) 107(75.4%) 94(82.5%) 31(75.6%) 65(70.7%) 175(81.8%)
+Practice any Yes 96(31.4%) 4(44.44%) 46(32.4%) 40(35.1%) 6(14.6%) 0.077 47(51.1%) 49(22.9%) 0.001*
+sports? No 210(68.6%) 5(55.56%) 96(67.6%) 74(64.9%) 35(85.4%) 45(48.9%) 165(77.1%)
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 7 of 15
+T able 2 (continued)
+Questions Response Total BMI P Gender P
+Thin (n = 9) Normal (n = 142) Male ( n = 92 ) Female
+Overweight(n = 114) Obese(n = 41) (n = 214 )
+Seeking nutri- Normal 62(20.3%) 0(0.00%) 32(22.5%) 23(20.2%) 7(17.1%) 0.679 24(26.1%) 38(17.8%) 0.419
+tional advice More 40(13.1%) 2(22.22%) 18(12.7%) 14(12.3%) 6(14.6%) 11(12.0%) 29(13.6%)
+from nutritional Less 27(8.8%) 2(22.22%) 9(6.3%) 11(9.6%) 5(12.2%) 7(7.6%) 20(9.3%)
+specialist during No 177(57.8%) 5(55.56%) 83(58.5%) 66(57.9%) 23(56.1%) 50(54.3%) 127(59.3%)
+covid − 19
+Seeking physical Normal 55(18.0%) 0(0.00%) 30(21.1%) 19(16.7%) 6(14.6%) 0.249 18(19.6%) 37(17.3%) 0.628
+activity advice by More 26(8.5%) 1(11.11%) 13(9.2%) 9(7.9%) 3(7.3%) 10(10.9%) 16(7.5%)
+physical therapist Less 26(8.5%) 3(33.33%) 8(5. 6%) 11(9.6%) 4(9.8%) 6(6.5%) 20(9.3%)
+during covid − 19 No 199(65.0%) 5(55.56%) 91(64.1%) 75(65.8%) 28(68.3%) 58(63.0%) 141(65.9%)
+Knowledge of Yes 275(89.9%) 7(77.78%) 127(89.4%) 104(91.2%) 37(90.2%) 0.634 81(88.0%) 194(90.7%) 0.488
+obesity health No 31(10.1%) 2(22.22%) 15(10.6%) 10(8.8%) 4(9.8%) 11(12.0%) 20(9.3%)
+effects
+Alcohol intake Normal 6(2.0%) 0(00.00%) 4(2.8%) 1(0.9%) 1(2.4%) 0.128 2(2.2%) 4(1.9%) 0.069
+rate during More 7(2.3%) 0(00.00%) 1(0.7%) 6(5.3%) 0(00.00%) 2(2.2%) 5(2.3%)
+covid-19 Less 3(1.0%) 0(00.00%) 0(00.00%) 3(2.6%) 0(00.00%) 3(3.3%) 0(0.00%)
+No 290(94.8%) 9(100.0%) 137(96.5%) 104(91.2%) 40(97.6%) 85(92.4%) 205(95.8%)
+Cigarette smok- Normal 9(2.9%) 0(00.00%) 4(2.8%) 3(2.6%) 2(4.9%) 0.857 5(5.4%) 4(1.9%) 0.002*
+ing rate during More 3(1%) 0(00.00%) 2(1.4%) 1(0.9%) 0(00.00%) 3(3.3%) 0(0.00%)
+covid − 19 Less 2(0.7%) 0(00.00%) 0(00.00%) 1(0.9%) 1(2.4%) 2(2.2%) 0(0.00%)
+No 292(95.4%) 9(100.0%) 136(95.8%) 109(95.6%) 38(92.7%) 82(89.1%) 210(98.1%)
+Behavior changes Yes 197(64.4%) 3(33.33%) 96(67.6%) 66(57.9%) 32(78.0%) 0.02* 49(53.3%) 148(69.2%) 0.008*
+during covid − 19 No 109(35.6%) 6(66.67%) 46(32.4%) 48(42.1%) 9(22.0%) 43(46.7%) 66(30.8%)
+Insomnia rate Normal 114(37.3%) 3(33.33%) 53(37.3%) 48(42.1%) 10(24.4%) 0.196 37(40.2%) 77(36.0%) 0.650
+during covid-19 More 102(33.3%) 1(11.11%) 49(34.5%) 31(27.2%) 21(51.2%) 26(28.3%) 76(35.5%)
+Less 35(11.4%) 2(22.22%) 17(12.0%) 12(10.5%) 4(9.8%) 12(13.0%) 23(10.7%)
+No 55(18.0%) 3(33.33%) 23(16.2%) 23(20.2%) 6(14.6%) 17(18.5%) 38(17.8%)
+Changing in Normal 115(37.6%) 5(55.56%) 60(42.3%) 40(35.1%) 10(24.4%) 0.138 36(39.1%) 79(36.9%) 0.594
+sleeping hours More 152(49.7%) 4(44.44%) 69(48.6%) 54(47.4%) 25(61.0%) 47(51.1%) 105(49.1%)
+during covid − 19 Less 39(12.7%) 0(0.00%) 13(9.2%) 20(17.5%) 6(14.6%) 9(9.8%) 30(14.0%)
+Rate of multivita- Normal 106(34.6%) 4(44.44%) 56(39.4%) 34(29.8%) 12(29.3%) 0.241 26(28.3%) 80(37.4%) 0.134
+mins intake dur- More 97(31.7%) 2(22.22%) 49(34.5%) 31(27.2%) 15(36.6%) 27(29.3%) 70(32.7%)
+ing covid − 19 Less 17(5.6%) 0(0.00%) 4(2.8%) 10(8.8%) 3(7.3%) 8(8.7%) 9(42%)
+No 86(28.1%) 3(33.33%) 33(23.2%) 39(34.2%) 11(26.8%) 31(33.7%) 55(25.7%)
+Pearson’s Chi-squared test (for categorical data) and Student’s t-test (for continuous normal data) were used to analyze differences in proportions of the tested
+variables. (*) significant differences at (p < 0.05), BMI: Body mass index
+with a family history of obesity, it increased (Pearson’s χ2, meals on the go or in cars, as well as behavioral and phys-
+p < 0.01). Additionally, 43.1% of patients without a family ical activity changes that were found to be gender-depen-
+history reported sleeping longer during quarantine than dent. Additionally, the study emphasized the influence of
+they did prior to COVID-19, while 43.7% of participants living circumstances, showing notable variations in the
+with no family history reported no changes in sleeping amount of sweets ingested, the number of meals eaten
+duration (Pearson’s χ2, p < 0.01). On the other side, 61.5% each day and the frequency of multivitamin consumption
+of participants with a family history of obesity had more depending on the kind of living arrangement. Further-
+sleeping hours as displayed in Table 3. more, the research found strong associations between
+weight, desire to lose weight, consumption of sweets,
+Discussion
+awareness of the negative health impacts of obesity, rates
+Covid-19 lockdown have greatly affected people’s daily of insomnia, length of sleep, and family history of obe-
+lives. This study represents the first thorough analysis sity. Lastly, the study looked at the effect of employment
+of how rural Egyptians’ behavior changed during the position and found statistically significant variations in
+COVID-19 quarantine. The results of the study have illu- the amount of cereal and protein consumed as well as the
+minated notable shifts in a number of participant behav- frequency of meals each day. These results shed impor-
+iors, including weight, sweets consumption, eating urges, tant light on how the rural Egyptian populace responded
+and behavior, all of which showed a strong relationship to the COVID-19 quarantine and the different variables
+with body mass index (BMI). The study also discovered affecting their daily routines during this difficult period.
+significant changes in daily meal patterns, such as eating
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 8 of 15
+Table 3 Participants’ dietary, behavioral, and weight changes related to job, living home, and family obesity history
+Questions Response Total Current Job P Living Home P Family History of P
+Employed (n = 91) Free (n = 41) Alone( n = 15) w` Obesity
+Retired (n = 2) Student(n = 172) family (n = 291 ) Yes(n = 109)
+NO(n = 197)
+Weight Normal 153 43(47.3%) 21(51.2%) 1(50.0%) 0.682 5 (33.3%) 0.411 45(41.3%) 0.011*
+change Increase (50.0%) 88(51.2%) 148(50.9%) 108(54.8%)
+during Decrease 104(34.0%) 31(34.1%) 17(41.5%) 1(50.0%) 7(46.7%) 38(34.9%) 66(33.5%)
+covid-19 49(16.0%) 55(32.0%) 97(33.3%) 26(23.9%) 23(11.7%)
+17(18.7%) 3(7.3%) 0(0.00%) 29(16.9%) 3(20.0%)
+46(15.8%)
+Weight Yes 123(40.2%) 39(42.9%) 12(29.3%) 2(100.0%) 0.151 8(53.3%) 0.287 59(54.1%) 64(32.5%) 0.001*
+change is No 183(59.8%) 70(40.7%) 115(39.5%) 50(45.9%)
+intended 52(57.1%) 29(70.7%) 0(0.00%) 7(46.7%) 133(67.5%)
+102(59.3%) 176(60.5%)
+Numbers 0–1 133 37(40.7%) 19(46.3%) 0(0.00%) 0.809 3(20.0%) 0.156 49(45.0%) 84(42.6%) 0.553
+of snacks 2 (43.5%) 77(44.8%) 130(44.7%) 34(31.2%) 73(37.1%)
+that you > 2 107(35.0%) 33(36.3%) 12(29.3%) 1(50.0%) 8(53.3%) 26(23.9%) 40(20.3%)
+consume 66(21.6%) 61(35.5%) 99(34.0%)
+21(23.1%) 10(24.4%) 1(50.0%) 4(26.7%)
+34(19.8%) 62(21.3%)
+The number Normal 205(67.0%) 48(52.7%) 30(73.2%) 1(50.0%) 0.023* 8(53.3%) 0.368 72(66.1%) 0.163
+of con- More 56(18.3%) 126(73.3%) 26(28.6%) 6(14.6%) 197(67.7%) 133(67.5%)
+sumption of Less 45(14.7%) 1(50.0%) 23(13.4%) 3(20.0%) 16(14.7%) 40(20.3%)
+cereals 17(18.7%) 5(12.2%) 0(0.00%) 53(18.2%) 21(19.3%) 24(12.2%)
+23(13.4%) 4(26.7%)
+41(14.1%)
+Consump- Normal 222(72.5%) 63(69.2%) 33(80.5%) 1(50.0%) 0.039* 10(66.7%) 0.863 76(69.7%) 0.378
+tion of pro- More 69(22.5%) 125(72.7%) 212(72.9%) 146(74.1%)
+tein during Less 15(4.9%) 21(23.1%) 8(19.5%) 0(0.00%) 4(26.7%) 29(26.6%) 40(20.3%)
+covid-19 40(23.3%) 65(22.3%) 4(3.7%) 11(5.6%)
+7(7.7%) 0(0.00%) 1(50.0%) 7(4.1%) 1(6.7%) 14(4.8%)
+Consump- Normal 157(51.3%) 54(59.3%) 21(51.2%) 1(50.0%) 0.075 9(60.0%) 0.387 48(44.0%) 0.058
+tion of More 127(41.5%) 81(47.1%) 148(50.9%) 109(55.3%)
+fruit and Less 22(7.2%) 30(33.0%) 16(39.0%) 0(0.00%) 4(26.7%) 55(50.5%) 72(36.5%)
+vegetable 81(47.1%) 123(42.3%) 6(5.5%) 16(8.1%)
+7(7.7%) 4(9.8%) 1(50.0%) 10(5.8%) 2(13.3%) 20(6.9%)
+Consump- Normal 163(53.3%) 51(56.0%) 21(51.2%) 1(50.0%) 0.950 8(53.3%) 0.027* 56(51.4%) 0.024*
+tion of More 72(23.5%) 90(52.3%) 155(53.3%) 107(54.3%)
+sweet dur- Less 71(23.2%) 21(23.1%) 10(24.4%) 1(50.0%) 7(46.7%) 19(17.4%) 53(26.9%)
+ing covid 40(23.3%) 65(22.3%) 34(31.2%) 37(18.8%)
+19(20.9%) 10(24.4%) 0(0.00%) 0(0.00%)
+42(24.4%) 71(24.4%)
+Consump- Normal 110(35.9%) 35(38.5%) 19(46.3%) 1(50.0%) 0.331 6(40.0%) 0.878 37(33.9%) 73(37.1%) 0.830
+tion of soft More 54(17.6%) 55(32.0%) 104(35.7%) 19(17.4%) 35(17.8%)
+drinks dur- Less 142(46.4%) 12(13.2%) 7(17.1%) 1(50.0%) 3(20.0%) 53(48.6%) 89(45.2%)
+ing covid 34(19.8%) 51(17.5%)
+44(48.4%) 15(36.6%) 0(0.00%) 6(40.0%)
+83(48.3%) 136(46.7%)
+Consump- Normal 186(60.8%) 56(61.5%) 23(56.1%) 0(0.00%) 0.508 9(60.0%) 0.595 67(61.5%) 0.423
+tion of More 64(20.9%) 107(62.2%) 177(60.8%) 119(60.4%)
+natural Less 56(18.3%) 17(18.7%) 8(19.5%) 1(50.0%) 2(13.3%) 19(17.4%) 45(22.8%)
+juices dur- 38(22.1%) 62(21.3%) 23(21.1%) 33(16.8%)
+ing covid 18(19.8%) 10(24.4%) 1(50.0%) 4(26.7%)
+27(15.7%) 52(17.9%)
+Changes in Normal 209(68.3%) 64(70.3%) 27(65.9%) 0(0.00%) 0.032* 6(40.0%) 0.047* 76(69.7%) 0.181
+daily meals More 70(22.9%) 118(68.6%) 203(69.8%) 133(67.5%)
+during Less 27(8.8%) 15(16.5%) 13(31.7%) 2(100.0%) 7(46.7%) 20(18.3%) 50(25.4%)
+covid 40(23.3%) 63(21.6%) 13(11.9%) 14(7.1%)
+12(13.2%) 1(2.4%) 0(0.00%) 14(8.1%) 2(13.3%) 25(8.6%)
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 9 of 15
+T able 3 (continued)
+Questions Response Total Current Job P Living Home P Family History of P
+Employed (n = 91) Free (n = 41) Alone( n = 15) w` Obesity
+Retired (n = 2) Student(n = 172) family (n = 291 ) Yes(n = 109)
+NO(n = 197)
+Daily meals 0 189(61.8%) 50(54.9%) 23(56.1%) 2(100.0%) 0.242 6(40.0%) 0.002* 65(59.6%) 0.645
+in car or 1 94(30.7%) 114(66.3%) 30(33.0%) 15(36.6%) 183(62.9%) 124(62.9%)
+street 2 13(4.2%) 0(0.00%) 49(28.5%) 5(33.3%) 33(30.3%) 61(31.0%)
+> 2 10(3.3%) 4(4.4%) 2(4.9%) 0(0.00%) 7(4.1%) 89(30.6%) 6(5.5%) 7(3.6%)
+7(7.7%) 1(2.4%) 0(0.00%) 2(1.2%) 1(6.7%) 12(4.1%) 5(4.6%) 5(2.5%)
+3(20.0%) 7(2.4%)
+Daily 0 236(77.1%) 65(71.4%) 32(78.0%) 2(100.0%) 0.732 8(53.3%) 0.051 77(70.6%) 0.131
+meals at 1 66(21.6%) 137(79.7%) 228(78.4%) 159(80.7%)
+restaurant > 2 4(1.3%) 25(27.5%) 8(19.5%) 0(0.00%) 7(46.7%) 30(27.5%) 36(18.3%)
+33(19.2%) 59(20.3%) 2(1.8%) 2(1.0%)
+1(1.1%) 1(2.4%) 0(0.00%) 2(1.2%) 0(00.00%) 4(1.4%)
+Daily meals 0 64(20.9%) 15(16.5%) 10(24.4%) 0(0.00%) 0.291 2(13.3%) 0.248 27(24.8%) 37(18.8%) 0.533
+or snacks 1 132(43.1%) 39(22.7%) 62(21.3%) 42(38.5%) 90(45.7%)
+while 2 63(20.6%) 48(52.7%) 14(34.1%) 0(0.00%) 6(40.0%) 22(20.2%) 41(20.8%)
+watching > 2 47(15.4%) 70(40.7%) 126(43.3%) 18(16.5%) 29(14.7%)
+TV 19(20.9%) 10(24.4%) 1(50.0%) 6(40.0%)
+33(19.2%) 57(19.6%)
+9(9.9%) 7(17.1%) 1 (50.0%) 30(17.4%) 1(6.7%) 46(15.8%)
+Appetite Normal 165(53.9%) 50(54.9%) 21(51.2%) 0(0.00%) 0.362 7(46.7%) 0.545 55(50.5%) 0.656
+“eating More 85(27.8%) 94(54.7%) 158(54.3%) 110(55.8%)
+desire Less 56(18.3%) 23(25.3%) 14(34.1%) 2(100.0%) 6(40.0%) 33(30.3%) 52(26.4%)
+“changes 46(26.7%) 79(27.1%) 21(19.3%) 35(17.8%)
+during 18(19.8%) 6(14.6%) 0(0.00%) 2(13.3%)
+covid − 19 32(18.6%) 54(18.6%)
+Exercise Normal 71(23.2%) 24(26.4%) 9(22.0%) 0(0.00%) 0.646 6(40.0%) 0.436 24(22.0%) 47(23.9%) 0.741
+rate during More 32(10.5%) 38(22.1%) 65(22.3%) 14(12.8%) 18(9.1%)
+covid − 19 Less 93(30.4%) 7(7.7%) 4(9.8%) 0(0.00%) 21(12.2%) 1(6.7%) 31(10.7%) 34(31.2%) 59(29.9%)
+No 110(35.9%) 21(23.1%) 15(36.6%) 1(50.0%) 3(20.0%) 37(33.9%) 73(37.1%)
+56(32.6%) 90(30.9%)
+39(42.9%) 13(31.7%) 1(50.0%) 5(33.3%)
+57(33.1%) 105(36.1%)
+Walking Normal 88(28.8%) 33(36.3%) 14(34.1%) 0(0.00%) 0.169 6(40.0%) 0.589 33(30.3%) 55(27.9%) 0.631
+rate in More 18(5.9%) 41(23.8%) 82(28.2%) 8(7.3%) 10(5.1%)
+neighbor- Less 115(37.6%) 7(7.7%) 1(2.4%) 0(0.00%) 10(5.8%) 1(6.7%) 17(5.8%) 42(38.5%) 73(37.1%)
+hood dur- No 85(27.8%) 27(29.7%) 15(36.6%) 0(0.00%) 6(40.0%) 26(23.9%) 59(29.9%)
+ing covid 73(42.4%) 109(37.5%)
+− 19 24(26.4%) 11(26.8%) 2(100.0%) 2(13.3%)
+48(27.9%) 83(28.5%)
+Trail or Normal 39(12.7%) 10(11.0%) 5(12.2%) 0(0.00%) 0.351 2(13.3%) 0.412 13(11.9%) 26(13.2%) 0.771
+bicycle More 6(2.0%) 24(14.0%) 37(12.7%) 3(2.8%) 3(1.5%)
+use during Less 21(6.9%) 5(5.5%) 0(0.00%) 0(0.00%) 1(0.6%) 1(6.7%) 5(1.7%) 6(5.5%) 15(7.6%)
+covid − 19 No 240(78.4%) 5(5.5%) 4(9.8%) 0(0.00%) 12(7.0%) 0(0.00%) 21(7.2%) 87(79.8%)
+71(78.0%) 32(78.0%) 2(100.0%) 12(80.0%) 153(77.7%)
+135(78.5%) 228(78.4%)
+Practice any Yes 96(31.4%) 23(25.3%) 7(17.1%) 0(0.00%) 0.016* 7(46.7%) 0.191 38(34.9%) 58(29.4%) 0.328
+sports? No 210(68.6%) 66(38.4%) 89(30.6%) 71(65.1%)
+68(74.7%) 34(82.9%) 2(100.0%) 8(53.3%) 139(70.6%)
+106(61.6%) 202(69.4%)
+Seeking Normal 62(20.3%) 19(20.9%) 12(29.3%) 0(0.00%) 0.465 4(26.7%) 0.823 21(19.3%) 41(20.8%) 0.245
+nutritional More 40(13.1%) 31(18.0%) 58(19.9%) 20(18.3%) 20(10.2%)
+advice from Less 27(8.8%) 9(9.9%) 5(12.2%) 0(0.00%) 26(15.1%) 1(6.7%) 39(13.4%) 9(8.3%) 18(9.1%)
+nutritional No 177(57.8%) 9(9.9%) 6(14.6%) 0(0.00%) 12(7.0%) 1(6.7%) 26(8.9%) 59(54.1%)
+special- 54(59.3%) 18(43.9%) 2(100.0%) 9(60.0%) 118(59.9%)
+ist during 103(59.9%) 168(57.7%)
+covid − 19
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 10 of 15
+T able 3 (continued)
+Questions Response Total Current Job P Living Home P Family History of P
+Employed (n = 91) Free (n = 41) Alone( n = 15) w` Obesity
+Retired (n = 2) Student(n = 172) family (n = 291 ) Yes(n = 109)
+NO(n = 197)
+Seeking Normal 55(18.0%) 13(14.3%) 11(26.8%) 0(0.00%) 0.629 3(20.0%) 0.983 21(19.3%) 34(17.3%) 0.443
+physical ac- More 26(8.5%) 31(18.0%) 52(17.9%) 11(10.1%) 15(7.6%)
+tivity advice Less 26(8.5%) 10(11.0%) 1 (2.4%) 0(0.00%) 15(8.7%) 1(6.7%) 25(8.6%) 12(11.0%) 14(7.1%)
+by physical No 199(65.0%) 7(7.7%) 5(12.2%) 0(0.00%) 14(8.1%) 1(6.7%) 25(8.6%) 65(59.6%)
+therapist 61(67.0%) 24(58.5%) 2(100.0%) 10(66.7%) 134(68.0%)
+during 112(65.1%) 189(64.9%)
+covid − 19
+Knowledge Yes 275(89.9%) 81(89.0%) 38(92.7%) 2(100.0%) 0.879 12(80.0%) 0.194 106(97.2%) 0.001*
+of obe- No 31(10.1%) 154(89.5%) 263(90.4%) 169(85.8%)
+sity health 10(11.0%) 3(7.3%) 0(0.00%) 18(10.5%) 3(20.0%) 28(9.6%) 3(2.8%) 28(14.2%)
+effects
+Alcohol Normal 6(2.0%) 3(3.3%) 0(0.00%) 0(0.00%) 3(1.7%) 0.594 0(0.00%) 6(2.1%) 0.833 2(1.8%) 4(2.0%) 0.981
+intake rate More 7(2.3%) 0(0.00%) 2(4.9%) 0(0.00%) 5(2.9%) 0(0.00%) 7(2.4%) 2(1.8%) 5(2.5%)
+during Less 3(1.0%) 2(2.2%) 0(0.00%) 0(0.00%) 1(0.6%) 0(0.00%) 3(1.0%) 1(0.9%) 2(1.0%)
+covid-19 No 290(94.8%) 86(94.5%) 39(95.1%) 2(100.0%) 15(100.0%) 104(95.4%)
+163(94.8%) 275(94.5%) 186(94.4%)
+Cigarette Normal 9(2.9%) 3(3.3%) 0(0.00%) 0(0.00%) 6(3.5%) 0.470 1(6.7%) 8(2.7%) 0.103 5(4.6%) 4(2.0%) 0.332
+smoking More 3(1%) 0(0.00%) 0(0.00%) 0(0.00%) 3(1.7%) 1(6.7%) 2(0.7%) 0(0.00%) 3(1.5%)
+rate during Less 2(0.7%) 2(2.2%) 0(0.00%) 0(0.00%) 0(0.00%) 0(0.00%) 2(0.7%) 1(0.9%) 1(0.5%)
+covid − 19 No 292(95.4%) 86(94.5%) 41(100.0%) 2(100.0%) 13(86.7%) 103(94.5%)
+163(94.8%) 279(95.9%) 189(95.9%)
+Behavior Yes 197(64.4%) 44(48.4%) 29(70.7%) 1(50.0%) 0.002* 10(66.7%) 0.850 74(67.9%) 0.340
+changes No 109(35.6%) 123(71.5%) 187(64.3%) 123(62.4%)
+during 47(51.6%) 12(29.3%) 1(50.0%) 5(33.3%) 35(32.1%) 74(37.6%)
+covid − 19 49(28.5%) 104(35.7%)
+Insomnia Normal 114(37.3%) 39(42.9%) 19(46.3%) 0(0.00%) 0.078 6(40.0%) 0.207 33(30.3%) 81(41.1%) 0.003*
+rate during More 102(33.3%) 56(32.6%) 108(37.1%) 51(46.8%) 51(25.9%)
+covid-19 Less 35(11.4%) 21(23.1%) 14(34.1%) 2(100.0%) 4(26.7%) 9(8.3%) 26(13.2%)
+No 55(18.0%) 65(37.8%) 98(33.7%) 16(14.7%) 39(19.8%)
+15(16.5%) 4(9.8%) 0(0.00%) 16(9.3%) 4(26.7%)
+16(17.6%) 4(9.8%) 0(0.00%) 35(20.3%) 31(10.7%)
+1(6.7%) 54(18.6%)
+Changing Normal 115(37.6%) 44(48.4%) 15(36.6%) 0(0.00%) 0.028* 5(33.3%) 0.250 29(26.6%) 86(43.7%) 0.006*
+in sleeping More 152(49.7%) 56(32.6%) 110(37.8%) 67(61.5%) 85(43.1%)
+hours dur- Less 39(12.7%) 32(35.24%) 22(53.7%) 1(50.0%) 6(40.0%) 13(11.9%) 26(13.2%)
+ing covid 97(56.4%) 146(50.2%)
+− 19 15(16.5%) 4(9.8%) 1(50.0%) 19(11.0%) 4(26.7%)
+35(12.0%)
+Rate of Normal 106(34.6%) 34(37.4%) 14(34.1%) 1(50.0%) 0.623 3(20.0%) 0.015* 35(32.1%) 71(36.0%) 0.180
+multivita- More 97(31.7%) 57(33.1%) 103(35.4%) 43(39.4%) 54(27.4%)
+mins intake Less 17(5.6%) 32(35.2%) 13(31.7%) 0(0.00%) 2(13.3%) 5(4.6%) 12(6.1%)
+during No 86(28.1%) 52(30.2%) 95(32.6%) 26(23.9%) 60(30.5%)
+covid − 19 7(7.7%) 3(7.3%) 0(0.00%) 7(4.1%) 3(20.0%) 14(4.8%)
+18(19.8%) 11(26.8%) 1(50.0%) 7(46.7%)
+56(32.6%) 79(27.1%)
+Pearson’s Chi-squared test (for categorical data) and Student’s t-test (for continuous normal data) were used to analyze differences in proportions of the tested
+variables. (*) significant differences at (p < 0.05)
+About half of the individuals in this study (50%) participants had gained weight, respectively [11–14]. This
+reported no changes in weight during the quarantine observation may be explained by the distinctive features
+period. This is consistent with another study on the Dan- of the Egyptian food and lifestyle. Additionally, the study
+ish population, which found the same percentage, and found that, in comparison to before the quarantine, 51.3%
+also with another study on British population in which of individuals continued to consume fruits and vegetables
+most individuals (76.4%) remained in the same BMI at their usual levels, while 41.5% of participants increased
+category post-lockdown, as opposed to the Italian and their intake of these foods. While these findings dif-
+American studies, which found that 59.7% and 58% of fer from other studies, they are consistent with some of
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 11 of 15
+them [11, 15–19]. This increase in fruits and vegetables with the results of other studies [13, 17, 26–29]. Because
+consumption can be explained by the fact that Egypt has people with higher BMIs frequently have metabolic adap-
+a more varied climate than other countries, which makes tations that encourage weight retention and increase,
+a wide range of fruits and vegetables both affordable and metabolic variables can be attributed to these findings.
+readily available throughout the year, particularly in rural Changes in hormones that control appetite, a decrease in
+areas of Egypt that rely economically on farming and metabolic rates, or an enhanced perception of taste that
+agriculture. Moreover, the disrupted access to fresh gro- heightens the desire for sweet meals are a few examples
+ceries during lockdown and the reduced trades between of these adaptations. The survey also revealed eating
+rural and urban regions as reported by The Food and habits in relation to BMI, providing further insight into
+Agriculture Organization (FAO) decreased the possibil- these results. Specifically, 43.9% of individuals who were
+ity of selling fruits and vegetables to urban centers [20]. obese reported consuming more sweets that line with
+This situation coupled with the short shelf life of most some studies [16, 22, 30]. Compared to only 11.1% of par-
+fruits and vegetables forced farmers to rely more on them ticipants who were underweight, which is consistent with
+in their dietary habits. Furthermore, the increased focus other research’ findings [18, 30]. Some studies revealed
+on boosting immunity has shifted the dietary preferences that there was no association between BMI and eating
+towards eating more fruits and vegetables to overcome a balanced diet, but there was a correlation between a
+the virus’s impact. Another factor to consider is educa- higher BMI and consuming more junk food, including
+tion, most of our participants held a university degree or dressings, snacks, sweetened beverages, and candies [15,
+higher postgraduate education, and our findings indicate 16, 31–33]. During the COVID-19 self-quarantine, there
+that individuals with more than secondary education was an 82% rise in unhealthy food in the home, accord-
+are likely to maintain healthier eating habits, and conse- ing to a UK article [29]. It is consistent with other studies
+quently consume more fruits and vegetables during the that only 11.1% of the skinny participants increased their
+lockdown. This aligns with the previous finding of Rob- intake of sweets. About 20% of participants in an Indian
+inson et al., which stated that the behavior of higher edu- survey reported consuming less fast food, fried food,
+cation level showed a decreased overeating or unhealthy junk food, sweets, and chocolates [34]. The brain’s reward
+diets than lower education level in UK [21]. Egypt is an part is often activated by sweet meals, especially in peo-
+agricultural country; thus, home cooking is highly val- ple with higher body mass indices. The extended time of
+ued. This gives people more control over the nutritional confinement during the quarantine probably exacerbated
+value of their food and can include more fruits and veg- these yearning reactions. Furthermore, according to the
+etables in their meals than they can at restaurants. Due study, eating cravings increased in 48.8% of obese indi-
+to the potential of having access to stores, some studies viduals and 36% of overweight participants. This finding
+conducted during the pandemic period found a decrease may imply that emotional eating occurs when people are
+in the purchase of fresh foodstuffs [17, 19, 22, 23]. Fruits stressed out or bored, which results in mindless calorie
+and vegetables can help you maintain a healthy body consumption which is align with one study [35]. Because
+weight when eaten in moderation. According to Shyam they spend a lot of time at home under quarantine and
+et al., individuals in the control group saw weight loss frequently have full access to food, these groups are gen-
+as a result of changing their eating habits. For instance, erally known to exhibit more problematic eating behav-
+by adhering to a MedDiet more closely which align with iors, such as eating when not hungry and overeating
+another study [24, 25]. It’s also possible that those who frequently [36]. In addition to “mindless eating,” which is
+either lost weight or kept it off participated in cultural eating emotionally in reaction to stress or boredom and
+practices like housework and prayer rituals, which sup- increasing calorie intake, certain studies support this
+ported their level of physical activity, even if this was not theory [15, 17, 28, 35, 37–39]. Furthermore, stress in par-
+scientifically proven. Furthermore, these behaviors prob- ticular can cause hyperphagia, binge eating, and a change
+ably affected weight maintenance because the quarantine in the kinds of food consumed [40–42]. Nonetheless,
+period fell around Ramadan, when the majority of Egyp- 62.7% of people with normal weight and 66.7% of those
+tians fast for the whole month and observe extra prayers. with underweight had normal eating impulses. Addi-
+Furthermore, this data showed a significant correlation tionally, like in previous studies, 78% of people who were
+between those with a higher BMI (being obese and over- obese, 67.6% of participants who were normal weight,
+weight) and higher weight gain which is against an Eng- and 57.9% of participants who were overweight experi-
+lish study showed the proportion of obese who moved enced behavioral abnormalities such depression, loss of
+down at least one BMI category was greater than the interest, or thoughts of death [27, 37, 43, 44]. High lev-
+proportion who moved up at least one category [13]. On els of depression have been linked to poor dietary hab-
+the other hand, people who are underweight or average its, increased consumption of saturated fat, energy-dense
+weight typically maintain their weight, which is in line foods, and salty foods [45, 46]. In a stressful situation,
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 12 of 15
+women who tended to act impulsively were more likely isolation and depression. These results confirm earlier
+to consume more candy [47]. Anxious people ate snacks research demonstrating that family/shared meal routines
+2.45 times more frequently [48]. In contrast, 66.7% of foster emotional well-being because of the opportunities
+underweight participants denied experiencing these they offer for interpersonal connections, safety and pre-
+behavioral changes, as they were more capable of engag- dictability, and communication and sharing of ideas and
+ing in physical exercises (11.1%) or at least maintaining feelings [52–57].
+their regular exercise routines (33.3%), which can have The participants’ current jobs have had a significant
+protective effects against mood disorders. influence on their dietary and daily habits, particularly
+Daily routines and eating are greatly influenced by among those who are employed or retired which is in
+the distinct cultural and social characteristics of Egyp- contrary with another study [30]. The highest increase in
+tians, especially when it comes to housing arrangements. cereal consumption was observed among these groups.
+According to the survey, those who live alone or with Cereals are a preferred choice for these participants
+friends eat differently from people who live with their because they have a long shelf life and can be stocked
+family. It was discovered, specifically, that 46.7% of par- up during quarantine periods. Additionally, cereals are
+ticipants who lived alone or with friends consumed more convenient options for breakfast and snacks, offering
+sweets because they had less control over what they ate. high nutritional value. As Price, shelf life, flavor, nutri-
+This result is in line with earlier studies conducted dur- tional value, and hygienic practices are crucial factors to
+ing the same time period on the food environment [49]. consider while making food purchases [58, 59]. On the
+In contrast, only 22.3% of participants living with family other hand, unemployed participants and students, who
+showed a similar trend. Zurita et al. revealed that Liv- had more available time due to school and university
+ing in the family home has been associated with a higher closures, had the opportunity to explore different food
+quality of diet [50]. When it comes to making decisions, options. According to Zuluğ et al., 80% of the study sub-
+elder generations in Egyptian households usually have a jects consented to try several recipes for quarantine [59].
+significant influence. They usually prioritize eating bal- The consumption of proteins followed a similar trend
+anced meals and healthier options, especially in emer- as cereals, with an increase among employed and retired
+gency situations like quarantines and this align with participants. This may be attributed to the financial pres-
+some studies [15, 51]. Other earlier research revealed sures faced by students and unemployed participants
+some encouraging changes, including a decline in the during the quarantine period. Protein-rich foods tend
+consumption of processed meat and carbonated or sug- to be more expensive compared to other types of food,
+ary beverages and an increase in the consumption of making them less affordable for those on limited bud-
+fresh produce, seafood, legumes, and white meat [15, gets. Students’ additional free time allowed them to par-
+16]. Additionally, family support and economic assis- ticipate in sports, and 38.4% of them did so throughout
+tance play a role in promoting healthier choices and the quarantine, which is in line with other research but
+reducing the appeal of sweets. The study also indicated not entirely consistent with others [11, 12, 17]. numer-
+that the number of daily meals was impacted by living ous additional research that demonstrated an increase in
+arrangements, with 46.7% of participants living alone or sitting or screen time and a reduction in physical activity
+with friends having more daily meals than before. This at all levels [12, 14–16, 23, 37, 44, 46, 48]. Large datas-
+increased flexibility and independence allowed them to ets from France, Spain, and Australia demonstrated that
+control the timing and frequency of their meals with- between 43 and 61% of people reduced their physical
+out being restricted to scheduled shared family meals. activity levels during the COVID-19 self-quarantine [17,
+Furthermore, the results showed that individuals living 23, 60]. According to other studies, a consistent finding
+alone or with friends relied more on takeaway meals, was that 40–50% of participants had reduced physical
+which may be attributed to limited cooking skills or busy activity [30, 61–64]. While a small number of research
+schedules. Conversely, 69.8% of those living with fam- revealed the contrary, demonstrating an increase in phys-
+ily reported no changes in their daily meals, and 62.9% ical activity during the COVID-19 crisis [16, 65]. These
+completely stopped consuming takeaway meals dur- variations might be caused by various government poli-
+ing the quarantine period as shown in one study [51] cies regarding restrictions on movement during this time.
+while the same study showed opposite direction regard- Despite the limited free time employed participants had
+ing changes in daily meals. Another notable finding was during quarantine, it resulted in some drawbacks such
+that increased intake of multivitamins was more preva- as the inability to engage in sports activities. However, it
+lent among individuals living with their families (32.6%). also had certain advantages, including mitigating behav-
+Family gatherings often foster a supportive environ- ioral changes like depressed mood, loss of interest, or
+ment that encourages each other to prioritize health and even suicide attempts. Being employed provided these
+boost the immune system, thereby alleviating feelings of individuals with a sufficient amount of social interaction,
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 13 of 15
+even if it was through online conferences or collabora- that reported that most participants had low health lit-
+tion tools. This social interaction played a crucial role in eracy [70, 71].
+alleviating the negative effects of isolation and fostering A significant shift in eating patterns was observed
+a sense of connection. Moreover, their financial stabil- in those with a family history of obesity: 31.2% of them
+ity and sense of purpose were vital factors in maintain- reported consuming fewer sweets, compared to only
+ing their mental stability. It has previously been proposed 18.8% of those without such a history. This suggests a
+that getting employment predicts having greater health conscious attempt to limit their consumption of sugar-
+literacy and that being without a profession is linked to filled foods and drinks, which are linked to weight gain.
+not knowing enough about COVID-19 [66–68]. These Familial histories of obesity are noteworthy since they are
+aspects provided a sense of security and contributed to associated with greater incidences of insomnia (46.7%)
+their overall well-being during the challenging period of and longer sleep duration (61.5%). Sleep patterns have
+quarantine. been shown to change throughout the COVID-19 self-
+Nearly half or more of the participants who were stu- quarantine; some data indicate that sleep hours have
+dents, unemployed, and retired slept more throughout increased [16, 19]. There are several reasons for these
+the quarantine. It was evident, nonetheless, that people seemingly incongruous results. The greater prevalence
+who were employed saw the least increase in sleeping of insomnia could be attributed to an increase in sleep
+hours (35.2%). Stress at work is the cause for this, espe- disruptions and challenges in achieving restorative sleep.
+cially for those who had to make the abrupt switch to Even though people slept for longer periods of time,
+remote work. The blurring of the lines separating work there have been reports of poor quality and disturbed
+and personal life added to the stress and made finding a sleep during the COVID-19 self-quarantine [16, 19, 72].
+good work-life balance difficult. All individuals saw an Additionally, Self-reporting bias may also exist because
+increase in their daily screen use, which can disrupt sleep people who have a genetic predisposition to obesity may
+cycles, particularly if it is done right before bed. Screen be more aware of their sleeping habits and thus report
+blue light can interfere with melatonin release and impair higher rates of insomnia, even when their real sleep qual-
+the quality of sleep. ity is comparable to that of people without a family his-
+It is essential to note the changes observed in indi- tory of obesity.
+viduals with a family history of obesity, as they are more Our study included some limitations which should be
+susceptible to genetic factors that contribute to weight recognized. One of them is the oversampling of specific
+fluctuations [69]. Remarkably, the proportion of partici- groups over others. For instance, (70%) of the partici-
+pants who gained weight regardless of whether there was pants were women, and (73%) participant’s location was
+a family history of obesity was the same. Despite their in Kafrelsheikh. further studies including more governor-
+apparent propensity for gaining weight, it was interesting ates with larger number of participants may be required
+to discover that the percentage of people who lost weight in the future. In addition, data from rural Egyptian gover-
+was twice as high among those who had a family history norate should be compared by other countries in Middle
+of obesity. Furthermore, it was noteworthy that more East to explore the real difference in behavior in during
+than half (54.1%) of the weight change observed in par- Covid-19 lockdown. Also, the absence of urban compari-
+ticipants with a family history of obesity was intentional. son would be a limitation. Therefore, conducting similar
+This intentionality can be attributed to the findings of our studies is essential to serve as comparable resources for
+survey, which revealed that nearly all (97.2%) individuals further studies done in different demographics to attain
+with a family history of obesity had a good understand- more tailored strategies for different group needs during
+ing of the health effects and consequences of obesity. potential future pandemics.
+This heightened awareness of the personal risks they face,
+Conclusion
+along with their genetic predisposition to weight gain,
+compelled them to take proactive measures to regain Positive changes were observed in Egyptians’ eating hab-
+control over their bodies. They recognized the exist- its during the Covid-19 quarantine; nonetheless, daily
+ing dangers posed by both their genetic factors and the routines were interrupted by psychological oscillations
+ongoing pandemic, motivating them to make conscious and a considerable drop-in physical activity. Given that
+changes in their daily habits. Our research agrees with people with a family history of obesity had better health,
+some earlier studies that found the majority of partici- it was imperative to raise awareness of the implications
+pants had sufficient to excellent knowledge and practice of obesity. It is important to provide guidance on how
+about COVID-19 [67, 68]. Our results conflict with those to keep activity levels, energy levels balanced, and mood
+of a study on the Egyptian community in Alexandria that steady. The study offers recommendations for upcoming
+revealed that participants’ levels of health literacy related quarantine circumstances.
+to COVID-19 are insufficient, as well as another study
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 14 of 15
+Abbreviations 10. Bryazka D, et al. Population-level risks of alcohol consumption by amount,
+COVID 19 Coronavirus disease geography, age, sex, and year: a systematic analysis for the global burden of
+BMI Body mass index Disease Study 2020. Lancet. 2022;400(10347):185–235.
+WHO World Health Organization 11. Giacalone D, Frøst MB, Rodríguez-Pérez C. Reported changes in dietary
+MedDiet Mediterranean diet habits during the COVID-19 lockdown in the Danish population: the Danish
+MEDAS Mediterranean Diet Adherence Screener COVIDiet study. Front Nutr. 2020;7:592112.
+12. Pujia R, et al. The effects of COVID-19 on the eating habits of children and
+Acknowledgements adolescents in Italy: a pilot survey study. Nutrients. 2021;13(8):2641.
+We would like to thank the study participants for devoting their time to the 13. Zaccardi F, et al. The impact of COVID-19 lockdowns on the body mass index
+study and for sharing their experiences and/or clinical expertise with the of people living with obesity: a UK retrospective cohort study using the UK
+research team. Clinical Practice Research Datalink. Volume 17. Obesity Research & Clinical
+Practice; 2023. pp. 468–76. 6.
+Author contributions 14. Borgatti AC, et al. The COVID-19 pandemic and weight management:
+KA carried out devising the main conceptual idea, study design, obtaining effective behaviors and pandemic-specific risk factors. Volume 15. Obesity
+approval from the Scientific Research Ethics Committee commented on the research & clinical practice; 2021. pp. 518–21. 5.
+manuscript. MR-S performed the statistical analysis and wrote the manuscript. 15. Rodríguez-Pérez C, et al. Changes in dietary behaviours during the
+MY-A wrote the manuscript and revised the statistical analysis. NG, MT, AF COVID-19 outbreak confinement in the Spanish COVIDiet study. Nutrients.
+distributed the survey and collected the data. All authors contributed to the 2020;12(6):1730.
+article and approved the submitted version. 16. Di Renzo L, et al. Eating habits and lifestyle changes during COVID-19 lock-
+down: an Italian survey. J Translational Med. 2020;18(1):1–15.
+Funding 17. Kriaucioniene V, et al. Associations between changes in health behaviours
+This research did not receive any specific grant from funding agencies in the and body weight during the COVID-19 quarantine in Lithuania: the Lithu-
+public, commercial, or not-for-profit sectors. anian COVIDiet study. Nutrients. 2020;12(10):3119.
+18. Błaszczyk-Bębenek E, et al. Nutrition behaviors in Polish adults before and
+Data availability during COVID-19 lockdown. Nutrients. 2020;12(10):3084.
+The datasets used and/or analyzed during the current study are available from 19. Ismail LC, et al. Assessment of eating habits and lifestyle during the coronavi-
+the corresponding author on reasonable request. rus 2019 pandemic in the Middle East and North Africa region: a cross-
+sectional study. Br J Nutr. 2021;126(5):757–66.
+20. Cullen MTJFR, Italy. COVID-19 and the risk to food supply chains: How to respond
+Declarations
+2020.
+21. Robinson E et al. Obesity, eating behavior and physical activity during COVID-19
+Ethical approval and consent to participate lockdown: A study of UK adults 2021. 156: p. 104853.
+The study received ethical approval from the Research Ethics Committee at 22. Izzo L, et al. An Italian survey on dietary habits and changes during the
+the Kafrelsheikh University NO (KFS-Ph-014/22) and adhered to the principles COVID-19 lockdown. Nutrients. 2021;13(4):1197.
+outlined in the Helsinki Declaration and was exempt from the requirement for 23. Deschasaux-Tanguy M et al. Diet and physical activity during the COVID-19 lock-
+informed consent. The questionnaire was completely voluntary. down period (March-May 2020): results from the French NutriNet-Sante cohort
+study (preprint) 2020.
+Consent for publication 24. Shyam S et al. Intensive weight-loss lifestyle intervention using Mediterra-
+Not applicable. nean Diet and COVID-19 risk in older adults: secondary analysis of PREDIMED-
+Plus trial. J Nutr Health Aging, 2023: p. 1–6.
+Competing interests 25. Estruch R, et al. Effect of a high-fat Mediterranean diet on bodyweight
+The authors declare no competing interests. and waist circumference: a prespecified secondary outcomes analysis of
+the PREDIMED randomised controlled trial. Lancet Diabetes Endocrinol.
+Received: 28 March 2024 / Accepted: 27 April 2024 2019;7(5):e6–17.
+26. Khubchandani J, et al. COVID-19 pandemic and weight gain in American
+adults: a nationwide population-based study. Volume 16. Diabetes & Meta-
+bolic Syndrome: Clinical Research & Reviews; 2022. p. 102392. 1.
+27. Ruiz-Roso MB, et al. COVID-19 lockdown and changes of the dietary pattern
+References and physical activity habits in a cohort of patients with type 2 diabetes mel-
+1. Cruz MP, et al. COVID-19, a worldwide public health emergency. Revista litus. Nutrients. 2020;12(8):2327.
+Clínica Española (English Edition). 2021;221(1):55–61. 28. Poelman MP, et al. Eating behavior and food purchases during the COVID-19
+2. Webb R. COVID-19 and lockdown: Living in ‘interesting times’. 2020, MA Health- lockdown: a cross-sectional study among adults in the Netherlands. Appetite.
+care London. pp. 243–243. 2021;157:105002.
+3. Saeed HM, et al. Assessment of COVID-19 preparedness response plan on 29. Robinson E, et al. Obesity, eating behavior and physical activity during
+higher education students simulation of WHO intra-action review in Egypt. COVID-19 lockdown: a study of UK adults. Appetite. 2021;156:104853.
+Sci Rep. 2023;13(1):741. 30. Sidor A, Rzymski P. Dietary choices and habits during COVID-19 lockdown:
+4. Abdelkawy K et al. Changes in dietary habits during Covid-19 lockdown in Egypt: experience from Poland. Nutrients. 2020;12(6):1657.
+the Egyptian COVIDiet study 2023. 23(1): p. 956. 31. Mazza E et al. Homemade food, alcohol, and body weight: change in eating
+5. Abdel-Rahman S et al. Predictors of mental health problems during the habits in young individuals at the time of COVID-19 Lockdown. J Educ Health
+COVID-19 outbreak in Egypt in 2021. Front Public Health, 2023. 11. Promotion, 2021. 10.
+6. Aljowaie RM, et al. Prospect of herbal medication as prevention against 32. Pietrobelli A, et al. Effects of COVID-19 lockdown on lifestyle behaviors in
+COVID variants. J King Saud University-Science. 2023;35(1):102360. children with obesity living in Verona, Italy: a longitudinal study. Obesity.
+7. Tyrväinen O, Karjaluoto H. Online grocery shopping before and during 2020;28(8):1382–5.
+the COVID-19 pandemic: a meta-analytical review. Telematics Inform. 33. Ruiz-Roso MB, et al. Covid-19 confinement and changes of adoles-
+2022;71:101839. cent’s dietary trends in Italy, Spain, Chile, Colombia and Brazil. Nutrients.
+8. Solieman NY, Othman AZA, Hassan MBE-D. The possibility of activat- 2020;12(6):1807.
+ing the economic integration between Egypt and Sudan. Middle East J. 34. Kumari A, et al. A short questionnaire to assess changes in lifestyle-related
+2013;3(4):186–95. behaviour during COVID 19 pandemic. Volume 14. Diabetes & Metabolic
+9. Schröder H, et al. A short screener is valid for assessing Mediterra- Syndrome: Clinical Research & Reviews; 2020. pp. 1697–701. 6.
+nean diet adherence among older Spanish men and women. J Nutr. 35. Zachary Z, et al. Self-quarantine and weight gain related risk factors during
+2011;141(6):1140–5. the COVID-19 pandemic. Volume 14. Obesity research & clinical practice;
+2020. pp. 210–6. 3.
+Saleh et al. Journal of Health, Population and Nutrition (2024) 43:85 Page 15 of 15
+36. Opichka K, Smith C, Levine AS. Problematic eating behaviors are more preva- 55. Fulkerson JA, et al. Family dinner meal frequency and adolescent develop-
+lent in African American women who are overweight or obese than African ment: relationships with developmental assets and high-risk behaviors. J
+American women who are lean or normal weight. Fam Community Health. Adolesc Health. 2006;39(3):337–45.
+2019;42(2):81–9. 56. Eisenberg ME, et al. Correlations between family meals and psychosocial
+37. Pellegrini M, et al. Changes in weight and nutritional habits in adults with well-being among adolescents. Arch Pediatr Adolesc Med. 2004;158(8):792–6.
+obesity during the lockdown period caused by the COVID-19 virus emer- 57. Fulkerson JA, et al. Correlates of psychosocial well-being among overweight
+gency. Nutrients. 2020;12(7):2016–p. adolescents: the role of the family. J Consult Clin Psychol. 2007;75(1):181.
+38. Huber BC, et al. Altered nutrition behavior during COVID-19 pandemic lock- 58. Troudi H, Bouyoucef D. Predicting purchasing behavior of green food in
+down in young adults. Eur J Nutr. 2021;60:2593–602. Algerian context. EuroMed J Bus. 2020;15(1):1–21.
+39. Holmes EA, et al. Multidisciplinary research priorities for the COVID-19 59. Zuluğ A, et al. Modeling of Food Consumption Behavior in the Quarantine
+pandemic: a call for action for mental health science. Lancet Psychiatry. Period Applied during the Coronavirus SARS-CoV-2 (COVID-19) outbreak in
+2020;7(6):547–60. Turkey. Sustainability. 2022;14(4):1975–p.
+40. Maniscalco JW, Kreisler AD, Rinaman L. Satiation and stress-induced hypo- 60. Phillipou A, et al. Eating and exercise behaviors in eating disorders and the
+phagia: examining the role of hindbrain neurons expressing prolactin-releas- general population during the COVID-19 pandemic in Australia: initial results
+ing peptide or glucagon-like peptide 1. Front NeuroSci. 2013;6:199. from the COLLATE project. Int J Eat Disord. 2020;53(7):1158–65.
+41. Sominsky L, Spencer SJ. Eating behavior and stress: a pathway to obesity. 61. Górnicka M, et al. Dietary and lifestyle changes during COVID-19 and the
+Front Psychol. 2014;5:434. subsequent lockdowns among Polish adults: a cross-sectional online survey
+42. Razzoli M, Bartolomucci A. The dichotomous effect of chronic stress on PLifeCOVID-19 study. Nutrients. 2020;12(8):2324.
+obesity. Trends Endocrinol Metabolism. 2016;27(7):504–15. 62. Sulejmani E, et al. Relationship in dietary habits variations during COVID-19
+43. Ruíz-Roso MB, et al. Changes of physical activity and ultra-processed food lockdown in Kosovo: the COVIDiet study. Appetite. 2021;164:105244.
+consumption in adolescents from different countries during Covid-19 pan- 63. Zielińska M, et al. The prevalence of ‘‘Food Addiction’’during the COVID-19
+demic: an observational study. Nutrients. 2020;12(8):2289. pandemic measured using the Yale Food Addiction Scale 2.0 (YFAS 2.0)
+44. Ammar A, et al. Effects of COVID-19 home confinement on eating behaviour among the Adult Population of Poland. Nutrients. 2021;13(11):4115.
+and physical activity: results of the ECLB-COVID19 international online survey. 64. Gryszczyńska B, et al. Nutritional behaviors, vitamin supplementation and
+Nutrients. 2020;12(6):1583. physical activity among Polish adults during the COVID-19 pandemic. Nutri-
+45. Anton SD, Miller PM. Do negative emotions predict alcohol consumption, ents. 2022;14(2):331.
+saturated fat intake, and physical activity in older adults? Behav Modif. 65. Bann D et al. Changes in the behavioural determinants of health during the coro-
+2005;29(4):677–88. navirus (COVID-19) pandemic: gender, socioeconomic and ethnic inequalities in 5
+46. Rolland B, et al. Global changes and factors of increase in caloric/salty food British cohort studies Medrxiv, 2020: p. 2020.07. 29.20164244.
+intake, screen use, and substance use during the early COVID-19 contain- 66. Machmud A, Minghat ADB. The price dynamics of hand sanitizers for COVID-
+ment phase in the general population in France: survey study. JMIR Public 19 in Indonesia: exponential and cobweb forms. Indonesian J Sci Technol.
+Health Surveillance. 2020;6(3):e19630. 2020;5(2):176–84.
+47. Becker KD, et al. The influence of negative urgency, attentional bias, 67. Heydari MR, et al. An online investigation of knowledge and preventive prac-
+and emotional dimensions on palatable food consumption. Appetite. tices in regard to COVID-19 in Iran. Volume 5. HLRP: Health Literacy Research
+2016;100:236–43. and Practice; 2021. pp. e15–23. 1.
+48. AlMughamis N, AlAsfour S, Mehmood S. Poor eating habits and predictors 68. Zhong B-L, et al. Knowledge, attitudes, and practices towards COVID-19
+of weight gain during the COVID-19 quarantine measures in Kuwait: a cross among Chinese residents during the rapid rise period of the COVID-19 out-
+sectional study. F1000Research. 2020;9:914. break: a quick online cross-sectional survey. Int J Biol Sci. 2020;16(10):1745.
+49. Hammons AJ, Robart R. Family food environment during the COVID-19 69. Paradis A-M, et al. Eating behaviours of non-obese individuals with and
+pandemic: a qualitative study. Children. 2021;8(5):354. without familial history of obesity. Br J Nutr. 2008;101(7):1103–9.
+50. Zurita-Ortega F, et al. Adherence to the mediterranean diet is associated with 70. Moustafa HAM, Kassem AB. COVID-19-related health literacy and prepared-
+physical activity, self-concept and sociodemographic factors in university ness to what may come: a cross-sectional study. Beni-Suef Univ J Basic Appl
+student. Nutrients. 2018;10(8):966. Sci. 2023;12(1):114.
+51. Berge JM, et al. Are there protective associations between family/shared meal 71. Paasche-Orlow MK, et al. The prevalence of limited health literacy. J Gen
+routines during COVID-19 and dietary health and emotional well-being in Intern Med. 2005;20(2):175–84.
+diverse young adults? Prev Med Rep. 2021;24:101575. 72. Huang Y, Zhao N. Generalized anxiety disorder, depressive symptoms and
+52. Neumark-Sztainer D, et al. Family meals and adolescents: what have sleep quality during COVID-19 outbreak in China: a web-based cross-sec-
+we learned from Project EAT (eating among teens)? Public Health Nutr. tional survey. Psychiatry Res. 2020;288:112954.
+2010;13(7):1113–21.
+53. Berge JM, et al. Intergenerational transmission of family meal patterns from
+adolescence to parenthood: longitudinal associations with parents’ dietary Publisher’s Note
+intake, weight-related behaviours and psychosocial well-being. Public Health Springer Nature remains neutral with regard to jurisdictional claims in
+Nutr. 2018;21(2):299–308. published maps and institutional affiliations.
+54. Utter J, et al. Family meals among parents: associations with nutritional, social
+and emotional wellbeing. Prev Med. 2018;113:7–12.

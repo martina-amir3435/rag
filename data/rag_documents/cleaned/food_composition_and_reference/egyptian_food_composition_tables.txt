@@ -1,0 +1,1847 @@
+National Investment Profile
+Water for
+Agriculture
+and Energy
+Egypt
+1
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+EXECUTIVE SUMMARY
+This analysis has been conducted within the TCP/INT/3404 "Support to the pre- and post-CAADP
+compact process for improved agricultural water management" project that covers four
+countries in Africa: Egypt, Malawi, the Sudan, and Swaziland. The project aims at assisting these
+countries to foster sustainable agricultural water management (AWM) through the effective
+implementation of the Comprehensive Africa Agriculture Development Programme (CAADP)
+compact and post-compact process, the refinement of national agricultural water development
+strategies and the alignment to national strategies for food security strategies and programmes.
+The Egyptian economy traditionally relied on agriculture as one of the main sectors. The
+agricultural sector currently contributes about 13.3 percent of the total Gross Domestic Product
+(GDP) of Egypt (CAPMAS, 2015).
+Industries related to agriculture, (e.g. processing, marketing, and supplies) account for a further
+20 percent of the total GDP (CAPMAS, 2015). The agricultural sector provides formal and informal
+employment for about 6.70 million persons (CAPMAS, 2015) and about 8.25 million persons
+respectively (ILO, 2011). It furthermore accounts for 10 percent of the total national exports
+(CAPMAS, 2015). The majority of agricultural holdings were of small size. More than 62 percent
+of the agricultural output comes from agricultural holdings with less than one to three hectares
+under cropping. Typical farm sizes range from one to two hectares (MALR, 2014 b).
+Egypt has achieved good progress in agricultural productivity, reflecting the success of horizontal
+expansion by the expansion of reclaimed areas and vertical expansion by improving productivity.
+Egypt ranked third in terms of dietary energy supply1 top 20 countries in 2015 reaching about
+3550 kcal/cap/day and exceeding the average global calorie availability of 2870 kcal/cap/day as
+estimated by (FAO, 2015).
+1 The dietary energy supply (DES) is the food available for human consumption, expressed in kilocalories per
+person per day. At the country level, it is calculated as a measure of food available for human use after taking out
+all non-food utilization, including exports, industrial use, animal feed, seed, wastage and changes in stocks.
+2
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Over the past decade, Egypt has faced a series of shocks that have triggered a decline in food
+security and nutrition trends. Egypt is self-sufficient in rice, vegetables, fruits, dairy products,
+poultry, eggs and fresh milk. However, increased food supplies are needed not only to meet
+nutritional needs of the population, but also to enhance the food self-sufficiency and security
+position. According to (MOP, 2015 a), the percentage of the population below the poverty line in
+Egypt declined from about 24.3 percent (12.9 million out of 53.0 million) in 1990/1991 to about
+19.6 percent (13.9 million out of 70.7 million) in 2004/2005. However, a recent increase of this
+percentage was reported to reach about 26.3 percent (22.0 million out of 83.7 million) in
+2012/2013 (MOP, 2015 a).
+Egypt’s irrigation potential is estimated at 4.42 million hectares. The total actual renewable
+surface water resources are estimated at 56 km3/year (of which 55.5 km3/yr from the River Nile
+and 0.5 km3/yr from internal renewable surface water resources). Internal renewable
+groundwater resources are estimated at 1.3 km3/yr. The overlap between surface water and
+groundwater are considered negligible, the total actual renewable water resources of the
+country are thus 58.3 km3/yr (FAO-Aquastat, 2015).
+According to (EEHC, 2014), most of Egypt's economic hydropower potential has been exploited.
+This can be easily noticed by the declining percentage contribution of generated hydro-electricity
+into the total electricity generated on the national level, where the 70 percent of the generated
+electric energy in 1970 decreased to reach 11.3 percent in 2007 then to about 8 percent in 2014
+(MOP, 2015 b). The (EEHC, 2014) estimated Egypt’s technically and economically feasible
+hydropower potential at about 50,000 GWh/year. According to (EEHC, 2014), Egypt has eight
+hydropower plants in operation.
+Climate change impact studies predicted a reduction in the productivity of the major crops in
+Egypt such as wheat, rice, maize, soybeans and barley (MSEA, 2010).
+The Strategic Framework for Economic and Social Development Plan (SFESDP 2022) aims at
+poverty reduction (MOP, 2012). Under the framework of overall development policies and the
+CAADP, Egypt has prepared different policy documents and investment plans regarding
+agriculture and food security. The National Water Resources Plan (NWRP) (MWRI, 2005) aims at
+improving overall water use efficiency in agriculture, improving water allocation and distribution
+of Nile water, preventing or reducing emissions, and treatment of wastewater.
+3
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+The SADS 2030 focuses on achieving sustainable use of agricultural natural resources, and
+improving agricultural productivity (MALR, 2009). Besides, the Sustainable Agricultural
+Development Strategy (SADS) aims to attain food security by promoting self-sufficiency in
+strategic food commodities, rationalizing local demand and consumption, improving
+consumption patterns in order to improve nutritional standards, reducing pre- and post-harvest
+food losses, improving food quality and safety, and improving social safety nets (MALR, 2009).
+Egypt has a national energy strategy that covers the diversification of the energy mix, higher
+energy efficiency, and a reform of the electricity, oil and natural gas markets as well as a reduction
+of energy subsidies. Based on (NREA, 2014), wind, hydro and solar energies contribute for about
+12 percent, 4 percent and 4 percent of the total energy generated by 2020, respectively.
+To translate these goals into reality, Egypt is currently implementing and planning to implement
+a number of irrigation and hydropower projects at an average investment costs of US$43 million
+and US$92 million for the on-going and pipeline projects respectively. The vast majority (91
+percent) of these projects is focusing on irrigation categories whereas hydropower categories
+represent only 1 percent of the envelope; indicating a lack of diversity of investment in this
+envelope. However, the New and Renewable Energy Authority is pursuing other types of
+renewable projects, primarily solar and wind power, to diversify the country's energy mix.
+Investment in the rehabilitation and modernization of irrigation is predominant in the envelope
+(74 percent). The financial analysis of projects also illustrated that the investment in irrigation
+within this country is focused on short and medium term projects; investment in the long term is
+insufficient. Besides, investment is mostly executed by international donors and public funding
+partners. It is important to mention that Egypt enacted a new Investment Law to attract private
+sector investors to foster sustainability of funding.
+It would be important for the country to ensure that the institutional and political environment
+is adequate for the success of these investments. In addition to this, it is recommended that
+mechanisms are put in place to encourage the participation of the public and private sectors in
+developing water resources and to support project formulation in the longer term.
+4
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY .................................................................................................................... 2
+TABLE OF CONTENTS....................................................................................................................... 5
+TABLE OF FIGURES .......................................................................................................................... 6
+ABBREVIATIONS .............................................................................................................................. 7
+1. CONTEXT ................................................................................................................................. 9
+1.1 AGRICULTURE AND FOOD SECURITY ................................................................................ 9
+Agriculture .............................................................................................................................. 9
+Irrigation and Water Control ................................................................................................ 13
+Food security ......................................................................................................................... 14
+Food self sufficiency .............................................................................................................. 16
+1.2 WATER RESOURCES AND HYDROPOWER ...................................................................... 17
+1.3 CLIMATE CHANGE .......................................................................................................... 20
+2 NATIONAL STRATEGIES FOR WATER, AGRICULTURE AND ENERGY ..................................... 21
+3 INVESTMENT ENVELOPE ....................................................................................................... 27
+4 CONCLUSIONS ....................................................................................................................... 37
+ANNEX 1. PROJECT PORTFOLIO .................................................................................................... 40
+Table 1.1. ON-GOING PROJECTS ........................................................................................... 40
+Table 1.2. PIPELINE PROJECTS .............................................................................................. 49
+ANNEX 2. MAP OF Egypt ............................................................................................................... 56
+REFERENCES .................................................................................................................................. 57
+5
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+TABLE OF FIGURES
+Figure 1. The Typology of Agricultural Holdings in Egypt for 2010. ............................................. 11
+Figure 2. Comparison of yields for some field crops among Egypt, Africa and the world in 2011-
+2013. ............................................................................................................................................. 12
+Figure 3. The trend in use of technology of irrigation (motorized pumps) in Egypt 1997-2011. . 14
+Figure 4. Food and Agriculture Trade in 2000-2013 ..................................................................... 17
+Figure 5. Schematic diagram of major control dams and barrages on the Nile River in Egypt .... 19
+Figure 6. Project Cost distribution – On-going Projects ............................................................... 29
+Figure 7. Project Cost distribution – Pipeline Projects ................................................................. 29
+Figure 8. Cost distribution in time per typology – All Projects (US$ million) ............................... 33
+Figure 9. Cost distribution in time per typology – On-going Projects (US$ million) .................... 33
+Figure 10. Cost distribution in time per typology – Pipeline Projects (US$ million) .................... 33
+Figure 11. Cost share per typology – All Projects (%) ................................................................... 35
+Figure 12. Cost share per typology – On-going Projects (%) ........................................................ 35
+Figure 13. Cost share per typology – Pipeline Projects (%) .......................................................... 35
+Figure 14. Cost share per funding partner for On-going Projects (%) .......................................... 36
+6
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+ABBREVIATIONS
+ACIAR Australian Centre for International Agricultural Research
+AFD French Agency for Development
+AfDB African Development Bank
+ARC Agricultural Research Centre
+AusAid Australian Agency for International Development
+AWF African Water Facility
+BCM Billion Cubic Meter
+BCWUAs Branch canal water users Associations
+BMZ German Federal Ministry for Economic Cooperation and Development
+CAADP Comprehensive Africa Agriculture Development Programme
+CAPMAS Central Agency for Public Mobilization and Statistics
+CWANA Central and West Asia and North Africa
+DES Dietary Energy Supply
+EIB European Investment Bank
+GEF Global Environment Facility
+GIS Geographic Information System
+GIZ Deutsch Gesellschaft für Internationale Zusammenarbeit
+GoE Government of Egypt
+GWh Gigawatt hour
+ha hectare (1 ha = 2.38 feddans)
+HAD High Aswan Dam
+HPPEA Hydropower Plants Execution Authority
+IBRD International Bank For Reconstruction And Development
+ICARDA International Center for Agricultural Research in the Dry Areas
+IDA World Bank Group
+IDRC International Development Research Center, Canada
+IFAD International Fund for Agricultural Development
+ILO International Labour Organization
+IsDB Islamic Development Bank
+IWRM Integrated Water Resources Management
+JICA Japan International Cooperation Agency
+JSDF Japan Social Development Fund
+kcal/cap/day kilocalories/capita/day
+KFAED Kuwait Fund for Arab Economic Development
+KfW Kreditanstalt für Wiederaufbau - KfW Development Bank
+Kg Kilogram
+Km Kilometer
+Km2 Square Kilometer
+km³ 10 m³ = 1 000 million m³ = 1 000 million Cubic Meter
+kW Kilowatt
+L.E. Egyptian Pound
+7
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+m meter
+MALR Ministry of Agriculture and Land Reclamation
+MDGs Millennium Development Goals
+mm millimeter
+MOH Ministry of Health
+MOP Ministry of Planning
+MSEA Ministry of State for Environmental Affairs
+MW Megawatt
+MWRI Ministry of Water Resources and Irrigation
+NREA New and Renewable Energy Authority
+NWRP National Water Resources Plan
+O&M Operation and Maintenance
+OFID OPEC Fund for International Development
+SADS Sustainable Agricultural Development Strategy
+SFD Saudi Fund for Development
+SFESDP Strategic Framework for Economic and Social Development Plan
+SMEs small and microenterprises
+UNFCCC United Nations Framework Convention on Climate Change
+USAID United States Agency for International Development
+8
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+1. CONTEXT
+This chapter portrays the role of the Egyptian agriculture as a source of growth and contribution
+to GDP, exports and employment. Besides, agricultural area, typology of agricultural holdings,
+land tenure, and agricultural production in Egypt will be discussed in this chapter.
+Irrigation potential, total area equipped for irrigation, typology of irrigation and water control
+holdings, main crops cultivated and state of infrastructure are also highlighted in this chapter.
+Moreover, this chapter illustrates trends in food security, undernourishment, food self-
+sufficiency, and food and agriculture trade in Egypt. Finally, water resources, hydropower, and
+expected impact of climate change on the Egyptian agriculture are highlighted in this chapter.
+1.1 AGRICULTURE AND FOOD SECURITY
+Agriculture
+Based on the Central Agency for Public Mobilization and Statistics (CAPMAS, 2015), Egypt's GDP
+at constant prices increased from L.E. 838 billion in 2009/2010 to about L.E. 873 billion in
+2011/2012. Agriculture is one of the largest sectors of the economy, comprising about 13.3
+percent of the GDP during the period 2009-2012. Industries related to agriculture, such as
+processing, marketing, and supplies, account for a further 20 percent of GDP (CAPMAS, 2015).
+The Egyptian economy has traditionally relied heavily on agriculture as a source of growth and
+support for the non-agricultural sectors of the economy. This pivotal role was re-enforced by the
+strong performance of the sector in the 1960s and 1970s. During the 1980s and 1990s, this
+dominance declined, but agriculture still accounts for a significant share of growth, exports and
+employment. Agriculture is thus still a key sector in the Egyptian economy.
+Rural population increased from around 31.4 million inhabitants in 1993 to reach about 38.8
+million inhabitants in 2003, which increased to about 48.4 million inhabitants in 2013,
+representing respectively 56.9, 57.1 and 57.2 percent of Egypt's total population (CAPMAS,
+2015).
+Currently, agriculture is the largest source of employment in rural areas, though non-farm
+activities are becoming increasingly important. These comprise a highly diverse range of
+activities: from manufacturing (usually artisan) to trading, to the provision of services of all kinds.
+Despite the heterogeneity, some features of rural work are common across sectors and locations.
+9
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Most rural workers are self-employed in their own farms or in very small enterprises typical for
+rural non-farm activities (CAPMAS, 2008). Based on research from the International Labor
+Organization (ILO, 2011), informal employment in Egypt reached about 8 247 000 persons in 2009
+(7 percent of females and 93 percent of males) of which agricultural employment contributed to
+about 48.8 percent whereas, non-agricultural employment contributed to about 51.2 percent.
+The agricultural sector provides formal employment for about 28 percent of the labor force and
+plays an important role for many people as subsistence farming (CAPMAS, 2015). In 2014, the
+total labor force reached around 24 million (as compared to around 16 million in 1996) of which
+about 19 million (80 percent) were men and about 5 million (20 percent) women; with about 7
+million (around 28 percent) engaged in agriculture. Besides, about 5 million (19 percent of total
+labor force) of employees were men engaged in agriculture and about 2 million (9 percent of
+total labor force) were women engaged in agriculture in 2014 (CAPMAS, 2015).
+The country consists predominantly of desert, arid, and semi-arid rangelands covering a total
+area of about 100.15 million hectares. Majority of the cultivated area is located near the Nile
+banks, its main branches and canals. Egypt’s inhabited area is about 3.99 million hectares,
+representing only 4 percent of Egypt’s total area. Based on the Ministry of Agriculture and Land
+Reclamation (MALR, 2014 a), the total land dedicated to agriculture has increased in recent
+decades.
+Currently, Egypt’s irrigated area covers about 3.76 million hectares in 2013, as compared to about
+3.69 million hectares in 2009 due to the loss of agricultural land to illegal urban encroachment.
+However owing to increasing cropping intensification the total cropped area increased from 4.7
+million hectares in 1980 to reach about 6.51 million hectares in 2013. It is also worth mentioning
+that the cropping intensity indicator showed that most of Egypt’s cultivated land was cropped
+almost twice in 2013 (more than 173 percent). This could be a result of the introduction of early
+maturing varieties for various crops, allowing the cultivation of the same land for up to three
+harvests per year (MALR, 2014 a).
+Land tenure in Egypt takes three forms: i) ownership: holder and owner are the same person; ii)
+rent, cash or in-kind: the holder is not the same person as the owner and iii) mixed holding, where
+the holder is the owner of one part of the land holding and the tenant owns the other part, that
+it, both of them have the ownership as well as the utilization rights for one part of it but only the
+utilization right for its other part (FAO-Database, 2015).
+10
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Moreover, agricultural holdings fragmentation is one of the most distinguished phenomena in
+the agricultural sector. The results of the Agricultural Censuses for 2009/2010 (MALR, 2014 b)
+revealed that the majority of agricultural holdings were of small size (Figure 1). About 47 percent
+of agricultural holdings did not exceed two hectares while about 14.5 percent of agricultural
+holdings range ranging between two and three hectares (MALR, 2014 b). More than 62 percent
+of the agricultural output comes from agricultural holdings with less than one to three hectares
+under cropping. Typical farm sizes range from one to two hectares (MALR, 2014 b).
+Figure 1. The Typology of Agricultural Holdings in Egypt for 2010.
+6000
+Area (000 Ha) Number (000)
+5000
+4000
+d
+n
+a
+s3000
+u
+o
+h
+T
+2000
+1000
+0
+Total Without <1 Ha 1-2 Ha 2-3 Ha 4-5 Ha 5-10 Ha 10-20 Ha >20 Ha
+land
+Own elaboration using (MALR, 2014 b) data.
+Egypt has achieved good progress in agricultural productivity, particularly during the past two
+decades, hence reflecting the success of horizontal expansion by the expansion of reclaimed
+areas and vertical expansion by improving productivity. Besides, great efforts are currently being
+made to introduce high yielding, early maturing wheat varieties as well as high yielding maize
+hybrids. According to the Ministry of Agriculture and Land Reclamation (MALR, 2014 a), the
+average yield of wheat increased by about 29 percent from around 5.12 ton/hectare in 1991-
+1993 to about 6.43 ton/hectare in 2001-2003 to about 6.61 ton/hectare in 2011-2013.
+11
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Based on (ARC, 2015), a joint program for wheat improvement in Egypt (as an irrigated farming
+system) between the Agricultural Research Centre (ARC) and the International Center for
+Agricultural Research in the Dry Areas (ICARDA). The objective of this program was to develop
+wheat germplasm with the attributes suitable for irrigated agriculture (including high yield
+potential, heat tolerance, good grain quality and resistance to diseases and insect pests), and to
+make the germplasm freely available, in the form of international nurseries to national wheat
+breeding programs in the areas of concern to ICARDA, particularly Central and West Asia and
+North Africa (CWANA) region. Considerable progress was made in identifying superior lines with
+high yield potential and desired attributes for Egypt through selection of segregating populations
+and subsequent advanced lines under raised-bed planting. Five promising bread wheat lines were
+promoted for on-farm trials. In 2013/14 season, three Bread Wheat and four Durum Wheat elite
+lines proved superior to others. These improved genotypes of wheat have shown yield potential
+of more than 10 tons/hectare, which turned out to be 10-20 percent higher than the best checks
+(Sids 12 and Misr 1).
+However, the average yields for rice, cotton, sugarcane and maize increased by about 26, 53, 10
+and 26 percent, respectively during the period 1991-2013 (MALR, 2014 a). Figure 2 compares the
+average yields for some field crops during the period 2011-2013 in Egypt with the averages of
+Africa and the world.
+Figure 2. Comparison of yields for some field crops among Egypt, Africa and the world in
+2011-2013.
+10.0
+9.0
+8.0
+Egypt Africa World
+7.0
+6.0
+a
+h
+/ 5.0
+n
+o
+t 4.0
+3.0
+2.0
+1.0
+0.0
+Wheat Broad beans Groundnuts Lentils Maize Rice Sesame Sorghum Soybeans
+Own elaboration using (MALR, 2014 a) and (FAOSTAT, 2015) data.
+12
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Irrigation and Water Control
+Based on data from the FAO (FAO-Aquastat, 2015), Egypt’s irrigation potential is estimated at 4
+420 000 hectares. The total area equipped for irrigation was 3 422 178 hectares in 2002; 85
+percent of this area is in the Nile Valley and Delta.
+Based on (FAO-Aquastat, 2015), rainwater harvesting is practiced on about 133 500 hectares in
+Matruh and North Sinai. All irrigation is full or partial control irrigation; surface irrigation was
+practiced on 3 028 853 hectares in 2000, while 171 910 hectares were under sprinkler irrigation
+and 221 415 hectares under localized irrigation. Surface water was the source for 83 percent of
+the irrigated area in 2000, while 11 percent (361 176 hectares) of the area was irrigated with
+groundwater in the Governorates of Matruh, Sinai and New Valley. The remaining 6 percent (217
+527 hectares) was irrigated with mixed sources (FAO-Aquastat, 2015).
+The irrigation system on the old land of the Nile Valley is a combined gravity and water lifting
+system. Downstream of the High Aswan Dam, there are seven barrages to facilitate abstraction.
+The main canal system (first level) comprises 31 200 kilometers of canals and takes its water from
+head regulators, located upstream of the Nile barrages (FAO-Aquastat, 2015).
+According to (FAO-Aquastat, 2015), water is distributed along branches (second level) where the
+flow is continuous. At the third level, distributaries receive water according to a rotation
+schedule. Water is pumped from the distributaries to irrigate fields (lift: about 0.5-1.5 meters).
+The irrigation system in the new lands (reclaimed areas) is based on a cascade of pumping
+stations from the main canals to the fields, with a total lift of up to 50 meters. Surface irrigation
+is banned by law in the new reclaimed areas, which are located at the end of the systems, and
+are more at risk of water shortage. Farmers have to use sprinkler or drip irrigation, which are
+more suitable for the mostly sandy soil of those areas. If used efficiently, sprinkler and drip
+irrigation need less water than surface irrigation (FAO-Aquastat, 2015).
+In addition to the older developments in the oasis of the New Valley, which pump water from the
+Nubian Sandstone aquifer, new large irrigation schemes are under development in the
+southwestern part of the country at Al Oweinat; in 2003 about 4 200 hectares were under
+cultivation and there are plans to extend the project extensively. In the Fayoum Governorate,
+irrigation was practiced with gravity until recently, without any water lifting system. By the year
+2000, however, gravity irrigation was practiced on only 1 900 hectares, or on less than 1.2 percent
+of the cultivated area in Fayoum. Drainage water in the Governorate is directed by gravity into
+Wadi Rayan and the Qaroon Lake (FAO-Aquastat, 2015).
+13
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Water harvesting (Matruh and Northern Sinai) is possible thanks to the construction of cisterns
+and diversion dikes. The average rainfall in the areas is between 220 and 250 millimeters (FAO-
+Aquastat, 2015). Moreover, motorized pumps prevail in Egypt. The latest records for the trend in
+use of technology of irrigation in Egypt are illustrated in (Figure 3).
+Figure 3. The trend in use of technology of irrigation (motorized pumps) in Egypt 1997-
+2011.
+3.80
+3.70
+3.60
+a 3.50
+h
+n
+o 3.40
+illiM
+3.30
+3.20
+3.10
+3.00
+1997 1999 2001 2003 2005 2007 2009 2011
+Own elaboration using (CAPMAS, 1999-2015) data.
+There are six major field crops that cover about 60 percent of the cropped area in Egypt in 2013
+namely, wheat, berseem (Egyptian clover), rice, maize, cotton and sugarcane (MALR, 2014 a).
+Food security
+According to (WFP, 2013), Egypt is a net food importer and heavily dependent on food imports
+to meet the consumption needs of the population. The recent significant depreciation in the
+Egyptian pound and the low level of foreign reserves has therefore put the country at risk.
+Besides, high population rates, increasing per capita income and urbanization, especially cereals,
+received an increasing number of Syrian refugees are major factors for rising food demand.
+Moreover, at the food supply side, Egypt is facing important challenges with diminishing
+agriculture potential, water scarcity, climate change, deficit on its food balance and rising imports
+bills. Therefore, increased food supplies are needed not only to meet nutritional needs of the
+population, but also to enhance the food sufficiency and security position of the nation.
+14
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Based on (MALR, 2014 c), Egypt’s average global calorie availability for consumption in 2013
+reached about cereals, wheat and products, maize, and rice respectively reached about 2405,
+1336, 659, and 408 kcal/cap/day whereas, it reached about 398, 155, 63, 24, 72, 63, 446, 156,
+46, 47, 18, and 25 kcal/cap/day for sugar, milk, potatoes, dates, vegetables, pulses, vegetable
+oils, fruits, red meat, poultry, eggs, and fishes, respectively.
+In Egypt, the extensive social safety net include food subsidies made up of two components: (1)
+subsidized ration cards that allow 80 percent of Egyptian households to buy rationed amounts of
+set quotas of specific commodities at subsidized prices from specific outlets and (2) baladi bread
+sold at L.E. 0.05 per loaf, for which there are no entitlement restrictions and distribution takes
+place on a first come, first served basis (IFPRI, 2014). Therefore, Egypt achieved good results with
+regard to food consumption. Based on (FAO, 2015), Egypt’s Dietary Energy Supply (DES) ranked
+third of top 20 countries in 2015 reaching about 3550 kilocalories/capita/day and exceeding the
+average global calorie availability of 2870 kcal/cap/day as estimated by (FAO, 2015).
+Alongside growing poverty and food insecurity, stunting rates due to undernourishment among
+children under five have increased in the last decade (CAPMAS, 2015). The nutritional status of
+children under-five years of age is an important indicator of the feeding and nutrition practices
+in Egypt. The undernourishment is mainly characterized by three standard indices of physical
+growth: 1) stunting (low height-for-age); 2) wasting (low weight-for-height); and 3) underweight
+(low weight-for-age). In early childhood, undernourishment has negative life-long and
+intergenerational consequences; undernourished children are more likely to require medical care
+as a result of undernourishment-related diseases and deficiencies. This increases the burden on
+public social services and health costs incurred by the government and the affected families.
+Based on the Egyptian Demographic and Health Survey (EDHS) launched by the Ministry of Health
+in 2009 (MOH, 2009), Egypt made important progress reducing the percentage of stunted
+children under the age of five from 24.4 percent in 1992 to about 18.7 percent in 2000 to just
+over 17 percent in 2005. However, the latter percentage fell back due to increasing the
+prevalence of stunted children in the last few years from about 17.6 percent in 2005 to around
+28.9 percent in 2008. This could be due to the increase in food and fuel prices and the avian
+influenza epidemic as well as existing poverty and unemployment that diminished the coping
+capacity of families with limited incomes. Prevalence of wasting and underweight children
+reached about 7.2 percent and 6.8 percent, respectively (MOP, 2015 a).
+Based on (WFP, 2015), the Egyptian government has a national school feeding programme in
+place that aims at increasing school attendance rates, however, a large number of schools remain
+untargeted, especially community schools. Moreover, the World Food Programme (WFP)
+supports the Egyptian government’s school feeding initiative to reach out to a larger number of
+schools through providing food incentives in community schools.
+15
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+The country is on-track to achieve its long-term goal of reducing the poverty rate to 6 percent by
+2022. Progress towards the Millennium Development Goals (MDGs) is significant but, due to the
+rapid population growth, further progresses will be essential. Based on data from the Ministry of
+Planning (MOP, 2015 a), the percentage of population below the poverty line in Egypt declined
+from about 24.3 percent in 1990/1991 to about 19.6 percent in 2004/2005. However, a recent
+increase of this percentage was reported from 21.6 percent in 2008/2009 to 25.2 percent in
+2010/2011, then to 26.3 percent in 2012/2013 (MOP, 2015 a).
+Food self sufficiency
+Although Egypt has the capability to produce more than sufficient quantities of several crops
+such as rice, vegetables, fruits, dairy products, poultry, eggs and fresh milk; it is dependent on
+importing wheat, lentils, sugar, red meat, and oils.
+However, increased food supplies are needed not only to meet nutritional needs of the
+population, but also to enhance the food sufficiency and security position of the nation.
+Based on (CAPMAS, 2015), Egypt was only able to produce approximately 55.7 percent of its
+domestic consumption of wheat in 2012, as compared to about 54.8 percent in 2008. Egypt was
+also about 67.7 percent self-sufficient in maize production in 2012, as compared to about 59.3
+percent in 2008.
+Egypt was even less self-sufficient for faba beans and lentils with self-sufficiency rates of about
+38.8 percent and 1.6 percent respectively in 2012 (CAPMAS, 2015).
+Although the contribution of the agriculture sector to the GDP has fallen over time (from 17.4
+percent in 1981 to 13.3 percent), it still accounts on average for 10 percent of the total national
+exports in the period from 2000 till 2013 (CAPMAS, 2015). According to (CAPMAS, 2015), around
+11 percent of the national imports were agricultural imports during the same period (Figure 4).
+When looking at a longer time horizon, the agricultural exports increased by more than ten times
+from about L.E. 1.8 billion in 2000 to about L.E. 19.8 billion in 2013. However, the agricultural
+imports increased by more than four times from L.E. 6.8 billion in 2000 to L.E. 35.4 billion in 2013.
+Despite impressive gains in the production of strategic food crops, Egypt remains a food importer.
+Accordingly, Egypt was net food importer with a negative food trade balance of about L.E. 19.6
+billion during the same period. The need to reduce the dependency on food imports and to meet
+the gap between consumption and production is crucial for a country with a high rate of
+population growth like Egypt.
+16
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Besides, trade balance deficit at the national, agricultural and food levels reached respectively
+L.E. 101.3, 12.7 and 19.6 billion, during the same period. The total food exports and imports are
+respectively 8 percent and 14 percent of the national exports (CAPMAS, 2015).
+Egypt's major agricultural food imports during the period 2000–2013 were wheat, wheat flour,
+maize, refined sugar, meat (chilled or frozen), and dairy products. Figure 4 displays a sharp fall of
+agricultural and food imports in 2013 owing to the increased local production of wheat, being
+the main imported agricultural and food commodity in Egypt, and the big wheat carryover stocks
+from the 2011/2012 harvest, as well. It is also worth mentioning that 2012/2013 was a good
+harvest year for the local wheat following favourable weather conditions, adequate availability
+of improved seeds and continued Government support including higher Government
+procurement prices in Egypt (FAO, 2013). Moreover, figure 4 illustrates the gap between
+agricultural imports and exports as a result of the increasing population (CAPMAS, 2015).
+Figure 4. Food and Agriculture Trade in 2000-2013
+Population Agricultural Exports Food Exports
+Agricultural Imports Food Imports
+60,000
+83,000
+81,000
+50,000
+)
+.E 79,000
+40,000
+.L
+n
+)
+d n 77,000
+o a
+30,000
+illim
+(
+s
+u
+o h 7
+7
+3
+5
+,
+,
+0
+0
+0
+0
+0
+0
+e t (
+20,000 d a r T n o it
+a 6
+7
+9
+1
+,
+,
+0
+0
+0
+0
+0
+0
+lu
+p 67,000
+10,000 o
+P
+65,000
+0 63,000
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+Own elaboration using (CAPMAS, 2015) data.
+1.2 WATER RESOURCES AND HYDROPOWER
+Water resources
+According to (FAO-Aquastat, 2015), the Egyptian territory comprises the following river basins:
+17
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+ The Northern Interior Basin, covering 520 881 km2 or 52 percent of the total area of the
+country in the east and southeast of the country. A sub-basin of the Northern Interior
+Basin is the Qattara Depression.
+ The Nile Basin, covering 326 751 km2 (33 percent) in the central part of the country in the
+form of a broad north-south strip.
+ The Mediterranean Coast Basin, covering 65 568 km2 (6 percent).
+ The Northeast Coast Basin, a narrow strip of 88 250 km2 along the coast of the Red Sea (8
+percent).
+The River Nile is the main source of water for Egypt, with an annual allocated flow of 55.5 km3/yr
+under the Nile Waters Agreement of 1959. Internal renewable surface water resources are
+estimated at 0.5 km3/yr. This brings total actual renewable surface water resources to 56
+km3/year. Internal renewable groundwater resources are estimated at 1.3 km3/yr. The overlap
+between surface water and groundwater are considered negligible, the total actual renewable
+water resources of the country are thus 58.3 km3/yr (FAO-Aquastat, 2015).
+The Nubian Sandstone aquifer located under the Western Desert is an important groundwater
+source, but only consists of fossil groundwater. The main source of internal recharge is
+percolation from irrigation water in the Valley and the Delta (FAO-Aquastat, 2015). All drainage
+water in Upper Egypt, south of Cairo, flows back into the Nile and the irrigation canals; this
+amount is estimated at 4 km3/yr.
+Drainage water in the Nile Delta is estimated at 14 km3/yr. Treated municipal wastewater in
+2001/2002 was estimated at 2.97 km3/yr. There are several desalination plants on the coasts of
+the Red Sea and the Mediterranean to provide water for seaside resorts and hotels; total
+production in 2002 was estimated at 100 million m3. The draft of the new Development and
+Management of Water Resources Strategy 2050 by the Ministry of Water Resources and
+Irrigation (MWRI, 2010) estimated the potential of non-renewable groundwater in the eastern
+and western deserts, mainly from the Nubian Sandstone aquifer, at 3.8 km3/yr. Therefore,
+sustaining the use of this non-renewable water resource for 200 years.
+18
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Major control structures on the Nile in Egypt include the High and Old Aswan Dams, and a number
+of downstream barrages. The Old Aswan Dam was completed in 1902 with a storage volume of
+about 1 Billion Cubic Meters (BCM). By increasing the height of the dam the storage capacity was
+increased to 5 BCM in 1934. The High Aswan Dam (HAD), upstream of the (Old) Aswan Dam, was
+completed in 1964; the Lake Nasser reservoir created by this dam drastically improved the
+regulation of Nile water. The reservoir has a large annual carry-over capacity and is partitioned
+into different storage zones. Downstream of Aswan, the water levels and water distribution are
+controlled by a number of barrages (Figure 5). These barrages have locks to allow the passage of
+boats. The first barrage was the Delta Barrage at El Kanater, built as early as 1861 (MWRI, 2005).
+Figure 5. Schematic diagram of major control dams and barrages on the Nile River in
+Egypt
+(MWRI, 2005).
+Hydropower
+Based on the Egyptian Electricity Holding Company (EEHC, 2014), hydropower is Egypt’s third-
+largest energy source after natural gas and petroleum. Most of Egypt's economic hydropower
+potential has been exploited. This can be easily noticed by the relative declining contribution of
+generated hydro-electricity into the total electricity generated on the national level, where the
+70 percent of the generated electric energy in 1970 decreased to 11.3 percent in 2007, and
+subsequently to about 8 percent in 2014 (MOP, 2015 b).
+19
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+The hydropower scheme in Egypt is highly dependent on the Nile. Notwithstanding the
+development that has already occurred in the Nile basin, only two-thirds of the generating
+potential of the whole river has been exploited. The (EEHC, 2014) estimated Egypt’s technically
+and economically feasible hydropower potential at about 50,000 GWh/year. However,
+hydropower production depends on the flow of the River Nile, upstream requirements, and
+operational factors resulting from irrigation.
+According to the Hydropower Plants Execution Authority (HPPEA) (EEHC, 2014), Egypt has eight
+hydropower plants in operation at the High Aswan Dam, the Old Aswan Dam and the Esna and
+Nagaa Hammadi Barrages with a total installed capacity of 2,820 MW and annual energy of
+14,703 GWh. The plants’ installed capacity ranges from 2,100 (12x175) MW in High Aswan Dam
+to 640 (2x320) kW in El Azab power plant.
+The average hydro-electricity generated in 2006-2012 reached about 13466 GWh, of which the
+majority (94 percent) was generated at the Aswan High Dam and the Aswan Reservoir Dams
+across the Nile River. The share of hydro generation to the total generation represents about 8.2
+percent in 2011/2012 (down from about 12.4 percent in 2007/2008) (CAPMAS, 2014).
+1.3 CLIMATE CHANGE
+Egypt is located in an arid region that is greatly subject to the adverse effects of climate change.
+The projected increase in temperature is perceived to widen the gap between water resources
+and demands, decrease the overall agriculture productivity, and increase the competition over
+the natural resources.
+The effects of sea level rise on the coast of the Nile Delta would reduce the cultivated area and
+therefore most likely have a downward effect on the agricultural production. The vulnerability of
+agriculture in Egypt to climate change is mainly attributed to both biophysical and socioeconomic
+parameters.
+Based on the Second National Communication of Egypt to the United Nations Framework
+Convention on Climate Change (UNFCCC) launched by the Egyptian Ministry of State for
+Environmental Affairs in 2010 (MSEA, 2010), climate change impact studies, based on field
+studies, predicted a reduction in the productivity of the major crops in Egypt e.g. wheat, rice,
+maize, soybeans and barley.
+This reduction in crop productivity is mainly caused by the projected temperature increase, which
+affects the grain filling periods and has detrimental effects on sensitive development stages such
+as flowering, thereby reducing grain yield and quality (MSEA, 2010).
+20
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Crop-water stress is the other factor causing a productivity reduction caused by climate change.
+Besides, recent scientific observations conclude that the severity of some pests and disease
+affecting the strategic crops have increased in the last few decades. This increase in severity is
+mainly attributed to both climatic and socio-economic reasons (MSEA, 2010).
+The impact of climate change on pests and diseases in relation to crop productivity has been
+studied in limited scientific trials, but not yet thoroughly at the national level under Egyptian
+conditions. Despite the effects of long term projected changes in temperature, agriculture in
+Egypt is less sensitive to climate variability, due to its reliance on irrigated agriculture systems
+(MSEA, 2010).
+Yet, heat and cold waves can cause several harmful impacts in crop productivity, especially for
+fruits and vegetables. A recent study found that the intensity of the heat and cold waves
+increased in the past 20 years which causes more risks for growers. Moreover, projected future
+temperature rises under climate change conditions are likely to increase crop-water
+requirements thereby directly decreasing crop-water use efficiency and increasing the irrigation
+demands of the agriculture sector (MSEA, 2010).
+The increase in the reference crop-evapotranspiration (ET ) in Egypt is projected to augment the
+0
+national reference irrigation-demands by 7-12 percent during the 2100s. Under these projected
+changes, the crop-water demands are projected to face significant changes that may vary
+according to the crop type and the cultivation season (MSEA, 2010).
+The Second National Communication of Egypt to the UNFCCC (MSEA, 2010) proposes some
+measures to adapt and cope with climate change namely; changing sowing dates to cooler
+months, changing cultivars, breeding of disease-tolerant cultivars, changing crop patterns,
+changing management practices, monitoring system for the current and new races of plant pests
+and diseases, improving surface irrigation efficiency, application of deficit irrigation measures.
+2 NATIONAL STRATEGIES FOR WATER, AGRICULTURE AND ENERGY
+This chapter focuses on the national strategies for water, agriculture and energy. This includes
+Egypt’s overall development agenda, poverty reduction strategy, national food security
+programme, etc. Agricultural policy, irrigation policy, water development policy, and energy
+policy are highlighted in this chapter, as well.
+21
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Overall development strategies
+In 2012, the Ministry of Planning (MOP) launched Egypt’s overall development agenda guided by
+its Strategic Framework for Economic and Social Development Plan (SFESDP 2022). The country’s
+goals are to double the national income and achieve full employment (MOP, 2012).
+The SFESDP 2022 aims at securing a decent life for all Egyptians through (i) employment and
+poverty reduction, (ii) establishing a state based on responsible democracy along with national
+participation, (iii) shifting to a new economic system that depends on advanced technologies and
+knowledge, (iv) establishing an industrial structure of a high value added and balanced industries,
+(v) achieving consistent spatial development, (vi) developing an integrated transport system and
+a shift to decentralization, and (vii) promoting Egypt's regional role in the Arab, African and
+Mediterranean regions (MOP, 2012).
+Poverty reduction is one of the key objectives of the long-term development plan of Egypt.
+Several policies were formulated and implemented targeting vulnerable and low-income
+population groups. Social protection mechanisms that aim at protecting individuals and families
+from unemployment and poverty are an important part of this social policies package.
+The National Five-Year Plan for Socio-Economic Development targeted poverty reduction and
+social safety provision, improving the quality of life and standard of living through expanding
+basic services particularly in rural areas, female participation in development, creating new job
+opportunities, providing soft loans for small and microenterprises (SMEs) and increasing their
+access to bank finance and financial leasing (MOP, 2012).
+The continuing dependence on food imports is quite alarming for many policy makers in Egypt.
+In response, the Ministry of Agriculture and Land Reclamation (MALR) is devoting substantial
+efforts to attain food security. The mission of the new Strategy for Sustainable Agricultural
+Development towards 2030 (SADS) developed by MALR (MALR, 2009) is "modernizing Egyptian
+agriculture based on achieving food security and improving the livelihood of the rural inhabitants,
+through the efficient use of development resources, the utilization of the geopolitical and
+environmental advantages, and the comparative advantages of the different agro-ecological
+regions" (MALR, 2009). Besides, Egypt is one of the first states to establish a system for in-kind
+food support for improving social safety nets.
+Agriculture and irrigation
+Under the framework of overall development policies (mentioned above) and the
+Comprehensive Africa Agriculture Development Programme (CAADP), Egypt has prepared
+different policy documents and investment plans regarding agriculture and food security.
+22
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+In 2005, the Egyptian Ministry of Water Resources and Irrigation (MWRI) launched the National
+Water Resources Plan (MWRI, 2005) focusing on irrigation through improving overall water use
+efficiency in agriculture, improving water allocation and distribution of Nile water, preventing or
+reducing emissions, and treatment of wastewater (MWRI, 2005). Moreover, a lack of long-term
+strategic investment raises the importance of longer budget-planning-horizon concerns that the
+country may wish to consider.
+The NWRP recommends continuing the Irrigation Improvement Project and the Integrated
+Irrigation Improvement Project, providing Irrigation Advisory Services, using controlled drainage
+during the cultivation of rice, using modern irrigation techniques, improving Operation and
+Maintenance (O&M) activities through private participation (Water Boards and Water User
+Associations), reducing irrigation supply after rainfall, using new crop varieties (e.g. early mature
+and salt tolerant varieties), shifting the cropping patterns to less water-consuming crops,
+replacement and rehabilitation of existing grand barrages and control structures on the Nile and
+main canals, improving drainage conditions using sub-surface drainage, and reusing of drainage
+water. However, there is lack of investments in O&M and a need to divergence the investment
+portfolio targeting the rehabilitation of irrigation schemes.
+Later on, in 2009, Egypt prepared its Strategy for Sustainable Agricultural Development towards
+2030 (SADS). The SADS main objectives with regard to agriculture and irrigation focused on two
+pillars namely; (i) achieve sustainable use of agricultural natural resources, and (ii) improve
+agricultural productivity.
+The SADS recommends improving water-use efficiency in irrigated agriculture, sustainable
+expansion of reclaimed areas, sustainable development of land and water productivity, using
+improved water harvesting techniques to maximize rain-fed water use together with
+supplementary irrigation from groundwater sources, maintaining and protecting agricultural land
+and soil conservation, cultivating newly developed varieties with resistance to drought, salinity
+and pests, cultivating early maturing crop varieties, increasing clover productivity, developing
+long-medium staple cotton varieties with high economic returns, and paying greater attention to
+integrated farm management and improved cultural practices (MALR, 2009).
+CAADP has the main goal of eliminating hunger and reducing poverty through agriculture. To
+achieve this goal, African leaders' agreed to increase public investment in agriculture by a
+minimum of 10 percent of their national budgets and to raise agricultural productivity. The
+CAADP is developed around four pillars: (i) Land & water management; (ii) Market access; (iii)
+Food supply and hunger; and (iv) Agricultural research.
+23
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+The SADS aims to attain food security by promoting self-sufficiency in strategic food
+commodities, rationalizing local demand and consumption, improving consumption patterns in
+order to improve nutritional standards, reducing pre- and post-harvest food losses, improving
+food quality and safety, and improving social safety nets (MALR, 2009).
+The priority strategic crops for achieving food security are wheat, faba bean, lentil, oil crops,
+sugar crops and maize. In this concern, the focus of SADS is to increase agricultural production;
+establish an Egyptian food and feed safety code of practice; establish Egyptian standards for
+maximum residues; establish Egyptian standards for food additives, preservatives, colors and
+flavor- enhancers; discontinue in-kind food support and switch to a direct financial support
+system or financial support through food coupons; and develop a media campaign to promote
+the proposed policy, and clarify its relevance and impact on the poor and low-income groups
+(MALR, 2009).
+Water resources
+Three main pillars within the policy of the MWRI focusing on water resources are: (i)
+development of additional water resources and cooperation with the Nile Basin Riparian
+countries; (ii) making better use of the existing water resources and increasing water use
+efficiency; and (iii) protection of water quality and the environment (MWRI, 2005).
+This national plan of the MWRI describes how Egypt will safeguard its water resources. This plan
+tries to achieve the national objectives by developing new water resources, improving the
+efficiency of the present use and to protect environment and health by preventing pollution and
+by treatment and control of polluted water.
+Many of these activities are carried out in cooperation with other ministries such as the Ministry
+of Agriculture and Land Reclamation, the Ministry of Housing, Utilities and New Communities,
+the Ministry of Health and Population and the Ministry of Environment (MWRI, 2005). The
+actions and measures to develop additional resources depend on continuing the co-operation
+with the riparian countries in the Nile Basin and investigate the possibilities to increase the supply
+of Nile water, deep groundwater development in the Western Desert, study the development
+potential of brackish groundwater for aquaculture and agriculture and increase management of
+shallow groundwater of the Nile aquifer, stimulating small-scale rainfall harvesting along the
+Mediterranean coast as well as carrying out feasibility studies on flash flood harvesting in Sinai
+in combination with flood protection, and increasing brackish/salt water desalination in line with
+demands (MWRI, 2005).
+24
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Energy and hydropower
+Egypt has a national energy strategy focusing on the diversification of the energy mix, higher
+energy efficiency, and a reform of the electricity, oil and natural gas markets as well as a reduction
+of energy subsidies.
+The renewable energy strategy is a fundamental part of the national energy strategy. In February
+2008, Egypt's Supreme Council of Energy announced an ambitious plan within the framework of
+actions and efforts to implement the Egyptian Renewable Energy Strategy to generate 20 percent
+of the total energy generated in Egypt from renewable sources by 2020.
+Besides based on the New and Renewable Energy Authority (NREA), wind, hydro and solar
+energies contribute for about 12 percent, 4 percent and 4 percent of the total energy generated,
+respectively by 2020 (NREA, 2014). This ambitious goal is expected to be achieved through two
+distinct project development approaches, one third will be implemented through public
+investments by the NREA in cooperation with different international financing institutions and
+the remaining two thirds by the private investments through three phases.
+Phase one focuses on applying competitive bids approach through issuing tenders internationally
+requesting the private sector to supply power from wind energy projects. The second phase is
+concerned with applying feed-in-tariff system taking into consideration the prices achieved in
+phase one. Finally, in the third phase investors are allowed to build and operate renewable
+energy power plants to satisfy their electricity needs or to sell electricity to other consumers
+though the national grid (NREA, 2014).
+Based on the “Strategic Framework for Economic and Social Development to year 2022” (SFESD),
+the energy policy, strategy and programmes in Egypt focus on two main pillars namely; the
+variation of power sources and expanding the use of renewable power, and the rational use of
+energy (MOP, 2012).
+According to the Egyptian Electricity Holding Company (EEHC, 2014), the contribution of
+generated hydro-electricity to the total electricity generated in Egypt is estimated to be less than
+3.5 percent by 2030 and based on the National Socio-economic Development Plan for 2015/2016
+launched in 2015 by the Ministry of Planning (MOP, 2015 b), this contribution is estimated to be
+about 2.5 percent in 2015/2016.
+25
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+The HPPEA and EEHC are coordinating in planning, preparation of feasibility studies, and the
+execution of New Assiut Barrage Hydro power plant with a total installed capacity of 32 MW and
+expected to be commissioned by the year 2017 (EEHC, 2014). According to (EEHC, 2014), it is
+planned to construct eleven small hydropower plants to be located at Rayah Tawfiki, Edfina,
+Assiut Regulator, Gamgara, Rayah Abbasi, Rayah Beheri, Bagouria Canal, West Nagaa Hammadi,
+Bahr Mouais, Sharkawia Canal, and Rayah Nassery. However, there is lack of investments in O&M
+and a need to divergence the investment portfolio targeting the rehabilitation of hydropower
+plants.
+26
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+3 INVESTMENT ENVELOPE
+The investment envelope is a matrix that presents current and planned investment in the
+development of water resources for agriculture and hydropower production in a given country.
+The investment envelope is produced through the application of AgWA’s Financial Diagnostic
+Tool. This tool processes project-based information to derive the investment estimates at
+country level. The fundamental project information to plug in the tool is: project description,
+project characteristics, funding partners, time-scale, total cost and type of project. The Financial
+Diagnostic Tool also incorporates a number of variables such as the project cost distribution over
+time and the relevance of the water component as a percentage of the total cost in order to
+develop a detailed analysis of investment. A currency conversion application (annual average and
+projection of growth of foreign exchange rates using exponential regression) is built in this model
+to present the output in a single currency.
+Project types included in the tool are the following:
+1. Small scale irrigation development2
+2. Rehabilitation/modernization of irrigation
+3. Large scale irrigation development
+4. Small/medium scale hydropower development
+5. Rehabilitation of hydropower plants
+6. Large scale hydropower development
+7. Others (drinking water supply, etc.)
+This tool also supports conducting complementary financial analyses such as investment by type
+of project, investment by source of funding, investment by timespan of the project, hectares to
+develop or rehabilitate by crop, etc. These complementary financial analyses are presented in
+Figures 6 to 16.
+The investment envelope (Table 2) presents investment estimates according to the project
+characteristics mentioned above and distributed over three time scales: short-term (less than 4
+years), medium-term (between 4 and 8 years), and long-term (more than 8 years)3.
+27
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Description of project portfolio
+In the case of Egypt, the investment envelope has been calculated based on 36 on-going projects
+and 41 pipeline projects. These projects are presented in Annex 1 (table 1.1 for on-going projects
+and 1.2 for pipeline projects). The on-going projects range from a cost of about US$31 400 to a
+maximum of US$350 million (Table 1). The investment costs of pipeline projects range between
+a minimum of US$100 000 and a maximum of US$696 million. The average investment costs of
+on-going projects and pipeline projects are respectively US$43 million and US$92 million.
+Table 1. Summary statistics of the Projects Portfolio
+On-going Pipeline
+Number of Projects 36 41
+Min (million US$) 0,0314 0,1
+Max (million US$) 350 696
+Average (million US$) 43 92
+A closer look at the distribution of costs among on-going projects (Figure 6) shows that five
+projects involve an investment of more than US$100 million. Eight projects (22 percent of on-
+going projects) cost between US$100 million and US$10 million; the remaining 64 percent
+requires an investment cost between US$8,367 million and US$31 400. It can be observed from
+Figure 6 that the distribution of investment cost per project is positively skewed, few projects
+such as the ‘Management of water and salinity in the Nile Delta: A cross-scale integrated analysis
+of efficiency and equity issues’ project (US$350 million) and the ‘Integrated Irrigation
+Improvement and Management Project (IIIMP)’ project (US$303 million) cover the major part of
+the investment envelope.
+28
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Figure 7 displays the distribution of investment costs of the 41 pipeline projects that will be
+implemented in Egypt. The Rehabilitation and Improvement of Irrigation & Drainage Systems at
+Delta Region phase (I) and (II) require the highest investment costs of the pipeline projects with
+respectively US$640 million and US$696 million. It can be observed that ten projects (24% of
+pipeline projects) have a planned investment cost exceeding US$100 million; nineteen of the
+pipeline projects (46 percent) are recognized by a planned investment between US$100 million
+and US$1 million. Figure 7 shows also the higher average investment cost of pipeline projects
+with US$92 million. The distribution of investment cost shows that the pipeline projects
+presumably have a higher spread throughout Egypt since this is more equal in investment cost
+throughout the pipeline projects.
+The relevance numbers (relevance of the water component as a percentage of the total
+investment cost) were not taken into account when analyzing this project cost distribution since
+all components within infrastructure projects have proven to be interdependent.
+Figure 6. Project Cost distribution – On-going Figure 7. Project Cost distribution – Pipeline
+Projects Projects
+29
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+The investment envelope
+The total investment envelope of on-going and pipeline projects for Egypt (Table 2) is estimated
+at US$4 257 million of which US$3 154 million is allocated to the rehabilitation and modernization
+of existing irrigation schemes, US$697 million to the development of large scale irrigation,
+US$351 million to the ‘others’ category (used for training, extension services and such activities),
+US$30 million to the development of small/medium scale hydropower projects and US$24.54
+million to the development of small scale irrigation schemes. No funding is allocated to the
+rehabilitation of hydropower plants or the development of large scale hydropower projects. The
+last on-going project is scheduled to complete in 2023 (Construction of the New Dirout Group of
+Regulators) whereas the last pipeline project will be in full operation at the end of 2035
+(Rehabilitation and Improvement of Irrigation & Drainage Systems at Upper Egypt (I)).
+Table 2 shows that the vast majority (74 percent of total investment portfolio) of investment in
+water for agriculture and energy in Egypt is allocated to the rehabilitation and modernization of
+irrigation schemes. The main projects here are the Rehabilitation and Improvement of Irrigation
+& Drainage Systems at Delta Region phase (I) and (II). Only 16 percent is allocated for the
+development of new large scale irrigation schemes; and a meager 1 percent of the investment
+envelope is allocated for the development of small scale irrigation schemes (below 500 hectares).
+30
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Table 2. 4Total Investment Envelope in US$ million and in percentage (On-going & Pipeline
+projects)
+Time Frame Short-term Medium-term Long-term Total
+Size of project M US$ % M US$ % M US$ % M US$ %
+Small scale irrigation
+21 0.5% 4 0% 0 0% 25 1%
+development
+Rehabilitation/
+modernization of 1 734 41% 1 352 32% 67 2% 3 154 74%
+irrigation schemes
+Large scale irrigation
+440 10% 242 6% 15 0.4% 697 16%
+development
+Small/medium scale
+21 0.5% 9 0% 0 0% 30 1%
+hydropower
+Rehabilitation of
+0 0% 0 0% 0 0% 0 0%
+hydropower plants
+Large scale hydropower
+0 0% 0 0% 0 0% 0 0%
+development
+Others 279 7% 71.7 2% 0 0% 351 8%
+Total 2 495 59% 1 679 39% 82 2% 4 257 100%
+The total amount of funding allocated to irrigation categories in Egypt is US$3 876 million (91
+percent of the envelope) while the total amount of funding allocated to hydropower categories
+only amount to US$30 million (1 percent of the envelope).
+4 The investment envelope only accounts for costs to be invested with reference year 2014; costs that already have
+been invested before 2014 are therefore not taken into account. Relevance numbers (the relevance of the water
+component as a percentage of the total cost) have been used to develop this investment envelope.
+31
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+The significant difference between investment in irrigation and hydropower categories is, as
+mentioned before, mostly explained by the planned investment in the rehabilitation and
+modernization of irrigation schemes. This analysis thus displays the lack of diversity of investment
+in this envelope. However, the vast majority of Egypt’s hydropower potential has already been
+exploited. As a result, NREA is actively pursuing other types of renewable projects, primarily solar
+and wind power, to diversify the country's energy mix.
+Cost distribution
+Figures 8 to 10 illustrate the distribution of project costs in time by type of project for those on-
+going and in the pipeline. It can be observed from Figure 8 that the distribution over time in the
+short- and medium-term is within limits of sustainability.
+However, investment in the long-term is insufficient. The only significant project with a budget
+planning exceeding eight years is the Rehabilitation and Improvement of Irrigation & Drainage
+Systems at Delta Region phase (I). The distribution over short- and medium-term is more equal
+compared to other countries in Africa; this fosters the continuity of investment in irrigation and
+hydropower. The trend of underinvestment in the long-term is observed in many other countries
+and might be caused by governments that tend to plan their budget with a timespan no longer
+than eight years. Many projects in this portfolio, such as rehabilitation and modernization
+projects, are short-term but repeated continuously. The underinvestment in the long-term in this
+analysis therefore does not necessarily hold up in reality.
+32
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Figure 8. Cost distribution in time per typology – All Projects (US$ million)
+2500
+Other
+2000
+Large scale hydropower development
+$
+S Rehabilitation of hydropower plants
+U 1500
+n
+o Small/medium scale hydropower
+illim
+development
+1000 Large Scale Irrigation development
+Rehabilitation/modernization of
+irrigation
+500 Small scale irrigation development
+0
+Short Medium Long
+Figure 9. Cost distribution in time per Figure 10. Cost distribution in time per
+typology – On-going Projects (US$ million) typology – Pipeline Projects (US$ million)
+The on-going projects of this envelope account for US$601 million (14 percent of total envelope)
+while the pipeline projects add up to US$3656 million (86 percent of total envelope). Investment
+in hydropower categories is insignificant in the on-going projects (only New Assiut Barrage and
+Hydropower Plant project and the Small Hydro power in Egypt project); a downward effect on
+this trend is identified in the pipeline where only 0.5 percent of all pipeline investment is
+allocated to hydropower categories. However, hydropower ranked third in terms of electricity
+generating, after natural gas and petroleum, contributing to about 8 percent of the total
+electricity generated on the national level in 2014(MOP, 2015 b).
+33
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Figure 9 shows a sharp negative relation between time and investment. This negative relation
+imposes an adverse effect on the sustainability of agricultural growth in Egypt for on-going
+projects. As mentioned before, governments appear to plan their budget no longer than 8 years;
+this might be the cause of this negative relation between time and investment. Nevertheless, a
+longer planning horizon is advisable.
+Figures 11, 12 and 13 display the distribution of cost share per typology and clearly reveal the
+focus of investment on the rehabilitation and modernization of irrigation. It is observed in many
+African countries that a lack of investment in Operation and Maintenance (O&M) is a cause for
+irrigation schemes to be inoperative; this planned budget therefore is desirable. Nevertheless, a
+diversification of the investment portfolio also targeting the rehabilitation of hydropower plants
+and new irrigation schemes is recommended to foster sustainability of growth of irrigation land
+and hydropower development.
+34
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Figure 11. Cost share per typology – All Projects (%)
+Small scale irrigation
+development
+Rehabilitation/modernization of
+irrigation
+Large Scale Irrigation
+74% development
+16%
+Small/medium scale
+hydropower development
+8%
+Rehabilitation of hydropower
+plants
+1%
+Large scale hydropower
+development
+1%
+Other
+Figure 12. Cost share per typology – On- Figure 13. Cost share per typology – Pipeline
+going Projects (%) Projects (%)
+2%
+25%
+79%
+15%
+29%
+42%
+1%
+2%
+5%
+Source of funding
+The disaggregation of investment cost over funding partner appeared unavailable for pipeline
+projects since the planned budgets have not been confirmed yet. The analysis of this subchapter
+therefore only focuses on the on-going projects due to limited data availability.
+35
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+International donors and public funding partners finance the 36 on-going projects for respectively
+69 percent and 31 percent. These donors are: the World Bank, KfW Development Bank, the OPEC
+fund for International Development (OFID), German Federal Ministry for Economic Cooperation
+and Development (BMZ), Japan Social Development Fund (JSDF), European Union (EU), ENPI CBC
+Med Programme, USAID, AUSAID, Australian Centre for International Agricultural Research
+(ACIAR), African Development Bank (AfDB), International Fund for Agricultural Development
+(IFAD), Global Environmental Facility (GEF), Japan International Cooperation Agency (JICA), Saudi
+Fund for Development (SFD). The public funding partners mentioned in Figure 14 include the
+Government of Egypt, Dutch Ministry of Economic Affairs, French Government and the Japanese
+Government. Figure 14 shows that donors dominate the investment portfolio of on-going
+projects and there is no involvement of the private sector. However, some amendments of the
+Investment Law 8/1997 were debated in the Cabinet of Ministers before Egypt enacted a new
+Investment Law (Presidential Decree 17 of 2015 on March 12, 2015). The main objectives of these
+amendments are attracting private sector investors, offering them incentives and simplifying
+procedures.
+Figure 14. Cost share per funding partner for On-going Projects (%)
+69%
+31%
+Public (US$ million) Private (US$ million) Donors (US$ million)
+It is worth mentioning that the presence of private donors is always important as a source of
+financing in order to foster sustainability of funding. A high dependence on donor financing
+entails risks since withdrawal for any reason from financing these projects would mean an almost
+entire fallback of investment in irrigation and hydropower projects. An increase in public
+investment would also enhance the diversity of the source of funding in Egypt fostering
+sustainability of investment in irrigation and hydropower projects.
+36
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+Hectares to develop/rehabilitate
+The project portfolio is bringing changes to about 2 208 789 hectares of land in Egypt, 1 213 518
+hectares originate from on-going projects and 995 271 hectares of the pipeline projects.
+Once all projects in the portfolio are implemented, the additional area under irrigation would
+add up to 875 064 hectares (503 902 hectares by on-going, and 371 162 by pipeline projects),
+while the surface benefitting from the rehabilitation of irrigation schemes or dams would be 1
+333 725 hectares (709 616 hectares by on-going, and 624 109 hectares by pipeline projects).
+Due to a high variation in cropping pattern throughout cropping seasons it proved to be
+impossible to display the distribution of hectares per crop in this analysis. However, the focus is
+on the production of wheat, maize, faba bean, lentils, sugar beet, and oil seed crops.
+4 CONCLUSIONS
+Based on the information and analysis presented in this report, the following can be concluded:
+a) Agricultural growth in Egypt has been fairly low but relatively stable, averaging 3.2 percent
+across the 2003-2012 period. The CAADP contributes towards the Egypt’s efforts to develop
+the agriculture sector.
+b) Water shortage is the main constraint and a major limiting factor to the implementation of
+Egypt’s economic growth and development plans. This highlights the need to invest in
+projects targeting improved irrigation management, O&M and the rehabilitation irrigation
+schemes.
+c) The crop-water demands in Egypt are expected to face changes caused by climate change.
+Therefore, there is a need to adapt and cope with climate change through improving surface
+irrigation efficiency, application of deficit irrigation measures, changing sowing dates to
+cooler months, changing cultivars, breeding of disease-tolerant cultivars, changing crop
+patterns, changing management practices, and monitoring system for the current and new
+races of plant pests and diseases.
+37
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+d) It appears that Egypt’s national strategies for water, agriculture and energy are in line with
+CAADP objectives. Both of the NWRP and SADS 2030 focus on sustaining the use of natural
+agricultural resources and increasing the productivity per units of both land and water. They
+propose increasing water-use efficiency in agriculture via improved field irrigation systems,
+which is fully in line with CAADP objectives. The SADS 2030 targets achieving higher rates of
+food security in strategic goods; improve opportunities for agricultural investment; improve
+livelihood of rural inhabitants. The CAADP compact contributes towards Egypt’s efforts to
+improve food security, market access and to develop the agriculture sector. The SFESDP
+2022’s goal is “to secure a decent life for all Egyptians through poverty reduction”. The
+CAADP contributes to the achievement of MDG1 on hunger and poverty reduction.
+e) Egypt’s Renewable Energy Strategy targets generating 20 percent of the total energy from
+renewable sources by 2020, of which 12 percent, 4 percent and 4 percent are generated
+respectively from wind, hydro and solar energies. To achieve this ambitious goal, there’s a
+need for more cooperation with different international financing institutions.
+f) The investment envelope shows that Egypt is mainly investing in the rehabilitation and
+modernization of existing irrigation schemes (74 percent) as opposed to investing in the
+development of new irrigation projects (17 percent), with US$3 154 million investment for
+the former and US$722 million for the latter. Therefore, measures should be put in place to
+ensure paying more attention to the development of new irrigation schemes, especially for
+smallholders.
+g) This report analyzed that only one percent of the total amount of on-going and planned
+funding is invested in hydropower categories, and no investment is allocated to the
+rehabilitation of hydropower plants or to the development of large scale hydropower
+projects. This portrays a lack of diversity of investment; measures should be put in place to
+ensure the diversity of these investments. More budget should be allocated to the
+rehabilitation and modernization of existing plants, taking into consideration that the vast
+majority of Egypt’s hydropower potential has already been exploited and Egypt’s main focus
+is on pursuing other types of renewable projects (e.g. solar and wind power) to diversify the
+country's energy mix.
+h) It appears that most of the investment for irrigation projects will take place in the short- and
+medium-terms, but it is important to note that investment in the long-term is insufficient.
+This highlights a lack of long-term strategic investment in the country and raises the
+importance of longer budget-planning-horizon concerns that the country may wish to
+consider.
+38
+National Investment Profile. Water for Agriculture and Energy: Egypt.
+i) The envelope shows that there is lack of investments in Operation and Maintenance (O&M).
+Therefore, a diversification of the investment portfolio targeting the rehabilitation of
+hydropower plants and irrigation schemes is recommended to foster sustainability of growth
+of irrigated land and hydropower development. However, O&M investments are
+traditionally borne by the Ministry of Water Resources and Irrigation, adding more financial
+burden to its budget. To reduce this financial burden, a good institutional structure with
+strong Water Boards and Water Users Associations is needed to assist private investor in
+taking over O&M activities.
+j) The analysis of sources of funding in the Egyptian investment envelope focuses only on the
+on-going projects due to limited data availability. International donors dominate the
+investment portfolio of on-going projects and lack involvement of the private sector is
+observed. The high dependence on international donors financing entails risks due to risk of
+withdrawal from financing the projects. Therefore, the presence of private donors is
+important to foster sustainability of funding. However, Egypt enacted a new Investment Law
+to attract private sector investors whereas, mechanisms should be put in place to reverse
+this trend. Increasing the public investment would also enhance the diversity of the source
+of funding in Egypt fostering sustainability of investment in irrigation and hydropower
+projects.
+k) Irrigation projects are mostly targeting the production of wheat, maize, faba bean, lentils,
+sugar beet, and oil seed crops to enhance the food self-sufficiency and security.
+39
+National Investment Profile. Water for Agriculture and Energy: Egypt
+ANNEX 1. PROJECT PORTFOLIO
+Table 1.1. ON-GOING PROJECTS
+Time Total Budget
+# Project title Funding Partners Description
+Scale (million US$)
+1 Farm-Level Irrigation • A loan from the World Bank of 2011- 180.00 The objective of this is to increase agricultural profitability and
+Modernization Project US$100 million 2016 improve equity in access to higher-quality water for up to 140,000
+(FIMP) • A loan from AFD of US$50 small-scale farmers in the command areas of Mahmoudia,
+million Manaifa, and Meet Yazid located in the Nile Delta. There are two
+• Local funding of US$30 million components to the project. The first component of the project is
+marwa and farm-level irrigation improvements. This component
+supports marwa and farm-level irrigation modernization in this
+command area. The second component of the project is farm-
+level technology modernization. ‘30% rehabilitation and
+modernization of irrigation scheme, 50% large scale irrigation
+development, and 20% others’
+2 Integrated Irrigation • A loan from World bank of 2006- 200 This project is designed to achieve integrated planning,
+Improvement and US$120 million 2016 management, and execution of all interventions needed at the
+Management Project (IIIMP) • A loan from KFW of EUR38.8 command level. The objectives of the IIIMP are to: Develop the
+million framework for an integrated water, management plan and
+• A supplemental loan from KFW program in selected command areas and combine water quantity
+of EUR25 million and quality management through interagency and stakeholder
+• A grant from the Netherlands of consensus; improve the institutional, financial, and environmental
+EUR7.2 million sustainability of water services through the decentralization of
+• a grant from KfW of EUR2 water management, intensive user and private sector
+million participation in the investment, operation, and maintenance at
+the district/branch canal level and below, and improved water
+quality management practices; Establish and expand the WUAs
+and water boards in line with the government policy of integrated
+irrigation and drainage water management. This would include
+support for WUAs at the tertiary level, their extension to branch
+canal level, and their incorporation into water boards at the
+district level. ‘100% others’
+3 New Assiut Barrage and • A loan from KFW of US$39.943 2009- 147.94 Construction of new barrage and the attached power plant behind
+Hydropower Plant million (phase 1) 2017 the current Assiut barrage in Assiut Governorate. ‘80% large scale
+40
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Time Total Budget
+# Project title Funding Partners Description
+Scale (million US$)
+• A grant from KFW of US$3 irrigation development, and 20% small-and medium-scale
+million hydropower’
+• Local funding of US$105 million
+4 On-Farm Irrigation • A loan from OPEC of US$35 2012- 41.00 To modernize irrigation infrastructure in four governorates to
+Development Project (OFID) million 2017 improve water efficiency, increase yields and boost incomes of
+• Local funding US$6 million smallholder farmers. The project proposes to support the
+Government’s efforts to modernize farm-level irrigation through
+the implementation of the following components: rehabilitation
+and modernization of marwa and farm-level irrigation in the areas
+of El-Behira, Kafr El-Sheikh, Dakahlia and Sharkeya, procurement
+of equipment and vehicles, capacity building to enhance farmer
+knowledge and the uptake of improved irrigation and associated
+land improvement and crop production techniques, and project
+implementation unit. This will, in turn, help reduce poverty levels
+and increase food security for about 70,000 people. ‘100%
+rehabilitation and modernization of irrigation scheme’
+5 Support to the National US$2.15 million 2015- 2.15 The specific objectives of the project are (1) to update the existing
+Water Resources Plan 2017 NWRP (2005-2017) and extend it in the framework of the 2050
+(NWRP), Egypt vision, (2) develop regional Water Resource Plans in six
+Governorates, representative of the different contexts in the
+country i.e. the Nile Valley, Delta, Fayoum, Sinai and coastal
+zones, (3) manage water resources in a sustainable way, (4)
+protect public health and the environment and (5) maximize the
+economic activity benefits for all Egyptian people. ‘100% others’
+6 Water Development ENPI CBC Med Programme 2014- 2.15 The main objective of the Project is to develop an integrated
+Resources Opportunity contribution:US$2.15 million 2016 water cycle management approach at the Mediterranean Sea
+Policies for the water Basin level for managing the related cross-sector issues through
+management in semi-arid the enforcement of multi-stakeholder partnerships, in particular
+areas with public and private actors. ‘100% others’
+7 Water Sector Reform German Federal Ministry for 2012- 2.58 Measures are concentrated in selected project regions in the Nile
+Programme – Phase II Economic Cooperation and 2015 Delta and Upper Egypt. GIZ is working in five different areas of
+(WSRP-Phase II) Development (BMZ) US$2.58 activity, including support for institutional reforms and the
+million development of participatory water management plans. Efforts
+are also being made to improve the quality of water in drains in
+order to increase the general availability of water. Finally, the
+project provides gender-specific advisory services intended to
+41
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Time Total Budget
+# Project title Funding Partners Description
+Scale (million US$)
+strengthen the position of female water users. ‘100% others’
+8 Buhiyyah Canal Irrigation OFID (US$15 million) and GOE 2006- 19.35 This project aims at increasing irrigation efficiency and agricultural
+Improvement (US$4.35 million) 2015 production. This will be done by rehabilitating and modernizing
+irrigation infrastructure. In addition, over 600 engineers and 1,500
+farmers will receive training courses, workshops and on-site
+demonstrations. The project will also eliminate the use of open
+irrigation ditches. Pollution levels in the project area will also
+decline, as the irrigation network will use electric instead of
+diesel-driven water pumps. ‘80% rehabilitation and modernization
+of irrigation scheme, and 20% others’
+9 North Sinai Development by • A loan from Kuwait of 2001- 147.82 The project contributes to strengthening and consolidating the
+Reclamation of 400000 fed US$147.82 million 2015 agricultural policy of Egypt to increase agricultural production and
+create new communities and the exploitation of human resources
+for development purposes and provide new job opportunities.
+‘30% rehabilitation and modernization of irrigation scheme, 60%
+large scale irrigation development, and 10% others’
+10 Construction of the New • A soft loan from Japan of 2015- 47.53 The Project's objective is to construct new regulators in Dirout city
+Dirout Group of Regulators US$47.53 million 2023 and install water distribution system to develop capacity for
+efficient water distribution, and thereby, contribute to increasing
+agricultural productivity in Upper Egypt. ‘100% rehabilitation and
+modernization of irrigation scheme’
+11 Feasibility Study for the A grant from AFDB of US$0.93 2010- 0.93 Conduct a study to evaluate the condition of Zefta Barrage and
+Reconstruction/ million 2015 the reached recommendation regarding the decision either to
+Rehabilitation of Zefta renovate and repair the barrage or to establish a new barrage.
+Barrage Evaluate the condition of old hydraulic establishments to take the
+necessary decision to improve water distribution and provide
+irrigation water. ‘100% others’
+12 SWIM-Sustainable Water German Federal Ministry for 2012- 3.76 The objectives of this Project are to improve the sustainable
+Integrated Management Economic Cooperation and 2015 integrated management of non-conventional water resources;
+Demonstration Development (BMZ) and the enhance the capacity of national organizations and consortium
+Project (Network of European Union (EU) US$3.76 partners in sustainable management of non-conventional water
+demonstration activities for million resources; and disseminate best practices on sustainable
+sustainable integrated integrated wastewater management and reuse. The main activity
+wastewater treatment and of this Project is to demonstrate the socio-economic and
+reuse in the Mediterranean environmental benefits of decentralized wastewater management
+countries) and conduct training courses on managerial aspects as well as on
+42
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Time Total Budget
+# Project title Funding Partners Description
+Scale (million US$)
+operation and maintenance of the demonstration plants/systems.
+‘100% others’
+13 Agricultural Water GIZ (US$4.29 million) 2013- 4.29 The programme implements strategies to improve the ability of
+Productivity as a Way of 2017 farmers to adapt to a changing climate. The project aims to
+Adapting to Climate Change initiate changes in the political framework and in political
+(AWP-ACC) strategies, to implement instruments and measures to change
+decision-making processes and to prevent or minimize potential
+damage from climate change. The project focuses on providing
+information and training for farmers on the topics of effective and
+resource-efficient farming and irrigation methods, selection of the
+right crops, fertilizer use and crop rotation; developing guiding
+principles for recycling agricultural wastewater and reuse of
+domestic wastewater in farming; facilitating knowledge transfer
+and disseminating information to improve planning and
+management of adaptation processes; and raising general
+awareness about adapted sustainable waste management. ‘100%
+others’
+14 Second Phase of the Multi- • A grant from Environment 2012- 1.05 The objective of this Project is to improve water resources and
+country Regional Facility (GEF) (US$1.050 million) 2016 agricultural management and planning within and across
+Coordination on Improved beneficiary countries based on quantitative and spatial-based
+Water Resources decision making tools. There are two components to the project.
+Management and Capacity The first component of the project is improved local water
+Building Program (APL 2) resources and agricultural management. The second component
+Project of the project is capacity building and project management. ‘100%
+others’
+15 Middle East Water and USAID (US$20 thousand/year) an 2009- 0.35 WLI aims to improve the livelihoods of rural households and
+Livelihoods Initiative (WLI): Local funding from ARC (in kind 2018 communities in areas where water scarcity, water quality
+Improving Rural Livelihoods US$15 thousand/year) deterioration, land degradation, food insecurity and health
+through Sustainable Water problems are prevalent in the Middle East. ‘100% others’
+& Land-Use Management in
+Middle East Countries
+(Egypt, Iraq, Jordan,
+Lebanon, Palestine, Syria
+and Yemen)
+16 Improving Irrigation, Local funding from ARC (US$1.24 2009- 1.24 The project is mainly research and its outputs are applied in
+Drainage and Plant Nutrition million) 2017 farmers' fields by extension agents. ‘100% others’
+43
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Time Total Budget
+# Project title Funding Partners Description
+Scale (million US$)
+Methods in Old and New
+Lands
+17 Improving sugarcane Local funding from ARC (US$3.60 2007- 3.60 A research project aiming at providing the farmers with the
+productivity million) 2017 production package for optimum sugarcane yield. ‘100% others’
+18 Use of green houses in Local funding from ARC (US$3.10 2007- 3.10 The project helps in constructing the greenhouses. Provides
+optimizing water and million) 2017 training on the new technologies. Establishment of nurseries to
+fertilizer use in the new land produce seedlings free from diseases. ‘100% others’
+19 Improvement of the uses of Local funding from ARC (US$1.37 2009- 1.37 Research with some on-farm applications. ‘100% others’
+soil conditioners million) 2018
+20 Deltas, Vulnerability, and International Development 2014- 13.39 The project area covers four deltas: the Ganges-Brahmaputra-
+Climate Change: Migration Research Center, Canada "IDRC" 2018 Meghna delta in Bangladesh and India, the Nile delta in Egypt, the
+as an Adaptation (US$13,394,200) Mahanadi delta in India, and the Volta delta in Ghana. A
+consortium of five institutions with expertise in the different
+regions will conduct the research. They will study migration in
+deltas in Africa and South Asia to inform policy on the potential
+role it can play in promoting sustainable options to adapt to a
+changing climate. ‘100% others’
+21 On-farm Irrigation • A loan from IFAD of US$46 2010- 72.00 The techniques of improvement will be: 1 - Renovation of mesqas
+Development Project in the million 2017 and marwas by converting them to pipes and using controlling
+Oldlands (OFIDO) • A grant from IFAD of US$1 valves water entrances in the field at Assuit, Sohage and Qena. 2 -
+million Renovation of of marwas at Kafer El-Sheikh and El-Behira 3 - Using
+• Local funding of US$25 million improved on-farm irrigation systems and modified practices for
+better surface irrigation. 4 - Applying localized irrigation in fruits
+and vegetables fields. 5 - Applying crop water requirements based
+on climate conditions. 6 - Improving irrigation management and
+scheduling on farm level. ‘100% rehabilitation and modernization
+of irrigation scheme’
+22 Irrigation and Drainage A loan from the Saudi Fund for 2013- 80.00 This project aims to increase the capacity of the pumping stations
+Pumping Stations Development (SFD) (US$80 2017 by increasing their number, in addition to improving the efficiency
+million) of the old ones. In this manner, the project can fulfil the demand
+for irrigation water and afterwards drain the excess water, thus
+protecting the agricultural land from uncultivation or drowning.
+The project involves three tasks; 1) the construction of new
+pumping stations and replacement of other current ones in Upper
+and Lower Egypt, 2) supplying and installing submersible pumps,
+44
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Time Total Budget
+# Project title Funding Partners Description
+Scale (million US$)
+various electric motors and weed cleaning machines, and 3)
+provision of 4 x 4 vehicles, training and consultancy services. ‘90%
+rehabilitation and modernization of irrigation scheme, and 10%
+others’
+23 Project for Strengthening JICA (US$0.324 million) 2012- 0.32 The overall goal of this project is management of the branch canal
+Water Management 2015 is transferred to BCWUAs nationwide and the project purpose is
+Transfer (SWMT) implementation structure for water management transfer
+nationwide is established in MWRI. ‘100% others’
+24 Establish and Capacity GOE (US$3.6 million) 2009- 3.60 Participation is one of the main pillars of water policy. Water
+Building of Water Users 2017 user's organizations represent the civil society participation in
+Organizations water resources management. Participation strategy has been
+prepared by IRU. It is planned to organize all WUOs by year 2017.
+CDIAS has prepared a plan to organize and capacity building of
+BCWUAs and DWBs all over Egypt. ‘100% others’
+25 Field Irrigation Project France (US$45.85 Million) 2012- 45.85 Modernizing field irrigation in the areas surrounding El-
+2019 Mahmoudia, Menoufia and Meet Yazid in the Nile Delta area,
+where means of irrigation have improved, whether they are
+natural ones or institutional. WUA was established for ensuring
+sustainable irrigation operation, maintenance and management
+and is working with full capacity. The development goal of the
+Project is to increase profit from agriculture and improve shares
+(stocks) to secure high quality water to around 140,000 small
+farmers for irrigating 84,000 ha. ‘100% large scale irrigation
+development’
+26 Grant for Developing Field A loan from World Bank (US$2.75 2011- 5.75 The project aims to attempt more participatory methods for
+Irrigation (Participatory Million) and a grant from Japan 2015 developing field irrigation and harvest crop practices, and targets
+Farm-level Irrigation Social Development Fund (JSDF) some 5 thousand small farmers in the irrigation area, which covers
+Modernization) (US$2.998 million) approximately 2,800 hectares. Project areas include Mahmoudiya,
+Manayfa and Mit Yazid, located in the Nile Delta; while analyzing
+impediments, available opportunities for expanding the scope of
+these methods and disseminating lessons learned. ‘100% small-
+scale irrigation development’
+27 Master Plan for the • AWF (US$1.46) 2011- 2.70 The proposed study consists of three main components: (i) Site
+Rehabilitation of Control • AFDB (US$0.71) 2015 Investigations and Development of a Geographic Information
+Structure (Nile) • Local funding (US$0.54) System (GIS) database, including inspections and data collection
+for 200 hydraulic structures in 75 locations; (ii) Safety Evaluations
+45
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Time Total Budget
+# Project title Funding Partners Description
+Scale (million US$)
+and Development of a Decision Support System, including
+undertaking a Strategic Environmental Assessment (SEA) and
+socio-economic cost-benefit analysis for the structures; and (iii)
+Development of a Master Plan and Preparation of a capital
+investment project for the top priority major structure identified
+under the study. The objective of the study is to assess and design
+improvements of major hydraulic facilities and thus contribute to
+the implementation of Egypt's Integrated Water Resources
+Management (IWRM) plan. ‘100% others’
+28 The Second National • A loan from the World Bank: 2001- 346.45 Component 1): Drainage works including 1. providing subsurface
+Drainage Project - Phase II US$50 million 2015 drainage in the old cultivated lands, 2. renewal and rehabilitation
+(NDPII) • A loan from KFW: US$52,8 of old malfunctioning subsurface drainage on areas already
+million provided with earlier types of drainage systems, and 3. deepening
+• A grant from EIB US$53.65 and remodelling of open surface drains. Component 2):
+million Equipment and material including 1. emergency pumping
+• Local funding US$190 million equipment for the regional emergency centers, 2. spare parts for
+heavy machinery and equipment, 3. spare parts for factories
+equipment, and 4. Machinery for support the drainage maintains
+centers. ‘100% rehabilitation and modernization of irrigation
+scheme’
+29 Management of water and AusAid and Australian Centre for 2012- 2.65 The main objectives of this Project are: 1) Identify and develop
+salinity in the Nile Delta: A International Agricultural 2016 strategies that address institutional and technical barriers
+cross-scale integrated Research (ACIAR) US$2.647 associated with the management of main and branch canals and
+analysis of efficiency and million assess the effectiveness of collective action in the functional
+equity issues operation of water user associations (WUAs) at the mesqa
+(tertiary) and branch (secondary) canal levels, 2) Develop and
+assess marwa- and farm-level interventions that improve the
+productivity of diverse farming systems, and that contribute to
+increased water productivity under conditions of salinity, while
+assessing the economic and social dimension of crop choice and
+water management, 3) Build an understanding of the temporal
+and spatial dynamics of salt at several nested and successive
+scales (farm, meso, main canal/drain levels, fishpond area, lake) to
+understand the linkages between water management practices
+and salt movements/accumulation, 4) Develop an understanding
+of the implications of these cross-scale interactions through the
+46
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Time Total Budget
+# Project title Funding Partners Description
+Scale (million US$)
+modelling of the whole central delta, and assess the fraction of
+water that could potentially be ‘saved’ and used in the New Lands
+under constraints of salt management and sustainability of
+current uses (rice, aquaculture, fisheries). ‘100% others’
+30 Enhanced Water Resources Global Environment Facility (GEF) 2013- 8.37 The development objectives of the Project are to pilot Integrated
+Management (US$6.682 million), and GoE 2016 Water Resources Management (IWRM) in the Nile Delta and to
+(US$1.685 million) enhance the knowledge and capacity of water sector institutions
+for IWRM in Egypt. The project has three components: 1) pilot
+schemes: develop synergy between on-going water sector
+projects through demonstration activities in pilot areas; 2)
+capacity building for surface water and groundwater management
+and monitoring; and 3) project management: support to the
+project coordination unit (PCU) in project implementation,
+monitoring and evaluation and management, and establishment
+of a results-based monitoring and evaluation system. ‘100%
+others’
+31 Setting up M&E Framework GIZ (US$2.68 million) 2013- 2.68 The overall objective of the program is to improve the capacities
+for the Institutional Reform 2015 of MWRI, MALR and water users for implementing integrated
+and Integrated water resources management at various levels (national, regional
+Management Central Unit of and local). The program covers 3 working areas namely 1)
+the Ministry of Water institutional development, 2) training and human resource
+Resources and Irrigation, development for integrated water resources management
+Egypt (IWRM) and 3) improving process flows in the field of irrigation.
+‘100% others’
+32 Adaptation to the Impacts International Development 2009- 0.71 This project aims to demonstrate the value of stakeholder
+of Sea Level Rise in the Nile Research Center, Canada "IDRC" 2016 participation in evaluating the trade-offs between adaptation
+Delta Coastal Zone (US$710.800) options in the stretch between Ras El Bar and Gamasa on the
+northern coast of Egypt. Researchers will carry out environmental
+assessments, investigate the socioeconomic and institutional
+aspects of vulnerability, deliberate with stakeholders on
+adaptation strategies, and build capacity through technology
+transfer, awareness raising, workshops, and training. ‘100%
+others’
+33 Clima South: Support for European Union (EU) US$5.37 2013- 5.37 The project seeks to enhance regional cooperation between the
+Climate Change Mitigation million 2016 EU and its southern Mediterranean neighbours and among the
+and Adaptation in the ENPI partner countries themselves (South–South) on climate change
+47
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Time Total Budget
+# Project title Funding Partners Description
+Scale (million US$)
+South region mitigation and adaptation. ‘100% others’
+34 Institutional Capacity A grant from Ministry for Foreign 2013- 0.03 The project aims to improve Egypt's Field Crop Research
+Building Project to Develop Affairs of Finland of US$0.03 2015 Institute’s (FCRI) capacity to implement research and develop
+Agricultural Production thousand technologies on water use efficient crops. ‘100% others’
+Methods in Dry and Saline
+Conditions In Sinai.
+35 Improving productivity in AusAid and Australian Centre for 2013- 2.45 The project will analyse current and future production and
+farming systems of the Nile International Agricultural 2017 marketing constraints for different farmer groups. Working with
+Delta Research (ACIAR) US$2.45 million women and men on-farm, it will investigate technologies and
+management practices to see how an increase in crop and
+livestock productivity can be achieved, with an associated
+improvement in income. The outcome will be better productivity
+and income opportunities for smallholder farmers in the region.
+‘100% others’
+36 Enhanced Water Resources A grant from the Global 2011- 41.10 The Nekla pilot area is situated in the Mahmoudia district, in the
+Management Project Environmental Facility (GEF) of 2016 upstream part of the Mahmoudia main canal in the Nile delta. The
+(EWRMP) in Egypt US$6.7 million + US$34.4 million pilot area covers about 13,000 feddan in the command areas of
+from on-going investments the Hamad Menesi, Nekla, Ganabiet Hamad Menesi, Ganabiet
+(mainly the IIIMP, NDP, and West Sharaf and Ganabiet El-Babli branch canals. Drainage is provided
+Delta) by the El-Atf main drain and El-Babli and Edko Sharaf secondary
+drains. The project has two components: (i) improved surface
+water availability and quality; and (ii) improved groundwater
+management. ‘40% small-scale irrigation development, and 60%
+others’
+48
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Table 1.2. PIPELINE PROJECTS
+Funding Time Total Budget
+# Project title Description
+Partners Scale (million US$)
+1 Coverage of Canals and NA 2017- 93.13 The Project targets pollution control in water streams and use the covered canals and
+Drains sections streaming in 2024 drains as green landscapes. ‘100% others’
+urban areas
+2 Completion of the National NA 2017- 120.0 The Project aims at the rehabilitation of 226891 ha. ‘100% rehabilitation and
+Project of Development of 2024 modernization of irrigation scheme’
+the southern valley
+(TOSHKA)
+3 Completion of the National NA 2017- 150.0 The Project aims at the completion of the national infrastructure for the whole
+Project of 2024 project and rehabilitation of 190952 ha. ‘100% rehabilitation and modernization of
+El Salam Canal Area irrigation scheme’
+4 Protection of the Egypt NA 2017- 2.0 The Project aims at the protection of the coastal urban and rural areas from sea level
+Coastal zones "Study" 2023 rise. ‘100% others’
+5 Desalination of the brackish NA 2017- 1.0 The Project targets the desalination of the salty groundwater in the desert
+groundwater "Study" 2023 communities. ‘100% others’
+6 Small Hydro power in Egypt NA 2017- 19.3 The Project aims at the construction of small hydro power stations at Rayah Tawfiki,
+2023 Edfina , Assiout Regulator, Gamgara, Rayah Abbasi, Rayah Beheri, Bagouria Canal,
+West Nag Hammdi, Bahr Mouais, Sharkawia Canal, and Rayah Nassery. ‘100% small-
+and medium-scale hydropower’
+7 On-farm Irrigation NA 2017- 69.4 The techniques of improvement used in this Project will be: 1. Renovation of mesqas
+Development Project in the 2023 and marwas by converting them to pipes and using controlling valves water
+Old Land (OFIDO II) entrances in the field. 2. Using improved on-farm irrigation systems and modified
+practices.3. Applying localized irrigation in fruits and vegetables fields. 4. Applying
+crop water requirements based on climate conditions. 5. Improving irrigation
+management and scheduling on farm level. ‘100% rehabilitation and modernization
+of irrigation scheme’
+8 On-farm Irrigation NA 2020- 80.0 The techniques of improvement used in this Project will be: 1. Renovation of mesqas
+Development Project in the 2027 and marwas by converting them to pipes and using controlling valves water
+Old Land (OFIDO III) entrances in the field. 2. Using improved on-farm irrigation systems and modified
+practices.3. Applying localized irrigation in fruits and vegetables fields. 4. Applying
+crop water requirements based on climate conditions. 5. Improving irrigation
+management and scheduling on farm level. ‘100% rehabilitation and modernization
+of irrigation scheme’
+9 Rehabilitating and NA 2017- 150.0 The technical and economic studies in this Project include: 1. redesigning the
+49
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Funding Time Total Budget
+# Project title Description
+Partners Scale (million US$)
+Improving the Management 2023 pressure irrigation networks according to the local conditions of each province,
+of On‐Farm Irrigation in the region, and location, and the technical specifications of the equipment, and 2.
+Newly Reclaimed Lands improving monitoring and evaluating through the preparation of progressive reports
+and assessments within the planned schedule. ‘100% rehabilitation and
+modernization of irrigation scheme’
+10 On-farm irrigation research NA 2017- 74.0 The project will establish six research development, training and extension pilot
+development, training and 2024 farms; two represent old land and four represent new lands. Each farm will be fully
+extension farms in old and equipped to develop and test on-farm irrigation systems, agronomic practices and
+new lands for Egyptian soil/plant/water relationships for the cultivated crops in each area. These farms will
+sustainable agriculture provide intensive training to farmers, graduates, non-graduate settlers, new settlers
+project and extension agents in mechanized operations incorporated with modern irrigation
+methods, agronomic practices and extension services. ‘100% others’
+11 Control and Rehabilitation NA 2016- 2.0 The methodology of this project include: 1. Development of water harvesting
+of Natural Resource 2021 techniques for sustainable agro-ecosystem through the integration of up-to-date
+Degradation of Arid Land in technologies represented by GIS, RS and modeling to build up geo-referenced
+Egypt: An Integrated database at multi space scale in order to characterize and evaluate the available land
+practices for dry land resources, quantify the changes of land use; 2. Selection of pilot project sites and
+management in North East suitable on–farm water harvesting techniques; 3. Prevent flash-flood and damages
+Coast of Egypt through construction of water catchments/small stoned earth dams and pipelines for
+irrigation. 4. Identification of local participation of plant (shrub) species to be used. 5.
+Conducting field trials on techniques for soil surface management. 6. Training
+engineers, technicians and farmers. ‘100% others’
+12 Solar Water Desalination NA 2016- 0.805 The water desalination unit includes the following components: 1. Solar desalination
+Systems Application for 2021 system. 2. Water distribution system. 3.Salt collection and process unit. 4. Heat
+Bedouin Settlements exchanger and distribution unit. ‘100% others’
+13 Sustainable Management of NA 2016- 2.0 The project will be conducted in 22 governorates with different soil types and
+Soils and Water as an 2021 different crop patterns (field crops, fruits and vegetables). Trials at farmer's fields will
+Adaptation Strategy to be done at each location using improved agricultural management practices to save
+Reduce Climate Change irrigation water and to increase crops production. Field data will be used to calibrate
+Risks on Crops in Egypt and validate three simulation models and site specific prediction equations will be
+developed for crops not included in these models. ‘100% others’
+14 Precision Crop Water NA 2016- 30.0 The Project targets yield monitoring and mapping, weeds mapping and salinity
+Requirements in New 2021 mapping. Variable rate fertilizer and spraying. Topography and boundaries guidance
+Extension Reclaimed Areas systems. Records and analyses. Introduce high technology. Field Surveys in precision
+farming places by using satellites image, In the (CIPA) project the survey concerning
+the estimation of yield for the major crops will be carried out by cutting small
+50
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Funding Time Total Budget
+# Project title Description
+Partners Scale (million US$)
+samples in the field. The sample covers the whole Nile valley and the delta, the
+observed area is about 35000 km² and the distance from South to North is about
+1000 km. Using Expert System in precision farming: Precision farming technology
+which introduced in the mega projects zones including modern irrigation systems
+Using modern technology and expert Systems in precision farming, to transfer the
+agricultural knowledge from researchers to the extension officers and growers,
+Expert Systems Implemented at The Central lab of Agri. Expert Systems (CLAES)
+around 15 systems. Also, CLAES has the mechanism which transfers information and
+knowledge this mechanism is implemented Through computer network which is
+known as Rural Development Communication Network (Radcon). ‘100% others’
+15 Matching Irrigation Supply NA 2016- 16.0 The Project targets creating a real time information system on actual / anticipated
+and Demand Program 2021 crops grown in the field which will in turn be used to estimate water requirements at
+(MISD) every canal. To obtain information from the farmers on which crops they are growing.
+To obtain information from the farmers on which crops they are intending to grow. To
+deliver the obtained information to the MALR, which in turn will provide that data to
+the MWRI. To build on a successful collaboration among different ministries to
+improve water resources management. To rationalize the used water for irrigation that
+could consider the core objective for launching this program. ‘80% small-scale
+irrigation development, and 20% others’
+16 Technical Support for Citrus NA 2016- 12.0 The Project targets installing and evaluation of 3 weighing lysemeters. Cooperate
+Growers in New Lands 2021 with the training centers in different Governorates to apply the training programs.
+Preparing a movable lap to serve the soil and water analysis in site for the new lands
+and give the perfect decision in time for farmers. Prepare a movable unit to evaluate
+and maintain the modern irrigation system and give the advice to farmers. ‘100%
+others’
+17 Use of Insects for Biological NA 2016- 5.0 The Project targets the use of Insects for Biological Control of Water Hyacinth. ‘100%
+Control of Water Hyacinth 2021 others’
+18 Integrated Crops and Soils NA 2016- 20.0 The project consists of 5 components: 1. Site selection will be done to insure that
+Management Using Low 2020 these sites are representative of the studied problem. 2. Demonstration fields will be
+Quality Water established at these site and several cropping patterns will be tested. 3. Soil salinity,
+alkalinity, fertility build up and heavy metals accumulation will be monitored. 4.
+Development of the proper integrated management of crops and soils under the use
+of mixed irrigation water. 5. Socio-economic assessment of the project innovations.
+6. Dissemination of the findings to farmers at the selected areas. ‘100% others’
+19 Using Water Drainage in NA 2016- 2.0 The Project targets the establishment of an experimental farm of Jatrova in the
+Jatrova Planting and Bio- 2020 Governorate of 6th October, studying the economic, environmental and social
+51
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Funding Time Total Budget
+# Project title Description
+Partners Scale (million US$)
+fuel production in Egypt impacts of plant Jatrova trees on the surrounding society, and assessing the overall
+experiment so as to generalize it in a large scale. ‘100% others’
+20 Precision On-Farm Irrigation NA 2016- 15.0 This project will introduce a new sustainable irrigation management system using
+Management for Crops 2020 irrigation modeling, soil scanning and remote sensing to achieve efficient water use.
+Grown in Middle and Upper In addition, a comparison will be made between the traditional irrigation
+Egypt management and the new, improved techniques. The fields of the farm will be
+analyzed by specific sensor that reflects the soil type and characteristics. The tube
+shapes sensor was mounted on a tractor and readings were stored based on GPS
+coordinates. Maps of the three fields will compiled to show different soil parameters
+that influence the irrigation management, such as water retention, organic matter
+and particle size. Remote sensing with satellite images will be used to detect in-field
+differences in biomass and crop water use. In each farm, one soil moisture station
+installed to measure the water content on different depths in and below the root
+zone. The stations are equipped with a rain gauge to measure the input of water.
+Software for irrigation management, where the data from soil and remote sensing
+have been integrated using Google maps will use by farm engineers. Maps with
+important parameters related to water management such as actual
+evapotranspiration, biomass growth, potential ET and soil moisture are created with
+the SEBAL algorithm (Surface Energy Balance Algorithm for Land). ‘100% others’
+21 Application of Precision NA 2016- 20.0 The methodology includes: 1. Automated sensors and controllers could be used to
+Farming to Increase Crops 2020 collect information (GPS represents the one primary key factor that has allowed
+Production precision irrigation technology to progress to its current stat). 2. Laser land leveling
+using GPS. 3. Influence of soil moisture and applications of variable irrigation. 4. To
+use a computer and software is essential for soil moisture mapping to be stored using
+GIS software. 5. The use of RS images is still an emerging piece of precision irrigation
+technology. 6. Improved crop production decisions are through assessment of yield
+variation and narrowing the potential causes. ‘100% others’
+22 National Drainage Project - NA 2017- 321.9 The Project aims at the provision with subsurface drainage; improvement the
+phase III (NDPIII) 2024 hydraulic efficiency of open drains; rehabilitation of subsurface drainage in the Nile
+Delta; development of information Systems. ‘80% rehabilitation and modernization
+of irrigation scheme, and 20% large scale irrigation development’
+23 Rehabilitation of Irrigation NA 2018- 66.2 The Project targets to modernize irrigation infrastructure to help boost food security
+and Drainage Pumping 2022 and reduce poverty levels for 215,000 people residing near Cairo by the construction
+Stations and equipping of a new pumping station in Kafr El-Sheikh, provision of spare parts for
+" Second Stage till 2017" 10 existing pumping stations, installation of 10 weed-cleaning machines to raise
+efficiency of pumping stations, and provision of mobile electrical labs. ‘80%
+52
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Funding Time Total Budget
+# Project title Description
+Partners Scale (million US$)
+rehabilitation and modernization of irrigation scheme, and 20% large scale irrigation
+development’
+24 Pumping Stations NA 2017- 87.5 The Project targets to improve the efficiency of operation and maintenance of the
+Rehabilitation Project 2020 pumping stations; improve the efficiency and reliability of irrigation water delivery;
+" Future Stage till 2020" and strengthen further planning and O&M capacity of the Mechanical and Electrical
+Department to enhance the sustainability of the irrigation and drainage system. ‘60%
+rehabilitation and modernization of irrigation scheme, and 40% large scale irrigation
+development’
+25 Rehabilitation and NA 2019- 640.0 The aim of this project is to 1) Improve the irrigation and drainage systems and all the
+Improvement of Irrigation & 2027 hydraulic structure within the governorate command area; 2) Improve the water
+Drainage Systems at Delta distribution methodology; 3) Improve and increase the efficiency of water
+Region (I) management system in view of practical alternatives; and 4) Implement the
+improvements according to the priority list of water management development. ‘80%
+rehabilitation and modernization of irrigation scheme, and 20% large scale irrigation
+development’
+26 Rehabilitation and NA 2023- 696.0 The aim of this project is to 1) Improve the irrigation and drainage systems and all the
+Improvement of Irrigation & 2030 hydraulic structure within the governorate command area; 2) Improve the water
+Drainage Systems at Delta distribution methodology; 3) Improve and increase the efficiency of water
+Region (II) management system in view of practical alternatives; and 4) Implement the
+improvements according to the priority list of water management development. ‘80%
+rehabilitation and modernization of irrigation scheme, and 20% large scale irrigation
+development’
+27 Rehabilitation and NA 2027- 422.0 The aim of this project is to 1) Improve the irrigation and drainage systems and all the
+Improvement of Irrigation & 2032 hydraulic structure within the governorate command area; 2) Improve the water
+Drainage Systems at Delta distribution methodology; 3) Improve and increase the efficiency of water
+Region (III) management system in view of practical alternatives; and 4) Implement the
+improvements according to the priority list of water management development. ‘80%
+rehabilitation and modernization of irrigation scheme, and 20% large scale irrigation
+development’
+28 Rehabilitation and NA 2030- 310.0 The aim of this project is to 1) Improve the irrigation and drainage systems and all the
+Improvement of Irrigation & 2035 hydraulic structure within the governorate command area; 2) Improve the water
+Drainage Systems at Upper distribution methodology; 3) Improve and increase the efficiency of water
+Egypt (I) management system in view of practical alternatives; and 4) Implement the
+improvements according to the priority list of water management development. ‘80%
+rehabilitation and modernization of irrigation scheme, and 20% large scale irrigation
+development’
+53
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Funding Time Total Budget
+# Project title Description
+Partners Scale (million US$)
+29 Improving Crop Water NA 2017- 1.0 The Project aims at investigating the potential impact of climate change on
+Productivity for some Major 2021 productivity of some main crops and their water consumption; and mitigating the
+Crops under Future Climatic potential effects of climate change on the selected crops through analysis and
+Change Conditions evaluation of adaptation strategies as well determining the effective ones to reduce
+the adverse impacts and improve opportunities of the expected climate change on
+the agriculture sector. ‘100% others’
+30 Modernization of Irrigation NA 2018- 100.0 The Project aims to improve the efficiency of operation and maintenance of the
+and Drainage Pumping 2025 pumping stations and thereby save public expenditures on O&M; improve energy
+Stations efficiency of the pumping stations; strengthen further planning and O&M capacity of
+the Mechanical and Electrical Department to enhance the sustainability of the
+irrigation and drainage system. ‘100% rehabilitation and modernization of irrigation
+scheme’
+31 Rehabilitation of Open and NA 2019- 115.0 Improve the efficiency of agricultural drainage of irrigated land in the Delta and Nile
+Subsurface Drainage 2025 Valley. ‘100% rehabilitation and modernization of irrigation scheme’
+(for 92437 ha)
+32 Developing and NA 2016- 1.0 The Project targets increasing the agricultural production at the selected
+Disseminating Improved 2022 communities in El Salam Canal Area using mixed water; disseminating the technology
+Technologies for the Use of relevant to cropping pattern and water regimes; reducing the environmental risks.
+Mixed Water in Agriculture ‘100% others’
+33 Appropriate Technology to NA 2017- 0.75 The Project aims at introducing new and simple technology to increase and enhance
+Improve the Welfare of 2021 community's skills of sustainable water and soil management; and training farmers,
+Poor Farmers through extension staff and members of WUAs on raised-seed bed (wide furrows) as an
+Rationalization of Input and irrigation water saving technology. ‘100% others’
+Irrigation Water
+34 Actual Crop Water NA 2016- 2.0 Installing and evaluation of 3 weighing lysemeters. ‘100% others’
+Consumption for the Main 2021
+Fruit Trees under Different
+Pruning Systems for all
+Climatologically Zones in
+Egypt
+35 Adaptation Strategies to NA 2017- 0.75 The Project aims at developing knowledge through field experiments on irrigation
+Improve Sunflower Yield 2021 water administration and sunflower production in relation to the climate; and
+Tolerance to Climate capacity building for the staff to understand post climate models and crop simulation
+Change Stress in Egypt models to be applicable for both water resources and agriculture sector in Egypt.
+‘100% others’
+54
+National Investment Profile. Water for Agriculture and Energy: Egypt
+Funding Time Total Budget
+# Project title Description
+Partners Scale (million US$)
+36 Development of Sustainable NA 2017- 1.0 The objectives of the Project are capacity building for the working staff to understand
+Food Production Strategies 2021 and run post climate models, crop simulation models and ecosystem models;
+under Climate Change Risks downscaling for GCM models from coarse resolution to local resolution for four
+in Less Fertile Soils in Egypt locations at Nubaria, Bustan, El-Srew and North Sinai; and conducting field trials at
+the same four locations to make sure that the developed adaptation strategies in
+theory will have the same efficiency in the field. ‘100% others’
+37 Improving Water and NA 2018- 0.80 Installing and evaluation of injection devices in a revolving fund to small landholders
+Fertilizers Productivity 2022 in the newly reclaimed lands. ‘100% others’
+through Injecting all Agro-
+Chemicals and Bio-fertilizers
+through Irrigation Water
+38 Role of Improving Furrow NA 2019- 0.75 The Project targets improving water productivity in three governorates at Delta
+Irrigation Performance in 2022 Region and two governorates at Middle Egypt, conserving soil and water resources,
+Sustainable Agriculture and enhancing land and fertilizer use efficiencies, as well. ‘100% others’
+39 Rationalization of Irrigation NA 2016- 1.0 The Project aims at introducing an integrated crop and water management program
+Water through Applying 2020 to farmers for more efficient use of water, improving the delivery system in a way
+Modern Irrigation that reduce seepage losses thereby increasing water supply; and training the farmers
+Technology at Delta and regarding efficient use of irrigation water; training extension stuff in water
+Nile Valley management techniques. Such training leads to build up subject matter specialist
+more specialized in the field of water control. ‘100% others’
+40 Improving Surface Irrigation NA 2016- 0.10 The Project aims at the provision of irrigation water added and reducing the amount
+Management by Using 2018 of evaporation and transpiration of water conservation and soil by using perforated
+Perforated Plastic Films plastic films. ‘100% others’
+41 Increasing the Water Use NA 2019- 0.9 The Project targets increasing the efficiency of irrigation systems and increasing
+Efficiency and Maximizing 2021 productivity in various agricultural crops based on water unit in Beheira, Qalioubeya
+Yield for Water Unit by and El-Fayoum governorates using irrigation modeling, soil scanning and remote
+Using the Technology sensing. ‘100% others’
+Senses to Improve the On-
+Farm Water Precision
+Management
+55
+Country investment brief. Water for Agriculture and Energy: Nigeria
+ANNEX 2. MAP OF Egypt
+56
+Country investment brief. Water for Agriculture and Energy: Nigeria
+REFERENCES
+ARC. (2015). Agricultural Research Centre (ARC). Retrieved from
+http://www.arc.sci.eg/Download/NewsFiles/81_Revised-Collaborative-Program-
+Achievements-May31_ed_Aug.pdf
+CAPMAS. (1999-2015). Agricultural Equipment Survey. Cairo, Egypt: Central Agency for Public
+Mobilization and Statistics (CAPMAS).
+CAPMAS. (2008). Labour Force Survey. Cairo, Egypt: Central Agency for Public Mobilisation and
+Statistics (CAPMAS).
+CAPMAS. (2014). Future of Energy in Egypt. Cairo, Egypt: Central Agency for Public Mobilization
+and Statistics (CAPMAS).
+CAPMAS. (2015). The Statistical Year Book 1990-2014. Cairo, Egypt: Central Agency for Public
+Mobilization and Statistics (CAPMAS).
+EEHC. (2014). Annual Report 2012/2013. Egyptian Electricity Holding Company (EEHC). Cairo,
+Egypt: Ministry of Electricity & Renewable Energy.
+FAO. (2013). FAO Crop Prospects and Food Situation, No. 4. Rome, Italy: Food and Agriculture
+Organization of the United Nations.
+FAO. (2015). FAO Statistical Pocketbook. Rome, Italy: Food and Agriculture Organization of the
+United Nations.
+FAO-Aquastat. (2015). Food and Agriculture Organization of the United Nations. Retrieved from
+FAO-Aquastat: Country Profile: Egypt:
+http://www.fao.org/nr/water/aquastat/countries_regions/EGY/index.stm
+FAO-Database. (2015). Food and Agriculture Organization of the United Nations. Retrieved from
+Gender and Land Rights Database: http://www.fao.org/gender-landrights-
+database/country-profiles/countries-list/land-tenure-and-related-
+institutions/en/?country_iso3=EGY
+FAOSTAT. (2015). Food and Agriculture Organization of the United Nations. Retrieved from
+FAOSTAT: http://faostat3.fao.org/home/E
+IFPRI. (2014). How to Build Resilience to Conflict? The Role of Food Security. Washington, DC:
+International Food Policy Research Institute (IFPRI).
+57
+Country investment brief. Water for Agriculture and Energy: Nigeria
+ILO. (2011). Statistical Update on Employment in the Informal Economy. ILO Department of
+Statistics (STATISTICS). International Labor Organization (ILO).
+MALR. (2009). Sustainable Agricultural Development Strategy towards 2030 (SADS). Agricultural
+Research & Development Council. Cairo, Egypt: Ministry of Agriculture and Land
+Reclamation (MALR).
+MALR. (2014 a). Bulletin of Agricultural Statistics 1990-2013. Economic Affairs Sector, Central
+Department of Agrarian Economics & Statistics. Cairo, Egypt: Ministry of Agriculture and
+Land Reclamation (MALR).
+MALR. (2014 b). Results of the Agricultural Census 2001/2010. Economic Affairs Sector, Central
+Department of Agrarian Economics & Statistics. Cairo, Egypt: Ministry of Agriculture and
+Land Reclamation (MALR).
+MALR. (2014 c). Bulletin of Egypt Food Balance Sheet. Economic Affairs Sector, Central
+Department of Agrarian Economics & Statistics. Cairo, Egypt: Ministry of Agriculture and
+Land Reclamation (MALR).
+MOH. (2009). Egypt Demographic and Health Survey 2008 (EDHS). Cairo, Egypt: Ministry of Health
+(MOH), El-Zanaty and Associates, and Macro International.
+MOP. (2012). Strategic Framework for Economic and Social Development to year 2022 (SFESD).
+Cairo, Egypt: Ministry of Planning (MOP).
+MOP. (2015 a). Egypt’s Progress towards Millennium Development Goals. Cairo, Egypt: Ministry
+of Planning (MOP).
+MOP. (2015 b). The National Socio-Economic Development Plan for Fiscal Year 2015/2016. Cairo,
+Egypt: Ministry of Planning (MOP).
+MSEA. (2010). The Second National Communication of Egypt to the United Nations Framework
+Convention on Climate Change (UNFCCC). Egyptian Environmental Affairs Agency (EEAA).
+Cairo, Egypt: Ministry of State for Environmental Affairs (MSEA).
+MWRI. (2005). Water for the Future: National Water Resources Plan (NWRP) 2017. Cairo, Egypt:
+Ministry of Irrigation and Water Resources (MWRI).
+MWRI. (2010). The Draft of the Development and Management of Water Resources Strategy
+2050. Cairo, Egypt: Ministry of Irrigation and Water Resources (MWRI).
+NREA. (2014). Annual Report 2012/2013. New & Renewable Energy Authority (NREA). Cairo,
+Egypt: Ministry of Electricity & Renewable Energy.
+58
+Country investment brief. Water for Agriculture and Energy: Nigeria
+WFP. (2013). Country Summaries: Annex to the Global Food Security Update, Issue 9. Rome, Italy:
+World Food Propramme (WFP).
+WFP. (2015). World Food Propramme (WFP). Retrieved from World Food Propramme:
+http://www.wfp.org/countries/egypt
+59

@@ -1,0 +1,527 @@
+Research article EMHJ – Vol. 24 No. 5 – 2018
+Hypertension and associated cardiovascular risk factors among
+urban slum dwellers in Egypt: a population-based survey
+Mohsen Gadallah 1, Soad Abdel Megid 2, Amira Mohsen3 and Sahar Kandil 1
+1Department of Community, Environmental and Occupational Medicine, Faculty of Medicine, Ain Shams University, Cairo, Egypt (Correspondence
+to: Sahar Kandil: sahar_kandil@yahoo.com, saharkandil262@gmail.com). 2Ministry of Health and Population, Cairo, Egypt. 3National Research Centre,
+Cairo, Egypt.
+Abstract
+Background: The economic deprivation of most slum inhabitants, and the lack of services and facilities may increase
+their vulnerability to unhealthy lifestyles and cardiovascular diseases.
+Aims: This study aimed to determine the prevalence of modifiable risk factors for cardiovascular diseases in slum
+residents in Cairo, Egypt and evaluate their association with hypertension.
+Methods: A household cluster survey was conducted in Mansheiet Nasser, a large slum area in Cairo. The study included
+984 adult participants. The World Health Organization STEPS instrument for noncommunicable disease risk factor
+surveillance was used to determine the prevalence of smoking, fruit/vegetable consumption, overweight/obesity, physical
+activity, diabetes and hypertension.
+Results: Smoking, insufficient fruit/vegetable consumption, low physical activity and diabetes were reported by 43.4%,
+92.2%, 98.4% and 8.7% of the sample respectively. The prevalence of hypertension and overweight/obesity were 31.2% and
+73.0% respectively. Most of the participants (83.8%) had ≥ 3 cardiovascular risk factors. A significantly higher proportion of
+men smoked, engaged in less physical activity, had diabetes and had multiple risk factors. Hypertension was significantly
+associated with age 30–< 50 years (OR = 3.04, 95% CI: 1.66–5.58), age ≥ 50 years (OR = 12.5, 95% CI: 6.71–23.26), overweight
+(OR = 1.58, 95% CI: 1.0–62.35), obesity (OR = 2.23, 95% CI: 1.49–3.35), low fruit/vegetable consumption (OR = 1.88, 95% CI:
+1.02–3.48), and diabetes (OR = 1.77, 95% CI: 1.08–2.92).
+Conclusions: Urban slum dwellers in Mansheiet Nasser have an increased vulnerability to cardiovascular diseases
+compared with the Egyptian population. Measures are needed to improve their lifestyles and reduce their risk of
+cardiovascular diseases.
+Keywords: Cardiovascular disease, risk factors, hypertension, lifestyle, poverty areas, Egypt
+Citation: Gadallah M; Abdel Megid S; Mohsen A; Kandil S. Hypertension and associated cardiovascular risk factors among urban slum dwellers in
+Egypt: a population-based survey. East Mediterr Health J. 2018;24(5):435-442. https://doi.org/10.26719/2018.24.5.435
+Received: 20/08/16; accepted: 05/03/17
+Copyright © World Health Organization (WHO) 2018. Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO license (https://
+creativecommons.org/licenses/by-nc-sa/3.0/igo).
+Introduction diseases, especially cardiovascular disease, is increasingly
+evident in low- and middle-income countries (4).
+Cardiovascular disease (CVD) is the leading cause of
+The prevalence of cardiovascular risk factors is
+death, representing 30% of all global deaths. Over 80% of
+reported to be higher among urban slum dwellers (5–9).
+deaths from cardiovascular disease take place in low- and
+Egypt has experienced considerable socioeconomic
+middle-income countries (1). Among the 10 leading risk
+change with increasing urbanization in the past 60
+factors for global mortality from cardiovascular disease
+years and migration to urban areas, especially to Cairo,
+with their relative contribution are high blood pressure
+the capital city. This migration has led to the emergence
+(12.8%), tobacco use (8.7%), high blood glucose (5.8%),
+of many slum areas in Cairo, which are characterized
+physical inactivity (5.5%), overweight and obesity (4.8%),
+by a limited supply of many of the essential services.
+high cholesterol (4.5%), alcohol use (3.8%), and low fruit
+Although electricity is supplied to all houses, many areas
+and vegetable intake (2.9%). Fortunately, they can be
+lack water and sanitation services. Parks, sidewalks,
+controlled, treated or modified (2).
+sports or recreational facilities are also lacking. These
+The Egyptian national survey conducted in 2012 conditions, along with the economic deprivation of
+showed a higher prevalence of various cardiovascular most of slum inhabitants, may enhance the adoption
+risk factors than the global and regional figures, of an unhealthy lifestyle. The increasing vulnerability
+especially increased body weight, physical inactivity, and of this deprived population to cardiovascular disease
+low fruit and vegetable consumption. The prevalence of needs to be investigated. This study aimed to measure
+hypertension and tobacco use were also high, 39.7% and the prevalence of risk factors for cardiovascular disease
+24.4% respectively (3). The association of urbanization among slum residents in Cairo, Egypt, and to determine
+with the increased prevalence of noncommunicable their association with hypertension.
+435
+Research article EMHJ – Vol. 24 No. 5 – 2018
+Methods using a calibrated mercury sphygmomanometer (Riester;
+Jungingen Germany). The average of the 2 readings
+Study design and site
+was recorded. American Heart Association guidelines
+This study was a household cluster survey conducted for blood pressure measurements were followed (12).
+in Mansheiet Nasser, one of the biggest slum areas Participants were informed about their blood pressure
+in Cairo. It developed as an unplanned area and has readings and referred to the health unit if it was high.
+considerable variation in building quality, ranging from
+Assessment of the validity of the weighing scales,
+one-story makeshift houses to good quality brick houses
+tape measures and sphygmomanometers was performed
+(10). Mansheiet Nasser is divided into 8 administrative
+weekly by taking the measurements of one person on
+districts and has an estimated population of about
+each of the instruments to ensure their standardization.
+300 000 people. The active field survey was conducted
+The household crowding index was calculated as
+between June and December 2014.
+the total number of residents (excluding the newborns)
+Study sample
+divided by the total number of rooms, excluding kitchen
+The sample size was calculated assuming: a design effect and bathrooms.
+of 1.5, 10% anticipated non-response rate, 30% prevalence
+The duration of a visit ranged from 15 to 22 minutes.
+of hypertension, average family size of 6 persons,
+No names were recorded on the questionnaires to ensure
+50% of the population ≥ 18 years, and 95% confidence
+anonymity.
+level. A sample of 493 households was needed and was
+selected from each of the 8 districts, proportionate to its Definitions of risk factors
+population size. • Smoking status: a smoker was anyone who reported
+For the selection of households within each district, currently smoking cigarettes, shisha or both.
+a mosque, a church, or a school was taken as the starting
+• Diabetes was recorded as positive when participants
+point from which we walked in a clockwise direction
+reported a diagnosis of diabetes by a doctor or were
+and selected the houses in a systematic random way. Of
+receiving treatment for diabetes—insulin or oral
+the 493 households selected, 481 agreed to participate
+hypoglycaemic therapy.
+(97.6% response rate). Data were collected from all adults
+• Low fruit/vegetable consumption: < 5 per portions of
+≥ 18 years (excluding pregnant women) available at the
+fresh and/or cooked fruits/vegetables a day (11).
+time of the survey who consented to participate and had
+been resident in the area for ≥ 12 months. Within the • Low physical activity: < 150 minutes of moderate
+households that agreed to participate, none of the adults intensity, or 75 minutes of vigorous intensity
+declined to participate. A total of 984 participants were exercise per week or equivalent combination of both,
+interviewed with an average of 2 adults per household. or < 10 minutes of any type of physical activities per
+Data collection day, including activities at work, travel, leisure time
+and at home. Examples and show cards were used for
+The survey was conducted by 2 teams, each consisting of
+illustration (11).
+a trained interviewer and a medical assistant from staff
+of one Mansheiet Nasser health centre. • Overweight: BMI > 25 to 29.9 kg/m2; obesity: BMI ≥
+30 kg/m2 (11).
+An interview questionnaire was designed based on the
+World Health Organization (WHO) STEPS instrument • Hypertension: systolic blood pressure ≥ 140 mmHg
+for stepwise surveillance of noncommunicable disease and/or diastolic blood pressure ≥ 90 mmHg (11).
+risk factors (11). It included sociodemographic data and
+Data management and analysis
+questions about smoking, daily amount of fruit and
+Questionnaires were reviewed for completeness and
+vegetable eaten, physical activity level, and prior diagnosis
+of diabetes by a doctor or treatment for diabetes. Each precision. Data coding, entry and cleaning through
+item of the questionnaire was reviewed for both face and exploratory analysis and appropriate cross-classification
+content validity by experts in epidemiology and public were done.
+health. After considering their comments, they agreed SPSS, version 17 was used for the analyses (13).
+the final form was valid for measuring cardiovascular Descriptive and analytical statistics were used. The
+disease risk factors and that the questionnaire items were chi-squared test was used to test differences between
+relevant, readable and comprehensive. The questionnaire proportions. Binary logistic regression analysis was
+final form was pilot-tested on 36 households, not included done to identify potential risk factors associated with
+in the study sample. Internal consistency was assessed hypertension. The regression analysis included variables
+by the Cronbach alpha coefficient (0.721). that were either significant in the bivariate analysis or
+Measurements of body weight to the nearest 0.5 kg were previously known to be independently associated
+and height to the nearest 1.0 cm were taken. Body mass with hypertension. Crude and adjusted odds ratios (OR)
+index (BMI) was calculated as weight (kg)/height2 (m2). were calculated with their corresponding 95% confidence
+After filling the questionnaire, 2 blood pressure readings interval (CI). A P-value ≤ 0.05 was considered statistically
+were taken on the right arm with the participant seated significant.
+436
+Research article EMHJ – Vol. 24 No. 5 – 2018
+Ethical considerations University (Approval number: FWA00017585. 2014).
+Informed written consent was obtained from each
+Results
+participant after explanation of the study purpose. For
+illiterate participants we explained the details of the The study included 984 participants, 428 (43.50%) of
+study and took their verbal consent as there was no/low whom were women. The ages ranged from 18 to 82 years
+risk to the participants and potential harm to them was with a mean (SD) of 42.56 (12.70) years.
+unlikely. Table 1 shows that just over half the participants
+The study was approved by the Research Ethics (51.1%) had no education and 59.8% were in low-income
+Committee of the Faculty of Medicine, Ain Shams families (< 1000 EGP per month). The mean (SD) crowding
+Table 1 Demographic characteristics of the study sample and their cardiovascular risk factors overall by sex
+Characteristic Overall Men Women P-value a
+(n = 984) (n = 556) (n = 428)
+No. (%) No. (%) No. (%)
+Age group (years)
+< 30 years 161 (16.4) 78 (14.0) 83 (19.4)
+30 to < 50 528 (53.7) 305 (54.9) 223 (52.1) 0.076
+≥ 50 295 (30.0) 173 (31.1) 122 (28.5)
+Education
+Illiterate/informal education 503 (51.1) 283 (50.9) 220 (51.4) 0.876
+Primary school & above 481 (48.9) 273 (49.1) 208 (48.6)
+Family income per month (EGP)b
+< 250 39 (4.0) 16 (2.9) 23 (5.4)
+250–499 153 (15.6) 83 (14.9) 70 (16.4)
+500–749 239 (24.3) 147 (26.4) 92 (21.5) 0.127
+750–999 157 (16.0) 92 (16.4) 65 (15.2)
+≥ 1000 396 (40.2) 218 (39.2) 178 (41.6)
+Fruit/vegetable consumption
+Low (< 5 daily portions) 907 (92.2) 517 (93.0) 390 (91.1) 0.280
+Adequate (≥ 5 daily portions) 77 (7.8) 39 (7.0) 38 (8.9)
+Physical activity
+Low (< 150 min/wk) 968 (98.4) 552 (99.3) 416 (97.2) 0.021
+Healthy (≥ 150 min/wk) 16 (1.6) 4 (0.7) 12 (2.8)
+Current tobacco smoking < 0.001
+Smokers 427 (43.4) 407 (73.2) 20 (4.7)
+Non-smokers 557 (56.6) 149 (26.8) 408 (95.3)
+Weight
+Normal 266 (27.0) 155 (27.9) 111 (25.9)
+Overweight 389 (39.5) 218 (39.2) 171 (40.0) 0.788
+Obese 329 (33.4) 183 (32.9) 146 (34.1)
+Diabetes
+Yes 86 (8.7) 63 (11.3) 23 (5.4) < 0.001
+No 898 (91.3) 493 (88.7) 405 (94.6)
+Hypertension
+Yes 307 (31.2) 175 (31.5) 132 (30.8) 0.832
+No 677 (68.8) 381 (68.5) 296 (69.2)
+Number of risk factors
+≥ 3 825 (83.8) 511 (91.9) 314 (73.4) < 0.001
+< 3 159 (16.2) 45 (8.1) 114 (26.6)
+aChi-squared test; statistically significant at P < 0.05.
+b1 US$ = 6.1 EGP at the time of the study (2014).
+Min/wk = minutes per week, EGP = Egyptian pounds.
+437
+Research article EMHJ – Vol. 24 No. 5 – 2018
+index for the 481 households was 2.09 (SD 1.24); over 80% 11.3% in men compared with 5.4% in women (P < 0.001).
+of households had crowding index >1. Both men and Hypertension was diagnosed in 307 (31.2%) participants
+women had a similar age distribution, educational level with no significant sex difference. The majority of our
+and family income. Low fruit and vegetable consumption sample (83.8%), had 3 or more of the modifiable risk
+was reported by 907 (92.2%) participants with no observed factors (low fruit/vegetable consumption, low physical
+difference between men and women. Low physical activity, tobacco smoking, above normal body weight,
+activity was reported by 968 (98.4%) participants, with diabetes and hypertension) with men being significantly
+women being significantly more active than men (P = more affected.
+0.021). Tobacco smoking was reported by 427 (43.4%) Risk factors for hypertension are shown in Table 2. In
+participants and was significantly more prevalent among the bivariate analysis, the prevalence of hypertension was
+men; 73.2% of men smoked compared with 4.7% of women significantly higher in those who were older, uneducated,
+(P < 0.001). The median BMI was 27.8 (IQ: 24.8 – 31.2) kg/ had a family income below the median (800 EGP per
+m2and 73.0% of the total sample was overweight or obese month), had diabetes and were overweight or obese. After
+but no significant difference was observed between men adjustment for potential confounders, 4 variables were
+and women. Diabetes history was reported by 86 (8.7%) significantly associated with hypertension in the logistic
+respondents and it was significantly higher among men; regression model: age, body weight, fruit and vegetable
+Table 2 Risk factors for hypertension: logistic regression analysis
+Risk factor Hypertension P-value Crude OR Adjusted OR
+(95% CI) (95% CI)
+No. (%)
+Sex
+Women 132 (30.8) 0.443 0.97 (0.74–1.28) 1.17 (0.77–1.78)
+Men (ref) 175 (31.5)
+Age group (years)
+< 30 (ref) 13 (8.1) < 0.001
+30 to < 50 123 (23.3) 3.46 (1.89–6.31) 3.04 (1.66–5.58)*
+≥ 50 171 (58.0) 15.70 (8.51–28.96) 12.50 (6.71–23.26)*
+Education
+Illiterate/informal education 184 (36.6) < 0.001 1.68 (1.28–2.21) 1.07 (0.76–1.50)
+Primary school & above (ref) 123 (25.6)
+Family income per month (EGP)a
+< median value 101 (36.9) 0.017 1.43 (1.06–1.92) 1.13 (0.79–1.62)
+≥ median value (ref) 206 (29.0)
+Fruit/vegetable consumption
+Low (< 5 daily portions) 290 (32.0) 0.072 1.66 (0.95–2.89) 1.88 (1.02–3.48)*
+Adequate (≥ 5 daily) (ref) 17 (22.1)
+Exercise
+Low (< 150 min/wk) 301 (31.1) 0.583 1.33 (0.48–3.69) 1.52 (0.74–4.85)
+Healthy (≥ 150 min/wk) (ref) 6 (37.5)
+Tobacco smoking
+Smoker 134 (31.4) 0.914 1.02 (0.77–1.33) 1.04 (0.77–1.40)
+Non-smoker (ref) 173 (31.1)
+Diabetes
+Yes 49 (57.0) < 0.001 3.05 (1.93–4.81) 1.77 (1.08–2.92)*
+No (ref) 258 (28.7)
+Weight
+Obese 140 (42.6) < 0.001 2.98 (2.05–3.32) 2.23 (1.49–3.35)*
+Overweight 114 (29.3) 1.67 (1.15–2.42) 1.58 (1.06–2.35)*
+Normal (ref) 53 (19.9)
+aMedian income = 800 EGP/month: 1 US$ = 6.1 EGP (2014).
+*Significant at P ≤ 0.05.
+OR = odds ratio, CI = confidence interval.
+ref = reference category, EGP = Egyptian pound, min/wk = minutes per week.
+438
+Research article EMHJ – Vol. 24 No. 5 – 2018
+consumption and history of diabetes. Compared to those countries and communities, however, it was generally
+under 30 years of age, the risk of hypertension was 3 times less common than we found among our participants. For
+higher in the age group 30 to < 50 years (OR= 3.04, 95% CI: example, in Kenya and in Nepal, overweight/obesity was
+1.66–5.58) and 12 times higher in the age group ≥ 50 years 58% and 30% respectively and in India, it ranged between
+(OR = 12.50, 95% CI: 6.71–23.26). The risk of hypertension 32% in Patna and 75% in Hyderabad (5,6,8,9). The high
+was about double in those who consumed < 5 portions of prevalence of overweight/obesity in our participants
+fruits/vegetables daily (OR = 1.88, 95% CI: 1.02–3.48), had cannot be explained solely by the low physical activity. We
+diabetes (OR = 1.77, 95% CI: 1.08–2.92) and were obese (OR: did not enquire about eating habits, body size preference
+2.23, 95% CI: 1.49–3.35). and perception of body image, which may affect people’s
+weight. Statistical modelling of BMI along with disease
+Discussion incidence, mortality and survival data from national and
+subnational datasets in the Middle East showed that a
+The current study was conducted as a cross-sectional
+small reduction, as low as 1%, in the obesity level would
+household survey in one of the largest slum areas in Cairo
+reduce the number of cases per 100 000 population of
+Governorate with the participation of 984 individuals.
+diabetes by about 1200 and coronary heart disease and
+Our results reveal alarmingly high prevalence rates of
+stoke by about 800 (17). This finding highlights the need
+some important modifiable cardiovascular risk factors.
+to target multi-morbidity and take preventive action on
+Adequate daily fruit and vegetable intake was rarely obesity-associated diseases.
+met: low intake seems to be common among Egyptians
+Diabetes was more prevalent in our study participants
+as seen from our results (92.2%) and from the nationally
+than in the national survey of 2015 (8.4% versus 4.8%)
+reported rates in 2012 (95.6%) (3). Among slum dwellers,
+(15). In fact, previous studies have shown that a higher
+low intake of fruit and vegetables varies in different
+prevalence of diabetes in deprived areas could be
+countries: it has been reported as only 8% in Nepal but
+attributed to factors such as low physical activity,
+around 50% in Kenya (6,7).
+cigarette smoking, dietary patterns, and overweight and
+The vast majority of our participants (98.4%) did
+obesity (18,19). Our data show a high prevalence of such
+not reach the minimum level of physical activity
+factors, and 2 of them (smoking and low physical activity)
+recommended for health by WHO (14). This figure is
+were higher than the national rates.
+3 times higher than the national figure for insufficient
+The prevalence of hypertension in our study (31.2%)
+physical activity reported in the 2012 survey (32.1%) (3).
+was much higher than the national rate reported in 2015
+Among residents of urban slums in other countries,
+(17.2%) and the rate reported from a screening survey in
+the prevalence of insufficient physical activity was
+urban Cairo (16.5%) (15,20). The prevalence of hypertension
+much lower than in our study: 15% to 20% in Kenya and
+among urban slum populations varies, ranging between
+about 30% in both Nepal and India (5–8). Many factors
+25% and 34% in India and Nepal and about 23% in Kenya
+associated with urbanization that are frequently found
+(5,6,8,9).
+in our urban slums tend to discourage engagement in
+Of concern, 83.8% of our participants had 3 or more
+physical activity, for example violence, high-density
+of the 6 studied risk factors for cardiovascular disease.
+traffic, pollution and low air quality, and the lack of parks,
+This rate far exceeds the reported national figure in 2012,
+sidewalks and recreational or sport facilities.
+which was 51.1% with 3 or more risk factors (3). Having
+Tobacco smoking was more prevalent in our
+multiple risk factors for noncommunicable diseases is
+participants (43.4%) than either of the national rates
+closely associated with the social determinants of health,
+reported in 2012 and 2015, 18% and 20.9% respectively
+with factors such as low level of education, low income,
+(3,15). Again, smoking was more common in our study
+unemployment and deprived living conditions being
+compared with studies among slum dwellers elsewhere:
+implicated (21). Therefore, living in an urban slum where
+in both Kenya and India, smoking prevalence was about
+all these factors are evident could increase vulnerability
+10–12% and in Nepal, it was 35.6% (5–8). The health risk of
+to noncommunicable diseases in Egypt.
+tobacco smoking is not only from its direct consumption
+Our results confirm the well-known association
+but also from second-hand smoke. Unfortunately, most of
+between hypertension and advancing age. The likelihood
+our study participants lived in crowded homes (crowding
+of suffering from hypertension at age 30 to < 50 years was
+index ≥ 1 in more than 80% of the households). Thus, the
+probability of indoor exposure to second-hand smoke 3 times higher than at age < 30 years, and 12 times higher
+is high, which highlights the importance of smoking at the age of ≥ 50 years.
+cessation in people living in such conditions. Diabetes was also associated with hypertension
+The prevalence of overweight and obesity in our with the likelihood of hypertension being nearly double
+participants (72.9%) was not greatly different from among those with diabetes than those without. A strong
+the national figures for Egypt reported in 2012 and association between diabetes and hypertension was
+2015 (66.0% and 76.0% respectively) (3,15). Studies previously confirmed with strong evidence of sharing
+indicate that overweight and obesity are prevalent in common pathways (22).
+all socioeconomic strata in Egypt (15,16). Among slum The significantly higher prevalence of hypertension
+residents, overweight and obesity varied in different in obese and overweight individuals that we observed
+439
+Research article EMHJ – Vol. 24 No. 5 – 2018
+has been previously reported in other studies (20,22,23). recently published critical review that reported no gender
+The alarmingly high prevalence of overweight and difference in the overall prevalence of hypertension, but
+obesity, especially in this less privileged population, did report differences between age groups (29).
+might increase the risk of hypertension. Incorporating The level of physical activity had no significant
+weight reduction programmes in primary health care relationship with hypertension in our participants.
+could help control obesity-associated diseases including Other studies have reported an association of high and
+diabetes and hypertension. moderate levels of recreational physical activity with
+Hypertension was significantly more prevalent lower risk of hypertension (30). This protective effect
+among participants who had a low fruit and vegetable could not be seen in our group, probably because of the
+intake. Our results concur with other observational and very small proportion (1.6%) who achieved the healthy
+intervention studies which reported convincing evidence level of physical activity.
+that high consumption of fruit and vegetable can lower
+blood pressure (24). Conclusion
+Tobacco smoking was not significantly associated
+The population living in the Egyptian urban slum was
+with hypertension in our participants. This finding
+at increased cardiovascular risk, with higher rates of
+contradicts other studies (5,8). However, a large nationally
+behavioural risk factors and multi-morbidity than
+representative study in England also failed to find any
+the corresponding national rates, namely insufficient
+consistent independent clinically significant difference
+physical activity, smoking, diabetes, hypertension, and
+in blood pressure values between smokers and non-
+the simultaneous presence of 3 or more cardiovascular
+smokers, which concurs with our findings (25). This lack
+risk factors. The vast majority consumed less than the
+of association could be partially attributed to the transient
+daily recommended amount of fruits and vegetables, and
+effect of smoking on blood pressure, through stimulation
+three quarters were overweight or obese. Hypertension
+of the sympathetic system, which would be lost within
+was significantly associated with older age, low fruit
+half an hour of the last smoke. This period is usually
+and vegetable consumption, diabetes, and overweight/
+missed when blood pressure is measured both in research
+obesity. Behavioural risk factors can be changed but
+studies and in clinical practice (26). More importantly,
+people living in disadvantaged areas are at increased
+however, is the evidence that smoking produces arterial vulnerability to unhealthy lifestyles and hence risk
+stiffness and this predominantly affects central aortic factors for cardiovascular disease because of low levels of
+blood pressure and damages key organs (kidneys and income, education and employment, and deprived living
+heart) rather than brachial blood pressure (27,28). conditions. Initiatives are urgently needed to tackle the
+Our study did not find any relationship between problem and help slum residents adopt more healthy
+gender and hypertension. This finding is supported by a lifestyles and reduce their risk of cardiovascular disease.
+Acknowledgements
+We thank the residents of Mansheiet Nasser for their cooperation, the health authority in Cairo Governorate and the data
+collection teams for facilitating the fieldwork.
+Funding: None.
+Competing interests: None declared.
+Hypertension et facteurs de risque cardio-vasculaires associés parmi les habitants de
+taudis urbains en Égypte : étude populationnelle
+Résumé
+Contexte : Le dénuement économique dans lequel vivent la plupart des habitants de taudis urbains, ainsi que le manque
+de services et d’établissements à leur disposition peut les rendre davantage vulnérables à des modes de vie malsains et
+aux maladies cardio-vasculaires.
+Objectifs : La présente étude avait pour objectif de déterminer la prévalence des facteurs de risque modifiables des
+maladies cardio-vasculaires chez les habitants de taudis urbains du Caire (Égypte), ainsi que d’évaluer leur association
+avec l’hypertension.
+Méthodes : Un sondage par grappes auprès des ménages a été réalisé dans le quartier de Mansheiet Nasser, une importante
+zone de logements insalubres au Caire. L’étude incluait 984 participants adultes. L’enquête STEPS de l’Organisation
+mondiale de la Santé pour la surveillance des facteurs de risque des maladies non transmissibles a été utilisée afin de
+déterminer la prévalence du tabagisme, de la consommation de fruits et légumes, de la surcharge pondérale/de l'obésité,
+de l’activité physique, du diabète et de l’hypertension.
+Résultats : Le tabagisme, une consommation insuffisante de fruits et légumes, une faible activité physique et le diabète
+étaient notifiés par 43,4 %, 92,2 %, 98,4 % et 8,7 % des personnes respectivement dans l’échantillon étudié. La prévalence
+440
+Research article EMHJ – Vol. 24 No. 5 – 2018
+de l’hypertension et de la surcharge pondérale/de l'obésité était de 31,2 % et de 73,0 % respectivement. La plupart des
+participants (83,8 %) présentaient trois facteurs de risque cardio-vasculaires ou plus. Une proportion significativement
+plus élevée d’hommes fumait, avait une activité physique moindre, souffrait de diabète et présentait des facteurs de risque
+multiples. L’hypertension était associée de façon significative au fait d’être âgé de 30 à 49 ans (OR = 3,04, IC de 95 % : 1,66-
+5,58), d’avoir 50 ans ou plus (OR = 12,5, IC de 95 % : 6,71-23,26), à une surcharge pondérale (OR = 1,58, IC de 95 % : 1,0-62,35),
+à l’obésité (OR = 2,23, IC de 95 % : 1,49-3,35), à une faible consommation de fruits et légumes (OR = 1,88, IC de 95 % : 1,02-
+3,48), et au diabète (OR = 1,77, IC de 95 % : 1,08-2,92).
+Conclusions : Les habitants du taudis urbain de Mansheiet Nasser sont davantage exposés aux maladies cardio-
+vasculaires comparés au reste de la population égyptienne. Des mesures sont nécessaires afin d’améliorer leurs modes de
+vie et réduire le risque de maladies cardio-vasculaires.
+:صرم في ةيضرلحا تايئاوشعلا ناكس ينب ةيئاعولا ةيبلقلا ضارملأل رطخ لماوع نم هب طبتري امو مدلا طغض عافترا
+نياكس حسم
+ليدنق رحس ،نسمح ةيرمأ ،ديجلما دبع داعس ،للها داج نسمح
+ةصلالخا
+رطاخلم مهضرعت ةدايز لىإ ،قفارلماو تامدلخا صقنو ،تايئاوشعلا ينطاق مظعم هنم نياعي يذلا يداصتقلاا نامرلحا يدؤي نأ نكمي :ةيفللخا
+.ةيبلقلا ةيئاعولا ضارملأاو ةيحصلا يرغ ةيتايلحا طمانلأا
+ةنيدمب تايئاوشعلا ينطاق ينب ةيبلقلا ةيئاعولا ضارملأل ليدعتلل ةلباقلا رطلخا لماوع راشتنا ىوتسم ديدتح لىإ ةساردلا هذه تفده :فادهلأا
+.مدلا طغض عافتراب اهطابترا مييقتو ،صرم ،ةرهاقلا
+نم اًكراشم 984 ةساردلا تمضو .ةرهاقلا في ةمخضلا ةيئاوشعلا قطانلما ىدحإ ،صران ةيشنم ةقطنم في ينكس يدوقنع حسم يرجأ ُ :ثحبلا قرط
+STEPS
+كلاهتساو ،ينخدتلا راشتنا ىوتسم ديدحتل ةيراسلا يرغ ضارملأا رطخ لماوع دصرت في ةيلماعلا ةحصلا ةمظنلم ةادأ تمدختُساو .ينغلابلا
+.مدلا طغض عافتراو ،يركسلا ءادب ةباصلإاو ،نيدبلا طاشنلاو ،ةنادبلا/نزولا ةدايزو ،ضرلخا/ةهكافلا
+ُ
+ةباصلإاو ،نيدبلا طاشنلا ةلقو ،ضرلخا/ةهكافلا كلاهتسا مدعو ،ينخدتلاب ةنيعلا دارفأ نم %8.7و %98.4و %92.2و %43.4 دافأ :جئاتنلا
+ينكراشلما مظعم ىدبأو .بيتترلا لىع %73.0و %31.2 ةنادبلا/نزولا ةدايزو مدلا طغض عافترا راشتنا ىوتسم غلبو .بيتترلا لىع يركسلاب
+،اًضفخنم اًيندب اًطاشن نولذبيو ،نونخدي لاجرلا نم ةياغلل ةعفترم ةبسن نأ ينّ بتو .ةيبلقلا ةيئاعولا ضارملأل رثكأ وأ رطخ لماوع 3 )%83.8(
+ةئفلا في نسلاب مدقتلا :نم لكب ةيئاصحإ ةللاد وذ اًطابترا مدلا طغض عافترا طبتراو .ةددعتم رطخ لماوعل نوضرعمو ،يركسلاب نوباصمو
+OR CI OR ≥ CI OR
+( نزولا ةدايزو ،)23.26-6.71 : %95 ،12.5 = ( ةنس 50 و ،)5.58-1.66 : %95 ،3.04 = ( ةنس 50-30 ةيرمعلا
+OR CI OR CI
+،1.88 = ( ضرلخا/ةهكافلا كلاهتسا ضافخناو ،)3.35-1.49 : %95 ،2.23 = ( ةنادبلاو ،)62.35-1.0 : %95 ،1.58 =
+CI OR CI
+.)2.92-1.08 : %95 ،1.77 = ( يركسلا ءادو ،)3.48-1.02 : %95
+نم مهيرغب ةنراقم ةيبلقلا ةيئاعولا ضارملأا رطاخلم مهضرعت ىوتسم عافترا عم صران ةيشنم في ةيضرلحا تايئاوشعلا ونطاق نياعي :تاجاتنتسلاا
+.ةيبلقلا ةيئاعولا ضارملأاب مهتباصإ رطامخ نم دلحاو متهايح طمانأ ينستح لجأ نم يربادت ذاتخا مزليو .صرم في ناكسلا
+References
+1. Global status report on noncommunicable diseases 2010. Geneva: World Health Organization; 2011.
+2. Global health risks: mortality and burden of disease attributable to selected major risks. Geneva: World Health Organization;
+2009.
+3. WHO STEPS chronic disease risk factor surveillance. Egypt STEPS Survey 2011–2012. Fact Sheet 6-3C-1 (www.who.int/chp/
+steps/2011-2012_Egypt_FactSheet.pdf, accessed 30 January 2018).
+4. Hernández AV, Pasupuleti V, Deshpande A, Bernabé-Ortiz A, Miranda JJ. Effect of rural-to-urban within-country migration on
+cardiovascular risk factors in low- and middle-income countries: a systematic review. Heart. 2012 Feb;98(3):185–94. https://doi.
+org/10.1136/heartjnl-2011-300599 PMID:21917659
+5. Joshi MD, Ayah R, Njau EK, Wanjiru R, Kayima JK, Njeru EK, et al. Prevalence of hypertension and associated cardiovascular
+risk factors in an urban slum in Nairobi, Kenya: a population-based survey. BMC Public Health. 2014 11 18;14(1):1177. https://doi.
+org/10.1186/1471-2458-14-1177 PMID:25407513
+6. Oli N, Vaidya A, Thapa G. Behavioural risk factors of noncommunicable diseases among Nepalese urban poor: a descriptive
+study from a slum area of Kathmandu. Epidemiol Res Int. 2013; 2013. https://doi.org/10.1155/2013/329156
+7. Haregu TN, Oti S, Egondi T, Kyobutungi C. Co-occurrence of behavioral risk factors of common non-communicable diseases
+among urban slum dwellers in Nairobi, Kenya. Glob Health Action. 2015 09 16;8(1):28697. https://doi.org/10.3402/gha.v8.28697
+PMID:26385542
+441
+Research article EMHJ – Vol. 24 No. 5 – 2018
+8. Singh R, Mukherjee M, Kumar R, Singh R, Pa R. Study of risk factors of coronary heart disease in urban slums of Patna. Nepal J
+Epidemiol. 2012;2:205–12.
+9. Lavanya KM, Thomas V, Rao N. Usha Rani.K.M. Cardiovascular risk factors among adults: a cross-sectional study in urban slums
+of Hyderabad, Andhra Pradesh, India. Int J Med Health Sci. 2014;4(3):272–7.
+10. Piffero E. Beyond rules and regulations: the growth of informal Cairo. In: Kipper R, Fischer M, Eds. Cairo’s informal areas
+between urban challenges and hidden potentials. Cairo: GTZ Egypt; 2009 (www.citiesalliance.org/sites/citiesalliance.org/files/
+CA_Docs/resources/Cairo's%20Informal%20Areas%20Between%20Urban%20Challenges%20and%20Hidden%20Potentials/
+CairosInformalAreas_fulltext.pdf, accessed 30 January 2018).
+11. World Health Organization. Noncommunicable diseases and their risk factors. The STEPS Instrument and Support Materials.
+THE STEPS INSTRUMENT. (www.who.int/chp/steps/instrument/en/, accessed 30 January 2018).
+12. Pickering TG, Hall JE, Appel LJ, Falkner BE, Graves J, Hill MN, et al.; Subcommittee of Professional and Public Education of the
+American Heart Association Council on High Blood Pressure Research. Recommendations for blood pressure measurement
+in humans and experimental animals: Part 1: blood pressure measurement in humans: a statement for professionals from
+the Subcommittee of Professional and Public Education of the American Heart Association Council on High Blood Pressure
+Research. Hypertension. 2005 Jan;45(1):142–61. https://doi.org/10.1161/01.HYP.0000150859.47929.8e PMID:15611362
+13. SPSS statistics for Windows, version 17.0. Chicago: SPSS Inc.; 2008.
+14. Global recommendations on physical activity for health. Geneva: World Health Organization; 2010.
+15. Ministry of Health and Population (Egypt), El-Zanaty and Associates (Egypt), and ICF International. Egypt Health Issues Survey
+2015. Cairo, Egypt and Rockville, Maryland, USA: Ministry of Health and Population and ICF International; 2015.
+16. Mowafi M, Khadr Z, Kawachi I, Subramanian SV, Hill A, Bennett GG. Socioeconomic status and obesity in Cairo, Egypt: a heavy
+burden for all. J Epidemiol Glob Health. 2014 Mar;4(1):13–21. https://doi.org/10.1016/j.jegh.2013.09.001 PMID:24534331
+17. Kilpi F, Webber L, Musaigner A, Aitsi-Selmi A, Marsh T, Rtveladze K, et al. Alarming predictions for obesity and
+non-communicable diseases in the Middle East. Public Health Nutr. 2014 May;17(5):1078–86. https://doi.org/10.1017/
+S1368980013000840 PMID:23642403
+18. Connolly V, Unwin N, Sherriff P, Bilous R, Kelly W. Diabetes prevalence and socioeconomic status: a population based study
+showing increased prevalence of type 2 diabetes mellitus in deprived areas. J Epidemiol Community Health. 2000 Mar;54(3):173–
+7. https://doi.org/10.1136/jech.54.3.173 PMID:10746110
+19. Ezeamama AE, Viali S, Tuitele J, McGarvey ST. The influence of socioeconomic factors on cardiovascular disease risk factors in
+the context of economic development in the Samoan archipelago. Soc Sci Med. 2006 Nov;63(10):2533–45. https://doi.org/10.1016/j.
+socscimed.2006.06.023 PMID:16876925
+20. Abd Elaziz KM, Dewedar SA, Sabbour S, El Gafaary MM, Marzouk DM, Aboul Fotouh A, et al. Screening for hypertension among
+adults: community outreach in Cairo, Egypt. J Public Health (Oxf). 2015 Dec;37(4):701–6. PMID:25355687
+21. Boutayeb A, Boutayeb S, Boutayeb W. Multi-morbidity of noncommunicable diseases and equity in WHO Eastern
+Mediterranean countries. Int J Equity Health. 2013 08 20;12(1):60. https://doi.org/10.1186/1475-9276-12-60 PMID:23961989
+22. Cheung BM, Li C. Diabetes and hypertension: is there a common metabolic pathway? Curr Atheroscler Rep. 2012 Apr;14(2):160–6.
+https://doi.org/10.1007/s11883-012-0227-2 PMID:22281657
+23. American Heart Association. Know your risk for high blood pressure. (heart.org/HEARTORG/Conditions/HighBloodPressure/
+Understand-Your-Risk-for-High-Blood-Pressure_UCM_002052_Article.jsp, accessed 30 January 2018).
+24. Boeing H, Bechthold A, Bub A, Ellinger S, Haller D, Kroke A, et al. Critical review: vegetables and fruit in the prevention of
+chronic diseases. Eur J Nutr. 2012 Sep;51(6):637–63. https://doi.org/10.1007/s00394-012-0380-y PMID:22684631
+25. Primatesta P, Falaschetti E, Gupta S, Marmot MG, Poulter NR. Association between smoking and blood pressure: evidence from
+the health survey for England. Hypertension. 2001 Feb;37(2):187–93. https://doi.org/10.1161/01.HYP.37.2.187 PMID:11230269
+26. Kaplan NM. Smoking and hypertension. UpToDate; 2015 (www.uptodate.com/contents/smoking-and-hypertension, accessed 30
+January 2018).
+27. Mahmud A, Feely J. Effect of smoking on arterial stiffness and pulse pressure amplification. Hypertension. 2003 Jan;41(1):183–7.
+https://doi.org/10.1161/01.HYP.0000047464.66901.60 PMID:12511550
+28. Virdis A, Giannarelli C, Neves MF, Taddei S, Ghiadoni L. Cigarette smoking and hypertension. Curr Pharm Des. 2010;16(23):2518–
+25. https://doi.org/10.2174/138161210792062920 PMID:20550499
+29. Doumas M, Papademetriou V, Faselis C, Kokkinos P. Gender differences in hypertension: myths and reality. Curr Hypertens Rep.
+2013 Aug;15(4):321–30. https://doi.org/10.1007/s11906-013-0359-y PMID:23749317
+30. Huai P, Xun H, Reilly KH, Wang Y, Ma W, Xi B. Physical activity and risk of hypertension: a meta-analysis of prospective cohort
+studies. Hypertension. 2013 Dec;62(6):1021–6. https://doi.org/10.1161/HYPERTENSIONAHA.113.01965 PMID:24082054
+442

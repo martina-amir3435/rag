@@ -1,0 +1,926 @@
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+Feingold KR, Adler RA, Ahmed SF, et al., editors. Endotext [Internet]. South Dartmouth (MA): MDText.com, Inc.; 2000-.
+Diabetes Management During Ramadan
+Shehla Shaikh, MBBS, MD, DM
+Department of Endocrinology, Saifee Hospital Mumbai, India
+Email: drshehla@rediffmail.com
+Ali Latheef, MBBS, MD
+Department of Endocrinology, Newlife endocrine Center Lucknow, India
+Email: saqibkhan710@gmail.com
+Syed Mohammed Razi, MBBS, MD, DM
+Director, National Diabetes Centre, Indira Gandhi Memorial Hospital, Male, Maldives
+Email: latheef@dhoonihuraa.com
+Saqib Ahmad Khan, MBBS, MD, DM, MRCP, SCE (UK)
+Department of Endocrinology, Sri Sai Hospital, Moradabad, India
+Email: syedrazi1983@gmail.com
+Rakesh Sahay, MBBS, MD, DM
+Department of Endocrinology, Osmania Medical College, Hyderabad, India
+Email: sahayrk@gmail.com
+Corresponding author.
+Sanjay Kalra, MBBS, MD, DM
+Department of Endocrinology, Bharti Hospital, Karnal, India
+Email: brideknl@gmail.com
+Last Update: May 18, 2022.
+ABSTRACT
+Muslims contribute to 25% of the world population and majority of them reside in the diabetes and obesity endemic
+Asia-Pacific region. Fasting during Ramadan is one of the five pillars of Islam and an obligatory duty for all healthy
+adolescents and adult Muslims. However, Islam exempts the ill and pregnant women from fasting. Despite this, many
+individuals with diabetes who are at high risk from fasting, fast during Ramadan. Individuals fasting during Ramadan
+are less likely to see their physicians before starting the fast and more likely to fast against medical advice. Hence,
+these individuals are at increased risk of hyperglycemia, hypoglycemia, and cardiovascular and renal complications.
+Management of diabetes during Ramadan needs a comprehensive and integrated planning and dissemination of
+knowledge through the healthcare providers and Muslim religious leaders. Diabetes care should start in the pre-
+Ramadan period, continue through Ramadan, and follow-up in the post-Ramadan period. For complete coverage of all
+related areas of Endocrinology, please visit our on-line FREE web-text, WWW.ENDOTEXT.ORG.
+INTRODUCTION
+Muslims contribute to approximately 25% of world population and are distributed across >200 countries across the
+globe (1,2). Of this, 61.7% of Muslims live in Asia-Pacific region, which is also a region experiencing the diabetes
+epidemic (3,4).
+Ramadan is the 9th holy month of the Islamic lunar calendar. Fasting during Ramadan is one of the five pillars of
+Islam (5). Fasting during Ramadan is an obligatory duty for all healthy adolescents and adult Muslims aimed at
+spiritual and holistic wellbeing of the individual (1,5). The Holy Quran exempts the sick, medically unfit, or those
+traveling from fasting during the holy month (1,5).
+Fasting during Ramadan involves complete abstinence from food, medication, drink (including water), or any other
+form of nutrition (including via a percutaneous endoscopic gastrostomy tube) from dawn to sunset (1, 2, 6). The
+fasting during Ramadan is a type of intermittent fasting as it is observed for 10–21 hours depending on the
+geographical location and solar season and is observed daily for 29–30 consecutive days (1, 2). Individuals fasting
+during Ramadan take two main meals, Suhoor (pre-dawn meal) and Iftar (post sunset meal) and eat nothing from
+sunrise to sunset (1, 2, 6).
+It is estimated that about 79% of Muslims with type 2 diabetes (T2D) and about 43% of them with type 1 diabetes
+(T1D) fast during Ramadan (7). Of those who fast during Ramadan, 64% fasted every day, and 94.2% fasted for at
+least 15 days (8). The medication timings of these individuals with diabetes need to be adjusted to pre-dawn and post-
+sunset timings (1,2). Also, many of these individuals fast against medical advice (9, 10).
+Since a huge proportion of individuals with diabetes fast during Ramadan, and many are at risk due to fasting,
+management of diabetes during Ramadan and proper fasting guidance is critical (1,2).
+EFFECTS OF FASTING DURING RAMADAM
+Physiological Changes
+Fasting during Ramadan is associated with a number of physiological changes.
+CHANGES IN FEEDING PATTERNS AND ENERGY INTAKE
+Ramadan fasting differs from other forms of fasting as there is no consumption of any food or drink between dawn
+and sunset. Hence, the timing between the meals is very long, and this disrupts the normal physiology with disruption
+in the normal rhythm and fluctuations seen in various homeostasis and endocrine processes (Figure 1). Major changes
+occur in glucose homeostasis in individuals with diabetes that results in post Iftar hyperglycemia and risk of
+hypoglycemia during the day (Figures 2 and 3)
+Figure 1.
+Changes in feeding patterns and energy intake during various fasting periods (11, 12). (I) normal feeding, (II)
+Ramadan fasting and (III) prolonged fasting and starvation.
+Figure 2.
+Mean continuous glucose monitoring (CGM) profiles from healthy individuals (12, 13).
+Figure 3.
+Mean continuous glucose monitoring (CGM) profiles from individuals with diabetes fasting during Ramadan (12,
+13).
+DECREASE IN TOTAL SLEEP TIME
+Total sleep time decreases by approximately 1 hour, with a decrease in sleep period time, rapid eye movement (REM)
+sleep proportion and duration. Additionally, delayed sleep and an increase in non-REM sleep proportion, sleep
+latency, and daytime sleepiness by1-point on the Epworth sleepiness scale is also observed (ESS) (12).
+ALTERATION OF CIRCADIAN RHYTHM AND HORMONE LEVELS
+Sudden alteration of circadian rhythm and hormone levels occurs due to sudden changes in sleep and wake cycles and
+feeding patterns. Fasting can induce epigenetic changes in genes that control the circadian rhythm (12). The change in
+circadian rhythm triggers many catametabolic changes, alteration in temperature, and changes in the normal rhythm of
+hormones like insulin, glucagon, leptin, ghrelin, cortisol, melatonin, growth hormone, and testosterone (12,14). The
+various changes seen are:
+1. Insulin resistance and increased glucagon levels: excessive glycogen breakdown and increased gluconeogenesis
+2.
+Cortisol circadian rhythm shows a shift with a blunting of the morning to evening ratio. However, serum cortisol
+levels do not change by end of Ramadan month.
+3. Morning adiponectin levels are reduced
+4. Morning and evening growth hormone levels are reduced
+5. Large increases in morning leptin levels
+6. No major shifts in diurnal ghrelin level
+By the end of Ramadan significant decrease in serum levels of ghrelin, leptin, and melatonin are observed along with
+modest reductions in testosterone in men.
+SHIFT IN FLUID BALANCE
+A sudden shift in fluid balance is seen because of an absolute restriction of fluid intake between dawn and sunset. This
+may precipitate dehydration in a hot climate which may in turn cause hypotension and falls (6). Uncontrolled
+hyperglycemia can exacerbate the dehydration due to an osmotic diuresis (6). Dehydration in individuals with T2D
+can present as low blood pressure, lethargy, or syncope. Dehydration can also increase the risk of thrombosis and
+stroke due to hemoconcentration and hypercoagulability (6). Other fluid related changes are not considered a major
+cause of concern and include higher fluid and total water intake between sunset and dawn; urine osmolality increases
+significantly in the afternoon to conserve water and reduce urine output (12).
+ALTERED ENERGY BALANCE
+Altered energy balance is seen due to a sudden increase in food intake at Iftar. During Ramadan there is a reduction in
+activity and energy expenditure which is offset by the reduced time spent during sleep (12).
+GUT MICROBIOTA
+Intermittent fasting during Ramadan can have direct impact on the gut microbiota which could lead to positive
+changes in health (12).
+LIPID CHANGES
+Fasting during Ramadan has been shown to be associated with a significant increase in high-density lipoprotein-
+cholesterol (HDL-C) and a significant decrease in total triglycerides, total cholesterol, and low-density lipoprotein-
+cholesterol (LDL-C) (6, 15).
+Physical and Mental Wellbeing
+Fasting during Ramadan can have both positive and negative effects on the physical and mental wellbeing of the
+individuals (Table 1) (16).
+Table 1.
+Positive and Negative Effects on Physical and Mental Wellbeing of Individuals Fasting During Ramadan (16).
+Positive benefits Negative effects
+Sense of fulfilment Sleep deprivation and disruption of circadian rhythm leading
+to an increase in fatigue and reduction in cognition
+More lethargy
+Positive benefits Negative effects
+Improvements in: Glucose excursions causing feelings of being unwell
+Weight and BMI
+Self-control and ability to resist temptations
+Greater sense of: Heightened feelings of fear for diabetes related complications
+Empathy for less fortunate
+Community
+Fostering relationships
+Participation in Sunnah practices for greater spiritual Temporary changes in weight
+benefits
+Reducing potentially harmful vices, such as smoking, Short term feelings of stress anxiety, irritability, and agitation
+for greater physical and mental wellbeing
+BMI- body mass index
+The month long fasting during Ramadan has been associated with significant reduction in weight, waist
+circumference, and fat mass, especially in those who are overweight or obese (15, 17).
+RISKS OF FASTING DURING RAMADAN IN INDIVIDUALS WITH DIABETES
+The various risks of fasting in individuals with diabetes who fast during Ramadan are:
+1. Hyperglycemia
+2. Hypoglycemia
+3. Macrovascular: Cardiovascular disease (CVD) including stroke
+4. Microvascular: Chronic kidney disease (CKD)
+5. Dehydration
+Dual Risk of Hyperglycemia and Hypoglycemia
+In people with diabetes fasting during Ramadan there can be an increase in glucose variability and therefore there is
+increased risk of both hyperglycemia and hypoglycemia (12).
+HYPERGLYCEMIA
+The meals at Iftar are calorie dense and can cause a significant and rapid rise in blood glucose (BG) levels in people
+with diabetes (12). The EPIDIAR study showed that the hospitalization rate for severe hyperglycemia during
+Ramadan increased significantly in individuals with T2D (P<0.001). The hospitalization rate for severe
+hyperglycemia (with or without ketoacidosis) during Ramadan increased insignificantly for individuals with T1D (P =
+0.1635) (6,7).
+HYPOGLYCEMIA
+The CREED study showed that hypoglycemia incidence before Ramadan was associated with significantly increased
+risk of hypoglycemia during Ramadan (18). This association between hypoglycemia incidence before and during
+7
+Ramadan has been seen through multiple studies across continents (1,18,19). Similarly, the EPIDAR study showed
+that T1D and T2D patients had a 4.7-fold and a 7.5-fold increase, respectively, in severe hypoglycemia requiring
+hospitalization during Ramadan. Hypoglycemia during Ramadan was significantly associated with the use of
+sulfonylureas and insulin (18,19). Severe and non-severe hypoglycemia rates are fewer with second-generation
+sulfonylureas, Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), insulin analogues, and sodium-glucose
+transporter-2 (SGLT-2) inhibitors (20-25). During the early Ramadan period, patients on sulfonylureas and those on
+≥2 antidiabetic medications have significant increase in mean amplitude of glycemic excursions (26).
+Other factors influencing the incidence of hypoglycemia during Ramadan include season, geographical location,
+fasting duration, time since diagnosis, gender, anthropometric measures, dietary behaviors, and pre-fasting education
+(1).
+Macrovascular (Cardiovascular and Cerebrovascular) and Microvascular Risk (Renal
+Complications)
+Diabetes increases the risk of CVD and stroke, and individuals with diabetes who have pre-existing CVD or stroke are
+at greater risk of complications when fasting (27). Individuals with unstable CVD or stroke are also at very high risk
+from fasting. Individuals with diabetes and CKD stage 3 are at high-risk from fasting while those with stage 4-5 are at
+very high risk from fasting during Ramadan (27). Patients on dialysis or those who had a kidney transplant are also
+considered high risk from fasting (27).
+Factors associated with increased risk of fasting during Ramadan are high carbohydrate intake, inadequate hydration,
+high activity levels, poor sleeping patterns, and missing doses of essential medicines (27).
+All these high to very high-risk individuals should be discouraged from fasting. If they still decide to fast, then pre-
+Ramadan assessment and education and monitoring during Ramadan and post-Ramadan should be carried out under
+the expert guidance of a multidisciplinary team (diabetologist, cardiologist, neurologist, nephrologist, nutritionist etc.)
+(27). Weekly monitoring during Ramadan by a health care provider should be encouraged.
+Pre-Ramadan assessment and education should begin three months prior to Ramadan and all efforts should be made to
+stabilize the doses of the various drugs, adjust them to morning and evening dose, and those on insulin should be
+taught self-titration of dose based on SMBG (27).
+Patients with CKD, on dialysis or those who had a kidney transplant should be encouraged to routinely monitor
+electrolytes and creatinine at various time-points during Ramadan (27). A diet rich in potassium and phosphorus
+should be avoided (27).
+MANAGEMENT OF DIABETES DURING RAMADAN
+5. R's of Ramadan Care
+The management of diabetes during Ramadan and in general can be summarized under the mnemonic termed as the 5
+R's of Ramadan care (Table 2).
+Table 2.
+The 5 R's of Ramadan Care (28)
+The 5 R Significance
+Respect Respect the patient's attitudes, wishes, and needs, and consider these while planning therapy
+Speak with the patient with empathy for his religious beliefs
+Risk stratification This is an essential backbone for pre-Ramadan counseling
+Revision of Therapy Diabetes therapy will need to be revised based on risk of hyperglycemia and hypoglycemia,
+and other risk factors
+The 5 R Significance
+Regular Follow Up Regular follow-up with HCP before, during and after Ramadan is necessary to ensure a safe
+and healthy fasting experience
+Reappraisal of Diabetes is a dynamic condition, and constant reappraisal is required during the current and
+Strategy next fasting period
+HCP- health care provider
+Pre-Ramadan Management of Diabetes
+DM management in people planning to fast during Ramadan should ideally start six to eight or maximum 12 weeks
+before the first day of fasting (6, 29). Diabetes assessment and plan of care pre-Ramadan should ideally follow the
+flow chart shown in Figure 4 (6, 29).
+Figure 4.
+Diabetes assessment and plan of care pre-, during and post Ramadan (6, 29)
+Patient education during this time-period is necessary because many patients follow a self-management approach of
+diabetes during Ramadan and do not appreciate the risks and implications of fasting on DM and its medications, and
+fast against medical advice (6, 19). Physicians need to be sensitized about this time-period for their Muslim patients
+as many may not realize the religious sensitivities associated with DM management during Ramadan (6).
+PRE-RAMADAN EDUCATION
+The pre-Ramadan diabetes education should cover:
+Risk quantification, exemptions, and removing misconceptions.
+Blood glucose monitoring
+Fluids and dietary advice
+Physical activity and exercise advice
+Medication adjustment
+When to break the fast
+Recognition of hypoglycemia and hyperglycemia symptoms
+RISK STRATIFICATION OF PEOPLE WITH DIABETES
+The pre-Ramadan time period should be used to understand the individual’s risks associated with fasting, and develop
+an individualized treatment plan for the individual who falls in the lower risk category and can fast. The risk
+stratification is done based on several factors (6, 9, 10):
+Type and duration of diabetes
+DM treatment regime and polypharmacy with multiple glucose lowering drugs
+Level of glycemic control
+Risk or occurrence of hypoglycemia
+DM self-management capability including hypoglycemia awareness, motivation for self-monitoring blood
+glucose (SMBG), frailty, and cognition
+DM complications and comorbidities
+Ongoing/recent severe illness
+Renal impairment
+Social determinants affecting assess and adherence to treatment including economic and education level
+For those with T1D: access to continuous glucose monitoring (CGM) and advanced insulin technologies
+The IDF-DAR Practical Guidelines 2021 stratify the individuals with DM who are going to fast during Ramadan into
+three risk categories, low, moderate and high (Figure 5) (29).
+Figure 5.
+IDF-DAR 2021 Ramadan risk score and risk categories for fasting (2, 30)
+DM patients who had a history of severe hypoglycemia ≤3 months before Ramadan, recurrent hypoglycemia, or of
+hypoglycemia unawareness are considered high risk (31). Young individuals and adolescents start fasting during
+Ramadan with the onset of puberty, and those with T1D are considered to be high risk for fasting and generally
+discouraged from fasting (9).
+Many DM patients may need to be upgraded to high-risk category during the current coronavirus-2019 (COVID-19)
+pandemic and thus likely to fall under the ‘advised not to fast’ risk category (6).
+Patients with high-risk scores are advised not to fast as fasting is not considered safe for these individuals (29).
+However, since fasting during Ramadan is a personal choice, the individuals deciding to fast despite being cautioned
+against it, should be monitored very closely during and after Ramadan (6, 19).
+Individuals with low and moderate risk scores are educated about the risks and advised to fast with strict BG
+monitoring, and adjustments to diet/nutrition and medications (29). The individuals are closely monitored during
+Ramadan by their health care providers (HCPs) and advised to come for a post Ramadan follow-up. At this follow-up
+visit, the HCPs asses the glycemic control, and discuss the challenges faced to make the next Ramadan fasting more
+risk free. Pre-Ramadan risk assessment, education and advise is known to improve the fasting experience of
+individuals with DM (6).
+Blood Glucose Monitoring
+Self-monitoring blood glucose (SMBG) should be stressed upon and encouraged. Moderate to low-risk individuals
+with diabetes can monitor their BG once or twice daily but those at high risk of fasting should be encouraged to
+follow a 7-time-point guide for SMBG during Ramadan (Figure 6) (29). Additional BG check should be done if the
+individual experiences symptoms of hypoglycemia, hyperglycemia, or feel unwell (29).
+Figure 6.
+A seven time-point blood glucose monitoring guide for people with diabetes fasting during Ramadan (29)
+Fluids and Dietary Advice
+Detailed diet plan for Ramadan is provided through Ramadan specific medical nutrition therapy (MNT) and Ramadan
+Nutrition Plan (RNP) (29,32). Adequate fluid intake should be encouraged between sunset and dawn.
+Physical Activity and Exercise Advice
+Individuals with diabetes who are fasting should be encouraged to carry out their normal physical activity (29).
+Taraweeh prayers, which involve activities such as bowing, kneeling, and rising, can be considered as part of daily
+exercise activities (29). Rigorous exercise/activity during the fasting period should be avoided as this can increase the
+risk of hypoglycemia and dehydration, especially during the last few hours of fasting (29).
+Medication Adjustment
+All medications (diabetes and non-diabetes) should be reviewed in the pre-Ramadan period to see which medications
+need a dose and time adjustment. The change should be made well before Ramadan and monitored through
+appropriate clinical and laboratory evaluation (29). Patients on insulin should be taught self-titration of units based on
+SMBG values (10).
+When to Break the Fast
+This is an essential component of Pre-Ramadan education. All individuals with diabetes who are fasting during
+Ramadan should be advised to break their fast if:
+Blood glucose <70 mg/dL (3.9 mmol/L)
+Advise to re-check within 1 hour if BG is between 70–90 mg/dL (3.9–5.0 mmol/L)
+Blood glucose >300 mg/dL (16.6mmol/L)
+Symptoms of hypoglycemia, hyperglycemia, dehydration or acute illness occur
+Recognizing Symptoms of Hypoglycemia and Hyperglycemia
+All individuals with diabetes who are fasting during Ramadan and their caregivers should be taught to recognize
+symptoms of hypoglycemia and hyperglycemia (Figure 7) (29). If they recognize these symptoms, they should be
+advised to break their fast.
+Figure 7.
+Symptoms of hypoglycemia and hyperglycemia (29)
+The Medico-Religious Interplay in Ramadan
+Muslims believe that Ramadan is a blessed month, and see fasting during the holy month of Ramadan as a deeply
+meaningful and spiritual experience (1, 30). A significant number of individuals with diabetes fast during Ramadan,
+even against medical advice and despite the religious exemptions available to the sick (1, 30, 33). This population also
+includes adolescents with T1D, who fast against medical advice (9). Individuals with diabetes who fast during
+Ramadan are more likely to avoid consulting their doctors (12).
+International Diabetes Federation (IDF) and Diabetes and Ramadan (DAR) International Alliance collaborated to
+form the IDF-DAR Practical Guidelines 2021 to help healthcare providers (HCPs) better manage diabetes in patients
+fasting during the month-long holy period of Ramadan (2).
+It is important to make these individuals with diabetes who cannot fast due to their medical condition understand that
+they are equally blessed even if they do not fast (30). Many individuals with diabetes who fast prefer to take fasting
+related advice from their holy leader (Imam). Hence, the right message and education should be disseminated by both
+the HCPs and the religious leaders (Table 3) (30). HCPs should avoid medical jargons, and counsel patients from a
+religious standpoint; and religious leaders should integrate into their counseling the value and significance of
+exemptions in context with the medical advice.
+Table 3.
+Medical and Religious Risk Score Recommendations (30)
+Risk score Medical recommendations Religious recommendations
+LOW RISK Fasting is probably safe.
+1. Fasting is obligatory
+0-3 points Ensure
+2. Advice not to fast is not allowed except if patient
+1. Medical Evaluation
+2. Medication adjustment is unable to fast due to:
+3. Strict monitoring
+Physical burden of fasting
+Has to take medication or food or drink during the fasting
+hours on medical advice
+MODERATE Fasting safety is uncertain
+1. Fasting is preferred but patients may choose
+RISK Ensure:
+3.5-6 points
+1. Medical Evaluation not to fast if they are concerned about their
+health after consulting the doctor and taking
+2. Medication adjustment
+into account the full medical circumstances
+3. Strict monitoring and patient’s own previous experiences
+2. If the patient does fast, they must follow
+medical recommendations including regular blood glucose
+monitoring
+HIGH RISK Fasting is probably unsafe Advise against fasting
+>6 points
+Medical Nutrition Therapy (MNT) and Ramadan Nutrition Plan (RNP) for People with Diabetes
+MNT is an essential component of diabetes management and includes both meal plans and diabetes education, aimed
+at improving lifestyle and diabetes related behavior (4). MNT helps achieve the desired glycemic control and helps
+the overweight and obese individuals with T2D improve their lifestyle and lose weight (4). MNT should be
+appropriate and accurate for the patient’s age, comorbidities, lifestyle requirements, and other medical needs. MNT
+should be easily absorbed; affordable, easily accessible, acceptable (through right aroma and consider taste
+preferences), and attractive (visually appealing) (4). This improves adherence to the MNT (4).
+An MNT plan for individuals with diabetes is essential for safe fasting during Ramadan (32). Structured Ramadan-
+specific MNT (34) has shown to improve fasting BG and triglyceride levels and pre-dawn and pre-bed SMBG values
+compared to patients with T2D receiving standard care (34).
+Structured Ramadan-specific MNT includes (32, 34):
+1. Pre-Ramadan nutrition education
+2. Individualized energy and balanced macronutrient prescriptions for non-fasting period (sunset to sunrise) to
+prevent hypoglycemia during fasting state
+3. Well distributed carbohydrate intake to prevent post meal hyperglycemia
+4. At least one serving/day of diabetes-specific formula to be taken during Suhoor and/or pre-bed snack.
+5. Diet plan should consider other comorbidities.
+6. Ramadan toolkits:
+Ramadan flip chart
+14-day menu plan
+Ramadan Nutrition Plate (RNP)
+Festive season nutrition plan (Syawal nutrition plan)
+RNP “is a mobile and web-based application designed to help healthcare professionals (HCPs) individualize medical
+nutrition therapy (MNT) for people with diabetes” who are fasting during Ramadan (32). A well designed and
+customized RNP is a prerequisite to safe and confident fasting during Ramadan (32). Apart from nutrition, the
+platform also provides education regarding safe fasting during Ramadan. It helps individuals to safely fast who have
+no access to HCPs during Ramadan. Several RNPs have been developed for different countries to suit their regional
+customs, beliefs, and preferences. HCPs can use their country specific RNP, Ramadan Nutrition plate, and well-
+balanced meal (Table 4) (4, 32) as a guide to individualize the MNT during Ramadan (32).
+Table 4.
+Macronutrient Meal Composition for Ramadan (4, 32)
+Macronutrient Recommended amount Recommended sources Sources not
+recommended
+Carbohydrate ≤130 g/day Low glycemic index and Foods rich in sugar, refined
+Accounts for 40-45% of total caloric glycemic load carbohydrates: carbohydrate, processed
+intake whole grains, legumes, grains, or starchy foods:
+Adjust as per cultural setting and pulses, temperate fruits, green sugary beverages,
+individual preferences salad, and most vegetables traditional desserts, white
+rice, white bread, low fiber
+Meal Calorie% Carbohydrate
+cereal, and white potatoes
+exchange*
+Suhoor 30-40 3-5
+Iftar snack 10-20 1-2
+Iftar meal 40-50 3-6
+Healthy 10-20 1-2
+snack (if
+required)
+Fiber 20-35g/day (or 14g /1000 kcal) High fiber foods: unprocessed -
+food, vegetables, fruits, seeds,
+pulses, and legumes
+Fiber helps to provide satiety
+during Iftar and to delay
+hunger after Suhoor
+Protein ≥1.2g/kg of adjusted body weight Fish, skinless poultry, milk Protein with a high
+Accounts for 20-30% of the total and dairy products, nuts, saturated fat content such
+caloric intake. seeds, and legumes (beans), as red meat (beef, lamb)
+Protein enhances satiety and gives low fat milk and milk and processed meats
+sensation of fullness. Also helps to products (increase CVD risk)
+maintain lean body mass
+Macronutrient Recommended amount Recommended sources Sources not
+recommended
+Lipids Between 30–35% of the total calorie Consume fat from PUFA and Minimize saturated fat,
+intake. MUFA (e.g., olive oil, including red meat (beef
+The type of fat is more important than vegetable oil, or blended oil and lamb), ghee, and foods
+the total amount of fat in reducing (PUFA and Palm oil)). Oily high in trans-fats (e.g., fast
+CVD risk. fish (e.g., such as tuna, foods, cookies, some
+Limit saturated fat to < 7%. PUFA and sardines, salmon, and margarines).
+MUFA should comprise the rest of the mackerel) as a source of
+fat intake. omega 3-fatty acids
+Limit dietary cholesterol to <
+300 mg/day or < 200 mg /day if
+LDL cholesterol > 2.6 mmol/L
+* 1 Carbohydrate exchange = 15 g Carbohydrates; CVD, cardiovascular disease; MUFA, Monounsaturated fatty acids; PUFA,
+Polyunsaturated fatty acids
+Medical Management of Diabetes During Ramadan
+Diabetes assessment and plan of care during and post Ramadan should ideally follow the flow chart shown in Figure 4
+(6,29).
+MEDICAL MANAGEMENT OF T1D DURING RAMADAN IN ADOLESCENTS AND YOUNG INDIVIDUALS
+TID is treated with insulin replacement therapy. After the Pre-Ramadan risk stratification, adjustments are made to the
+patient’s dosing, timing, and type of insulin regime based on the patient’s risk level.
+Insulin Regimens
+There is no conclusive evidence supporting efficacy and safety of a particular insulin regime over another in
+adolescents with T1D who are fasting during Ramadan. The insulin regime is therefore based on affordability, access
+to treatment (medication, specialist and advanced technology), and cultural preferences (9).
+Changing the insulin regime just before Ramdan is likely to result in dose errors and increase the risk of
+hypoglycemia. Hence, every effort should be made to continue the same regime, but with proper dose modifications
+and comprehensive counseling covering diet, lifestyle, physical activity, SMBG, and self-titration of insulin dose (10).
+The most commonly used insulin regimens in adolescents are (9):
+1. Basal-bolus regimens –multiple dose injections (MDI) adjusted according to meal (preferred option)
+2. Conventional twice daily neutral protamine Hagedorn (NPH)/regular short acting (human) insulin
+3. Continuous subcutaneous insulin infusion (CSII) with or without sensors
+4. Premixed insulins (generally not recommended for T1DM)
+Of these, MDI and CSII are closer to providing the physiological insulin secretion pattern.
+9
+Table 5 gives guidance on dose modifications of different insulin regimes. SMBG should be encouraged and the
+patients or their caregivers taught to self-titrate the insulin dose based on the BG levels (Table 6) (10).
+Table 5.
+Insulin Dose Adjustments During Ramadan (10,35)
+Insulin Dose modification Timing Glucose monitoring
+MDI (basal bolus) with Basal insulin Take at Iftar 5–7-point glucose monitoring*
+analogue insulins 30-40% dose reduction
+MDI (basal bolus) with RAI Take at Iftar 5–7-point glucose monitoring*
+analogue insulins Suhoor dose reduced 30-50% and Suhoor
+Skip pre-lunch dose Iftar dose to be
+adjusted according to the 2hr post Iftar
+BG levels
+MDI (basal bolus) with NPH insulin Take at Iftar 5–7-point glucose monitoring or
+conventional insulins No dose modification at Iftar and Suhoor 2-3 staggered readings throughout
+50% dose reduction at Suhoor the day*
+MDI (basal bolus) with Regular insulin Take at Iftar 7-point glucose monitoring or 2-3
+conventional insulins Suhoor dose reduced by 50% and Suhoor staggered readings throughout the
+Skip pre-lunch dose day*
+Iftar dose unchanged unless needs to be
+adjusted according to the 2hr post Iftar
+BG levels
+Premixed (analogue or No dose modification Take at Iftar At least 2-3 daily
+conventional) once daily Readings*
+Premixed (analogue or No dose modification at Iftar Take at Iftar At least 2-3 daily
+conventional) twice daily 50% dose reduction at Suhoor and Suhoor Readings*
+CSII / Insulin Pump Basal rate adjustment CGM
+10-30% increase for the initial few hours of Iftar
+20-40% decrease for the final 3-4 hours of fast
+Bolus doses
+Same ICR and ISF principles as followed prior to
+Ramadan
+Reduce the dose post-Suhoor by 20%
+* And whenever any symptoms of hypoglycemia/hyperglycemia develop or feeling unwell
+ICR- Insulin Carbohydrate Ratio; ISF- Insulin Sensitivity Factor; RAI- rapid analogue insulin
+Table 6.
+SMBG Guided Dose Titrations for Different Types of Insulin During Ramadan (10)
+Fasting/pre-Iftar/pre-Suhoor blood Basal insulin Short-acting insulin Premixed insulin
+glucose
+pre-Iftar pre-Iftar*/post- pre-Iftar insulin
+Suhoor** modification
+<70 mg/dL (3.9 mmol/L) or symptoms Reduce by 4 Reduce by 4 units Reduce by 4 units
+units
+Fasting/pre-Iftar/pre-Suhoor blood Basal insulin Short-acting insulin Premixed insulin
+glucose
+pre-Iftar pre-Iftar*/post- pre-Iftar insulin
+Suhoor** modification
+<90 mg/dL (5.0 mmol/L) Reduce by 2 Reduce by 2 units Reduce by 2 units
+units
+90-126 mg/dL (5.0-7.0 mmol/L) No change No change No change
+>126 mg/dL (7.0 mmol/L) Increase by 2 Increase by 2 units Increase by 2 units
+units
+>200 mg/dL (16.7 mmol/L) Increase by 4 Increase by 4 units Increase by 4 units
+units
+* Reduce the insulin dose taken before Suhoor; **Reduce the insulin dose taken before Iftar
+Recommendations for Insulin Regimes
+1. T1D management during Ramadan should be individualized according to patient’s need, preference, affordability,
+acceptability, and access to treatment (9).
+2. The basal-bolus regime is the preferred regime and consists of a long-acting insulin analogue (basal insulin) and a
+premeal rapid acting insulin analogue (bolus insulin) (9).
+3. Associated with a lower risk of hypoglycemia when compared to conventional, twice-daily, insulin regimens
+4. The bolus insulin dose should be dependent on the carbohydrate count of the meal. It should ideally be given 20
+minutes before the meal for better post-prandial BG control.
+5. Boluses covering Suhoor and Iftar should be based on Insulin Carbohydrate Ratio (ICRs) and Insulin Sensitivity
+Factor (ISFs)
+Approximately 70% of hypoglycemia occur during the last six hours of fasting. Hence, the type of basal insulin used,
+reduction in basal insulin dose and modification of insulin timing are the tools used to avoid hypoglycemia:
+1. Ramadan fasting should be started with a reduction of basal insulin-starting with 20% and individualizing up to
+40% as required
+2. Basal insulin can be administered earlier in the day to minimize insulin exposure during the last few hours of
+fasting when BG levels are low.
+3. Basal insulin can also be taken at Iftar or earlier in the evening
+4. First-generation basal insulin analogues (such as glargine U-100) are more likely to cause hypoglycemia than the
+second generation, long-acting insulin analogues (glargine U-300 and degludec). However, the choice of insulin
+should be individualized based on risk of hypoglycemia.
+5. Long-acting insulin analogues are preferred over intermediate acting (NPH/human insulin) as they provide a
+steady fall of BG towards normal levels by sunset time (9).
+6. Twice daily regimens are more likely to be associated with hyperglycemia (9).
+7. Twice daily regimens are usually not preferred during Ramadan, but if they are the only choice available to the
+patient, their timing and dose needs to be more closely monitored depending on the timing, portion size and
+carbohydrate content of meal (9).
+8. Premixed twice daily insulin regimes are not recommended during Ramadan period as they require fixed
+carbohydrate intake at fixed timing, and this may be difficult for adolescents to follow (9).
+9. There is emerging evidence that T1D patients can fast during Ramadan with fewer complications with the help of
+newer technologies such as insulin pump therapy, CGM and hybrid closed-loop systems (6).
+10. CSII with insulin pumps in adolescents help achieve the targeted glycemic control with reduction in
+hyperglycemia and severe hypoglycemia, and provides more flexibility, improved quality of life and decreased
+risk of complications like diabetic ketoacidosis (9).
+CSII allows for easier management of DM and reduces risk of complications than MDI (9)
+The basal and bolus doses are adjusted through algorithms on the pump or through sensors and mobile
+applications (in more advanced versions)
+Basal insulin is reduced by 20-35% in the last 4-5 hours before Iftar and increased by 10-30% after Iftar
+up to midnight
+Prandial insulin bolus calculation is based on usual ICR and ISR
+Bolus doses can be delivered in three different ways:
+Standard dosing: Immediately before meals
+Extended or square dosing: gradual dosing over a certain time period
+Combo or dual wave bolus: combination of standard and extended
+High fat content diet as seen during Iftar is likely to benefit from extended or combo bolus dosing (9).
+Insulin pumps augmented with CGM provide better glycemic control and reduce complications
+considerably in adolescents with T1D. These sensor-augmented pumps are of two types (9):
+Low Glucose Suspend (LGS) function pumps: The high-risk BG threshold for HE is pre-set in these
+pumps. The insulin administration can be automatically suspended for ≤2 hours when sensors detect BG
+levels below the pre-set threshold
+Predictive Low Glucose Suspend (PLGS) pumps: Insulin administration is automatically suspended before
+BG reaches hypoglycemic levels (70 mg/dL [3.9 mmol/L]).
+Automated insulin delivery (closed loop): These can suspend or increase insulin delivery based on sensor-
+based BG values. Thus, closed loops help increase time in range (TIR) and minimize hypoglycemia and
+hyperglycemia.
+Types: Hybrid closed-loop automated insulin delivery systems; Do-It-Yourself Artificial Pancreas Systems
+(DIY APS)
+However, CSII is a costly technology, has limited access in many countries, and therefore is not widely
+available due to cost and accessibility constraints (9).
+MEDICAL MANAGEMENT OF ADULTS WITH T1D DURING RAMADAN
+Patients advised to self-monitor BG at 7-time-point points: when fasting; post-breakfast; pre-lunch; post-lunch; pre-
+dinner; post dinner; and midnight (9).
+Dose adjustments for the different insulin regimes should start during the pre-Ramadan period and every attempt
+should be made to attain the desired glycemic goal but at low risk for hypoglycemia.
+Short acting insulin analogues (glulisine, lispro, or aspart) are associated with less hypoglycemia and better
+improvement in postprandial glycemia than regular insulin. Premixed insulins are generally not preferred during
+Ramadan (9).
+Table 5 provides guidance on dose modifications of different insulin regimes (9). SMBG should be encouraged and
+the patients taught to self-titrate the insulin dose based on the BG levels (Table 6) (10).
+MEDICAL MANAGEMENT OF T2D DURING RAMADAN
+Medical management of Ramadan in patients with T2D varies with wide variety of oral and injectable glucose
+lowering drugs (GLDs) used during Ramadan as shown in Table 9. Patients may be on one or more oral GLDs or a
+combination of oral and injectable GLDs.
+Table 9.
+Different Types of Glucose Lowering Drugs Used by Patients with T2D During Ramadan (1,10)
+Oral glucose lowering drugs Injectable glucose lowering drugs
+Sulfonylurea (gliclazide, glipizide, Long/intermediate basal insulins (insulin glargine, insulin detemir,
+glimepiride, glibenclamide, or glyburide) insulin degludec or NPH)
+Insulin: insulin pump, multiple daily injections, insulin lispro, insulin
+glargine, soluble human insulin, insulin detemir, and biphasic insulin
+Biguanides (Metformin) Bolus prandial rapid or short-acting insulins (lispro, glulisine, aspart or
+regular human insulin)
+Thiazolidinediones (pioglitazone) Premixed insulins (fixed ratio combinations of short and intermediate
+acting insulins)-usually not recommended during Ramadan
+DPP-4 inhibitors (sitagliptin, saxagliptin, GLP-1 RA (lixisenatide, exenatide, liraglutide, dulaglutide,
+linagliptin, alogliptin, vildagliptin) semaglutide)
+SGLT2-I (dapagliflozin, canagliflozin,
+empagliflozin, and ertugliflozin)
+Alpha-glucosidase inhibitor (acarbose,
+voglibose)
+Short-acting insulin secretagogues
+(repaglinide and nateglinide)
+Oral GLP-1 RA (semaglutide)
+DPP-4, dipeptidyl peptidase 4; GLP-1 RA, Glucagon-like peptide-1 receptor agonists (GLP-1 RAs); NPH, neutral protamine Hagedorn;
+SGLT2-I, Sodium/glucose cotransporter-2 inhibitors
+After the Pre-Ramadan risk stratification, adjustments are made to the patient’s GLDs. Some patients may need a
+change of medications too depending on their risk level. Preference is given to GLDs with better glycemic control and
+lower risk of hypoglycemia.
+Oral Glucose Lowering Drug Adjustments During Ramadan
+In general, non-sulfonylureas GLDs are superior in lowering hypoglycemia incidence than sulfonylureas (1).
+Metformin is the most commonly used first line oral GLD, and has minimal risk of hypoglycemia (10).
+Sulfonylureas are the most commonly used second line oral GLDs after metformin, especially in resource
+limited settings (10).
+Short-acting insulin secretagogues can be useful GLDs during Ramadan because of their short duration of
+action and low risk of hypoglycemia (10).
+DPP4 inhibitors are well tolerated during fasting and have a low hypoglycemia risk (10).
+SGLT2 inhibitors are the newest class of oral GLDs used in T2D. They have demonstrated effective glycemic
+control during Ramadan even in patients with cardiovascular diseases/chronic kidney disease, and have low risk
+of hypoglycemia (10, 36).
+An individual should be started on a SGLT2 inhibitor at least 2-4 weeks before Ramadan for the BG levels to
+stabilize during the fasting time.
+Of the thiazolidinediones, only pioglitazone is widely approved for T2DM, has low hypoglycemia risk, but
+clinical data on its use during Ramadan is limited (10).
+Table 10.
+Oral Glucose Lowering Drugs Used During Ramadan: Dose Modifications and Timing Adjustments in Individuals
+with Type 2 Diabetes (10)
+Oral GLD Dose modification Timing
+Metformin once daily No dose modification Take at Iftar
+Metformin twice daily No dose modification Take at Iftar and Suhoor
+Metformin thrice daily No modification to morning dose. Afternoon Take morning dose before
+dose to be combined with evening dose Suhoor and evening dose at
+Iftar
+Prolonged release metformin No dose modification Take at Iftar
+Sulfonylureas once daily Reduce dose in patients with well controlled BG Take at Iftar
+levels
+Sulfonylureas twice daily In patients with well controlled BG levels Iftar Take at Iftar
+dose remains the same. Suhoor dose is reduced
+Older sulfonylureas (e.g., Avoid and replace with 2nd generation SUs such as glicazide, glicazide MR, and
+glibenclamide) glimepiride
+Short-acting insulin Reduce or re-distribute to two doses Take before Iftar and Suhoor
+secretagogues thrice daily dosing
+DPP4 inhibitor once daily No dose modification Take at Iftar
+DPP4 inhibitor twice daily No dose modification Take at Iftar and Suhoor
+(vildagliptin)
+SGLT2 inhibitors No dose modification Take at Iftar
+Thiazolidinedione No dose modification Take at Iftar
+BG, blood glucose; DPP-4, dipeptidyl peptidase 4; MR, modified release; SGLT2-I, Sodium/glucose cotransporter-2 inhibitors; SU,
+sulfonylurea
+Injectable Glucose Lowering Drug Adjustments During Ramadan
+Most patients with long-standing T2D eventually need insulin to manage their BG levels. Various insulin
+regimes are used in T2D (table 9) (1, 10) and in general, the use of insulin increases the risk of hypoglycemia
+during Ramadan.
+Insulin can be given as single daily injection, MDI or as CSII through insulin pumps. The insulin regime is
+therefore based on affordability, access to treatment (medication, specialist and advanced technology), and
+cultural preferences (9).
+Changing the insulin regime just before Ramdan is likely to result in dose errors and increase risk of
+hypoglycemia. Hence, every effort should be made to continue the same regime, but with proper dose
+modifications and comprehensive counseling covering diet, lifestyle, physical activity, SMBG, and self-titration
+of insulin dose (10).
+Table 5 shows the various insulins and how their doses and timing are adjusted during Ramadan.
+SMBG guided dose titrations for different insulin types are shown in Table 6.
+GLP-1 RAs can be safely used with other GLDs including metformin and insulin. They have low hypoglycemia
+risk, but the risk could be higher if given with insulin or sulfonylureas. However, dose needs to be titrated at
+least 2-4 weeks prior to Ramadan (10).
+Individuals on Multiple Antidiabetic Therapy
+Individuals on multiple GLDs are at higher risk of hypoglycemia during Ramadan (18). The risk of hypoglycemia is
+highest if they are on ≥4 GLDs or on a combination of metformin, DPP4I and basal insulin (37).
+In individuals on multiple GLDs, the risk of hypoglycemia is dependent on several factors such as type and number of
+GLDs, duration of diabetes, pre-Ramadan glycemic control, renal function, and presence of other comorbidities (10).
+Individuals on ≥3 GLDs who are fasting during Ramadan should receive comprehensive counseling and advice before
+the start of Ramadan, and it should cover diet, lifestyle, physical activity, SMBG, and dose and time modifications of
+GLDs (10).
+Individuals on a combination of insulin and SUs are at highest risk of hypoglycemia and require a dose reduction
+GLDs (approximately 25-50% reduction in insulin dose) during Ramadan.
+Flash glucose monitoring, CGM, activity monitoring, risk stratification, dose adjustments, and use of artificial
+intelligence-based algorithms that cover one or more of these aspects are the various tools that are likely to help high-
+risk patients with T2D fast with fewer hypoglycemia and hyperglycemia related complications (6, 10).
+MANAGEMENT OF DIABETES IN SPECIAL POPUATIONS DURING RAMADAN
+As discussed, individuals who are considered high risk for fasting during Ramadan need special pre-Ramadan risk
+stratification, counseling, dose modification, and need to follow strict SMBG during Ramadan, and those on insulin
+should be capable of self-titrating their insulin dose based on their BG values.
+This is especially true for special population considered high risk due to a high probability of harm caused by fasting
+during Ramadan (5). This special population of high-risk individuals with diabetes includes pregnant women, elderly,
+and people with CVD or CKD. All these individuals are usually advised not to fast, but many do decide to fast against
+medical advice (5).
+Management of Diabetes/Gestational Diabetes During Ramadan
+Even in healthy pregnant women, fasting during Ramadan results in biochemical changes that almost mimic the
+effects of prolonged fasting (35). Ramadan fasting results in an increase in triglycerides (TG), free fatty acids (FFA),
+and ketones in healthy pregnant women along with a decrease in glucose and insulin (35). However, data on
+physiological and biochemical changes caused by fasting during Ramadan in pregnant women with diabetes is largely
+lacking.
+Pregnancy is an exemption from fasting. However, many pregnant women choose to fast during Ramadan. A detailed
+discussion regarding the potential risks of fasting must be held with them.
+While healthy pregnant women can generally fast safely with no maternal or fetal risk, those with hyperglycemia need
+to strictly monitor their BG levels to prevent hyperglycemia, hypoglycemia, and adverse maternal and fetal outcomes
+(35).
+Pre-Ramadan assessment should begin months before Ramadan, and apart from risk stratification, should focus
+on breaking general myths like ‘finger-prick testing for BG levels breaks their fast’, encourage SMBG, and
+educate about the maternal and fetal risks of both hypoglycemia and hyperglycemia (35).
+Pregnant women with diabetes should maintain normal physical activity while fasting. The Taraweeh prayer
+they offer should be considered as exercise for which insulin doses should be adjusted as required (35).
+Fiber rich food and drinking 2-3 liters of water a day should be encouraged. Suhoor should be taken as late as
+possible (35).
+Insulin and/or metformin are the treatment of choice in pregnancy with diabetes. Though glibenclamide is also
+used in some patients, its use should be discouraged during Ramadan. Some women with gestational diabetes
+may be managed on diet and/or metformin too.
+The metformin dose may not need any change during pregnancy but the dose of insulin should be modified as
+discussed in Table 5 (10, 35). Insulin dose titration should be guided by SMBG as shown in Table 6.
+SMBG should be carried out as guided in Figure 6. Pregnant women with diabetes should strictly monitor and
+maintain their BG levels as follows (35):
+✓ Fasting between 70-95 mg/dL (3.9 – 5.3 mmol/L).
+✓ Post-prandial < 120 mg/dL (6.7 mmol/L).
+Pregnant women with diabetes should break their fast if (35):
+✓ BG levels < 70 mg/dL (3.9 mmol/L) during fasting hours.
+✓ Feel unwell.
+✓ Feel reduced fetal movement.
+Pregnant women with diabetes should carry out regular SMBG at the following time points (35):
+✓ Before the sunset meal.
+✓ 1-2 hours after meals
+✓ Once during the day while fasting, particularly in the afternoon.
+✓ Anytime they feel unwell.
+Management of Diabetes in Elderly with Diabetes Fasting During Ramadan
+Older age (≥ 65 years) by itself can be considered a high risk for fasting during Ramadan in individuals with diabetes,
+even though many elderly fast successfully during Ramadan (38). Older individuals with diabetes are less likely to
+fast than younger ones (DAR 2020 survey: 71.2% of ≥ 65 years intended to fast compared to 87.3% of those < 65
+years) (39). However, fasting during Ramadan being a personal choice, many older adults with diabetes do choose to
+fast during Ramadan. The DAR Global Survey (2020) also showed that the elderly were more motivated to fast with
+69% of those aged ≥ 65 years fasting for 30 days compared to 60% of those < 65 years (39).
+Elderly (≥ 65 years) with diabetes were significantly more likely to break their fast than younger (<65 years)
+individuals with diabetes (17% vs. 11.5%; P<0.001) (39). Similarly, they were significantly more likely to break their
+fast due to hypoglycemia than their younger counterparts (67.7% vs.55.4%; P=0.02).
+Fasting during Ramadan in elderly with diabetes needs special consideration and attention because:
+Diabetes related complications are higher in elderly and they need careful BG monitoring and GLD dose
+adjustments, which should be started well before Ramadan (38).
+Fasting related complications likely to be seen in elderly with diabetes can be due to both hyperglycemia and
+hypoglycemia, and also include impaired renal function, impaired postural balance, poor attention, and volume
+depletion. The risk increases with the number of days fasted (38).
+The DAR 2020 survey showed that hypoglycemia was significantly higher in elderly as compared to younger
+population (17.4% vs.15.2%; P<0.001) (39).
+9.9% of those aged ≥ 65 visited the emergency department compared to 4.3% of individuals aged < 65
+Elderly were also more likely to get hospitalized due to hypoglycemia
+While 31.5% reduced their GLD dosing, 17% made no change to their medication dose
+The use of SUs and insulin increases risk of hypoglycemia. 32.7% of elderly need insulin, probably due to long
+standing diabetes.
+The DAR 2020 survey also showed that significantly greater number of elderly with diabetes who are fasting
+had hyperglycemia (BG levels > 16.6 mmol/L or 300 mg/dL) during Ramadan (19.3% vs. 15.6%; P=0.006)
+(39). 8.4% of the elderly had to attend the emergency department due to hyperglycemia related complications.
+The DAR 2020 survey showed that the majority (80%) do not break their fast even if they have hyperglycemia,
+and 20% do not change their behavior (food intake, medication change), 25% reduced their food intake, and
+21% increased their medication dose (39).
+In the DAR 2020 Global Survey, 21% of participants with T2DM aged ≥ 65 years checked their BG levels once
+or less than once a week. Only around 10% checked their BG levels 3–4 times a day. There was no change in
+SMBG behavior during Ramadan (39).
+38
+Research on elderly fasting during Ramadan is largely lacking. Landmark trials in Ramadan like the
+EPIDIAR study which was used to formulate many recommendations for individuals with diabetes fasting
+7
+during Ramadan, did not include the elderly.
+The elderly population is growing fast, and therefore there will be more individuals with diabetes who are ≥ 65
+years and intend to fast (40)
+The risk of fasting is much higher in elderly than in younger population with diabetes (38). This is because the
+elderly have more comorbidities (hypertension, hyperlipidemia, CVDs, CKD etc.) than the younger population
+(38, 39).
+Elderly with diabetes and impaired renal functions, CVD, dementia, frailty, and/or those with risk of falls are at
+higher risk for complications during fasting than elderly without comorbidities (38). Therefore, risk
+stratification of elderly with diabetes who decide to fast during Ramadan should be based not only on age, but
+also on their comorbidities, functional capacity, and ability to manage medications and carry out SMBG,
+cognition, and social circumstances (38).
+Hence, the elderly with diabetes are a high-risk category for fasting during Ramadan. They need proper Pre-Ramadan
+risk stratification, education, and support to ensure that they can fast safely with proper SMBG and medication
+monitoring.
+Table 11 covers the basic recommendations for elderly who intend to fast during Ramadan.
+Table 11.
+Basic Recommendations for Elderly who Intend to Fast During Ramadan
+MEDICATIONS AND REGIMENS
+Choose medications that have a lower hypoglycemia risk
+Make dose adjustments to lower the risk of hypoglycemia
+For individuals on SUs, gliclazide and glimepiride should be used instead of glibenclamide
+SGLT2 inhibitors doses should be reviewed for benefit vs risks of adverse events especially in elderly with impaired
+renal function or those on diuretics
+Insulin: dose titration based on SMBG should be taught and dose modifications carried out based on the insulin type
+SMBG
+Increase frequency to a 5-point time scale
+Use CGM if available and feasible
+DIET AND PHYSICAL ACTIVITY
+Individualized diet and activity plan
+Started before Ramadan and adhere during fasting days
+Medication doses and timings adjusted according to diet and physical activity level
+Adequate nutrition should be stressed and education provided
+Hydration ensured through proper planning
+SOCIAL SUPPORT
+Given that elderly may have cognition, memory, and physical deficits, adequate support should be ensured pre-
+Ramadan to ensure SMBG, adherence to diet and physical activity plan, insulin dose titration, and oral GLD dose
+modification
+AWARENESS OF RISK OF COMPLICATIONS
+Discuss and document symptoms and events to increase awareness and recognition of complications
+Both patient and caregiver should be educated to recognize the symptoms of complications
+CGM, continuous glucose monitoring; GLD, glucose lowering drugs; SMBG, self-monitoring of blood glucose
+Other Concerns Regarding Management of Diabetes During Ramadan
+MANAGEMENT OF COMORBID HYPOTHYROIDISM
+Hypothyroidism is commonly seen in patients with diabetes. Usually, thyroxine is taken half an hour before breakfast.
+However, during Ramadan, the breakfast time is shifted to pre-dawn. This is a time of rush and individuals may find it
+difficult to time the thyroxine dose half an hour before Suhoor. Similarly, if thyroxine is pushed to evening, then
+taking it half an hour before Iftar is usually difficult as usually this meal is taken with rest of the family and by Iftar
+time hunger score is high. Hence, thyroxine may be taken late (after a 4-hour gap) at night as long as no heavy meal is
+taken between Iftar and late night (12).
+BARIATRIC SURGERY
+Diabesity (co-existing diabetes and obesity) is of pandemic proportions across the world (4). Bariatric surgery is
+commonly performed in individuals with diabesity. Bariatric surgery poses certain concerns regarding fasting during
+Ramadan as these individuals cannot consume large meals and therefore absorb certain macronutrients (12).
+GAPS AND WAY FORWARD
+The last few decades have contributed immensely to the growing knowledge and clinical experience of health care
+providers regarding the clinical and metabolic complications of fasting, pre-fasting assessment, risk stratification and
+initiation of changes in medication dose and timing and dietary/lifestyle modifications during Ramadan (1). However,
+greater efforts are required to improve communication between the medical experts and religious scholars in order to
+ensure that medical guidance regarding safe fasting during Ramadan is best received by the public (30). Further well-
+designed clinical trials are required to assess the best treatment options for adolescents and adults with diabetes who
+fast during Ramadan. Artificial intelligence, use of RNP and other such tools need to be integrated to ensure safe
+fasting during Ramadan.
+ACKNOWLEDGEMENTS
+All named authors for this manuscript meet the International Committee of Medical Journal Editors (ICMJE) criteria
+for authorship. All authors take full responsibility for the integrity of the work and have given final approval for the
+published version. The authors acknowledge Dr. Kokil Mathur and Dr. Punit Srivastava from Mediception Science
+Pvt. Ltd, Gurgaon, India for providing writing and editing assistance.
+REFERENCES
+1. Abdelrahim D, Faris ME, Hassanein M, et al. Impact of Ramadan Diurnal Intermittent Fasting on Hypoglycemic
+Events in Patients With Type 2 Diabetes: A Systematic Review of Randomized Controlled Trials and
+Observational Studies. Frontiers in Endocrinology. 2021;12 https://www .frontiersin .org/article/10.3389/fendo
+.2021.624423 Accessed March 2, 2022. [PMC free article: PMC7984365] [PubMed: 33763029]
+2. IDF-DAR Practical Guidelines. DAR practical guidelines for healthcare professionals. Published 2021. Accessed
+March 2, 2022. https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-professionals.html.
+3. Jabbar A, Malek R, Hussein Z. Chapter 2. Epidemiology of diabetes and fasting during Ramadan. In:
+International Diabetes Federation and DAR International Alliance. Diabetes and Ramadan: Practical Guidelines.
+International Diabetes Federation and DAR International Alliance; 2021. Accessed March 4, 2022. https://www
+.idf.org/our-activities /education /diabetes-and-ramadan /healthcare-professionals.html.
+4. Kapoor N, Sahay R, Kalra S, et al. Consensus on Medical Nutrition Therapy for Diabesity (CoMeND) in Adults:
+A South Asian Perspective. Diabetes Metab Syndr Obes. 2021;14:1703–1728. [PMC free article: PMC8057793]
+[PubMed: 33889005] [CrossRef]
+5. Bennakhi A, Buyukbese MA, Al Saleh Y, Almadani AA, Eliana F. Chapter 1. Introduction to the IDF-DAR
+ractical Guidelines. In: International Diabetes Federation and DAR International Alliance. Diabetes and
+Ramadan: Practical Guidelines. International Diabetes Federation and DAR International Alliance; 2021.
+Accessed March 4, 2022. https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-
+professionals.html.
+6. Ahmed SH, Chowdhury TA, Hussain S, et al. Ramadan and Diabetes: A Narrative Review and Practice Update.
+Diabetes Ther. 2020;11(11):2477–2520. [PMC free article: PMC7480213] [PubMed: 32909192] [CrossRef]
+7. Salti I, Bénard E, Detournay B, et al. A population-based study of diabetes and its characteristics during the
+fasting month of Ramadan in 13 countries: results of the epidemiology of diabetes and Ramadan 1422/2001
+(EPIDIAR) study. Diabetes Care. 2004;27(10):2306–2311. [PubMed: 15451892] [CrossRef]
+8. Babineaux SM, Toaima D, Boye KS, et al. Multi-country retrospective observational study of the management
+and outcomes of patients with Type 2 diabetes during Ramadan in 2010 (CREED). Diabet Med. 2015;32(6):819–
+828. [PMC free article: PMC6681420] [PubMed: 25581456] [CrossRef]
+9. Wan Bebakar WM, Wan Mohamad RM, Hafidh K, et al. Chapter 9. Management of Type 1 diabetes when fasting
+during Ramadan. In: International Diabetes Federation and DAR International Alliance. Diabetes and Ramadan:
+Practical Guidelines. International Diabetes Federation and DAR International Alliance; 2021. Accessed March 4,
+2022. https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-professionals.html.
+10. Hanif W, Hassanein M, Elhadd TA, Mohamed NA. Chapter 10. Management of Type 2 diabetes when fasting
+during Ramadan. In: International Diabetes Federation and DAR International Alliance. Diabetes and
+Ramadan: Practical Guidelines. International Diabetes Federation and DAR International Alliance; 2021.
+Accessed March 4, 2022. https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-
+professionals.html.
+11. Lessan N, Ali T. Energy Metabolism and Intermittent Fasting: The Ramadan Perspective. Nutrients.
+2019;11(5):E1192. [PMC free article: PMC6566767] [PubMed: 31137899] [CrossRef]
+12. Lessan N, Ezzat Faris M, Assaad-Khalil SH, Ali T. Chapter 3. What happens to the body? Physiology of fasting
+during Ramadan. In: International Diabetes Federation and DAR International Alliance. Diabetes and
+Ramadan: Practical Guidelines. International Diabetes Federation and DAR International Alliance; 2021.
+Accessed March 4, 2022. https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-
+professionals.html.
+13. Lessan N, Hannoun Z, Hasan H, Barakat MT. Glucose excursions and glycaemic control during Ramadan fasting
+in diabetic patients: insights from continuous glucose monitoring (CGM). Diabetes Metab. 2015;41(1):28–36.
+[PubMed: 25497966] [CrossRef]
+14. Al-Rawi N, Madkour M, Jahrami H, et al. Effect of diurnal intermittent fasting during Ramadan on ghrelin,
+leptin, melatonin, and cortisol levels among overweight and obese subjects: A prospective observational study.
+PLoS One. 2020;15(8):e0237922. [PMC free article: PMC7449475] [PubMed: 32845924] [CrossRef]
+15. Hassanein M, Al Awadi FF, El Hadidy KES, et al. The characteristics and pattern of care for the type 2 diabetes
+mellitus population in the MENA region during Ramadan: An international prospective study (DAR-MENA
+T2DM). Diabetes Res Clin Pract. 2019;151:275–284. [PubMed: 30825560] [CrossRef]
+16. Basit A, AlOzairi E, Abdelgadir E. Chapter 4. The effects of fasting during Ramadan on physical and mental
+wellbeing. In: International Diabetes Federation and DAR International Alliance. Diabetes and Ramadan:
+Practical Guidelines. International Diabetes Federation and DAR International Alliance; 2021. Accessed March
+4, 2022. https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-professionals.html.
+17. Husain R, Duncan MT, Cheah SH, Ch’ng SL. Effects of fasting in Ramadan on tropical Asiatic Moslems. Br J
+Nutr. 1987;58(1):41–48. [PubMed: 3620437] [CrossRef]
+18. Jabbar A, Hassanein M, Beshyah SA, Boye KS, Yu M, Babineaux SM. CREED study: Hypoglycaemia during
+Ramadan in individuals with Type 2 diabetes mellitus from three continents. Diabetes Res Clin Pract.
+2017;132:19–26. [PubMed: 28783529] [CrossRef]
+19. Ba-Essa EM, Hassanein M, Abdulrhman S, Alkhalifa M, Alsafar Z. Attitude and safety of patients with diabetes
+observing the Ramadan fast. Diabetes Res Clin Pract. 2019;152:177–182. [PubMed: 30946851] [CrossRef]
+20. Mattoo V, Milicevic Z, Malone JK, et al. A comparison of insulin lispro Mix25 and human insulin 30/70 in the
+treatment of type 2 diabetes during Ramadan. Diabetes Res Clin Pract. 2003;59(2):137–143. [PubMed:
+12560163] [CrossRef]
+21. Cesur M, Corapcioglu D, Gursoy A, et al. A comparison of glycemic effects of glimepiride, repaglinide, and
+insulin glargine in type 2 diabetes mellitus during Ramadan fasting. Diabetes Res Clin Pract. 2007;75(2):141–
+147. [PubMed: 16815586] [CrossRef]
+22. Bakiner O, Ertorer ME, Bozkirli E, Tutuncu NB, Demirag NG. Repaglinide plus single-dose insulin glargine: a
+safe regimen for low-risk type 2 diabetic patients who insist on fasting in Ramadan. Acta Diabetol.
+2009;46(1):63–65. [PubMed: 18825302] [CrossRef]
+23. Hassanein M, Hanif W, Malik W, et al. Comparison of the dipeptidyl peptidase-4 inhibitor vildagliptin and the
+sulphonylurea gliclazide in combination with metformin, in Muslim patients with type 2 diabetes mellitus fasting
+during Ramadan: results of the VECTOR study. Curr Med Res Opin. 2011;27(7):1367–1374. [PubMed:
+21568833] [CrossRef]
+24. Bashier A, Bin Hussain A, Safety MK A. Journal of Diabetes & Metabolism. 2015;06 and Efficacy of Liraglutide
+as an Add-On Therapy to Pre-Existing Anti-Diabetic Regimens during Ramadan, A Prospective Observational
+Trial. doi. [CrossRef]
+25. Hassanein M, Echtay A, Hassoun A, et al. Tolerability of canagliflozin in patients with type 2 diabetes mellitus
+fasting during Ramadan: Results of the Canagliflozin in Ramadan Tolerance Observational Study (CRATOS). Int
+J Clin Pract. 2017;71(10) [PMC free article: PMC5656913] [PubMed: 28851109] [CrossRef]
+26. Aldawi N, Darwiche G, Abusnana S, Elbagir M, Elgzyri T. Initial increase in glucose variability during Ramadan
+fasting in non-insulin-treated patients with diabetes type 2 using continuous glucose monitoring. Libyan J Med.
+2019;14(1):1535747. [PMC free article: PMC6201790] [PubMed: 30348064] [CrossRef]
+27. Alawadi F, Mohammed K. Bashier A, Rashid F, Chowdhury TA. Chapter 13. Risks of fasting during Ramadan:
+Cardiovascular, Cerebrovascular and Renal complications. In: International Diabetes Federation and DAR
+International Alliance. Diabetes and Ramadan: Practical Guidelines. International Diabetes Federation and
+DAR International Alliance; 2021. Accessed March 4, 2022. https://www .idf.org/our-activities /education
+/diabetes-and-ramadan /healthcare-professionals.html.
+28. Jawad F, Kalra S. Ramadan and diabetes management - The 5 R’s. J Pak Med Assoc. 2015;65(5) Suppl 1:S79–
+80. [PubMed: 26013797]
+29. Ahmedani MY, Zainudin SB, AlOzairi E. Chapter 7. Pre-Ramadan Assessment and Education. In: International
+Diabetes Federation and DAR International Alliance. Diabetes and Ramadan: Practical Guidelines.
+International Diabetes Federation and DAR International Alliance; 2021. Accessed March 4, 2022. https://www
+.idf.org/our-activities /education /diabetes-and-ramadan /healthcare-professionals.html.
+30. El Sayed AA, Hassanein M, Afandi B, Tayeb K, Diop SN. Chapter 6. Diabetes and Ramadan: A Medico-
+Religious Perspective. In: International Diabetes Federation and DAR International Alliance. Diabetes and
+Ramadan: Practical Guidelines. International Diabetes Federation and DAR International Alliance; 2021.
+Accessed March 4, 2022. https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-
+professionals.html.
+31. Hassanein M, Al-Arouj M, Hamdy O, et al. Diabetes and Ramadan: Practical guidelines. Diabetes Res Clin
+Pract. 2017;126:303–316. [PubMed: 28347497] [CrossRef]
+32. Hamdy O, Mohd Yusof BN, Maher S. Chapter 8. The Ramadan Nutrition Plan (RNP) for people with diabetes.
+In: International Diabetes Federation and DAR International Alliance. Diabetes and Ramadan: Practical
+Guidelines. International Diabetes Federation and DAR International Alliance; 2021. Accessed March 4, 2022.
+https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-professionals.html.
+33. Ahmed WN, Arun CS, Koshy TG, et al. Management of diabetes during fasting and COVID-19 – Challenges
+and solutions. Journal of Family Medicine and Primary Care. 2020;9(8):3797–3806. [PMC free article:
+PMC7586529] [PubMed: 33110770] [CrossRef]
+34. Mohd Yusof BN, Wan Zukiman WZHH, Abu Zaid Z, et al. Comparison of Structured Nutrition Therapy for
+Ramadan with Standard Care in Type 2 Diabetes Patients. Nutrients. 2020;12(3):813. [PMC free article:
+PMC7146585] [PubMed: 32204476] [CrossRef]
+35. Afandi B, Hassanein M, Taha Salih B, Abdo S. Chapter 11. Management of hyperglycaemia in pregnancy when
+fasting during Ramadan. In: International Diabetes Federation and DAR International Alliance. Diabetes and
+Ramadan: Practical Guidelines. International Diabetes Federation and DAR International Alliance; 2021.
+Accessed March 4, 2022. https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-
+professionals.html.
+36. Bajaj HS, Abouhassan T, Ahsan MR, et al. Diabetes Canada Position Statement for People With Types 1 and 2
+Diabetes Who Fast During Ramadan. Can J Diabetes. 2019;43(1):3–12. [PubMed: 29804943] [CrossRef]
+37. Elhadd T, Dabbous Z, Bashir M, et al. Incidence of hypoglycaemia in patients with type-2 diabetes taking
+multiple glucose lowering therapies during Ramadan: the PROFAST Ramadan Study. J Diabetes Metab Disord.
+2018;17(2):309–314. [PMC free article: PMC6405393] [PubMed: 30918866] [CrossRef]
+38. Shaltout I, Mohamed M, Iraqi H. Chapter 12. Management of diabetes among the elderly when fasting during
+Ramadan. In: International Diabetes Federation and DAR International Alliance. Diabetes and Ramadan:
+Practical Guidelines. International Diabetes Federation and DAR International Alliance; 2021. Accessed March
+4, 2022. https://www .idf.org/our-activities /education /diabetes-and-ramadan /healthcare-professionals.html.
+39. Hassanein M, Hussein Z, Shaltout I, et al. The DAR 2020 Global survey: Ramadan fasting during COVID 19
+pandemic and the impact of older age on fasting among adults with Type 2 diabetes. Diabetes Res Clin Pract.
+2021;173:108674. [PMC free article: PMC7826018] [PubMed: 33493579] [CrossRef]
+40. IDF. IDF Diabetes Atlas 2021. International Diabetes Federation; 2021. Accessed March 11, 2022. https:
+//diabetesatlas .org/atlas/tenth-edition/
+Copyright © 2000-2026, MDText.com, Inc.
+This electronic version has been made freely available under a Creative Commons (CC-BY-NC-ND) license. A copy of the license can be viewed at
+http://creativecommons.org/licenses/by-nc-nd/2.0/.
+Bookshelf ID: NBK581875 PMID: 35816600

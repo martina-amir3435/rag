@@ -1,0 +1,623 @@
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+Structure and Properties of Vitamins
+Vitamins are a group of organic nutrients, required in small quantities for a variety of biochemical
+functions. Plants can synthesize all vitamins but animals can synthesize only few of them. Therefore
+animals depend on plants and microbes for their vitamin needs. Vitamins carry out functions in very
+low concentrations. Hence the total daily requirement is very small.
+Classification
+Vitamins have been classified into two categories; fat soluble and water soluble. Fat soluble vitamins
+are vitamin A, D, E and K. water soluble vitamins are vitamin B complex (vitamins B1, B2, B3, B5, B6,
+B7, B9 and B12) and the vitamin C.
+Vitamin A
+Vitamin A is also called as antixerophthalmic factor or the bright eyes vitamin because of its
+involvement in visual process. Fish liver oil is the richest source of vitamin A. Other sources are butter,
+milk and eggs, vegetables and fruits.
+Vitamin A is present in two forms A1 and A2 (Figure 1 & 2). Carotenoids such as α, β and ϒ-carotenes
+and cryptoxanthinact as provitamin form of vitamin A. Among these β-carotene is the most potent
+provitamin form. β-carotene is made up of eight 5-carbon isoprenoid units liked to form a long chain of
+40 carbon atoms with an ionone ring at each end. Hydrolysis of β-carotene yields two moles of vitamin
+A1. Cleavage occurs at the midpoint of the carotene in the polyene chain connecting the two ionone
+rings. Conversion of β-carotene into vitamin A takes place in liver of fishes and mammals. Vitamin A is
+a complex primary alcohol called retinol. The terminal –OH group is mostly esterified with fatty acid.
+Point of cleavage
+β-Carotene
+CH2OH
+Vitamin A 1 (Retinol)
++
+C H2OH
+Vitamin A 1 ( R etinol)
+Figure 1: Hydrolysis of β-carotene
+Another form of vitamin A is A2 which in contrary to A1 (found in salt water fishes) is found in fresh
+water fishes. The difference between the two forms is that ionone ring in vitamin A2 contains an
+additional conjugate double bond between carbon atoms 3 and 4.
+1
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+CH2OH
+Figure 2: structure of vitamin A2 (3-dehydroretinol)
+In the tissues, the metabolic transformation of retinol is carried out by enzymes. The β-carotene in the
+ingested food is split into retinal by intestinal enzyme. Retinal is then reduced to retinol enzymatically.
+Retinol is then converted into retinyl ester by reacting with fatty acid like palmitic acid. The retinyl ester
+can enzymatically hydrolysed into retinol which is resterified with palmitic acid to produce retinyl ester.
+This retinyl ester is stored in liver. The storage form of vitamin A in the liver is retinyl ester, but the
+form of vitamin A that circulates in the blood is retinol which is bound to a specific carrier protein
+called retinol binding protein (RBP). Liver can also successively convert retinol to retinal and retinal to
+retinoic acid. Retinoic acid is quickly absorbed from the intestine through the portal system and rapidly
+excreted back into the intestine through the bile.
+Retinoic acid which is a derivative of retinol acts as hormone and binds through receptor protein in the
+cell nucleus. There it regulates the gene expression in the development of epithelial tissues particularly
+of skin. Retinoic acid is an active ingredient in drug tretinoin (Retin-A), used in treatment of severe acne
+and wrinkled skin. Retinal which is also a derivative of retinol is the bile pigment. It initiates the
+response of rod and cone cells of the retina to light and produces a neuronal signal to brain.
+Vitamin D
+Because of its prevention action on rickets, vitamin D is called antirachitic factor. Fish liver oil is
+excellent source of vitamin D. It is also called sunshine vitamin as its provitamin form present in human
+skin is converted into active vitamin D by irradiation with UV light. Two forms namely vitamin D2
+(ergocalciferol) and vitamin D3 (cholecalciferol) are present (Figure 3). Vitamin D like vitamin A is
+absent in vegetables fats and oils.
+Ergosterol is converted to vitamin D2 by a series of steps whereas 7-dehydrocholecalciferol which is
+also a provitamin found in animals is converted intocholecalciferol by a series of steps. During the
+activation of the provitamin, the ring B is cleaved between C9 and C10 to produce vitamin D2 and D3.
+21 22
+18 20 23 26 1281 202 2 23 26
+1
+1 9
+9
+1 1 C 1 2
+1
+1
+4
+3 D
+1
+1
+5
+7 1 6 24
+2 8
+25
+27
+1
+19 C H2
+9
+11 12
+1
+1
+4
+3
+1
+1
+5
+7 1 6 24
+2 8
+25
+27
+2 10 8 2 10 8
+A B
+3 5 7 3 5 7
+OH 4 6 OH 4 6
+Ergosterol Vitamin D2 (Ergocalciferol)
+21 22 24
+26
+21 22 24 26
+1 9 11 12 13
+1 8
+17 1 6
+20 23 25
+27 19 C H2 11 12 13
+1 8
+17 1 6
+20 23 25
+27
+1 9 14 15 1 9 14 15
+2 10 8 2 10 8
+3 5 7 3 5 7
+OH 4 6 OH 4 6
+7-Dehydrocholesterol Vitamin D3 (Cholecalciferol)
+Figure 3: Structure of vitamin D1 and D2 and their precursors.
+2
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+Vitamin D3 is produced in skin by UV irradiation of 7-dehydrocholesterol, which breaks the bond
+between C9-C10. In the liver, a –OH group is added at C25. In the kidney, a second –OH is added at C1
+which produces the active hormone 1α, 25-dihydroxy vitamin D3. This hormone regulates the
+metabolism of calcium in kidney, intestine and bone.
+Vitamin E
+Vitamin E is also known as antisterility factor because its deficiency may cause sterility in animals. It
+was first isolated from wheat germ and named it α, β-tocopherols. After that five other tocopherols were
+obtained from various cereal grains like wheat germ, corn oil, rice etc. Other sources of vitamin E are
+cottonseed, rice, corn, soybean, coconut, and peanut. Among all α-tocopherol is most common and has
+greatest activity. Tocopherols are derivatives of 6-hydroxychroman (also called tocol) bearing an
+isoprenoid side chain at C2 (Figure 4).
+CH
+3
+H 3 C O CH 3
+C H
+3
+C H
+3
+CH
+3
+(CH ) CH (CH ) CH (CH ) CH CH
+OH 23 2 3 2 3 3
+CH
+3
+Chroman ring Phytol radical
+Figure 4: Structure of α-tocopherol (5, 7, 8- trimethyltocol)
+Tocopherols are powerful antioxidants. They prevent oxidative damage of other lipid molecules such as
+vitamin A and fats present in food. Due to this antioxidizing property vitamin E is commercially added
+to foods to retard their spoilage. Its antioxidising property is stimulated by vitamin C and phenols.
+Vitamin E also protects mitochondrial system from inactivation by lipid peroxides. It acts as an
+antioxidant of peroxidation.Breakdown of α-tocopherol involves both oxidative cleavage of the
+chroman ring to yield quinine or hydroquinone like compounds and the degradation of the isoprenoid
+side chain.
+Vitamin K
+Vitamin K is also known as coagulation vitamin or antihemorrhagic factor due to its role in blood
+clotting. Two forms of vitamin K naturally occur, vitamin K1 (Figure 5) and K2 (Figure 6). Vitamin K1
+is present in green leafy vegetables such as cabbage, spinach etc. and K2 is present in putrified fish
+meat.
+O
+CH
+3
+1 2 CH 3 CH 3
+4 3 CH 2 CH C (CH 2 CH 2 CH 2 CH) CH 3
+O
+Naphthaquinone Phytol radical
+radical
+Figure 5: Structure of (A) vitamin K1 (phylloquinone)
+3
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+O
+CH
+3
+CH CH
+3 3
+CH CH C (CH CH CH C) CH
+2 2 2 5 3
+O
+Naphthaquinone Farnesyl radical
+radical
+Figure 6: Structure of vitamin K2 (menaquinone)
+Vitamin K is derivative of naphthoquinone. The C3 of quinone ring has phytol radical in vitamin K1
+whereas this position is occupied by difarnesyl radical in K2. Vitamin K1 has four isoprene units in its
+side chain whereas K2 contains six isoprene units each having double bond. Vitamin K also plays role
+in electron transport system (ETS) and in oxidative phosphorylation. The probable specific site of action
+of vitamin K in ETS is between NADH and cytochrome b.
+Water soluble vitamins
+Vitamin B complex
+Vitamin B complex consists of a group of vitamins such as B1, B2, B3, B5, B6, B7, B9 and B12 (Table
+1). All these members of vitamin B complex are not related either chemically of physiologically but
+they possess some common features:
+a. All of them are water soluble.
+b. Most of them act as coenzymes that take part in metabolic pathways.
+c. Most of them can be obtained from the same source that is liver and yeast.
+d. Most of them can be synthesized by intestinal bacteria.
+Table 1: Coenzyme derivatives of water soluble vitamins.
+S. No. Vitamin Systematic name Coenzyme form
+1. Vitamin B1 Thiamine Thiamine pyrophosphate (TPP)
+2. Vitamin B2 Riboflavin Flavin mononucleotide (FMN), Flavin adenine
+dinucleotide (FAD)
+3. Vitamin B3 Pantothenic acid Coenzyme A (CoA)
+4. Vitamin B5 Niacin Nicotinamide adenine dinucleotide (NAD),
+Nicotinamide adenine dinucleotide phosphate (NADP),
+5. Vitamin B6 Pyridoxine Pyridoxal phosphate (PLP)
+6. Vitamin B7 Biotin Biocytin
+7. Vitamin B9 Folic acid Tetrahydrofolate (THFA)
+8. Vitamin B12 cyanocobalamin Deoxyadenosylcobalamine
+Vitamin B1
+Thiamine is known as vitamin B1 as it was the first member of vitamin B complex to be identified. It is
+known as anti beriberi factor due to its curing action against beriberi. It is also known as antineuritic
+factor or heat labile factor. Vitamin B1 is found in all plants and animal foods. In cereals outer layers of
+seeds are especially rich in thiamine. The milling of wheat lowers the thiamine content. Milk also
+contains thiamine although in relatively low amounts. Thiamine is 2,5-dimethyl-6-aminopyrimidine
+bonded through a methylene linkage to 4-methyl-5-hydroxyethyl thiazole (Figure 7).
+N 3′ 4′ 5′ CH2 N 3 4 CH3
+H3C 2′ N 1′ 6′ NH2 2 S 1 5 CH2 CH2OH
+4
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+Pyrimidine moiety Thiazole moiety
+Figure 7: Structure of vitamin B1 or Thiamine.
+Thiamine is phosphorylated with ATP to form thiamine pyrophosphate (TPP).
+Thiamine + ATP Thiamine pyrophosphate (TPP) + AMP
+TPP, in association with lipoic acid forms the prosthetic group for the enzyme carboxylase. TPP
+participate in many reactions such as decarboxylation of α-keto acids such as pyruvic acid and α-
+ketoglutaric acid.
+Vitamin B2
+Vitamin B2 is known as riboflavin. It is popularly known as yellow enzyme because of its colour. It is
+found naturally as two flavin coenzymes namely flavin mononucleotide (FMN) and flavin adenine
+dinucleotide (FAD). Various sources of riboflavin are milk, cheese, eggs, and yeast. Leafy vegetables
+are richer in riboflavin than they are in thiamine. Riboflavin consists of a sugar alcohol, D-ribitol,
+attached to a chromogenic dimethyl isoallaxazine ring at N9 (Figure 8).
+Isoallaxazine ring
+O H O- H O
+H3C N H+ + e- H3C Ṇ H+ + e- H3C N
+N NH NH
+H3C N N O H3C N N O H 3C N N O
+R R H
+CH2
+FADH•(FMNH•) FADH (FMNH )
+2 2
+CHOH (Semiquinone) (Fully reduced)
+Riboflavin
+CHOH
+CHOH
+CH
+2
+FMN O NH2
+-O P O
+N
+N
+O N
+N
+FAD -O P O CH2 O
+O
+OH OH
+Figure 8: Structure of riboflavin, FMN and FAD.
+Flavin containg proteins (flavoproteins) are enzymes that catalyse oxidation reduction reactions using
+either FMN or FAD as coenzymes (Table 2).
+Table 2: some flavoproteins that uses flavin nucleotide coenzymes.
+Enzyme Flavin nucleotide
+Acetyl CoA dehydrogenase FAD
+Dihydrolipoyl dehydrogenase FAD
+5
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+Succinate dehydrogenase FAD
+Glycerol-3-phosphate dehydrogenase FAD
+NADH dehydrogenase FMN
+Glycolate oxidase FMN
+FMN and FAD are synthesized from riboflavin by FMN kinase and FAD synthetase, respectively.
+Riboflavin + ATP FMN + ADP
+FMN + ATP FAD + PPi
+FMN and FAD coenzymes undergo reversible oxidation-reduction in presence of the enzyme and a
+suitable substrate (Table 2). The fused ring structure of flavin nucleotides is known as isoallaxazine ring
+which undergoes reversible reduction. It is reduced by accepting one or two electrons in the form of one
+or two hydrogen atoms (each atom has an electron plus a proton) from a reduced substrate. The fully
+reduced forms are abbreviated as FADH2 and FMNH2. When a fully oxidized flavin nucleotide accepts
+only one electron (one hydrogen atom) the semiquinone form of the isoallaxazine ring is produced
+which is abbreviated as FADH• and FMNH•. Because the flavin nucleotides have ability to participate in
+either one or two electron transfers therefore flavoproteins are involved in a greater diversity of
+reactions than the NAD(P) linked dehydrogenases.
+The flavin nucleotide in most flavoproteins is bound covalently to the protein as prosthetic group.
+Flavoenzymes play a key role in cell metabolism. They function in accepting hydrogen atoms from
+reduced pyridine nucleotides. They participate in the enzymatic oxidation of glucose, fatty acids, amino
+acids and purines. Some flavoproteins play quite different roles as light receptors. Riboflavin and
+flavoproteins play significant role in phototropic curvature of various plant organs. Riboflavin is
+synthesized by all green plants, most bacteria, yeast and moulds. Animals do not synthesise riboflavin.
+In human the ingested riboflavin is largely passed out as such or as its coenzymes, the FMN.
+Vitamin B3
+Vitamin B3 is also known as pantothenic acid. The coenzyme form of vitamin is coenzyme A (Co A).
+Pantothenic acid is widely present in yeast, liver and eggs. Pantothenic acid is an amide of pantoic acid
+(α,γ-dihydroxy-β-dimethyl butyric acid) and β-alanine (Figure 9).
+CH OH
+3
+H Cα Cβ γCH CO NH CH CH COOH
+2 2 2
+OH CH
+3
+pantoic acid moiety alanine moiety
+Figure 9: Structure of vitamin B3.
+Vitamin B3 is synthesized by plants and microorganisms but not by animals. Therefore, it is required in
+diet to serve as starting point for CoA. The function of CoA is in acylation reactions. CoA in presence
+of ATP, acetate and suitable enzyme converted into acetyl CoA. Acetyl CoA is an important coenzyme
+in carbohydrate and lipid metabolism.
+Vitamin B5
+Vitamin B5 is known as nicotinic acid or niacin. The term nicotinic acid is less commonly used to avoid
+any association with the alkaloid nicotine of tobacco. Niacin is widely distributed in plants and animal
+tissues as its amide called niacinamide. Niacin is most abundantly found in yeast. Other sources of
+niacin are liver, salmon, poultry and red meat, ground nut, sunflower oil. The conversion of niacin to
+nicotinamide takes place in kidney, brain and liver if glutathione is present. In human and other animals
+niacin is synthesized from amino acid tryptophan. Nicotinamide is also synthesized from NAD by
+amidation and subsequent degradation.
+6
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+The two pyridine nucleotide coenzymes namely, nicotinamide adenine dinucleotide (NAD) and
+nicotinamide adenine dinucleotide phosphate (NADP) contain niacinamide as their structural
+constituent. Niacin is a pyridine derivative (Figure 10).
+COOH CONH2
+N N
+Nicotinic acid (niacin) Nicotinamide (niacinamide)
+(A) (B)
+CONH2 CONH2
+Nicotinamide
++ +
+O N O N
+-O P O CH2 O -O P O CH2 O
+Ribose-phosphate
+OH OH OH OH
+NH2 NH2
+N
+N
+N
+N
+O N
+N
+O N
+N
+AMP
+-O P O CH2 O -O P O CH2 O
+O O
+OH OH OH O
+-O P O-
+(C)NAD+ (D)NADP+ O
+Figure 10: Structure of (A) niacin, (B) niacinamide, (C) NAD+ and (D) NADP+.
+These coenzymes are present in two forms. NAD+ and NADP+ are oxidizing agents; they accept
+electrons from other molecules and get reduced into NADH and NADPH respectively (Figure 11). The
+NADH and NADPH then act as reducing agents and donate electrons to other molecules.
+H H H
++2H
+CONH2 CONH2
++ H+
++
+N N
+-2H
+R R
+NAD(P)+ (oxidized) NAD(P)H (reduced)
+Figure 11: Redox rections of NAD+ and NADP+
+NAD+ and NADP+ play an essential role in many biochemical reactions, especially redox reactions
+(oxidation-reduction reactions) in which oxidoreductase enzymes transfer hydrogen. For example in a
+redox reaction catalysed by alcohol dehydrogenase two hydrogen atoms and two electrons (the two
+electrons of the C-H bond) are removed from the ethanol molecule, one as proton (H+) and the other as
+hydride ion (H:-).The hydride ion and both electrons are transferred to NAD+, generating NADH and
+proton is released in the medium. The hydrogen of NADH is donated to acetaldehyde to reduce it into
+ethanol by same enzyme alcohol dehydrogenase (Figure 12). Enzymes that use NAD+ rarely use NADP+
+and vice versa.
+7
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+Alcohol
+dehydrogenase
+Ethanol + NAD+ Acetaldehyde + NADH + H+
+H H H
+CONH2 CONH2
+N + + H+ + H:/2e- N¨ + H+
+The two hydrogen
+R R
+atoms from the
+NAD+ (oxidized) substrate e.g. alcohol NADH (reduced)
+Figure 12: Redox reaction catalysed by alcohol dehydrogenase.
+Vitamin B6
+Vitamin B6 is also known as antidermatitis factor. There are three compounds in vitamin B6
+group;pyridoxine, pyridoxal and pyridoxamine. Vitamin B6 is rich in cereals, peas, sprouts, carrots,
+potatoes, bananas and yeast. It is also found in milk, egg yolk, salmon, chicken, fish, pork and liver.
+Pyridoxal andpyridoxamine also occur in nature as their coenzymes namely pyridoxal phosphate and
+pyridoxine phosphate respectively, respectively. Vitamin B6 is pyridine derivative. The three forms of
+vitamin B6 differ from each other in the nature of substituents attached at C4 of the ring (Figure 13).
+CH2OH CHO CH2NH2
+OH CH2OH OH CH2OH OH CH2OH
+H3C
+N
+H3C
+N
+H3C
+N
+Pyridoxine Pyridoxal Pyridoxamine
+Figure 13: Structure of vitamin B6 compounds
+Pyridoxine can be converted into either pyridoxal or pyridoxamine but neither of them can be converted
+to pyridoxine. Pyridoxal-5’-phosphate (PLP) act as coenzyme (Figure 14) in many biochemical
+reactions such as metabolism of amino acids e.g. transamination, decarboxylation and racimization
+reactions. PLP-dependent enzymes are also involved in other essential biological processes, such
+as hemoglobin biosynthesis, fatty acidmetabolism.
+CHO OH
+OH CH2 O P O
+H3C N OH
+Pyridoxal-5’-phosphate
+Figure 14: Structure of coenzyme pyridoxal-5’-phosphate (PLP).
+In the brain, the PLP-dependent enzyme aromatic L-amino acid decarboxylase catalyzes the synthesis of
+two major neurotransmitters: serotonin from the amino acid tryptophan and dopamine from L-3,4-
+dihydroxyphenylalanine (L-Dopa). Other neurotransmitters, including glycine, D-serine, glutamate,
+histamine, and γ-aminobutyric acid (GABA), are also synthesized in reactions catalyzed by PLP-
+dependent enzymes.
+8
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+Vitamin B7
+Vitamin B7 is known as biotin is sometimes referred to as vitamin H. it is produced by intestinal
+bacteria as well as found in yeast, liver, kidney, milk and molasses. Biotin is present in nature in
+combined state called biocytin linked with a peptide bond with amino acid lysine (Figure 15). Removal
+of biotin from biocytin and recycling of biotin from biotin-dependent enzymes requires the activity of
+the enzyme biotinidase. Biotin is the cofactor required for enzymes that are involved in,
+decarboxylation.
+O O
+2’ 2’
+HN 1’ 3’N H HN 1’ 3’N H
+O COOH
+4 3 4 3
+5 S 1 2 (CH2)4 C NH (CH2)4 CH 5 S 1 2 (CH2)4 COOH
+NH2
+Biocytin or biotinyllysine Vitamin B7 (biotin)
+Figure 15: Structure of biotin.
+Biotin consists of a fused imidazole ring and thiophene ring with a fatty acid side chain. The oxybiotin
+in which sulfur atom of biotin is replaced by an oxygen atom has same activity. Biotin and thiamine are
+the only sulfur containing vitamins. Biotin serves as prosthetic group for many enzymes which catalyse
+carboxylation, decarboxylation and transcarboxylation reactions in prokaryotes and eukaryotes. The
+CO is carried as carboxylic group attached to one of the ureido nitrogen atoms of biotin, forming N-
+2
+carboxybiotin complex (Figure 16). In humans, the biotin-requiring enzymes include acetyl-CoA
+carboxylase (ACC), pyruvate carboxylase (PC), propionyl-CoA carboxylase (PCC). The enzyme ACC
+is a cytosolic enzyme that is the rate-limiting enzyme of fatty acid synthesis. PC and PCC are
+mitochondrial enzymes; PC catalyzes the critical first reaction in the pathway of gluconeogenesis and
+PCC is involved in the metabolism of several amino acids and in oxidation of fatty acids with an odd
+number of carbon atoms.
+O
+-OOC N NH
+O
+S (CH2)4 C NH (CH2)4 Enzyme
+N-carboxybiotin complex
+Figure 16: Structure of N-carboxybiotin
+Vitamin B9
+Folic acid and its derivatives (tri- and hepta-glutamyl peptides) are widely distributed in biological
+world. It is present in liver, kidney, yeast, dates and spinach. Like thiamine with improper cooking, folic
+acid content is destroyed. Folic acid consists of three units, glutamic acid, p-aminobenzoic acid and
+pterin which is a derivative of heterocyclic fused ring compound (Figure 17).
+H2N N N
+1 8
+2 7
+N3
+4
+N
+5
+6
+9CH2 10NH CO NH CH (CH2)2 COOH
+OH
+COOH
+2-amino-4-hydroxy- p-aminobenzoic glutamic acid
+6-methylpterin moiety acid moiety moiety
+9
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+Figure 17: Structure of vitamin B9 or folic acid
+The number of glutamic acid residues varies in various vitamin B9 derivatives. The additional glutamic
+acid groups being conjugated in peptide linkage. The coenzymes of folic acid are dihydrofolate (DHFA
+or FH ) and tetrahydrofolate (THFA or TH ) (Figure 18).
+2 4
+H
+H2N N N
+8
+H
+H
+7
+N 6
+N
+5
+9CH2 10NH CO NH CH (CH2)2 COOH
+OH
+COOH
+7, 8-dihyrohydrofolic acid(DHFA)
+H
+H2N N N
+8
+H
+H
+7
+H
+N 6
+N5 9CH2 10NH CO NH CH (CH2)2 COOH
+OH H
+COOH
+5, 6, 7, 8-tetrahydropfolic acid (THFA)
+Figure 18: Structure of DHFA and THFA.
+DHFA is synthesized from folic acid by enzyme DHFA reductase (also known as folate reductase).
+DHFA can further be reduced by dihydrofolic reductase into 5,6,7,8 tetrahydrofolate (THFA).
+Reduction of THFA from folate is associated with oxidation of NAPDH or NADH and requires the
+presence of ascorbic acid. Drugs trimethoprim, methotrxate and aminopterin are inhibitors of DHFA
+reductase. Similar to two carbon transfer reactions performed by CoA, vitamin B9 is involved in one
+carbon transfer reactions.
+Vitamin B12
+Vitamin B12 is the last vitamin of B complex. It is known as cyanocobalamin. The coenzyme form of
+this vitamin is known as deoxyadenosylcobalamin or cobamide coenzyme. Vitamin B12 is found only
+in animals. Major source of vitamin B12 is liver, less amount is present in milk, meat, eggs, fish. It is
+synthesized by intestinal microorganisms. Cyanocobalamin is not present in plant foods except in
+spirulina, which is blue green algae. Animals and plants do not synthesize this vitamin. Only
+microorganisms especially aerobic bacteria synthesise cyanocobalamin.
+Structure of vitamin B12 is one of the most complex structures known (Figure 19). Cyanocobalamin is a
+pigment similar to the tetrapyrrole ring structure of the porphyrins e.g. chlorophyll and haem. It contains
+a heavy metal atom cobalt in its trivalent state. This is unique feature of this vitamin as there is no other
+cobalt containing organic molecule exists in nature. Cobalt atom is located in the central and is
+surrounded by a macrocytic structure of four reduced pyrrole rings (A, B, C and D) collectively called
+corrin. Out of six coordinate valences of the cobalt atom (Co2+), four are satisfied by four nitrogens of
+the reduced tetrapyrrole, fifth and sixth valency is satisfied by a nitrogen atom of 5,6-
+dimethylbenzimidazole and a cyanide ion, respectively. Ring A and D are directly linked to each other
+and corrin has lower degree of unsaturation with only six double bonds. Other two rings B and C are
+linked through a single methane carbon. Another unique feature of this vitamin is the presence of a loop
+of the isopropanol, phosphate, ribose and 5, 6-dimethylbenzimidazole in that order. The end of the loop
+is attached with the central cobalt atom.
+10
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+Figure 19: Structure of Vitamin B12 (R = CN, Me, and Coenzyme B12).
+The structure of the vitamin B12 and coenzyme B12 (5′-deoxyadenosyl cobalamin) are similar except
+that the CN group in B12 coenzyme is replaced by adenosine and linking with cobalt atom takes place
+at 5′ carbon atom of the ribose of adenosine. Vitamin B12 coenzyme is the only known example of a
+carbon-metal bond in a biomolecule. Vitamin B12 is converted to coenzyme B12 by extract from
+microorganisms supplemented with ATP.
+CN deoxyadenosine
+Co + ATP Co + CN + ppp
+tripolyphosphate
+vitamin B12 coenzyme B12
+Adenosylcobalamin take part in following biochemical reactions such as 1, 2 shifts of a hydrogen atom,
+carrier of a methyl group, isomerization of dicarboxylic acids and dismutation of vicinal diols.
+Vitamin C
+Vitamin C is also known as ascorbic acid and antiascorbutic factor because of its curing action against
+scurvy. It is present in all fresh fruits and vegetables. Citrus fruits such as orange, lemon are richest
+source of vitamin C. It is also present in amla, guavas, tomatoes, raw cabbage and green pepper.
+Vitamin C is synthesized by most animals, but not by primates (e.g. ape, human)and guinea pigs,
+therefore they acquire it from their diets. It is good reducing agent, it is lost under oxidizing conditions
+like aeration and heating.
+Ascorbic acid is derivative of hexose L-gulose (Figure 20). Only its L-isomer has anti ascorbutic
+property. It is readily oxidized in presence of copper and iron but not in aluminium. Because of this the
+foods cooked in copper utensils lose vitamin C quickly.
+O OH
+O 1 4 5 C 6 C H 2 OH
+2 3
+H
+OH OH
+Ascorbic acid
+11
+Kusum Yadav
+Department of Biochemistry
+Email: anukusum@gmail.com For M. Sc. Biochemistry Sem I
+Figure 20: Structure of vitamin C.
+Alkali also destroy vitamin C, therefore baking soda has deleterious effects more than steam cooking.
+Freezing has no detrimental effect. Vitamin C is powerful reducing agent as it oxidizes rapidly.
+Plants also follow this biosynthetic pathway of ascorbic acid. The inability to synthesize vitamin C by
+human, primates and guinea pigs is due to lack of enzyme L-gulono oxidase. The oxidation of ascorbic
+acid into dehydroascorbic acid takes place in presence of metal ion. Dehydroascorbic acid is even much
+more reducing agent by virtue of its unpaired electron. Dehydroascorbate can be reduced back into
+ascorbic acid in presence of H S or cysteine. The reduced form (ascorbate) and oxidised form
+2
+(dehydroascorbate) are equally potent for metabolic functions and present in plasma at a ratio of 15:1,
+respectively. Dehydroascorbic acid may be hydrated to 2, 3-diketo-L-gulonic acid which is biologically
+inactive and can not be converted to either of the two active forms in the body (Figure 21).
+O OH O OH OH OH OH
+O C CH2OH
+-2H
+O C CH2OH
++H2O
+O C C C C C CH2OH
+H
+o+x2iHda
+H hydro O O H H
+OH OH t
+r
+i
+e
+o
+d
+n
+u ction
+O O lysis
+L-Ascorbic acid Dehydro-L-ascorbic acid 2, 3- diketo-L-ascorbic acid
+Figure 21: Metabolism of ascorbic acid
+In plants ascorbic acid plays important role in germination, growth, metabolism and flowering. Vitamin
+C stimulates amylase, protease and RNase activity. Vitamin C acts as coenzyme for two groups of
+hydroxylation. One is copper containing hydroxylases and second is α-ketoglutarate-linked iron
+containing hydroxylases. Among copper containing enzymes is dopamine β-hydroxylase which
+catalyses synthesis of catecholamines (norepinephrine and epinephrine) from tyrosine in adrenal
+medulla and central nervous system. In this reaction Cu+ is oxidized to Cu2+. Ascorbic acid is
+specifically required for reduction of Cu2+ back into Cu+. In this redox reaction ascorbic acid is oxidized
+to monodehydroascorbate (Figure 22).
+hydroxylase
+O OH
+Cu2+ Cu+
+O OH
+O C CH2OH O C CH2OH
+H H
+OH OH OH Ọ
+L-Ascorbic acid monodehydro-L-asccorbic acid
+(semidehydroascorbate)
+Figure 22: Reduction of copper by ascorbic acid.
+12
