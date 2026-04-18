@@ -1,0 +1,1498 @@
+EFSA Journal 2010; 8(3):1461
+
+SCIENTIFIC OPINION
+
+Scientific Opinion on Dietary Reference Values for fats, including saturated fatty acids, polyunsaturated fatty acids, monounsaturated fatty acids, trans fatty acids, and cholesterol1
+EFSA Panel on Dietetic Products, Nutrition, and Allergies (NDA)2, 3
+European Food Safety Authority (EFSA), Parma, Italy
+
+ABSTRACT
+
+This Opinion of the EFSA Panel on Dietetic Products, Nutrition, and Allergies (NDA) deals with the setting of
+Dietary Reference Values (DRVs) for fats. A lower bound of the reference intake range for total fat of
+20 energy % (E%) and an upper bound of 35 E% are proposed. Fat intake in infants can gradually be reduced from 40 E% in the 6-12 month period to 35-40 E% in the 2nd and 3rd year of life. For specific fatty acids the following is proposed: saturated fatty acid (SFA) and trans fatty acid intake should be as low as possible; not to set any DRV for cis-monounsaturated fatty acids; not to formulate a DRV for the intake of total cispolyunsaturated fatty acids (PUFA); not to set specific values for the n-3/n-6 ratio; to set an Adequate Intake (AI) of 4 E% for linoleic acid (LA); not to set any DRV for arachidonic acid; not to set an UL for total or any of the n-6 PUFA; to set an AI for alpha-linolenic acid (ALA) of 0.5 E%; not to set an UL for ALA; to set an AI of
+250 mg for eicosapentaenoic acid (EPA) plus docosahexaenoic acid (DHA) for adults; to set an AI of 100 mg
+DHA for infants (>6 months) and young children <24 months; to increase by 100-200 mg preformed DHA in addition to the AI for adults as an adequate supply of n-3 long chain PUFA during pregnancy and lactation; not to set any DRV for conjugated linoleic acid. For cholesterol it was decided not to propose a reference value beside the limitation on the intake of SFA.
+
+KEY WORDS
+
+Fat, fatty acids, total fat, saturated fatty acids (SFA), monounsaturated fatty acids (MUFA), polyunsaturated fatty acids (PUFA), n-3 PUFA, n-6 PUFA, cholesterol, trans-fatty acids (TFA), conjugated linoleic acid (CLA), dietary requirements, blood lipids, lipid profile, glucose tolerance, insulin sensitivity, body weight, type 2
+diabetes, blood pressure, cardiovascular disease, coronary heart disease.
+1 On request from the European Commission, Question No EFSA-Q-2008-466, adopted on 04 December 2009.
+2 Panel members: Carlo Agostoni, Jean-Louis Bresson, Susan Fairweather-Tait, Albert Flynn, Ines Golly, Hannu Korhonen,
+Pagona Lagiou, Martinus Løvik, Rosangela Marchelli, Ambroise Martin, Bevan Moseley, Monika Neuhäuser-Berthold,
+Hildegard Przyrembel, Seppo Salminen, Yolanda Sanz, Sean (J.J.) Strain, Stephan Strobel, Inge Tetens, Daniel Tomé,
+Hendrik van Loveren and Hans Verhagen.
+Correspondence: nda@efsa.europa.eu
+3 Acknowledgement: The Panel wishes to thank for the preparation of this Opinion: Carlo Agostoni, Henk van den Berg,
+Jean-Louis Bresson, Jean-Michel Chardigny, Albert Flynn, Karin Hulshof, Ambroise Martin, Ronald Mensink, Hildegard
+Przyrembel and EFSA‟s staff member Silvia Valtueña Martínez.
+Suggested citation: EFSA Panel on Dietetic Products, Nutrition, and Allergies (NDA); Scientific Opinion on Dietary
+Reference Values for fats, including saturated fatty acids, polyunsaturated fatty acids, monounsaturated fatty acids, trans fatty acids, and cholesterol. EFSA Journal 2010; 8(3):1461. [107 pp.]. Available online:
+www.efsa.europa.eu
+
+SUMMARY
+
+Following a request from the European Commission, the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA) was asked to deliver a scientific opinion on Population Reference Intakes for the
+European population, including fat.
+Dietary fats or lipids include triacylglycerols, phosphatidylcholine and cholesterol. Along with proteins, carbohydrates, and alcohol, fats are a major energy source for the body. Fatty acids are also involved in many other vital processes in the body (e.g. structural components of cell membranes, precursors for bioactive molecules, regulators of enzyme activities, regulation of gene expression).
+Fatty acids can be classified according to their number of double bonds. Saturated fatty acids (SFA) have no double bonds, while monounsaturated fatty acids (MUFA) have one double bond and polyunsaturated fatty acids (PUFA) have two or more double bonds. These double bonds can have either the cis or trans configuration. Most unsaturated fatty acids in the diet have the cis configuration, but trans fatty acids (TFA) are also present as either trans-MUFA or trans-PUFA.
+Trans-PUFA have at least one trans double bond and may therefore also have double bonds in the cis configuration.
+In most countries, separate dietary recommendations exist for total fat intake, saturated fatty acids, monounsaturated fatty acids, polyunsaturated fatty acids, and trans fatty acids. For this purpose, polyunsaturated fatty acids are frequently subdivided into n-6 polyunsaturated fatty acids, n-3
+polyunsaturated fatty acids, and n-3 long-chain polyunsaturated fatty acids (n-3 LCPUFA). This latter class of fatty acids has 20 or more carbon atoms. Except for the n-3 long-chain polyunsaturated fatty acids, recommendations are expressed as percentage of total dietary energy (E%) or as grams per day.
+Due to its physical properties, cholesterol is also a fat. It does not provide energy, but plays a central role in many metabolic processes. Recommendations are expressed in milligrams per day (mg/day) or in milligrams per megajoule (mg/MJ).
+Total fat
+Fat is an important dense source of energy and facilitates the absorption of fat-soluble dietary components such as vitamins. Fats and oils are also important sources of essential fatty acids (EFA).
+High-fat diets may decrease insulin-sensitivity and are positively associated with changes in fasting and postprandial factor VII, which may increase cardiovascular risk. However, a precise doseresponse relationship can not be defined. There is evidence that a moderate fat intake (<35 E%) is accompanied by a reduced energy intake and therefore moderate weight reduction and/or prevention of weight gain. However, there are not sufficient data to define a Lower Threshold Intake (LTI) or
+Tolerable Upper Intake Level (UL) for total fat. The Panel concludes that only a Reference Intake range can be established for total fat intake, partly based on practical considerations (e.g. current levels of intake, achievable dietary patterns). At the lowest observed intake of total fat (20 E%) in
+European countries no overt signs of deficiencies have been observed nor adverse effects on blood lipids. Total fat intakes > 35 E% may be compatible with both good health and normal body weight depending on dietary patterns and the level of physical activity. The Panel proposes to set for adults a lower bound of the Reference Intake range of 20 E% and an upper bound of 35 E%.
+Fat intake in infants, which is high during the breastfeeding period, can gradually be reduced in the second half of the first year of life from the start of the complementary feeding period up to three years of age: 40 E% in the 6 to 12 month period and 35 to 40 E% in the 2nd and 3rd year of life. Fat intakes below 25 E% have been associated with low vitamin levels in some young children.
+EFSA Journal 2010; 8(3):1461 2
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Saturated fatty acids
+SFA are synthesised by the body and are not required in the diet. Therefore, no Population Reference
+Intake (PRI), Average Requirement (AR), Lower Threshold Intake (LTI), or Adequate Intake (AI) is set.
+There is a positive, dose-dependent relationship between the intake of a mixture of saturated fatty acids and blood low density lipoprotein (LDL) cholesterol concentrations, when compared to carbohydrates. There is also evidence from dietary intervention studies that decreasing the intakes of products rich in saturated fatty acids by replacement with products rich in n-6 polyunsaturated fatty acids (without changing total fat intake) decreased the number of cardiovascular events. As the relationship between saturated fatty acids intake and the increase in LDL cholesterol concentrations is continuous, no threshold of saturated fatty acids intake can be defined below which there is no adverse effect. Thus, also no Tolerable Upper Intake Level can be set.
+The Panel concludes that saturated fatty acids intake should be as low as is possible within the context of a nutritionally adequate diet4. Limiting the intake of saturated fatty acids should be considered when establishing nutrient goals and recommendations.
+Cis-monounsaturated fatty acids are synthesised by the body, have no known specific role in preventing or promoting diet-related diseases, and are therefore not indispensable constituents of the diet. The Panel proposes not to set any Dietary Reference Value for cis- monounsaturated fatty acids.
+Cis-polyunsaturated fatty acids (cis-PUFA)
+In view of the different metabolic effects of the various dietary cis- polyunsaturated fatty acids, the
+Panel proposes not to formulate a Dietary Reference Value for the intake of total cis- polyunsaturated fatty acids. Also, the Panel proposes not to set specific values for the n-3/n-6 ratio as there are insufficient data on clinical and biochemical endpoints in humans to recommend a ratio independent of absolute levels of intake.
+Linoleic acid (LA) cannot be synthesised by the body, is required to maintain "metabolic integrity", and is therefore an EFA. However, there are not sufficient scientific data to derive an Average
+Requirement, a Lower Threshold Intake or a Population Reference Intake.
+There is a negative (beneficial), dose-dependent relationship between the intake of linoleic acid and blood LDL cholesterol concentrations, while this relationship is positive for HDL cholesterol concentrations. In addition, linoleic acid (LA) lowers fasting blood triacylglycerol concentrations when compared to carbohydrates. There is also evidence that replacement of saturated fatty acids by n-6 polyunsaturated fatty acids (without changing total fat intake) decreases the number of cardiovascular events in the population. As the relationship between linoleic acid intake and the blood lipid profile is continuous, no threshold value of linoleic acid intake can be identified below which the risk for cardiovascular events increases.
+The Panel proposes to set an Adequate Intake for linoleic acid of 4 E%, based on the lowest estimated mean intakes of the various population groups from a number of European countries, where overt LA deficiency symptoms are not present.
+4 Nutritionally adequate diets" are the subject of food-based dietary guidelines and mean a dietary pattern which provides all essential nutrients in adequate amounts as well as energy delivering macronutrients in proportions that are known to maintain health
+EFSA Journal 2010; 8(3):1461 3
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Arachidonic acid (ARA) is synthesised by the body from linoleic acid and is therefore not an essential fatty acid despite its important role in maintaining "metabolic integrity". The Panel proposes not to set any Dietary Reference Value for arachidonic acid.
+Finally, there is at present no consistent evidence that the intake of any of the n-6 polyunsaturated fatty acids has detrimental effects on health (e.g. in promoting diet-related diseases). The Panel proposes not to set a Tolerable Upper Intake Level UL for total or any of the n-6 polyunsaturated fatty acids.
+n-3 polyunsaturated fatty acids (n-3 PUFA)
+Alpha-linolenic acid (ALA) cannot be synthesised by the body, is required to maintain "metabolic integrity", and is therefore considered to be an EFA. However, there are not sufficient scientific data to derive an Average Requirement, a Lower Threshold Intake or a Population Reference Intake.. The
+Panel proposes to set an Adequate Intake for alpha-linolenic acid of 0.5 E%, based on the lowest estimated mean intakes of the various population groups from a number of European countries, where overt alpha-linolenic acid deficiency symptoms are not present. There is no convincing evidence that the intake of alpha-linolenic acid has detrimental effects on health (e.g. in promoting diet-related diseases). The Panel, therefore, proposes not to set a Tolerable Upper Intake Level for alpha-linolenic acid.
+The human body can synthesise eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) from alpha-linolenic acid. Intervention studies have demonstrated beneficial effects of preformed n-3 longchain polyunsaturated fatty acids on recognised cardiovascular risk factors, such as a reduction of plasma triacylglycerol concentrations, platelet aggregation, and blood pressure. These effects were observed at intakes 1g per day, well above levels that were associated with lower cardiovascular disease (CVD) risk in epidemiological studies. With respect to cardiovascular diseases, prospective epidemiological and dietary intervention studies indicate that oily fish consumption or dietary n-3
+long-chain polyunsaturated fatty acids supplements (equivalent to a range of 250 to 500 mg of eicosapentaenoic acid plus docosahexaenoic acid daily) decrease the risk of mortality from coronary heart disease (CHD) and sudden cardiac death. An intake of 250 mg per day of eicosapentaenoic acid plus docosahexaenoic acid appears to be sufficient for primary prevention in healthy subjects.
+Therefore, and taking into account that available data are insufficient to derive an Average
+Requirement, the Panel proposes to set an Adequate Intake of 250 mg for eicosapentaenoic acid plus docosahexaenoic acid for adults based on cardiovascular considerations.
+To this intake 100 to 200 mg of preformed docosahexaenoic acid should be added during pregnancy and lactation to compensate for oxidative losses of maternal dietary docosahexaenoic acid and accumulation of docosahexaenoic acid in body fat of the foetus/infant.
+In older infants, docosahexaenoic acid intakes at levels of 50 to 100 mg per day have been found effective for visual function in the complementary feeding period and are considered to be adequate for that period.
+The Panel proposes an Adequate Intake of 100 mg docosahexaenoic acid for older infants (>6 months of age) and young children below the age of 24 months.
+The currently available evidence does not permit to define an age specific quantitative estimate of an adequate dietary intake for eicosapentaenoic acid and docosahexaenoic acid for children aged 2 to 18
+years. However, dietary advice for children should be consistent with advice for the adult population
+(i.e., 1 to 2 fatty fish meals per week or ~250 mg of eicosapentaenoic acid plus docosahexaenoic acid per day).
+EFSA Journal 2010; 8(3):1461 4
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Trans fatty acids (TFA)
+Trans fatty acids are not synthesised by the human body and are not required in the diet. Therefore, no
+Population Reference Intake, Average Requirement, or Adequate Intake is set.
+Consumption of diets containing trans-monounsaturated fatty acids, like diets containing mixtures of saturated fatty acids, increases blood total and LDL cholesterol concentrations in a dose-dependent manner, compared with consumption of diets containing cis-monounsaturated fatty acids or cispolyunsaturated fatty acids. Consumption of diets containing trans-monounsaturated fatty acids also results in reduced blood HDL cholesterol concentrations and increases the total cholesterol to HDL cholesterol ratio. The available evidence indicates that trans fatty acids from ruminant sources have adverse effects on blood lipids and lipoproteins similar to those from industrial sources when consumed in equal amounts. Prospective cohort studies show a consistent relationship between higher intakes of trans fatty acids and increased risk of coronary heart disease. The available evidence is insufficient to establish whether there is a difference between ruminant and industrial trans fatty acids consumed in equivalent amounts on the risk of coronary heart disease.
+Dietary trans fatty acids are provided by several fats and oils that are also important sources of essential fatty acids and other nutrients. Thus, there is a limit to which the intake of trans fatty acids can be lowered without compromising adequacy of intake of essential nutrients. Therefore, the Panel concludes that trans fatty acids intake should be as low as is possible within the context of a nutritionally adequate diet. Limiting the intake of trans fatty acids should be considered when establishing nutrient goals and recommendations.
+Conjugated linoleic acids (CLA)
+There is no convincing evidence that any of the conjugated linoleic acids isomers in the diet play a role in prevention or promotion of diet-related diseases. The Panel therefore proposes not to set any
+Dietary Reference Value for conjugated linoleic acids.
+Cholesterol
+Cholesterol is synthesised by the body and is not required in the diet. Therefore, no Population
+Reference Intake, Average Requirement, or Adequate Intake is set.
+Although there is a positive dose-dependent relationship between the intake of dietary cholesterol with blood LDL cholesterol concentrations, the main dietary determinant of blood LDL cholesterol concentrations is saturated fat intake. Furthermore, most dietary cholesterol is obtained from foods which are also significant sources of dietary saturated fatty acids, e.g. dairy and meat products.
+Therefore the Panel decided not to propose a reference on cholesterol intake beside its conclusion on the intake of saturated fatty acids.
+EFSA Journal 2010; 8(3):1461 5
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+
+EFSA Journal 2010; 8(3):1461 6
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+
+5.4.1. Saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA), n-6
+
+5.6.2. Saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA), n-6
+
+5.7.2. Saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA), n-6
+
+5.8.1. Total fat, saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA), n-6
+
+EFSA Journal 2010; 8(3):1461 7
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+
+5.9.1. Total fat, saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA), and
+
+EFSA Journal 2010; 8(3):1461 8
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+
+BACKGROUND AS PROVIDED BY THE EUROPEAN COMMISSION
+
+The scientific advice on nutrient intakes is important as the basis of Community action in the field of nutrition, for example such advice has in the past been used as the basis of nutrition labelling. The
+Scientific Committee for Food (SCF) report on nutrient and energy intakes for the European
+Community dates from 1993. There is a need to review and if necessary to update these earlier recommendations to ensure that the Community action in the area of nutrition is underpinned by the latest scientific advice.
+In 1993, the SCF adopted an opinion on the nutrient and energy intakes for the European
+Community5. The report provided reference intakes for energy, certain macronutrients and micronutrients, but it did not include certain substances of physiological importance, for example dietary fibre.
+Since then new scientific data have become available for some of the nutrients, and scientific advisory bodies in many EU member states and in the US have reported on recommended dietary intakes. For a number of nutrients these newly established (national) recommendations differ from the reference intakes in the SCF (1993) report. Although there is considerable consensus between these newly derived (national) recommendations, differing opinions remain on some of the recommendations.
+Therefore, there is a need to review the existing EU reference intakes in the light of new scientific evidence, and taking into account the more recently reported national recommendations. There is also a need to include dietary components that were not covered in the SCF opinion of 1993, such as dietary fibre, and to consider whether it might be appropriate to establish reference intakes for other
+(essential) substances with a physiological effect.
+In this context the EFSA is requested to consider the existing population reference intakes for energy, micro- and macronutrients and certain other dietary components, to review and complete the SCF recommendations, in the light of new evidence, and in addition advise on a population reference intake for dietary fibre.
+For communication of nutrition and healthy eating messages to the public it is generally more appropriate to express recommendations for the intake of individual nutrients or substances in foodbased terms. In this context the EFSA is asked to provide assistance on the translation of nutrient based recommendations for a healthy diet into food based recommendations intended for the population as a whole.
+
+TERMS OF REFERENCE AS PROVIDED BY EUROPEAN COMMISSION
+
+In accordance with Article 29 (1)(a) and Article 31 of Regulation (EC) No. 178/2002, the
+Commission requests EFSA to review the existing advice of the Scientific Committee for Food on population reference intakes for energy, nutrients and other substances with a nutritional or physiological effect in the context of a balanced diet which, when part of an overall healthy lifestyle, contribute to good health through optimal nutrition.
+In the first instance the EFSA is asked to provide advice on energy, macronutrients and dietary fibre.
+Specifically advice is requested on the following dietary components:
+Carbohydrates, including sugars;
+5 Scientific Committee for Food, Nutrient and energy intakes for the European Community, Reports of the Scientific
+Committee for Food 31st series, Office for Official Publication of the European Communities, Luxembourg, 1993.
+EFSA Journal 2010; 8(3):1461 9
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Fats, including saturated fatty acids, poly-unsaturated fatty acids and mono-unsaturated fatty acids, trans fatty acids;
+Protein;
+Dietary fibre.
+Following on from the first part of the task, the EFSA is asked to advise on population reference intakes of micronutrients in the diet and, if considered appropriate, other essential substances with a nutritional or physiological effect in the context of a balanced diet which, when part of an overall healthy lifestyle, contribute to good health through optimal nutrition.
+Finally, the EFSA is asked to provide guidance on the translation of nutrient based dietary advice into guidance, intended for the European population as a whole, on the contribution of different foods or categories of foods to an overall diet that would help to maintain good health through optimal nutrition (food-based dietary guidelines).
+EFSA Journal 2010; 8(3):1461 10
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+
+ASSESSMENT
+
+A draft of this Opinion, agreed by the NDA Panel on 2 July 2009, was published on the EFSA website6 for public consultation between 5 August and 15 October 2009. The draft Opinion was also discussed at a National Expert Meeting with Member States on Dietary Reference Values held in
+Barcelona on 7 and 8 September 2009. All the public comments received and comments from
+Member States that related to the remit of EFSA were assessed and the Opinion has been revised taking relevant comments into consideration. The comments received, a report on the outcome of the public consultation, and the minutes of the meeting with Member States have been published on the
+EFSA website.
+1. Introduction
+Dietary fats or lipids mainly consist of triacylglycerol, which are molecules composed of three fatty acids and glycerol, but phosphatidylcholine and cholesterol are also included. Along with proteins, carbohydrates, and alcohol, fats are a major energy source for the body. The energy produced by one gram of the most common triacylglycerols in the diet is approximately 37 kilojoules (kJ) (9
+kilocalories (kcal)) per gram. Fatty acids, however, are also involved in many other vital processes.
+Fatty acids can be classified according to their number of double bonds. Saturated fatty acids (SFA) have no double bonds, while monounsaturated fatty acids (MUFA) have one double bond and polyunsaturated fatty acids (PUFA) have two or more double bonds. The position of the double bond can vary along the carbon chain and its position can be indicated in several ways. When counted from the carboxyl-end (-COOH) of the molecule, the so-called "∆x"-nomenclature is applied, while the "nx" or " x" classification is used when counting starts from the methyl-end (-CH3). Thus, "n-9" or
+" 9" means that the double bond is located at the ninth carbon atom from the methyl-end. These
+
+(or hydrogen (H)-atoms) adjacent to the double bound point into the same direction, while in the trans configuration the two carbon atoms point into opposite directions. As an example, elaidic acid [transC18:1(n-9)] and oleic acid [cis-C18:1(n-9)] are shown in Figure 1. These two molecules are so-called geometrical isomers.
+n or ∆ O
+=
+
+HC C
+
+Oleic acid OH
+Cis-C18:1(n-9)
+O
+=
+
+HC 3 OH
+
+Elaidic acid
+Trans-C18:1(n9)
+Figure 1: Structure of oleic acid and elaidic acid
+6
+EFSA Journal 2010; 8(3):1461 11
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Most unsaturated fatty acids in the diet have the cis configuration, but trans fatty acids (TFA) are also present. Both trans-MUFA and trans-PUFA exist. Trans-PUFA have at least one trans double bond and may therefore also have double bonds in the cis configuration.
+In most countries, separate dietary recommendations exist for total fat intake, SFA, MUFA, PUFA, and TFA. For this purpose, PUFA are frequently subdivided into n-6 PUFA, n-3 PUFA, and n-3 longchain polyunsaturated fatty acids (n-3 LCPUFA). This latter class of fatty acids has 20 or more carbon atoms. Except for the n-3 LCPUFA, recommendations are expressed as percentage of total dietary energy (E%) or as milligrams (mg) per day.
+Due to its physical properties, cholesterol, a steroid, is also included in dietary fats. It does not provide energy, but plays a central role in many metabolic processes. Recommendations are expressed in mg/day or in mg/megajoule (MJ).
+2. Categories, structure and function
+In foods, fats are represented by several components such as fatty acids and sterols. Fatty acids are generally esterified on the glycerol backbone as triacylglycerols (also referred to as triglycerides, see below), but are also part of the phospholipid molecule. Phospholipids, which generally represent less than 1% of total dietary lipids, are found in cell membranes, milk fat globules, and eggs. A major phospholipid is phosphatidylcholine. Structurally, there are no differences between a fat and oil. Fats, however, are usually solid at room temperature, while oils are liquid.
+Triacylglycerols and fatty acids facilitate the absorption of other fat-soluble components such as vitamins. In the body, fatty acids are not only a major source of energy for the body, but also serve many vital functions (e.g. structural components of cell membranes, precursors for bioactive molecules, regulators of enzyme activities (e.g. protein myristoylation), regulation of gene expression).
+2.1. Triacylglycerols and fatty acids
+Triacylglycerols represent the major dietary form of fatty acids. The term "fatty acid" designates any of the aliphatic monocarboxylic acids that can be liberated by hydrolysis of triacylglycerols from fats and oils. In general, fatty acids represent more than 90% by weight of triacylglycerols. Three fatty acids are esterified to a glycerol backbone. Due to the asymmetric structure of substituted glycerol, the esterified fatty acids are distinguished by their position, namely sn-1, sn-2 and sn-3 position.
+Considering their metabolic fate (action of lipases) in the digestive tract, sn-1 and sn-3-esterified fatty acids are considered as esterified at "external" positions, whereas the sn-2 position is named
+"internal".
+Pancreatic lipase has a high specificity for the sn-1 and sn-3 position of dietary triacylglycerols so that free fatty acids from the sn-1 and sn-3 position and 2-monoacylglycerol are released and absorbed into the enterocyte where they are reassembled into triacylglycerols thereby conserving the fatty acid at the sn-2 position. Whilst the absorption of saturated fatty acids decreases with increasing chain length because of slow solubilisation into mixed micelles in the intestinal lumen and because of the formation of insoluble soaps with divalent cations like calcium, it can be enhanced by positioning the saturated fatty acid at sn-2 (Carnielli et al., 1996). Mixtures of saturated and unsaturated fatty acids in dietary fat, however, are almost completely absorbed (Bonanome and Grundy, 1989).
+EFSA Journal 2010; 8(3):1461 12
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Figure 2: Structure of a triacylglycerol
+The most common fatty acids in the diet are listed in Table 1.
+Table 1: Main fatty acids in the diet.
+Systematic nomenclature Common name Abbreviation
+Saturated fatty acids (SFA)
+Butanoic acid Butyric acid 4:0
+Hexanoic acid Caproic acid 6:0
+Octanoic acid Caprylic acid 8:0
+Decanoic acid Capric acid 10:0
+Dodecanoic acid Lauric acid 12:0
+Tetradecanoic acid Myristic acid 14:0
+Pentadecanoic acid Pentadecilic acid 15:0
+Hexadecanoic acid Palmitic acid 16:0
+Heptadecanoic acid Margaric acid 17:0
+Octadecanoic acid Stearic acid 18:0
+Hexadecenoic acid Palmitoleic acid 16:1Δ9c
+Octadecenoic acid Oleic acid 18:1Δ9c (n-9; ω9)
+Eicosenoic acid Gadoleic acid 20:1Δ9c
+Trans-monounsaturated fatty acids (trans-MUFA)
+Octadecenoic acid Elaidic acid 18:1Δ9t (n-9; ω9)
+Octadecenoic acid Trans-vaccenic acid 18:1Δ11t (n-7; ω7)
+Polyunsaturated fatty acids (PUFA) n-6 Polyunsaturated fatty acids (n-6 PUFA)
+.Octadecadienoic acid Linoleic acid 18:2Δ9c,12c (n-6; ω6)
+.Octadecatrienoic acid γ-Linolenic acid 18:3Δ6c,9c,12c (n-6; ω6)
+.Eicosatetraenoic acid Arachidonic acid 20:4Δ5c,8c,11c,14c (n-6; ω6) n-3 Polyunsaturated fatty acids (n-3 PUFA)
+.Octadecatrienoic acid α-Linolenic 18:3Δ9c,12c,15c (n-3; ω3)
+.Eicosapentaenoic acid EPA 20:5Δ5c,8c,11c,14c,17c (n-3; ω3)
+.Docosapentaenoic acid DPA 22:5Δ7c,10c,13c,16c,19c (n-3; ω3)
+.Docosahexaenoic acid DHA 22:6Δ4c,7c,10c,13c,16c,19c (n-3; ω3)
+Conjugated linoleic acid (CLA)
+Octadecadienoic acid Rumenic acid 18:2Δ9c,11t
+Octadecadienoic acid 18:2Δ10t,12c
+EFSA Journal 2010; 8(3):1461 13
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+2.1.1. Saturated fatty acids (SFA)
+Although exceptions exist, SFA consist - like all fatty acids - of an even number of carbon atoms. This number usually ranges between 4 and 20. Depending on the number of carbon atoms, SFA are divided into short chain saturated fatty acids (SCFA: less than 6 carbon atoms), medium chain fatty acids
+(MCFA: 6-10 carbon atoms), or long chain saturated fatty acids (12 to 18 carbon atoms). It should be noted, however, that this division is not stringent, and - that for example lauric acid with 12 carbon atoms is sometimes also denoted as a MCFA. In this Opinion, however, lauric acid is considered as a long chain saturated fatty acid.
+The most prevailing SFA in the diet are lauric acid (12:0), myristic acid (14:0), palmitic acid (16:0), and stearic acid (18:0). The human body can synthesise SFA, although to a very low extent.
+2.1.2. Monounsaturated fatty acids (MUFA)
+MUFA have one double bond in the fatty-acid chain. The quantitatively most important representative in the diet and in tissue lipids is oleic acid (18:1, n-9) with a double bond at the n-9 (ω9) position.
+Like other fatty acids, MUFA are almost completely absorbed from the intestine and are oxidised (for energy production), converted into other fatty acids, or incorporated into tissue lipids. Humans can synthesise MUFA and MUFA are therefore not required as such from the diet.
+2.1.3. Polyunsaturated fatty acids (PUFA)
+PUFA have 2 to 6 double bonds. Humans lack the enzymes Δ12- and Δ15-desaturase that can introduce double bonds in the n-6 and n-3 positions, respectively. Two PUFA with methyleneinterrupted cis-double bonds of the omega-3 (alpha-linolenic acid, 18:3, n-3) and omega-6 series
+(linoleic acid, 18:2, n-6) are thus essential to humans and must be provided by the diet. They are also the most abundant PUFA in the diet. The n-6 and n-3 PUFA are metabolised (desaturated and elongated) further by the same enzyme systems. PUFA with 20 or more carbon atoms are usually referred to as LCPUFA. Important n-6 and n-3 PUFA occurring in foods are mentioned in Table 1.
+The essential PUFA and LCPUFA serve important physiological functions in the organism.
+Arachidonic acid (ARA) and eicosapentaenoic acid (EPA) can be further transformed to eicosanoids, a group of biologically active substances including prostaglandins, prostacyclins and leukotrienes, which participate in the regulation of blood pressure, renal function, blood coagulation, inflammatory and immunological reactions and other functions in tissues. Furthermore, n-6 and n-3 PUFA, particularly the LCPUFA, are important structural components of cell membranes. They are essential for various membrane functions such as fluidity, permeability, activity of membrane-bound enzymes and receptors, and signal transduction.
+Other non-essential cis-PUFA can be formed from saturated and monounsaturated fatty acids, e.g. in the n-7 and n-9 series. These are generally found in small amounts in foods.
+2.1.3.1. n-6 polyunsaturated fatty acids (n-6 PUFA) n-6 PUFA mainly include linoleic acid (LA), and to a lesser extent ARA. Strictly speaking, only linoleic acid is essential, as the body can synthesise arachidonic acid from linoleic acid at intakes below 3.8 E% (Angela Liou and Innis, 2009). ARA is the precursor for series 2 prostanoids and series
+4 leukotrienes (Kinsella et al., 1990).
+Linoleic acid, when incorporated into skin ceramides, is essential for maintaining the waterpermeability barrier of the skin thereby avoiding excessive trans-epidermal water loss and the
+EFSA Journal 2010; 8(3):1461 14
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the accompanying energy loss from water evaporation. Linoleic acid is metabolised to, for example, gamma-linolenic acid (18:3, n-6), dihomo-gamma-linolenic acid (20:3, n-6; DHGLA) and arachidonic acid (20:4, n-6; ARA). The conversion of linoleic acid is limited. Emken et al. (1994), for example, estimated that less than 1% of deuterated LA was converted into ARA, possibly due to a low ∆5
+desaturase activity (El Boustani et al., 1989), which may be even further decreased in elderly women
+(Babin et al., 1999). Also the activity of ∆-6 desaturase decreases with age (Angela Liou and Innis,
+2009).
+2.1.3.2. n-3 polyunsaturated fatty acids (n-3 PUFA) n-3 PUFA are polyunsaturated fatty acids with one of the double bonds located at three carbon atoms from the methyl end. The quantitatively most important n-3 PUFA in the diet are: 18:3 (alphalinolenic acid, ALA), 20:5 (eicosapentaenoic acid, EPA), 22:5 (docosapentaenoic acid, DPA), and
+22:6 (docosahexaenoic acid, DHA). EPA is the precursor for series 3 prostanoids and series 5
+leukotrienes (Kinsella et al., 1990).
+ALA is essential in human nutrition as precursor for the n-3 LCPUFA. EPA, DPA and to a lesser degree DHA are synthesised from ALA through the sequential action of various desaturases and elongases in animal tissues, but not in plants. Estimates for the conversion of ALA into EPA are around 8 to 12%, while the conversion into DHA may be less than 1% (Goyens et al., 2006). Due to this low conversion and the fact that ALA, and EPA and DHA may have different biological function, many authorities have separate recommendations for ALA on the one hand, and for EPA and DHA on the other hand (see section 4).
+DHA is a component of membrane structural lipids, especially of phospholipids in nervous tissue and the retina. The developing brain accumulates large amounts of DHA both pre- and postnatally, particularly during the first two years of life, which is predominantly acquired from the mother via placental transfer and breast milk, although the capacity of the brain to synthesise DHA increases with gestational age (Clandinin, 1999; Salem et al., 1996).
+Linoleic acid and ALA are converted into their respective LCPUFA by the same enzymes. In fact, the conversion of ALA into EPA and DHA is decreased when the amount of linoleic acid in the diet increases (and vice versa). For this, reason, some dietary recommendations also include guidelines for the n-3/n-6 ratio in the diet. Whilst the proportion of dietary ALA converted into n-3 LCPUFA is not influenced by the dietary n-3/n-6 ratio, the amounts of n-3 LCPUFA formed depends on the amount of
+ALA consumed (Goyens et al., 2006). The ability to convert ALA into n-3 LCPUFA and the levels of n-3 LCPUFA in plasma phospholipids and red blood cells are, moreover, individually related to polymorphisms in the human ∆-5 and ∆-6 desaturase genes FADS1 and FADS2 (Schaeffer et al.,
+2006).
+2.1.4. Trans fatty acids (TFA)
+Most unsaturated fatty acids in the diet have the cis configuration, but TFA are also present. These fatty acids originate from several sources and trans-MUFA are the most common TFA in the diet.
+Trans-PUFA, however, are also present. Trans-PUFA have at least one trans double bond and may therefore also have double bonds in the cis configuration. TFA do not serve any vital functions.
+2.1.5. Conjugated linoleic acid (CLA)
+CLA refers to a mixture of positional and geometric natural isomers of linoleic acid, whose double bounds can be in either trans or cis configuration. They differ from most natural PUFA in that the double bonds are not separated by a methylene carbon, but are conjugated.
+EFSA Journal 2010; 8(3):1461 15
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+2.2. Sterols
+Sterols are mainly represented by cholesterol from animal fat, while phytosterols (sitosterol, campesterol, and stigmasterol) are present in vegetable-derived food items and supplemented products.
+Cholesterol is a sterol found in the cell membranes of all body tissues. It is not only derived from the diet, but it is also synthesised by the body. Cholesterol plays a central role in many biochemical processes. For example, cholesterol is a precursor for the synthesis of steroid hormones. In animal fat, sterols are mainly represented by cholesterol, while phytosterols are present in vegetable-derived food items and supplemented products. Trace amounts of cholesterol are also found in plant membranes.
+Due to too limited data available at habitual intakes, phytosterols will not be considered further in this
+Opinion.
+3. Dietary sources and intake data
+3.1. Dietary sources
+Examples of typical fat and fatty acid compositions of some common edible fats and oils are provided in Table 2, while Table 3 presents examples of the composition of some animal-derived food products.
+Table 2: Typical fatty acid (g/100 g) and cholesterol (mg/100 g) profiles of some edible oils and fats.
+Milk fat Coconut Palm Palm Cocoa Olive Low- High- Corn Soybean oil kernel oil oil butter oil erucic linoleic oil oil rapeseed acid oil sunflower oil
+SFA 63.4 86.5 81.5 49.3 59.7 13.8 7.4 10.3 12.9 15.3
+<12:0 11.0 14.1 7.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+12:0 3.2 44.6 47.0 0.1 0.0 0.0 0.0 0.0 0.0 0.0
+14:0 9.1 16.8 16.4 1.0 0.1 0.0 0.0 0.0 0.0 0.0
+16:0 26.8 8.2 8.1 43.5 25.4 11.3 4.3 5.9 10.6 10.7
+18:0 12.3 2.8 2.8 4.3 33.2 2.0 2.1 4.5 1.8 4.0
+MUFA 25.9 5.8 11.4 37.0 32.9 73.0 63.3 19.5 27.6 22.7
+Cis-18:1(n-9) 21.0 5.8 11.4 36.6 32.6 71.3 61.7 19.5 27.3 22.6
+Trans-C18:1 3.7
+PUFA 3.7 1.8 1.6 9.3 3.0 10.5 28.1 65.7 54.7 57.3
+18:2, n-6 3.3 1.8 1.6 9.1 2.8 9.8 18.6 65.7 53.2 50.1
+18:3, n-3 0.4 0.0 0.0 0.2 0.1 0.8 9.1 NA 1.2 6.5
+CLA 0.4 NA NA NA NA NA NA NA NA NA
+Cholesterol 265 0 0 0 0 0 0 0 0 0
+Values are derived from the U.S. Department of Agriculture, Agricultural Research Service. USDA Nutrient Database for
+Standard Reference, Release 20. Nutrient Data Laboratory Home Page, accessed on
+August 26, 2008.
+NA: not available
+EFSA Journal 2010; 8(3):1461 16
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Table 3: Typical fat and fatty acid (g/100 g food) and cholesterol (mg/100 g food) of some animalderived food products.
+Milk Butter Lean Pork Lean Beef Lean Lamb Chicken Fatty Fish Lean Fish
+(<5 g (<5 g (<5 g (white (>10 g (<2 g fat/100 g) fat/100 g) fat/100 g) meat) fat/100 g) fat/100 g)
+Total fat 3.2 81.1 3.8 4.0 4.4 1.6 11.1 1.3
+SFA 1.86 51.37 1.26 1.46 1.88 0.37 2.42 0.38
+<12:0 0.30 8.95 <0.01 0.00 0.01 0.00 0.00 0.00
+12:0 0.80 2.95 <0.01 <0.01 0.01 0.00 <0.01 0.00
+14:0 0.30 7.44 0.04 0.10 0.09 0.01 0.54 0.03
+16:0 0.83 21.70 0.79 0.89 0.90 0.26 1.71 0.26
+18:0 0.36 10.0 0.41 0.47 0.73 0.10 0.91 0.09
+MUFA 0.81 21.01 1.57 1.66 1.69 0.48 4.60 0.35
+Cis 18:1 0.81 16.98 1.36 1.52* 1.60* 0.40* 1.98* 0.23*
+Trans- NA 2.98 0.02 . .
+C18:1
+PUFA 0.20 3.04 0.45 0.17 0.22 0.40 2.41 0.42
+18:2, n-6 0.12 2.17 0.37 0.20 0.13 0.24 0.27 0.06
+18:3, n-3 0.08 0.32 0.01 0.01 0.07 0.01 0.25 0.01
+20:5, n-3 0.00 0.00 0.00 0.0 NA 0.00 0.57 0.07
+22:6, n-3 0.00 0.00 0.00 0.0 NA 0.02 0.86 0.20
+CLA NA 0.27 NA NA NA NA NA NA
+Cholesterol 10 215 57 45 74 57 78 48
+Values are from the U.S. Department of Agriculture, Agricultural Research Service. USDA Nutrient Database for Standard
+Reference, Release 20. Nutrient Data Laboratory Home Page, accessed on February
+26, 2009.
+NA: not available
+* undifferentiated
+3.1.1. Saturated fatty acids (SFA)
+SFA are present in animal- and plant-derived foods. Dairy fat is relatively rich in MCFA. Coconut oil and palm kernel oil also contain appreciable amounts of MCFA. The latter fat sources are also rich in lauric and myristic acids. Palm oil and meat are characterised by high amounts of palmitic (16:0) and stearic acid (18:0), while cocoa butter is relatively rich in stearic acid (18:0).
+3.1.2. Monounsaturated fatty acids (MUFA)
+Like SFA, MUFA originate from both plant and animal-derived foods. Especially olive, high oleic acid sunflower and rapeseed oils are rich sources. Besides, seeds and nuts contain significant amounts. Although the SFA content is in general higher, products rich in SFA are also a source of
+MUFA. Finally, fish may contain significant amounts of MUFA.
+3.1.3. Polyunsaturated fatty acids (PUFA)
+Vegetable oils and fish oils are important sources of PUFA. In many cereals and vegetables, the proportion of PUFA in the fat can also be high, although the total fat content of these products is relatively low.
+EFSA Journal 2010; 8(3):1461 17
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+3.1.3.1. n-6 polyunsaturated fatty acids (n-6 PUFA)
+Foods rich in n-6 PUFA include vegetable oils such as corn oil, soybean oil, and sunflower seed oil.
+Medium-high levels are found in rapeseed oil. Also dressings and fat spreads containing these oils have moderate levels of n-6 PUFA. Linoleic acid is the predominating PUFA in many vegetable oils.
+Oils derived from bacteria and microalgae and, to a lesser extent, egg yolk and lean meat contain
+ARA.
+3.1.3.2. n-3 polyunsaturated fatty acids (n-3 PUFA)
+Alpha-Linolenic acid (18:3, n-3), a plant-derived n-3 PUFA, is found in some vegetable foods, e.g.
+linseeds, rapeseed oil and walnuts. Fish is a unique rich source of n-3 LCPUFA (EPA and DHA).
+Other natural sources are human milk and cultivated marine algae (single cell oils). EPA and DHA may also be provided by foods and supplements enriched with the LCPUFA.
+3.1.4. Trans fatty acids (TFA)
+A large number of TFA isomers of MUFA and PUFA, including positional isomers of individual fatty acids, occurs in foods. These TFA originate from several sources:
+Bacterial transformation of unsaturated fatty acids in the rumen of ruminant animals.
+Industrial hydrogenation (used to produce semi-liquid and solid fats that can be used for the production of foods such as margarine, shortenings and biscuits).
+Deodorisation (a necessary step in refining) of unsaturated vegetable oils (or occasionally fish oils) high in polyunsaturated fatty acids.
+Heating and frying of oils at too high temperatures (> 220°C). These modifications are timedependent with about 5% of isomerisation of n-3 18:3 after 2 hours and 25% after 12 hours of heating (Henon et al., 1999).
+Dairy and beef fat typically contain around 3 to 6% TFA (as % weight (wt%) of total fatty acids), while levels in lamb and mutton can be somewhat higher. In fat of milk and meat products from ruminant animals the main TFA are isomers of the monounsaturated fatty acid oleic acid, with transvaccenic acid (18:1t, n-7) predominating (about 30 to 50% of total trans-18:1 isomers in milk fat).
+The TFA content in margarine and fat spreads may vary, depending on the proportion of partially hydrogenated oils used. In foods containing partially hydrogenated vegetable oil, the main TFA are also isomers of oleic acid with elaidic acid (18:1t n-9) accounting for 20 to 30% of total trans-18:1
+isomers. The TFA profiles of ruminant fat and hydrogenated vegetable oil show considerable overlap for many TFA isomers, although present in different proportions (Table 4). Except for trans-C18:1
+isomers, trans isomers of other MUFA (e.g. 14:1 and 16:1) as well as of polyunsaturated fatty acids also occur. Partially hydrogenated fish oil also contains trans 20:1 and 22:1 isomers. Dietary TFA are secreted into human milk.
+EFSA Journal 2010; 8(3):1461 18
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Table 4: Typical proportions (% of total trans 18:1 isomers) of positional 18:1 trans-isomers in ruminant and industrially hydrogenated fats from conventional foods
+-position
+Trans 18:1 isomer Milk fat, Milk fat, Milk fat, Industrially of double n-x position of double bond goat ewe cow hydrogenated fats bond n-2 16 10 8 6-8 1
+n-3 15 6 6 4-6 2
+n-4 14 9 8 8 a n-5 13 8 7 6-7 9-12a n-6 12 9 7 6-10 8-13
+n-7 (vaccenic acid) 11 37 47 30-50 10-20
+n-8 10 10 9 6-13 10-20
+n-9 (elaidic acid) 9 6 5 5-10 20-30
+n-10 to n-12 6-8 3 2 2-9 14-18
+n-13 5 < 1 < 1 < 1 2
+n-14 4 < 1 < 1 < 1 1
+Data compiled from Precht et al., 2001; Wolff et al., 2000; and Seppänen-Laakso et al., 1996.
+a Sum of n-4 and n-5 isomers
+3.1.5. Conjugated linoleic acid (CLA)
+Cis-9, trans-11 CLA (rumenic acid) is present in small amounts in ruminant fats and produced by bacteria. Mammals can also synthesise rumenic acid from trans-vaccenic acid (trans-18:1, n-7) through the action of ∆9 desaturases. Trans-10, cis-12 CLA in combination with rumenic acid (50/50) is found in supplements and produced by industrial processing. Human milk contains small quantities of rumenic acid and trans-10, cis-12 CLA.
+3.1.6. Cholesterol
+Cholesterol is present in animal-derived food items. Eggs in particular are a rich source of cholesterol.
+However, also dairy products and meats substantially contribute to the intake of cholesterol.
+3.2. Intake data
+Typical intakes of total fat and fatty acids are presented for children and adolescents in 15 countries
+(Annexes 1a and 1b) and adults in 22 countries in Europe (Annexes 2a and 2b). The data refer to individual based food consumption surveys, conducted from 1994 onwards. Most studies comprise national representative population samples. The data were derived from national reports and from a recently published overview (Elmadfa, 2009).
+As demonstrated in the Annexes there is a large diversity in the methodology used to assess the individual intakes of children, adolescents and adults. Because the different methods apply to different time frames, this inevitably resulted in variance in both the quality and quantity of available data, which make direct comparisons difficult. Moreover, age classifications are in general not uniform. Comparability might also be hampered by differences in food composition tables used for the conversion of food consumption data to estimated nutrient intakes. For fat, fatty acids and cholesterol, however, values might be considered as reasonably comparable (Deharveng et al., 1999).
+It should also be kept in mind that food consumption data is prone to reporting errors and there might be a varying degree of underreporting in different surveys.
+EFSA Journal 2010; 8(3):1461 19
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Although these differences may have an impact on the acccuracy of between-country comparisons and the results should be interpreted with caution, the presented data still give a good overview of the fat intake in a number of European countries. Most studies reported mean intakes and standard deviations
+(SD) or mean intakes and intake distributions. The number of studies that assessed the intake of n-3
+and n-6 polyunsaturated fatty acids and trans fatty acids appeared to be small. Dietary supplements were generally not taken into account in the calculation of intake estimates.
+3.2.1. Total fat
+Apart from infants till 18 months of age, available data show that average total fat intakes in children and adolescents in European countries varied between 28 and 42 E%, with 60% of the average intakes between 31 and 35 E%. Within population ranges varied from 22 to29 E% (5 percentile) to 38 to46%
+E% (95th percentile). In infants in the second half of the first year of life average intakes varied between approximately 26 and 29 E%.
+In adults average total fat intakes ranged from less than 30 E% to 47 E%. With the exception of adults aged 19 to 34 years, about one third of the reported average data were between 30 and 35 E%;
+approximately 15% were 40 E% or higher. In young adults these proportions were 50% and 8%, respectively. Within population ranges varied between 22 and 25 E% at the lower (5th percentile) and
+38 to48 E% at the upper end (95th percentile) of the distributions.
+In general, mean intakes were lowest in Norway and Portugal and highest in Latvia, Lithuania and
+Greece.
+3.2.2. Saturated fatty acids (SFA)
+In infants average intakes were between 11 and 13 E%. In Italian and Hungarian children mean SFA intakes of 10 to 11 E% were found. In other countries most average intakes ranged between 13 and
+15 E%, whereas in some age groups in Belgium, Denmark and the UK mean intakes were 15 E% and higher. The lower (5th percentile) and upper (95th percentile) end of the intake distributions varied between 8 and 9 E% and between 15 and 19 E%.
+In adults average SFA intakes varied between less than 9 and 26 E%, with lowest values mostly in
+South European countries and highest values in Romania. In adults aged 35 to 64 years and 65 and over approximately 35% of the reported average intakes were 15 E% or higher (7% in individuals aged 19 to 35 years). Within population ranges varied between 7 and 11 E% at the lowest
+(5th percentile) and between 17 and 22 E% at the highest (95th) percentile.
+3.2.3. Monounsaturated fatty acids (MUFA)
+Average MUFA intakes ranged between 8 and 11 E% in infants and in children and adolescents mostly between 10 and 13 E% (range approximately 9 and 18 E%). In Portugal and Spain the highest average intakes were observed. Intake distributions varied between 6 and 9 E% (5th percentile) and between 13 and 17 E% (95th percentile).
+In adults the highest mean intake was found in Greece (22 to 23 E%); in other European countries average intakes varied between 11 and 18 E%. When intake distributions were available, within population ranges varied between 6 and 8 E% and between 14 and 17 E% at the 5th and
+95th percentiles, respectively.
+EFSA Journal 2010; 8(3):1461 20
+2010,
+3, from
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+3.2.4. Polyunsaturated fatty acids (PUFA)
+In infants PUFA contributed on average 4 to5% to total energy intake. In children and adolescents this contribution ranged from approximately 4% to 9%, with the highest intake in Hungary. Intake distributions ranged between 2.4 and 4.7 E% (5th percentile) and between 5.7 and 12.9 E%
+(95th percentile).
+In adult populations average PUFA intakes varied between 4 and 8 E%, with highest intakes in
+Lithuania and Hungary. The lower and upper end of the intake distributions varied between 2.7 and
+4.1 E% (5th percentile) and between 4.7 and 11 E% (95th percentile).
+3.2.4.1. n-6 polyunsaturated fatty acids (n-6 PUFA)
+Some countries reported data for cis n-6 PUFA and/or linoleic acid. For children, average cis n-6
+PUFA intakes in absolute amounts varied between approximately 5 and 17 g per day and as percentage of energy between 2.9 E% (Sweden) and 6.9 E% (the Netherlands). Within population ranges varied between 2.7 to 7.7 g per day and 4.2 to 11.6 g per day and between 1.8 to 3.7 E% and
+4.2 to 11.6 E% at the 5th and 95th percentiles, respectively.
+For adults, average intake of cis n-6 PUFA ranged between 3.8 E% and nearly 6 E%. Distribution of intakes were only available for the Netherlands, ranging from 2.6 to 9.8 E% at the 5th and the
+95th percentile respectively, and for the UK, ranging from 1.9 to 10.5 E% at the 2.5th and 97.5th percentile, respectively.
+3.2.4.2. n-3 polyunsaturated fatty acids (n-3 PUFA)
+Some countries reported data for cis n-3 PUFA and/or ALA, EPA and DHA.
+For children average cis n-3 PUFA varied between 1.1 and 2.2g per day (0.6 E% and 1.4 E%). At the
+5th percentile average intakes ranged from 0.5 to 0.8 g per day (0.3 to 0.5 E%); at the 95th percentile average intakes ranged from 1.9 to 3.8 g/day (0.6 to 1.7 E%). Mean ALA intake was around 0.8 g per day (0.5 E%) for young children and 0.5 to 1.1 g per day (0.5 to 0.6 E%) for children and for adolescents. The intake of EPA and DHA varied between 0.02 and 0.04 g per day (0.01 to 0.02 E%) and less than 0.1 to 0.13 g per day (0.03 to 0.06 E%), respectively.
+In adults average intakes of cis n-3 PUFA ranged from approximately 1.5 to 2.6 g/day (0.7 to 1.3 E%).
+Distribution of intakes ranged in the Netherlands from 0.4 to 4.2 g per day (0.3 to 1.3 E%) at the 5th and the 95th percentile, and in the UK from 0.4 to 5.2 g per day (0.3 to 1.8 E%) at the 2.5th and 97.5th percentile, respectively. For ALA mean intakes varied between 0.7 g per day and approximately 2.3
+g per day (~0.4 to 0.8 E%). For EPA and DHA the mean intakes were between 0.03 and 0.15 g/d
+(0.01 and 0.06 E%) and between 0.05 and 0.27 g per day (0.02 and 0.12 E%), respectively.
+3.2.5. Trans fatty acids (TFA)
+Data of the intake of TFA in children were available for Denmark, the Netherlands, Sweden and the
+UK. Average intakes varied between 0.6 and 1.7 E%. Within population ranges varied between 0.2
+and 0.4 E% and 0.8 to3.3 E% (5th and 95th percentiles, respectively).
+TFA intake data for adults referred to Denmark, Finland, the Netherlands and the UK. Average intakes varied between 0.5 and 1.6 E%. Distribution of intakes ranged 0.2 to 0.7 E% (5th percentile) and from 0.9 to 1.7 E% (95th percentile).
+EFSA Journal 2010; 8(3):1461 21
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Evidence from a number of countries indicates that the intake of TFA in the EU has decreased considerably over recent years, owing to reformulation of food products, e.g. fat spreads, sweet bakery products and fast food. More recent reported intakes in some EU Member States are close to
+1 to 2 E% (EFSA, 2004). For example, in the UK the average intake of TFA has been halved to less than 1 E% (SACN, 2007). In France, intake data from 4079 individuals 3 to 79 years of age collected with 7-day food diaries and calculated with tables of TFA content of foods from 2008 show that TFA intakes have decreased by 40 % and are, on average, 1 E% in adults (1.4 E% at the 95th percentile), including 0.6 % for TFA from ruminant sources and 0.4 % for TFA from other sources (AFSSA,
+2009). Average intakes of TFA in Denmark, Finland, Norway and Sweden have decreased to around
+0.5 to 0.6 E% (Johansson et al., 2006; Lyhne et al., 2005; Männistö et al., 2003; Becker et al., 2005).
+3.2.6. Cholesterol
+In children below 15 years of age average intakes of cholesterol varied between approximately
+100 mg per day and more than 400 mg per day. In adolescents aged 15 to 18 years average intakes were between nearly 180 and 600 mg per day. At the 95th percentile the highest values were observed in Germany.
+Except for Romania, average intakes in adults ranged from nearly 200 mg per day to 550 mg per day.
+Mean daily intakes of about 800 and 700 mg per day were reported for Romanian men and women.
+4. Overview of Dietary Reference Values and recommendations
+Several national and international organisations and authorities have formulated Dietary Reference
+Values or recommendations for the intakes of total fat, fatty acids, and cholesterol. The German
+Society for Nutrition has published in 2006 a guideline on fat consumption based on an assessment of the strength for the evidence for the relationship between fat in the diet and certain dietary-related diseases (DGE, 2006).
+In general, recommendations are expressed as E%. For the long chain n-3 PUFA and cholesterol, recommendations may be expressed in mg. An overview of some dietary recommendations as set by different organisations is presented in Annex III and summarised in this paragraph.
+Most organisations have formulated a lower consumption level for total fat, because it was reasoned that at too low intakes adequate consumption of fat-soluble vitamins and essential fatty acids (EFA) could not be ensured. Upper limits for total fat intake have also been formulated because of possible relationships between total fat intake with energy intake and the risk to develop type 2 diabetes mellitus. In view of in particular their detrimental effects on dyslipoproteinaemia and cardiovascular risk, upper consumption levels for SFA and TFA were formulated. For linoleic acid and alphalinolenic acid lower consumption levels were formulated to prevent essential fatty acid deficiency. In addition, it was acknowledged that PUFA intake might protect against cardiovascular disease.
+However, upper limits were also formulated, mainly because of lack of data of extreme life-long high
+PUFA intakes on human health. Finally, only a limited number of organisations have formulated guidelines for dietary cholesterol. For those who did not, it was generally reasoned that guidelines for total fat and SFAwould already result in adecreased intake of cholesterol.
+EFSA Journal 2010; 8(3):1461 22
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+4.1. Adults
+4.1.1. Total fat
+Based on epidemiological and intervention studies in humans indicating a reduction in the risk of cardiovascular disease and obesity if a balanced diet with a maximum of 30 E% of fat is consumed in conjunction with physical activity, the German-Austrian-Swiss recommendations (D-A-CH, 2008) set a reference value for fat intake of 30 E%. During pregnancy and lactation this can be increased to
+35 E%.
+The Nordic Nutrition Recommendations (NNR, 2004) recommend a total fat intake of 25 to 35 E% calculated as triglycerides from the age of 2 years onwards with a population goal of 30 E% of total fat for planning purposes. It is stated that a reduction of fat intake below 25 E% does not provide any additional benefits, since very low fat diets tend to reduce HDL cholesterol and increase triglycerides in blood and impair glucose tolerance in susceptible individuals.
+The UK Committee on Medical Aspects of Food Policy (COMA) (DoH, 1991) concludes that DRVs for fat should be calculated from the summation of reference values for individual classes of fatty acids (saturated fatty acids, monounsaturated fatty acids, polyunsaturated fatty acids, trans fatty acids) and glycerol. Total fatty acid intake should therefore average 30 E% and total fat including glycerol
+33 E% including alcohol or 35 E% excluding alcohol.
+The Nutritional Recommendations for the French Population (AFSSA, 2001) recommend limiting total fat intake to 30 - 35 % of energy intake given the increasing prevalence of obesity, despite the empirical nature of this value. In addition, below 30 E%, a well-balanced intake of various fatty acids, especially polyunsaturated fatty acids, is more difficult to reach using the current food supply.
+The Health Council of the Netherlands (GR, 2001) recommends an amount of fat equivalent to 20 to
+40 E% for individuals with an ideal bodyweight. Overweight individuals or individuals with undesirable weight gain should limit their fat intake to 20 - 35 E%. The lower level of 20 E% was set as a diet with a fat content of less than 20 E% has an adverse effect on HDL cholesterol and triglycerides concentrations. An amount of 20 E% was also considered to be sufficient for an adequate linoleic acid intake. The upper bound of 40 E% was chosen because higher intakes could have adverse effects on the postprandial concentration of lipids in the blood and on the concentration of blood coagulation factor VII. It also reflects the average fat consumption in the Netherlands.
+The US Institute of Medicine (IoM, 2005) did not set an AI, an estimated average requirement (EAR) or a recommended dietary allowance (RDA) for adults as insufficient data were available to identify a defined intake level for fat based on maintaining fat balance or on the prevention of chronic diseases.
+The Dietary Guidelines for Americans (HHS/USDA, 2005) recommend keeping fat intake between 20
+E% and 35 E%
+The WHO/FAO (2003) recommendations for total fat are formulated to include countries where the usual fat intake is typically above 30 E% as well as those where the usual intake may be very low, for example less than 15 E%. The WHO considers that total fat energy of at least 20 E% is consistent with good health. For countries where the usual fat intake is between 15 E% and 20 E%, there is no direct evidence that raising fat intake to 20 E% will be beneficial for men. WHO/FAO therefore sets a population nutrient intake goal of 15-30 E%. For women of reproductive age at least 20 E% has been recommended by the Joint FAO/WHO Expert Consultation on Fats and Oils in Human Nutrition that met in 1993 (FAO/WHO, 1994).
+EFSA Journal 2010; 8(3):1461 23
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+4.1.2. Saturated fatty acids (SFA)
+The German-Austrian-Swiss recommendations (D-A-CH, 2008) recommend a maximum saturated fatty acid intake of 10 E% in order to prevent a rise in blood cholesterol concentrations.
+The Nordic Nutrition Recommendations (NNR, 2004) set a maximum intake of 10 E% of saturated fatty acids and trans fatty acids (calculated as fatty acids) based on the assumption that a reduction in the intake of SFA and TFA would reduce the risk of coronary heart disease (CHD).
+The UK COMA Committee (DoH, 1991) recommends that saturated fatty acids should provide an average of 10% of total dietary energy (including alcohol). A reduction of SFA in the diet to 10 E% in the UK would be expected to result in a decrease of blood cholesterol concentrations of about
+0.4 mmol/L.
+The Nutritional Recommendations for the French Population (AFSSA, 2001) recommend limiting the intake of saturated fatty acids to about 8 E% or 25 % of total fatty acids based on epidemiological data which associate excess intake of SFA with coronary heart disease as well as on the knowledge of the effect of different SFA. It is also recommended to consider the different SFA independently.
+The Health Council of the Netherlands (GR, 2001) states that SFA increase the risk of coronary heart disease. Therefore, SFA intake should be as low as possible. A UL for SFA has been set at 10 E% for adults and children of 4 years and older and is based on the lowest percentage of intakes currently observed in the Netherlands.
+The US Institute of Medicine (IoM, 2005) did not set an AI, EAR or RDA as there was no evidence to indicate that saturated fatty acids are essential in the diet or have a beneficial role in the prevention of chronic diseases. The Dietary Guidelines for Americans (HHS/USDA, 2005) recommend consuming less than 10 E% of saturated fatty acids.
+The WHO/FAO (2003) set population nutrient intake goals for SFA at <10 E%.
+4.1.3. Monounsaturated fatty acids (MUFA)
+The German-Austrian-Swiss recommendations (D-A-CH, 2008) state that monounsaturated fatty acids can be consumed up to 10 E%. With higher fat intakes >10 E% of MUFA are acceptable.
+The Nordic Nutrition Recommendations (NNR, 2004) state that the intake of cis-unsaturated fatty acids of adults and children from 2 years of age should be at about 20 E% with MUFA making up around 10 to 15 E% of it and PUFA around 5 to 10 E%.
+The UK COMA Committee (DoH, 1991) recommends that cis monounsaturated fatty acids
+(principally oleic acid) should provide an average of 12% of total dietary energy (including alcohol) for the population.
+The Nutritional Recommendations for the French Population (AFSSA, 2001) recommend an intake of monounsaturated fatty acids of 20 E% in adults including pregnant and lactating women. It was concluded that the neutrality of oleic acid was an advantage and that its consumption was justified.
+The Health Council of the Netherlands (GR, 2001) did not formulate AI for monounsaturated fatty acids alone but formulated AI ranges for monounsaturated fatty acids together with polyunsaturated fatty acids. They have been calculated on the basis of DRVs for fats, saturated fatty acids and trans fatty acids. Given a total fat consumption of 20 E%, the intake of monounsaturated fatty acids plus polyunsaturated fatty acids equals not less than 8 E% and no more than 19 E%. At a fat consumption of 35 E%, the optimum intake of monounsaturated fatty acids plus polyunsaturated fatty acids is
+EFSA Journal 2010; 8(3):1461 24
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the between 22 E% and 33 E%. Since the intake of polyunsaturated fatty acids should be between 3 E% and 12 E%, it is also possible to calculate upper and lower bounds for the intake of monounsaturated fatty acids. When total fat consumption is 35 E% and there is low intake of polyunsaturated fatty acids (3 E%), the optimum intake of monounsaturated fatty acids varies from 19 - 30 E%. Where there is a high intake of polyunsaturated fatty acids (12 E%), the optimum intake of monounsaturated fatty acids varies from 10 to 21 E%.
+The US Institute of Medicine (IoM, 2005) did not set an AI, EAR or RDA as there was no evidence to indicate that monosaturated fatty acids are essential in the diet and they have no known role in preventing chronic diseases.
+The WHO/FAO (2003) calculated the population nutrient intake goals for MUFA as "total fat minus
+(saturated fatty acids + polyunsaturated fatty acids + trans fatty acids)" and did not set a definitive value.
+4.1.4. Polyunsaturated fatty acids (PUFA)
+4.1.4.1. n-6 Polyunsaturated fatty acids (n-6 PUFA)
+The German-Austrian-Swiss recommendations (DGE, 2006; D-A-CH, 2008) advise that both n-6 and n-3 fatty acids should contribute between 7 and 10% of total energy intake. Recommended intakes for
+LA are based on the mean LA requirement of young adults (2 E%, CV of 15%) and are set at 2.5 E% for adults and children of 4 years and older.
+The Nordic Nutrition Recommendations (NNR, 2004) recommend an intake of cis-unsaturated fatty acids of about 20 E% for adults and children from 2 years of age with MUFA making up around 10 to
+15 E% and PUFA around 5 to 10 E% including 1 E% n-3 PUFA. Minimum requirements on which the recommendations are based are derived from threshold intake data from children. A ratio of n-6 to n-3 PUFA between 3 and 9 is considered to be adequate.
+The SCF (1992) calculated a PRI of 2 E% of linoleic acid based on rough estimations from infant feeding studies. It is recommended that total PUFA intake should not exceed 15 E%. The same PRI is applied for pregnant or lactating women.
+The UK COMA (DoH, 1991) recommends that cis ployunsaturated fatty acids should provide an average of 6% of total dietary energy (including alcohol) for the population. They should be derived from a mixture of n-6 and n-3 fatty acids. Dietary intake of total PUFA should not exceed 10 E%. For infants, children and adults, linoleic acid should provide at least 1 E%.
+The Nutritional Recommendations for the French Population (AFSSA, 2001) recommend an intake of linoleic acid of 4 E% in adults and 4.4 E% in pregnant and lactating women with a n-6/n-3 ratio of
+5:1. This recommendation is based on outcomes of studies of the effect of PUFA on cardiovascular disease and cancer. Concerning long-chain PUFAs, values are proposed after observation of usual consumption in dietary surveys around 500 mg per day corresponding to 0.2 E%. The recommendation is doubled to 0.4 E% for long-chain PUFA in pregnant and lactating women.
+The Health Council of the Netherlands (GR, 2001) has set an AI for linoleic acid of 2 E% in adults which is considered to be sufficient to prevent deficiency and reach a triene/tetraene ratio in plasma
+(eicosatrienoic acid:arachidonic acid) ratio below 0.2. Adults having a triene/tetraene ratio of less than
+0.2 are considered to have an adequate fatty acid status. In pregnancy and lactation the recommendation is raised to 2.5 E%. In pregnancy an average amount of 525 g of linoleic acid is deposited in the foetus. Breastfeeding women secrete on average 3.2 g per day of linoleic acid.
+EFSA Journal 2010; 8(3):1461 25
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+The US Institute of Medicine (IoM, 2005) states that studies in adult patients receiving total parental nutrition have shown to reverse n-6 fatty acid deficiency symptoms with as little as 7.4 to 8 g per day of linoleic acid. However, these data were considered insufficient to set an EAR and the AI is calculated based on the median intake of linoleic acid in the United States in the respective age group.
+In the US, the presence of an n-6 fatty acid deficiency is basically nonexistent in the free-living population. The AI for the age groups of 19 to 30 years and 31 to 50 years is 17g per day of linoleic acid for men and 12 g per day for women. From 51 years onwards the AI for linoleic acid is reduced to 14 g per day in men and 11 g per day in women due to the lower energy expenditure in comparison to the younger age groups. The AI for pregnant and lactating women has been set at 13 g per day using the same calculation method as for non-pregnant and non-lactating women.
+The WHO/FAO (2003) set the population nutrient intake goals for n-6 PUFA at 5 to 8 E% with a total intake of PUFA of 6 to 10 E%.
+4.1.4.2. n-3 Polyunsaturated fatty acids (n-3 PUFA)
+The German-Austrian-Swiss recommendations (D-A-CH, 2008) recommend that n-6 and n-3 fatty acids together should contribute 7 to 10% of total energy intake with a ratio of linoleic acid (n-6) to alpha-linolenic acid (n-3) of 5:1. The estimated value for n-3 fatty acid intake is 0.5 E% for all age groups including infants, children, pregnant and lactating women and is based on the recommendations for n-6 PUFA taking into account the desirable ratio. For primary and secondary prevention of coronary heart disease 0.25 and 1 g per day of n-3 LCPUFA, respectively, are deemed to be adequate, whilst up to 3 g per day are considered to be safe. DHA intake during pregnancy and lactation is to be at least 200 mg per day.
+The Nordic Nutrition Recommendations (NNR, 2004) recommend an intake of cis-unsaturated fatty acids of about 20 E% for adults and children from 2 years of age with MUFA making up around 10 to
+15 E% of it and PUFA around 5 to 10 E% including 1 E% n-3 PUFA. Minimum requirements on which the recommendations are based were derived from threshold intake data from children. A ratio of n-6 to n-3 PUFA between 3 and 9 is considered to be adequate.
+The SCF (1992) calculated a PRI of 0.5 E% of n-3 PUFA based on data from current dietary habits in
+Europe. It is recommended that habitual intakes of total PUFA should not exceed 15 E% and total n-3
+PUFA intake should not exceed 5 E%. The same PRI is applied for pregnant or lactating women.
+The UK COMA (DoH, 1991) recommends that cis-polyunsaturated fatty acids should provide an average of 6% of total dietary energy (including alcohol) for the population. They should be derived from a mixture of n-6 and n-3 fatty acids. Dietary intake of PUFA should not exceed 10 E%. For infants, children and adults alpha-linolenic acid should provide at least 0.2 E%. The Scientific
+Advisory Committee on Nutrition (SACN) recommended an intake of 450 mg of n-3 LCPUFA for the population including pregnant women (SACN, 2004).
+The Nutritional Recommendations for the French Population (AFSSA, 2001) recommend an intake of alpha-linolenic acid of 0.8 E% in adults and 0.9 E% in pregnant and lactating women with a n-6/n-3
+ratio of 5:1. This recommendation is based on the outcome of studies of the effect of PUFA on cardiovascular disease and cancer. Concerning LCPUFAs, values are proposed after observation of usual consumption in dietary surveys around 500 mg per day corresponding to 0.2 E%, including
+120 mg per day DHA, corresponding to 0.05 E%. The recommendation is doubled to 0.4 E% for
+LCPUFA and 0.1 E% for DHA in pregnant and lactating women.
+The Health Council of the Netherlands (GR, 2001) has set an AI for alpha-linolenic acid of 1 E% in adults, which is based on the protective effect of alpha-linolenic acid in relation to CHD. In pregnancy an average amount of 75 g of alpha-linolenic acid is deposited in the foetus. Breastfeeding women
+EFSA Journal 2010; 8(3):1461 26
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the secrete on average 0.5 g per day of alpha-linolenic acid. The recommendations are the same for pregnant and lactating women (GR, 2001). An AI for n-3 fatty acids from fish has been set at 0.45 g per day for adults and pregnant and lactating women (GR, 2006).
+The US Institute of Medicine (IoM, 2005) states that studies in adult patients who were fed by gastric tube showed a alpha-linolenic acid deficiency with intakes ranging from 0.015 to 0.095 g per day whereas intakes of 0.3 g per day prevented symptoms of deficiency. However, these data were considered insufficient to set an EAR and the AI is calculated based on the median intake of alphalinolenic acid in the United States where the presence of n-3 fatty acid deficiency is basically nonexistent in the free-living population. Small amounts of EPA and DHA can contribute towards reversing an n-3 fatty acid deficiency and can therefore contribute towards the AI for alpha-linolenic acid. For men the AI of alpha-linolenic acid has been set at 1.6 g per day and for women at 1.1 g per day. The AI for pregnant (1.4 g per day) and lactating women (1.3 g per day) has been set using the same calculation method as for non-pregnant and non-lactating women.
+The WHO/FAO (2003) set the population nutrient intake goals for n-3 PUFA at 1 to 2 E% with a total intake of PUFA of 6 to 10 E%.
+4.1.5. Trans fatty acids (TFA)
+The German-Austrian-Swiss recommendations (D-A-CH, 2008) recommend limiting the intake of trans fatty acids to <1 E% based on the fact that trans fatty acids increase LDL and decrease HDL cholesterol concentrations and increase the risk for coronary heart disease.
+The Nordic Nutrition Recommendations (NNR, 2004) recommend a maximum intake of 10 E% of saturated fatty acids and trans fatty acids (calculated as fatty acids) from the age of 12 months onwards based on the assumption that a reduction in the intake of SFA and TFA would reduce the risk of CHD.
+The UK COMA (DoH, 1991) states that trans fatty acid intake in the population should not increase further than the current estimated average of 5 g per day or 2 % of dietary energy (including alcohol).
+In 2007, the UK SACN endorsed the recommendation set by COMA, that the average trans fatty acid intake should not exceed 2 E%. It states that there is consistent evidence to support a moderate effect of trans fatty acids on increasing the risk of CHD. The primary mechanism for this effect appears to be via changes in the blood lipoprotein profile, although inflammatory responses and endothelial function may also be negatively affected by dietary trans fatty acids (SACN, 2007).
+In its report on health risks and benefits of trans fatty acids in food the French AFSSA states that daily consumption of total trans fatty acids higher than 2 E% gives rise to a significant increase in the risk of cardiovascular disease. Therefore it is recommended to consider this value a consumption level that should not be exceeded (AFSSA, 2005).
+The Health Council of the Netherlands (GR, 2001) states that trans fatty acids increase the risk of coronary heart disease and may have adverse effects on the metabolism of EFA. The Health Council of the Netherlands therefore recommends keeping intake levels as low as possible.
+The Dietary Guidelines for Americans (HHS/USDA, 2005) recommend keeping trans fatty acid intake as low as possible.
+The WHO/FAO (2003) set the population nutrient intake goals for trans fatty acids at below 1 E%.
+EFSA Journal 2010; 8(3):1461 27
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+4.1.6. Cholesterol
+Only the German-Austrian-Swiss recommendations (D-A-CH, 2008) and the WHO/FAO (2003) have set recommendations for a maximum intake of cholesterol. Both recommend not exceeding a cholesterol intake of 300 mg per day in the adult population.
+4.2. Infants and children
+4.2.1. Total fat
+The German-Austrian-Swiss recommendations (D-A-CH, 2008) for total fat intake are 35 to 45 E% for infants from 4 to <12 months old. For children from 1 to <4 years old 30 to 40 E% are recommended, thereafter up to the age of 15 years 30 to 35 E%.
+The Nordic Nutrition Recommendations (NNR, 2004) do not set recommendations for total fat intake for infants aged 0 to 6 months. For infants between 6 and 11 months of age the proportion of total fat should be kept between 30 and 45 E% and between 30 and 35 E% in infants between 12 and 23
+months of age.
+The Health Council of the Netherlands (GR, 2001) has set an AI for total fat for infants from 0 to
+5 months at the average fat content of human milk (40 to 45 E%). For infants aged 6 to 11 months it has endorsed the recommendation of the European Society of Paediatric Gastroenterology, which sets an AI at 40 E%.
+The recommended intakes of the US Institute of Medicine (IoM, 2005) for total fat for infants from
+0 to 6 months are based on an AI that reflects the observed mean intake of infants fed human milk.
+This corresponds to 31 g fat per day and 55% of total energy intake of infants from 0 to 6 months, assuming that the energy requirements of the infants are being met. The proportion of energy from dietary fat decreases during the second 6 months of life. The AI for older infants aged 7 to 12 months is based on the average intake of fat ingested from human milk and complementary foods. This corresponds to 30 g fat per day and 40% of total energy. No AI, EAR or RDA has been set by IoM for children and adolescents aged 1 to 18 years, as data generally show that there is no effect of fat intake on growth when consumed at levels as low as 21 E% and insufficient evidence exists to identify a defined intake level of fat to prevent obesity and chronic disease. The Dietary Guidelines for
+Americans (HHS/USDA, 2005) recommend a total fat intake of 30 to 35 E% for children 2 to 3 years of age and between 25 E% and 30 E% for children and adolescents 4 to 18 years of age.
+4.2.2. Saturated fatty acids (SFA)
+The German-Austrian-Swiss recommendations (D-A-CH, 2008) for SFA intake in children are less than 10 E%.
+The Health Council of the Netherlands (GR, 2001) set an AI for SFA for infants at 25 E% based on
+SFA equivalents in human milk. The maximum intake for children of 6 - 11 months should be 20 E% and 15 E% for children of 1 - 3 years of age.
+4.2.3. Monounsaturated fatty acids (MUFA)
+No recommendations for children were set.
+EFSA Journal 2010; 8(3):1461 28
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+4.2.4. Polyunsaturated fatty acids (PUFA)
+4.2.4.1. n-6 Polyunsaturated fatty acids (n-6 PUFA)
+The German-Austrian-Swiss recommendations (D-A-CH, 2008) recommend a linoleic acid intake of
+4 E% for children 0 to 4 months, 3.5 E% in children aged 4 - 12 months, 3 E% in children from 1 - 3
+years, decreasing to 2.5 E% thereafter.
+The Nordic Nutrition Recommendations (NNR, 2004) recommend that from 6 - 23 months of age the total amount of PUFA should constitute 5 - 10% of the total energy intake, including at least 1% of n-3
+fatty acids. From 6 to 11 months of age it is recommended that the initial n-6/n-3 ratio of 5 to 15:1 (in infant and follow-on formulae) should gradually approach the ratio for adults 3 to 9:1.
+The SCF (1992) defined for n-6 PUFA a PRI of 4.5 E% of for infants 6 - 11 months and of 3 E% for infants 1 - 3 years. PRIs for children above 4 years should be the same as those for adults.
+The Health Council of the Netherlands (GR, 2001) concluded that the AI for linoleic acid for infants from 0 to 5 months is 0.6 g/kg bodyweight per day based on breast milk composition. An AI for arachidonic acid for children from 0 to 5 months has been set at 0.04 g/kg bodyweight per day.
+The US Institute of Medicine (IoM, 2005) based the AI for n-6 PUFA for infants from 0 to 6 months on the observed mean intakes of infants fed human milk. This corresponds to 4.4 g per day of n-6
+PUFA and around 8% of daily energy intake. The AI for older infants aged 7 to 12 months is based on the average intake of n-6 PUFA ingested from human milk and complementary foods. This corresponds to 4.6 g per day of n-6 PUFA and around 6% of daily energy intake. For children and adolescents an AI for linoleic acid is set based on the median intake of linoleic acid consumed in the
+United States where the presence of an n-6 fatty acid deficiency is basically nonexistent in the freeliving population. For children aged 1 to 3 years the AI is set at 7g per day of linoleic acid, for children from 4 to 8 years of age the AI is 10 g per day. For 9 to 13 year old boys it is 12 g per day and for girls 10 g per day of linoleic acid. In the age group of 14 to 18 years the AI for boys is 16 g per day and for girls 11 g per day of linoleic acid.
+4.2.4.2. n-3 Polyunsaturated fatty acids (n-3 PUFA)
+The recommendations from Germany, Austria and Switzerland (D-A-CH, 2000) for alpha-linolenic acid intake for children do not differ from the recommendations for adults (0.5 E%).
+The Nordic Nutrition Recommendations (NNR, 2004) recommend that from 6 - 23 months of age the total amount of PUFA should constitute 5 - 10% of the total energy intake, including at least 1% of n-3
+fatty acids. From 6 to 11 months of age it is recommended that the n-6/n-3 ratio of 5 to 15:1 (in infant and follow-on formula) should gradually approach the ratio for adults of 3 to 9:1.
+The SCF (1992) defined a PRI of 0.5 E% of n-3 PUFA for infants 6 months to 3 years of age.
+The Health Council of the Netherlands (GR, 2001) concluded that the AI for alpha-linolenic acid for infants from 0 to 5 months is 0.08 g/kg bodyweight per day based on breast milk composition. The AI for n-3 fatty acids from fish has been set for children and adolescence from 6 months to 18 years at
+0.15 to 0.2 g per day. An AI for DHA has been set for children from 0 to 5 months at 0.02 g/kg per day.
+The US Institute of Medicine (IoM, 2005) based the AI for n-3 PUFA for infants aged 0 to 6 months on the amount of n-3 fatty acids, total fat, and energy provided by human milk. This results in an AI of 0.5 g per day and 1% of energy intake. The AI for older infants aged 7 to 12 months is based on the
+EFSA Journal 2010; 8(3):1461 29
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the average intake of n-3 PUFA ingested from human milk and complementary foods. This corresponds to
+0.5 g per day of n-3 PUFA and around 0.67% of daily energy intake. For children and adolescents an
+AI for alpha-linolenic acid is set based on the median intake of alpha-linolenic acid consumed in the
+United States where the presence of n-3 fatty acid deficiency is basically nonexistent in the free-living population. Small amounts of EPA and DHA can contribute towards reversing n-3 fatty acid deficiency and can therefore contribute towards the AI for alpha-linolenic acid. The AI is set at 0.7 g per day for children between 1 and 3 years and for children between 4 and 8 years at 0.9 g per day.
+For boys between the age of 9 and 13 years the AI is 1.2 g per day of alpha-linolenic acid and for girls
+1.0 g per day. This is increased in the age group of boys from 14 to 18 years to 1.6 g per day and in girls to 1.1 g per day of alpha-linolenic acid.
+4.2.5. Cholesterol
+Only the German-Austrian-Swiss recommendations (D-A-CH, 2000) and Eurodiet (2000) have set guidance values for children. Cholesterol intake in children should not exceed 80 mg/1000 kcal.
+EFSA Journal 2010; 8(3):1461 30
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Table 5: Overview of dietary recommendations for the intakes of total fat and fatty acids intakes for adults as set by different organisations.
+Countries / Year Total fat SFA TFA cis-MUFA PUFA Cholesterol
+Organisation
+United 1991 33 E% <10 E% < 2 E% 12 E% 6 E% with at least 1 E% LA and
+Kingdom 0.2 E% ALA
+Germany, 2000 30 E% <10 E% < 1 E% Total PUFA: 7-10 E%, n-6 < 300 mg
+Austria, PUFA 2.5 E%, n-3 PUFA: 0.5 per day
+Switzerland E%
+France 2001 30-35 E% <8 E% < 2 E% 20 E% 4 E% of which 4 % LA, 0.8 E%
+2005 ALA, 0.20 E% LCPUFA, and
+0.05 E% DHA
+The 2001 20-40 E% < 10 E% alap <12 E% of which at least 2 E%
+Netherlands 2006 LA, 1.0 E% ALA, 450 mg EPA
++ DHA
+USA 2002 20-35 E% < 10 E% alap 5-10 E% LA, 0.6-1.2 E% ALA
+
+WHO/FAO 2003 15-30 E% < 10 E% < 1 E% 6-10 E%, of which 5-8 E% n-6 < 300 mg
+PUFA and 1-2 E% n-3 PUFA per day
+Nordic 2004 25-35 E% <10 E% (includes TFA) 10-15 E% 5-10%, of which 1 E% n-3 fatty
+Countries acids
+SFA: Saturated fatty acids; TFA: Trans fatty acids; cis-MUFA: cis-monounsaturated fatty acids; PUFA: Polyunsaturated fatty acids; LA: Linoleic acid; ALA: alpha-linolenic acid; EPA:
+eicosapentaenoic acid; DHA: docosahexaenoic acid; alap = as low as possible; E%: percent of energy.
+EFSA Journal 2010; 8(3):1461 31
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5. Criteria (endpoints) on which to base Dietary Reference Values
+The amount and type of fat in the diet affects a wide variety of metabolic responses. As fat provides energy, changes in fat intake will usually be accompanied by changes in the intake of other energy providing food constituents, namely carbohydrates and/or protein. Therefore, these effects cannot be discussed in isolation. In general, responses are discussed relative to those of another nutrient that delivers energy. This can complicate comparisons between studies, as in one study - for example - carbohydrates are taken as point of reference, while in another study oleic acid is the point of reference. It is also possible that studies have been carried out under non-isocaloric conditions. These latter studies will however not be considered, except for the outcome of body weight control. In addition, in view of the large number of studies in this field, emphasis will be on recent meta-analyses of data from randomised intervention trials or prospective cohort studies.
+5.1. Dietary requirements
+There are insufficient data to determine the absolute amounts of fat and individual fatty acids which are needed for metabolic integrity and human health. Observed intakes in healthy population groups in combination with observed intakes associated with deficiency symptoms and amounts needed to alleviate such symptoms are useful to provide estimates of nutritionally sufficient and, therefore, desirable intake levels.
+During pregnancy and lactation an estimate of the additional needs for both the increase in maternal body tissues and the growth and development of the foetus and the production of breast milk need to be taken to into account.
+For infants in the first half of the first year of life requirements are assumed to be covered by the nutrients provided with exclusive breastfeeding by a well nourished mother.
+5.1.1. Total fat
+Fat is an important source of energy and facilitates the absorption of fat soluble vitamins and carotenoids. Despite this important role of fat and despite the indispensability of the two fatty acids
+LA and ALA, it is not possible to define a quantitative requirement for total fat.
+5.1.1.1. Adults
+Within the European adult population, intake ranges varied from 22 to 26 E% at the lower end (2.5 to
+10th percentile) to 38 to 48 E% at the upper end (90 to 97.5th percentile) of the distributions. Very low fat diets may increase the risk of an insufficient intake of PUFA, can impair the absorption of fatsoluble vitamins and be associated with insufficiency of other essential nutrients like zinc and
+B vitamins. The addition of 5 g fat to a diet providing only 5 g fat per day (total of 10g fat per day) was shown to significantly improve blood vitamin A concentrations and improve vitamin K availability (Jayarajan et al., 1980; Uematsu et al., 1996). Such low fat intakes are highly unlikely in
+European countries and no signs of deficiency have been observed at the lowest observed intakes in the European population including pregnant and lactating women.
+5.1.1.2. Pregnancy
+Pregnancy leads to an additional energy requirement of 375, 1200, 1950 kJ per day during the first, second and third trimesters, respectively (Prentice and Goldberg, 2000; Butte and King, 2005). There
+EFSA Journal 2010; 8(3):1461 32
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the are no data which would suggest that the fat intake as percentage of the total energy should differ from that of the diet in non-pregnant women.
+5.1.1.3. Lactation
+Lactating women have an increase in energy expenditure consistent with the energy cost of milk synthesis. Part of this energy can be mobilised from subcutaneous fat particularly but the major part has to be provided by the diet. An additional energy requirement of 1380 to 1900 kJ per day has been estimated (Butte and King, 2005; IoM, 2005). There are no data which would suggest that the fat intake as percentage of the total energy should differ from that of the diet in non-lactating women.
+5.1.1.4. Infants and children
+The observed mean intake of fat of infants from 0 to 6 months fed human milk averages 50 to 55% of total energy intake. Fat intake usually decreases thereafter to reach adult values by the end of the third year of life (Aggett et al., 1994; Agostoni et al., 2008). Within the European child and adolescent population, fat intake ranges varied from 22 to 29 E% (5 to 10th percentile) to 38 to 46 E% (90 to
+97.5th percentile).
+If the diet provides an adequate supply of energy and essential nutrients, there is no evidence that a dietary fat intake of 30 E% adversely affects the growth and development of healthy children in
+European countries. A review of studies from Europe and North America found little evidence of adverse effects of low dietary fat on growth of young children aged 6 to 36 months. The percentage of dietary fat was not correlated with growth velocity or energy density of the diet between ages 6 and
+12 months, whereas energy density of the diet was positively associated with energy intake and weight gain (Fjeld et al., 1989, Butte, 1996, Nicklas et al., 1992, Shea et al., 1993). No association between fat intake and growth was detected in infants aged 7 to 13 months or children aged 2 to 5
+years or 3 to 5 years (Friedman and Goldberg, 1976; Lapinleimu et al., 1995, Michaelsen and
+Jorgensen, 1995).
+In the Special Turku Coronary Risk Factor Intervention Project (STRIP) trial, a moderately restricted fat intake (25 to 30E%) was not associated with compromised growth or impaired neurological development in 1062 infants between 7 and 36 months and followed-up until the age of 18 years
+(Niinikoski et al., 1996). A similar intervention with a dietary fat intake of 30 to 35 E% in Danish infants also did not result in impaired growth between ages 7 and 13 months (Michaelsen, 1997).
+Some investigators have reported lower vitamin and mineral intakes in association with low-fat diets
+(Jayarajan et al., 1980). A cohort of 500 Canadian preschoolers was stratified according to fat intake:
+<30%, 30 to 40% or >40% of energy from fat between the ages of 3 and 6 years. Low-fat intake was associated with inadequate intake of fat-soluble vitamins. For children habitually on low-fat diets, the odds ratio for underweight for the age of 6 years was 2.3 (Gibson et al., 1993). The effect of dietary fat intake on growth of 140 children in New Zealand was examined at the age of 2, 4, 6 and 8 years
+(Boulton and Magarey, 1995).The median dietary fat intake (in percent of energy) fell from 44% at 3
+months to 36% at 6 months at which level it remained until 8 years. At each age interval no differences were observed in height, weight or skinfold thickness among children consuming <30%,
+30 to 34.9% and >34.9% of dietary energy as fat.
+In conclusion, older infants and children can grow normally with total fat intakes as low as about
+25 E% provided the energy intake and the intake of micronutrients is appropriate. Because of the higher energy requirement of infants and children per kilogram of body weight, such a low-fat diet may bear an increased risk of an overall too low energy intake.
+EFSA Journal 2010; 8(3):1461 33
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5.1.2. cis-Polyunsaturated fatty acids (PUFA)
+There are only two fatty acids that are essential to maintain metabolic integrity: linoleic acid and alpha-linolenic acid (see sections 2.1.3.1 and 2.1.3.2). Case reports of deficiency of the n-6 fatty acid linoleic acid and of the n-3 fatty acid alpha-linolenic acid do not allow defining the precise requirements for these essential fatty acids (Bjerve et al., 1987; 1989; Bjerve, 1989; Holman et al.,
+1982).
+Mean dietary PUFA intakes in Europe range between 3.6 and 8 to 9 E% in both children and adults
+(see Annex 1a and b).
+At the lowest observed intake of cis n-3 PUFA and cis n-6 PUFA in children, adolescents and adults in Europe (see section 3.2.4.1 and 3.2.4.2), no overt sign of deficiencies were observed. There are also no indications of overt deficiencies in pregnant and lactating women.
+Human milk supplies 10 to 18% of fats as PUFA depending on maternal dietary habits. Therefore, at early ages up to 10 E% may be represented by polyunsaturated fatty acids, possibly decreasing to 5 to
+10 E% once total fat intake is reduced to 30 E%.
+5.1.2.1. cis n-6 Polyunsaturated fatty acids (n-6 PUFA)
+Cases of LA deficiency were reported in patients on (total) parenteral nutrition (e.g. Jeppesen et al.,
+1998) and in infants fed skim-milk formula providing between 10 and 800 mg of LA/kg bodyweight per day. A LA intake of less than 0.1 E% resulted in dry squamous skin laesions, susceptibility to staphylococcal infections and retarded growth. Symptoms disappeared with a LA intake of 1 E% and did not occur in infants consuming 1.3 to 7.3 E% in the form of LA (Hansen et al., 1963). LA deficiency was associated with an elevated ratio of eicosatrienoic acid to arachidonic acid (>0.4 to
+0.2) (Holman, 1960; Jeppesen et al., 1998).
+No data are available to establish desirable tissue LA levels or to conclude on the LA requirement of healthy individuals.
+The habitual dietary intake in European countries varies considerably (see Section 3.2.4.1 and
+Annex 1) and does not lead to signs of LA deficiency. There is no indication for the necessity of an increase of LA intake during pregnancy and lactation, because the absolute amount consumed will increase in proportion to the increased energy intake.
+Human milk supplies 10 to 18%of total fatty acids as n-6 PUFA, mostly LA, depending on maternal dietary habits. Therefore, at early ages up to 5 to 8 E% may be represented by n-6 PUFA, later to decrease to 3 to 6 E% once total fat intake is reduced to 30 E%.
+The synthesis of long-chain n-6 derivatives, whose main compound in the n-6 series is arachidonic acid (ARA, 20:4, n-6), seems in conjunction with dietary intake to cover the needsof healthy (nonvegetarian) subjects, given the present lifestyle and dietary habits, and no requirement for preformed arachidonic acid can be defined for infants, adults and children, despite a low rate of conversion of
+LA into ARA in LA-deficient subjects (Plourde and Cunnane, 2007) and in infants (Demmelmair et al., 2001).
+Pregnant women with an adequate intake of LA do provide sufficient ARA for the foetus. The ARA content in human milk is similar over the world (0.35 to 0.7 weight % of total fatty acids) (Yuhas et al., 2006).
+EFSA Journal 2010; 8(3):1461 34
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5.1.2.2. cis n-3 Polyunsaturated fatty acids (n-3 PUFA)
+The essentiality of ALA consists of its role as a precursor for EPA and DHA. From the few cases of n-3 PUFA deficiency reported in the literature it was concluded that 0.2 E% of ALA were sufficient to increase deficient plasma levels of EPA, DPA and DHA, but not of ALA, and that this intake stimulated growth in growth-deficient children. From the same case reports "minimal" and "optimal" intakes of n-3 LCPUFA were calculated, 100 to 200 mg per day and 350 to 400 mg per day, respectively (Bjerve et al., 1987 and 1989). However, the plasma and tissue levels of DHA below which visual or neural functions are impaired are not known.
+Mean ALA intakes in the European population of 0.7 to 0.9 g per day (0.5 E%) of young children, 1.0
+to 1.2 g per day (0.4 to 0.6 E%) in children and adolescents and 0.7 to 2.3 g per day (0.4 to 0.8 E%) in adults have been reported and were not associated with signs of deficiency. Human milk supplies 0.5
+to 1%of total fatty acids as n-3 PUFA depending on maternal dietary habits. The same content is requested by European law in infant formulae intended for non-breastfed infants.
+Studies in normal healthy adults consuming western diets, which are rich in linoleic acid (LA), show that supplemental ALA raises EPA and DPA status in the blood and in breast milk (Brenna et al.,
+2009).The conversion of the essential fatty acid ALA to LCPUFA, particularly to DHA is low in humans and is estimated to be approximately 5% to EPA and <0.5% to DHA both in studies performed with stable isotopes and in supplementation studies where the increase of EPA and/or
+DHA in blood lipids in response to physiological and supraphysiological amounts of ALA was measured (Plourde and Cunnane, 2007). Whilst EPA increased significantly in most instances, the response of DHA was much smaller or not measurable and not related to the dose of ALA, except in vegetarians or in ALA deficiency. Possible explanations for this non-response are low endogenous synthesis, homoeostatic regulation of DHA levels in tissues and influences of the individual diet.
+However, women convert twice as much ALA to DHA than men (Burdge and Wootton, 2002) and this conversion is increased by estrogens, which may explain the increase in maternal DHA status measured as DHA content in plasma and red blood cell phospholipids during pregnancy (Otto et al.,
+1997 and 2001). Maternal DHA status, more than maternal ALA status or actual dietary intake, has a positive effect on placental DHA transfer to the foetus and on DHA content in human milk.
+The foetal brain is rich in fat, especially in DHA and ARA. First ARA and later DHA accumulate rapidly during the third trimester of pregnancy and after birth (Clandinin et al., 1980a and b). The growth spurt of the brain starts in the 28th week of gestation and continues to 1 year whilst the demand for DHA and ARA continues to 2 years of age (Martinez, 1992; 1994) and DHA content of the brain continues to increase in adolescence (Carver et al., 2001). In the normal term infant total DHA content of the body is about 3.8 g (Cunnane et al., 2000) and n-3 PUFA accretion during the last trimester has been estimated to be 34.1 mg/kg body weight per day of which most is DHA (Lapillonne and Jensen, 2009). Whole body and brain DHA accumulation may be limited by DHA availability due to a low maternal DHA status. In addition, recent data indicate that there is inter-individual variation in the ability to convert the precursor ALA to n-3 LCPUFA and, particularly to DHA, which is related to common polymorphisms in the human ∆-5 and ∆-6 desaturase genes FADS1 and FADS2
+(Schaeffer et al., 2006). DHA is preferentially transferred across the human placenta to the foetus mediated by specific transfer proteins (Larque et al., 2003 and 2006).
+Estimates of the DHA amount a woman needs to accumulate to accommodate the needs of her infant for deposition of DHA in the brain and retina during the last trimester of pregnancy (about 10 g) and during six months of lactation (12 to 14 g) add up to an additional requirement of 22 to 25 g equivalent to 90 to 100 mg per day over her basic DHA requirement (SACN, 2004) satisfied by limited endogenous synthesis from ALA and her habitual dietary DHA intake which may be low in many women in Europe who do not regularly consume fatty fish (or fish oil). Oxidative losses of maternal dietary DHA and accumulation of DHA in body fat of the foetus/infant should be taken into
+EFSA Journal 2010; 8(3):1461 35
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the account when estimating adequate dietary DHA intakes for pregnant women (SACN, 2004). A recent consensus among several research projects and scientific societies recommends a dietary intake of at least 200 mg of DHA per day for both pregnant and lactating women (Koletzko et al., 2007 and 2008).
+Intakes of fish, fish oils or n-3 LCPUFA from other sources during pregnancy are positively associated with slightly longer gestation, slightly higher birth weight and a reduced risk of preterm delivery (Koletzko et al., 2008). Moreover, a higher intake predicted a lower prevalence of postpartum depression (Hibbeln, 2002).
+The main n-3 compound supplied by human milk is docosahexaenoic acid, DHA, 22:6n-3, averaging
+7 to 8 mg/dL (means of DHA range from 0.17% to 1.0% of total fatty acids (Yuhas et al., 2006)). The
+DHA content of human milk is mainly a reflection of the variability in maternal DHA intake.
+However, even in the milk of vegans who consume no DHA containing food, some DHA (0.05 % of total fatty acids) (Sanders et al., 1978) is present. A dose dependent relationship between habitual maternal DHA consumption and DHA levels in human milk was demonstrated (Gibson et al., 1997).
+However, ALA or EPA dietary supplements have little effect on blood or breast milk DHA levels
+(Brenna et al., 2009).
+The DHA amount contained in breast milk can be considered to provide an estimate of the amount of
+DHA which is added to infant formulae since it has been shown that 2 to 6 months old infants who were fed a formula which contained ALA only and no EPA and DHA accumulated less DHA in brain than breast-fed infants (Farquharson et al., 1992; Makrides et al., 1994): 2.5 mg per day compared to
+5.0 mg per day (Cunnane et al., 2000). Addition of ALA to the diets of formula-fed infants does raise
+DHA, but no level of ALA tested raises DHA to levels achievable with preformed DHA at intakes similar to typical human milk DHA supply (Brenna et al., 2009). Hoffman et al. (2004) investigated the effects of solid baby food supplementation with DHA on visual maturation at one year of age in term infants exclusively breastfed from birth until four months and likely to have breast milk as the only source of milk until one year of age. Infants were randomly assigned at six months of age to consume daily one jar of either standard commercial solid baby foods (controls, n = 26) or baby foods containing DHA-enriched egg yolk (intervention, n = 25) until the age of one year. Breast-feeding continued in both groups up to an age of about nine months. Thus, for the entire 6-months trial period, the intervention group received an average of 108 mg DHA per day (13 mg/kg body weight per day) from baby foods and breast milk compared with 38 mg DHA per day (4.5 mg/kg body weight per day) in control infants from breast milk only. In DHA-supplemented infants, visual evoked potential (VEP) acuity was significantly more mature at 12 months of age than in controls. Both red blood cell-DHA levels and DHA intake were significantly correlated with VEP acuity at 12 months.
+Such small amounts of DHA may be needed for optimal growth and development of infants and children: approximately 20 to 50 mg per day of DHA in the 0 to 6 months period (estimated from the
+DHA content and the daily breast milk volume: 7 to 8 mg/dL and 500 to 750 mL) and 100 mg per day in the 6 to 24 months period (estimated from RCT with DHA) (e.g. Hoffman et al., 2004).
+5.2. Blood lipids and lipoproteins
+Numerous studies have dealt with the effects of fatty acids on blood lipid and lipoprotein concentrations. In addition to the many individual studies, also several meta-analyses have been published (Gardner and Kraemer, 1995; Clarke et al., 1997; Howell et al., 1997; Kris-Etherton and
+Yu, 1997; Mensink et al., 2003; Mozaffarian et al., 2006). Although quantitative estimates of the effects varied slightly, conclusions were essentially similar.
+Although certain genetic dispositions have been shown to influence the levels of blood lipid levels and explain part of the variability in the effects of nutrient consumption on risk factors for example cardiovascular diseases, the Panel considers that the present knowledge on interactions between
+EFSA Journal 2010; 8(3):1461 36
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the environment and human genome is at present insufficient to determine Dietary Reference Values with a view on preventive dietary measures early in life (Ordovas, 2009).
+5.2.1. Total fat
+When SFA are kept constant, varying total fat has no significant effects on LDL cholesterol (IoM,
+2005). Data from intervention studies consistently show that, at low intakes of SFA (<10%E), decreasing total fat intake increases the total/HDL cholesterol ratio and TG concentrations and decreases blood concentrations of HDL cholesterol, particularly in sedentary populations which are overweight or obese. This is supported by observational studies and provides a basis to set a lower bound (about 20 E%) for total fat intake (IoM, 2005).
+5.2.2. Saturated fatty acids (SFA)
+There is wide consensus that a mixture of SFA increases blood total, LDL and HDL cholesterol concentrations (Annex IV) relative to carbohydrates. As a consequence, the total to HDL cholesterol ratio does not change. A mixture of dietary SFA also decreased fasting triacylglycerol concentrations.
+SFA, however, differ in their potency to change blood lipid and lipoprotein concentrations. While lauric, myristic and palmitic acid raise blood total and LDL cholesterol concentrations, effects of stearic acid are more similar to those of carbohydrates. Effects of SFA on blood HDL cholesterol concentrations are in the opposite direction: lauric acid strongly increases blood HDL cholesterol concentrations, an effect that decreases with increasing chain length. Thus, stearic acid had the smallest effects on blood HDL cholesterol concentrations. For the total to HDL cholesterol ratio, effects of lauric acid are more favourable than carbohydrates. Stearic acid also slightly decreased this ratio, but effects did not differ significantly from those of carbohydrates. Effects of myristic and palmitic acids were very similar to those of carbohydrates. No differences between the effects of the different SFA on fasting blood triacylglycerol concentrations were detected.
+5.2.3. Cis-monounsaturated fatty acids (cis-MUFA)
+Cis-MUFA had a modest blood total and LDL cholesterol-lowering effect relative to carbohydrates.
+HDL cholesterol concentrations increased and consequently the blood total to HDL cholesterol ratio decreased. Fasting blood triacylglycerol concentrations also decreased. This effect was comparable to that of SFA. In these studies, cis-MUFA was mainly provided by oleic acid.
+Palmitoleic acid (C16:1(n-7)) is a minor cis-MUFA in the human diet and in blood plasma. One wellcontrolled study in slightly hypercholesterolaemic men showed that the effects of palmitoleic acid on blood LDL cholesterol concentrations are comparable to those of palmitic acid (16:0). HDL cholesterol concentrations were significantly lower with palmitoleic than with palmitic acid. In view of the low levels of palmitoleic acid in the diet, the practical relevance of these findings is however limited (Nestel et al., 1994).
+5.2.4. cis-Polyunsaturated fatty acids (cis-PUFA)
+5.2.4.1. n-6 polyunsaturated fatty acids (n-6 PUFA) cis n-6 PUFA lowered blood total and LDL cholesterol concentrations relative to carbohydrates.
+These effects were slightly stronger than those for cis-MUFA. Blood HDL cholesterol concentrations also increased, but this effect was slightly less than with SFA and cis-MUFA. Consequently, the blood total to HDL cholesterol ratio decreased. Changes in blood triacylglycerol were comparable to those of SFA and cis-MUFA. In these analyses, cis n-6 PUFA refers to linoleic acid. Increasing the
+EFSA Journal 2010; 8(3):1461 37
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the daily intake of ARA (20:4, n-6) from 210 mg to 1700 mg for 50 days did not influence the blood lipid and lipoprotein levels (Nelson et al., 1997).
+5.2.4.2. n-3 polyunsaturated fatty acids (n-3 PUFA)
+Effects of alpha-linolenic acid on the blood lipoprotein profile are comparable to those of linoleic acid. EPA and DHA, on the other hand, lower blood triacylglycerol concentrations compared to carbohydrates and other fatty acids. This effect is in particular evident in patients with increased blood triacylglycerol levels. In addition, these fatty acids may slightly increase blood LDL and HDL cholesterol concentrations. However, it should be noted that at daily intakes below <1 g, effects of n-3
+LCPUFA on the blood lipoprotein profile are small (Balk et al., 2006).
+5.2.5. Trans fatty acids (TFA)
+Evidence from many controlled human intervention studies indicates that consumption of diets containing trans-MUFA, like diets containing mixtures of SFA, consistently results in increased blood total and LDL cholesterol concentrations, compared with consumption of diets containing cis-MUFA or cis-PUFA (EFSA, 2004; Mozaffarian and Clarke 2009). The effect shows a linear dose response relationship with blood LDL cholesterol concentrations, indicating that effects are proportional to the amounts of TFA consumed. While the blood LDL cholesterol concentration increasing effect of transMUFA was very similar to that of palmitic acid (C16:0) and slightly less than that of myristic acid
+(C14:0), the available evidence does not provide a definitive answer to the question of whether TFA have an effect on blood LDL cholesterol concentrations different from that of SFA on a gram-forgram basis. Consumption of diets containing trans-MUFA also results in reduced blood HDL cholesterol concentrations compared with consumption of diets containing SFA, cis-MUFA or cisPUFA. Therefore, trans-MUFA, in comparison with other fatty acids, increase the total cholesterol to
+HDL cholesterol ratio.
+Evidence from controlled human intervention studies also indicates that, relative to diets containing
+SFA, cis-MUFA or cis-PUFA, consumption of diets containing TFA results in increased concentrations of fasting TG. The relationship shows a linear dose response.
+In most of the human intervention studies reviewed above, the effects of trans-MUFA from hydrogenated vegetable oils were assessed. Two recent studies have evaluated effects of trans-MUFA from ruminants on the blood lipoprotein profile. A controlled human intervention study indicates that, compared with a low total TFA diet (0.8% of energy), a diet with 3.7% of energy from TFA, whether from ruminant or industrial sources, had similar adverse effects on blood lipids and lipoproteins, including increases in blood LDL cholesterol concentrations, decreases in blood HDL cholesterol concentrations, and increases in the ratio of total to HDL cholesterol (Motard-Bélanger et al., 2008).
+The outcome from a second study was equivocal - compared with a diet containing ~5% TFA from dairy products, a diet containing industrially produced TFA lowered blood LDL cholesterol and HDL cholesterol concentrations in women but not in men while the ratio of total to HDL cholesterol was not affected (Chardigny et al., 2008).
+In conclusion, available evidence indicates that consumption of diets containing trans-MUFA, like diets containing mixtures of SFA, increases blood total and LDL cholesterol concentrations in a dosedependent manner compared with consumption of diets containing cis-MUFA or cis-PUFA.
+Consumption of diets containing trans-MUFA also results in reduced blood HDL cholesterol concentrations and increased total cholesterol to HDL cholesterol ratio. The available evidence indicates that TFA from ruminant sources have similar adverse effects on blood lipids and lipoproteins to those from industrial sources.
+EFSA Journal 2010; 8(3):1461 38
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5.2.6. Conjugated linoleic acid (CLA)
+From an extensive review of the literature, it was concluded that a mixture of CLA isomers has no major effects on plasma lipids (Terpstra, 2004; Salas-Salvadó et al., 2006). Studies have also been carried out to address the specific effects of the two major CLA isomers on the plasma lipoprotein profile. Tricon et al. (2004) found in healthy humans that cis-9, trans-11 CLA decreased blood LDL cholesterol and triacylglycerol concentrations, and the LDL to HDL cholesterol ratio as compared with trans-10, cis-12 CLA. The isomers were studied at three different daily intakes: approximately
+0.6 g, 1.2 g, and 2.4 g. A dose-response relationship was however not evident. In contrast, Naumann et al. (2006) did not observe in humans with LDL phenotype B differential effects of a daily consumption of 3 g of cis-9, trans-11 CLA or trans-10, cis-12 CLA on the blood lipoprotein profile.
+Thus, these intervention studies do not provide evidence that a mixture of CLA isomers, cis-9, trans11 CLA, or trans-10, cis-12 CLA have a clinically significant impact on the blood lipoprotein profile.
+5.2.7. Cholesterol
+Weggemans et al. (2001) have reviewed the effects of dietary cholesterol on blood lipids and lipoproteins. Based on the results of 17 well-controlled studies involving 556 subjects, it was found that the addition of 100 mg dietary cholesterol per day increased total cholesterol concentrations by
+0.056 mmol/L (95% CI: 0.046, 0.065 mmol/L), LDL cholesterol concentrations by 0.050 mmol/L
+(95% CI: 0.042, 0.058 mmol/L), and HDL cholesterol concentrations by 0.008 mmol/L (95% CI:
+0.005, 0.010 mmol/L). The ratio of total to HDL cholesterol increased by 0.020 units (95% CI: 0.010,
+0.030). When studies were divided into two groups based on the polyunsaturated-to-saturated fat ratio
+(P/S-ratio), the response in LDL cholesterol was 0.036 mmol/L for studies with a background diet characterised by a low P/S ratio (<0.7) and 0.061 mmol/L for studies with a high P/S ratio (>0.7). The fatty acid composition of the background diet did not affect responses of blood HDL cholesterol concentrations or the ratios of total to HDL cholesterol.
+5.2.8. Conclusion
+Under iso-energetic conditions, the most favourable lipoprotein profile to lower atherosclerotic risk is achieved when a mixture of SFA and TFA is replaced by a mixture of oleic acid, linoleic acid and n-3
+LCPUFA. These effects are dose-dependent. The various SFA may also differ in their effects on the blood lipoprotein profile. In particular, the effects of stearic acid may be less disadvantageous than those of myristic and palmitic acids. However the available data are insufficient to set different DRVs for different SFA.
+5.3. Haemostatic function
+Haemostatic function is a complex interplay of many processes such as endothelial function, platelet aggregation, coagulation and fibrinolysis. Each of these processes is determined by many different factors. This complex interplay illustrates that haemostatic function cannot be described by one single factor, which complicates dietary studies in this area. A further complication is that many different approaches exist to measure these factors and no single method exists to evaluate all aspects of haemostatic function.
+5.3.1. Total fat
+The effects of total fat intake on haemostatic profiles are conflicting. Overall, however, it appears that high-fat diets increase factor VII activity or levels, which are positively related to cardiovascular risk
+(Vorster et al., 1997; Thijssen and Mensink, 2005). Due to the different methods to measure factor
+VII, it is not possible to quantify these effects.
+EFSA Journal 2010; 8(3):1461 39
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5.3.2. Saturated fatty acids (SFA)
+From an extensive review of the literature, it was concluded that SFA with 12 to 16 carbon atoms might increase factor VII levels as compared to stearic acid. It was emphasised however that studies were far from consistent. For other factors involved in the coagulation or fibrinolytic pathway, or in platelet aggregation, no consistent patterns have emerged (Miller, 2005; Thijssen and Mensink, 2005).
+5.3.3. Cis-monounsaturated fatty acids (cis-MUFA)
+In two studies, Berry et al. (2007a, 2007b) compared the acute effects of a sunflower oil high in oleic acid with those of palm oil and shea butter - rich in the SFA stearic acid - on postprandial factor VII levels. It was found that both oils rich in saturated fatty acids resulted in lower postprandial factor VII concentrations. For oleic acid, no consistent effects on fasting coagulation or fibrinolytic factors or on platelet aggregation have been found (Thijssen and Mensink, 2005).
+5.3.4. Polyunsaturated fatty acids (PUFA)
+5.3.4.1. n-6 polyunsaturated fatty acids (n-6 PUFA)
+For linoleic acid, no consistent effects on fasting coagulation or fibrinolytic factors or on platelet aggregation have been found (Thijssen and Mensink, 2005).
+5.3.4.2. n-3 polyunsaturated fatty acids (n-3 PUFA)
+For fish oils, no consistent effects on fasting coagulation or fibrinolytic factors have been found
+(Thijssen and Mensink, 2005). For platelet aggregation, results are more consistent. Using various outcome parameters, such as ex vivo and in vitro platelet aggregation tests, it has been demonstrated that consumption of fish oils reduces the tendency of platelets to aggregate. Effects, however, are only consistent at fish oil intakes of more than 1 g per day (Knapp, 1997; Wensing et al., 1999; Thijssen and Mensink, 2005). For alpha-linolenic acid, no effects have been reported compared to linoleic acid, oleic acid or SFA (Thijssen and Mensink, 2005; Goyens and Mensink, 2006).
+5.3.5. Trans fatty acids (TFA)
+The effects of TFA from hydrogenated sources on haemostatic function have recently been reviewed
+(EFSA, 2004). It was concluded that intervention studies do not provide evidence that TFA from hydrogenated oils have an impact on haemostatic function.
+5.3.6. Conjugated linoleic acid (CLA)
+Effects of CLA on haemostatic function have hardly been studied. In one study with 17 healthy female volunteers, consumption for 63 days of a diet enriched with a mixture of 3.9 g of CLA isomers did not affect in vivo bleeding time, in vitro platelet aggregation, the prothrombin time, activated partial thromboplastin time, and the antithrombin III levels when compared with sunflower oil. The four major isomers in the mixture used were: cis-9, trans-11 CLA (17.5% of total CLA), trans-8, cis10 CLA (16.6%), cis-11, trans-13 CLA (23.5%), trans-10, cis-12 CLA (22.6%) (Benito et al., 2001).
+EFSA Journal 2010; 8(3):1461 40
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5.3.7. Conclusion
+No consistent picture has emerged of the effects of SFA, MUFA, TFA, and n-6 PUFA on haemostatic function. An exception may be the n-3 LCPUFA, which may decrease platelet aggregation in particular at daily intakes above 1 g. Dose-response relationships, however, cannot be ascertained.
+5.4. Inflammation and immune function
+Like haemostatic function, inflammation and immune function include numerous processes and many different cell types, which make it impossible to identify one single marker that describes the inflammatory or immune status of the human body.
+5.4.1. Saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA), n-6
+Based on prospective cohort studies and intervention studies, Kontogianni et al. (2006) concluded that
+SFA might increase plasma concentrations of inflammatory markers, but that results are far from consistent. For cis-MUFA, results were also not consistent.
+5.4.1.1. n-3 polyunsaturated fatty acids (n-3 PUFA)
+The effects of n-3 PUFA on blood markers of low-grade systemic inflammation and immune function have been the focus of many reviews. Balk et al. (2006) concluded that the evidence regarding the effects of n-3 PUFA from both animal and vegetable origin on high-sensitivity C-reactive protein (hsCRP) are inconclusive. Calder (2006) also concluded that ALA did not exert anti-inflammatory effects at realistic dietary intakes (up to 10g/day) in contrast to Giugliano et al. (2006). For fish oil it was concluded that n-3 LCPUFA are potentially potent anti-inflammatory agents. Many studies however have been carried out at intakes exceeding >1 up to 2 g per day, which limits the practical implications of these findings. Also, it was emphasised that larger trials are required to assess the therapeutic potential of n-3 LCPUFA in inflammatory diseases. Finally, Fritsche (2006) concluded that most studies - possibly because they were underpowered - failed to demonstrate an effect of n-3
+LCPUFA on the production of pro-inflammatory cytokines.
+5.4.2. Trans fatty acids (TFA)
+Reviews of epidemiologic studies have suggested that adverse effects of TFA from hydrogenated sources were related with some - but not all - inflammatory markers (Mozaffarian et al., 2006;
+Gebauer et al., 2007). Results from dietary intervention studies have inconsistently revealed similar effects (Lichtenstein et al., 2003).
+5.4.3. Conjugated linoleic acid (CLA)
+There is no evidence from human studies that at habitual intakes CLA has beneficial or detrimental effects on inflammation or immune function. At extreme high intakes (>3 g per day), trans-10, cis-12
+CLA may have unwanted effects in obese men on plasma pro-inflammatory markers (Risérus et al.,
+2002).
+5.4.4. Conclusion
+No consistent picture has emerged on the effects SFA, MUFA, CLA and n-6 PUFA on parameters related to inflammation and immune function. There are indications that n-3 LCPUFA from fish oil
+EFSA Journal 2010; 8(3):1461 41
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the may have beneficial effects, but results between studies are not consistent. In contrast, TFA from hydrogenated sources may have adverse effects on the inflammatory profile. Clear dose-response relationships have, however, not been established.
+5.5. Blood pressure
+5.5.1. Total fat
+According to a meta-analysis of studies carried out in subjects with a body mass index of at least
+25 kg/m2, it appeared that after 12 months total fat intake did not affect blood pressure (Nordmann et al., 2006).
+5.5.2. Saturated fatty acids (SFA)
+Effects of SFA on blood pressure have been mainly studied in comparison with those of linoleic acid.
+In these studies, however, no specific effects of linoleic acidwere identified (Pietinen, 1994).
+5.5.3. Cis-monounsaturated fatty acids (cis-MUFA)
+Shah et al. (2007) published the results of a meta-analysis of ten intervention studies comparing highcarbohydrate and high-cis-MUFA diets on blood pressure. It was reported that the diets rich in carbohydrate resulted in significantly higher systolic blood pressure (2.6 mm Hg, 95% CI: 0.4,
+4.7 mm Hg) and diastolic blood pressure (1.8 mm Hg, 95% CI: 0.0, 3.6 mm Hg). When the analysis was limited to the six randomised crossover studies, differences between the diets no longer reached statistical significance. It was, therefore, concluded that diets rich in carbohydrate might be associated with slightly higher blood pressure than diets rich in cis-monounsaturated fat. However, the difference
+ - if any - is small and does not justify recommendations to increase the intake of cis-MUFA at the expense of carbohydrates to manage blood pressure.
+5.5.4. Polyunsaturated fatty acids
+5.5.4.1. n-6 polyunsaturated fatty acids (n-6 PUFA)
+There is no convincing evidence that linoleic acid positively influences blood pressure (see also SFA).
+5.5.4.2. n-3 polyunsaturated fatty acids (n-3 PUFA)
+In a recent meta-analysis (Geleijnse et al., 2002), the effects of fish oil on reducing blood pressure were estimated from randomised trials. The median intake of fish oil (mainly EPA and DHA) was
+3.7 g per day. It was found that fish oil reduced systolic blood pressure on average by 2.1 mmHg and diastolic blood pressure by 1.6 mmHg. When the analyses were limited to double-blind trials, reductions of 1.7 mmHg and 1.5 mmHg were reported. Effects appeared to be larger in populations that were older (> 45 years) or hypertensive, while no dose response relationship of fish oil intake with change in blood pressure was observed. It was further mentioned that the antihypertensive effect of lower doses of fish oil (< 0.5 g per day) remained to be established.
+5.5.5. Trans fatty acids (TFA)
+Effects of TFA from hydrogenated oils on blood pressure have been examined in only a few trials with normotensive, healthy subjects. When compared with SFA, oleic acid or linoleic acid, no effects
+EFSA Journal 2010; 8(3):1461 42
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the of trans-MUFA on systolic or diastolic blood pressure were found (EFSA, 2004). Recently, it was also reported that a daily intake of 3.6 g of TFA from milk fat for 5 weeks did not change blood pressure and isobaric arterial elasticity (Raff et al., 2006).
+5.5.6. Conjugated linoleic acid (CLA)
+Effects of CLA on blood pressure have hardly been studied. In one study with healthy young men, it was however shown that a daily intake of 4.7 g of a mixture containing equal amounts of cis-9, trans11- and trans-10, cis-12 CLA isomers for 5 weeks did not affect blood pressure and isobaric arterial elasticity (Raff et al., 2006).
+5.5.7. Conclusion n-3 LCPUFA from fish oil and other sources may have a slight beneficial effect on blood pressure, especially at higher intakes (>0.5 g per day). For other fatty acids, there is no convincing evidence that they affect blood pressure.
+5.6. Glucose tolerance and insulin sensitivity
+5.6.1. Total fat
+There is some evidence that high-fat diets decrease insulin sensitivity, although the available data are not consistent (IoM, 2005). In the KANWU-study, for example, the adverse effect of SFA on insulin sensitivity was not evident when total fat intake exceeded 37 E% (Vessby et al., 2001). This may suggest that at these intakes total fat intake overruled effects of SFA on insulin sensitivity.
+Westerbacka et al. (2005) found in 10 obese women that increasing total fat intake from 16 to 56 E% for 2 weeks decreased insulin sensitivity.
+5.6.2. Saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA), n-6
+In 2004, Riccardi et al. (2004) have published a review on the effects of dietary fatty acids in relation to insulin sensitivity. It was concluded that in most intervention studies no effects were found of SFA versus unsaturated fatty acids. It was emphasised, however, that most studies were performed in very small groups of subjects and for a short period of time. In fact, in one of the largest trials in this field
+(the KANWU study), it was found that SFA might impair insulin-sensitivity when compared with cisMUFA, but only when total fat intake was below 37 E% (Vessby et al., 2001). Noteworthy,
+Lichtenstein et al. (2003) did not observe a consistent pattern between fatty acid intake with fasting glucose or insulin concentrations or with the HOMA-index, a marker for insulin resistance.
+5.6.3. n-3 polyunsaturated fatty acids (n-3 PUFA)
+In the KANWU study, fish oil had no effect on insulin-sensitivity (Vessby et al., 2001). Griffin et al.
+(2006) also found no effects of four different diets providing 6% of energy as PUFAs with an n-6:n-3
+ratio between 5:1 and 3:1 as compared with a control diet with a n-6:n-3 ratio of 10:1. The diets were enriched with alpha-linolenic acid, EPA, or DHA, or all three fatty acids. The diets were provided for six months. Insulin sensitivity was assessed with the homeostatic model assessment of insulin resistance and the revised quantitative insulin sensitivity test. Brady et al. (2004) did also not observe any effects of a daily supplement of 4 g of fish oil for six weeks on insulin sensitivity in Indian
+Asians. Insulin sensitivity was assessed by using the frequently sampled intravenous glucose tolerance
+EFSA Journal 2010; 8(3):1461 43
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the test with minimal model analyses. In contrast, another study suggested that in overweight women a daily supplement of 5 g of fish oil for 12 weeks improved insulin sensitivity as measured by an
+OGTT, but only in females with a high inflammatory status at baseline (Browning et al., 2007).
+5.6.4. Trans fatty acids (TFA)
+Effects of TFA from hydrogenated sources on insulin-sensitivity have been recently reviewed. It was concluded that intervention studies may suggest that - at extreme high intakes - TFA may have the same effects on postprandial insulinaemia in obese subject with type 2 diabetes as do SFA. At lower intakes, TFA did not adversely affect insulin sensitivity of healthy volunteers (EFSA, 2004; Risérus,
+2008).
+5.6.5. Conjugated linoleic acid (CLA)
+Several studies have examined the effects of CLA on plasma glucose and insulin concentrations. In only a few studies, insulin resistance was measured using the gold standard euglycaemichyperinsulinaemic clamp technique.
+Using a euglycaemic-hyperinsulinaemic clamp, Risérus et al. (2002) concluded that a daily supplement of 3.4 g trans-10, cis-12 CLA increased insulin-resistance by 19% in obese men with signs of the metabolic syndrome. In another study with abdominally obese men (Risérus et al., 2004), daily consumption of 3 g cis-9, trans-11 CLA increased insulin resistance by 15%. On the other hand,
+Syvertsen et al. (2007) reported no effects on insulin resistance in overweight and obese men and women of a daily consumption of 3.4 g of a mixture of CLA isomers, composed of 37.5% cis-9, trans11 and 38% trans-10, cis-12 CLA. Risérus et al. (2004) also found no effect on insulin resistance of a
+CLA mixture, composed of cis-9, trans-11 and trans-10, cis-12 CLA in similar proportions. Also, results of studies that measured fasting glucose and insulin concentrations or used an OGTT to assess insulin-sensitivity are conflicting. Tricon et al. (2004) found no effects of dairy products naturally enriched with cis-9, trans-11 CLA (1.4 g per day for six weeks) on fasting glucose and insulin concentrations. Naumann et al. (2006) also concluded that consumption for 13 weeks of 3 g per day of either cis-9, trans-11 or trans-10, cis-12 CLA did not affect fasting glucose or insulin concentration in volunteers with LDL phenotype B. In contrast, Lambert et al. (2007) recently reported that supplementation for 12 weeks of 3.9 g per day of a mixture of CLA isomers, mainly cis-9, trans-11
+and trans-10, cis-12 CLA in similar proportions, improved insulin sensitivity as measured with an
+OGTT in non-obese, regularly exercising women. A sunflower oil high in oleic acid was used as control.
+5.6.6. Conclusion
+The limited number of human intervention studies in non-diabetic subjects does not provide consistent evidence that fatty acids change insulin sensitivity. If anything, SFA intake may impair and n-3 PUFA intake may improve insulin sensitivity. In addition, total fat intake may decrease insulin sensitivity. Clear dose-response relationships have, however, not been established.
+5.7. Body weight control and energy balance
+5.7.1. Total fat
+The impact of manipulation of the macronutrient content on body weight in the context of weight management in overweight and obese subjects may be different from the effects on prevention of
+EFSA Journal 2010; 8(3):1461 44
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the weight gain in leaner persons and may depend on whether diets are administered ad libitum or under isocaloric conditions.
+In intervention trials with tightly controlled energy intakes and fat intakes ranging from 10 to 78 E%, energy expenditure, weight loss and weight maintenance are a function of energy intake rather than of the macronutrient composition of the diet (IoM, 2005; van Dam and Seidell, 2007; Nordman et al.,
+2006; Sacks et al., 2009). However, even in such studies, reduced fat diets (<35 E%) tend to be hypocaloric when compared to reduced carbohydrate diets (<50 E%) and enhance compliance with energy restriction, leading to slightly greater weight loss (IoM, 2005; van Dam and Seidell, 2007).
+Several randomised intervention studies suggest that reduced-fat (< 25 to 30 E%) diets consumed ad libitum have the potential to prevent weight gain in normal weight subjects and produce weight loss in overweight (BMI >25kg/m2) individuals as compared to higher fat diets (> 35 E%) (IoM, 2005). In some long-term (>1 year) intervention studies, dietary modifications with a shift from a habitual
+Western-type, high fat (35 to 40 E%), to fat-reduced (<30 E%) diets consumed ad libitum were associated with a reduced risk of weight gain or a moderate weight loss in various population groups including normal, overweight and obese subjects (IoM, 2005; Howard et al., 2006a; Lanza et al.,
+2001).
+Foods containing high amounts of fat tend to be energy dense, and evidence suggests that consuming diets of high energy density can undermine normal appetite regulation leading to increased overall energy intake through „passive overconsumption‟ of food and can result in weight gain (WHO/FAO,
+2003; IoM, 2005).
+Overall, diets with <35 E% fat may provide some advantages over diets with >35 E% fat in mediumterm weight reduction and long-term prevention of weight gain.
+5.7.2. Saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA), n-6
+Increasing the intake of oleic acid from 13.1 E% to 31.4 E% while decreasing the intake of palmitic acid from 8.4 E% to 1.7 E% for four weeks in a group of healthy non-obese adults resulted in a
+223 kcal higher daily energy expenditure than a change from 8.4 E% to 16.8 E% palmitic acid plus a change from 13.1 E% to 16.4 E% oleic acid in another group for the same duration (Kien et al., 2005).
+Piers et al. (2003) also concluded that increasing the intake of cis-MUFA and cis-PUFA by 13 E% at the expense of SFA for four weeks had a beneficial effect on body mass in overweight and obese men.
+Schirmer and Phinney (2007) reported that a daily intake of 890 mg per day of -linolenic acid
+(provided by 5 g borage oil) for 1 year reduced weight regain in formerly obese subject. Olive oil was used as control.
+5.7.3. n-3 polyunsaturated fatty acids (n-3 PUFA)
+Hill et al. (2007) have studied the individual and combined effects of n-3 PUFA supplements in addition to the usual diet and regular exercise on body composition. Overweight volunteers consumed daily for 12 weeks 6 g tuna oil (approximately 1.9 g n-3 LCPUFA) or 6 g sunflower oil, with or without an exercise intervention. It was concluded that fish oil reduced body fat mass when compared with sunflower oil. Couet et al. (1997) have reported similar results for lean subjects when daily fish oil intake was increased for three weeks by 6 g at the expense of visible fats in the usual diet.
+EFSA Journal 2010; 8(3):1461 45
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5.7.4. Trans fatty acids (TFA)
+In a prospective cohort study in 16,587 men, Koh-Banerjee et al. (2003) found that each 2 E% increase in TFA intake was associated with a 0.77 cm waist gain over 9 years, when isocalorically substituted for either PUFA or carbohydrates.
+5.7.5. Conjugated linoleic acid (CLA)
+CLA isomers have been extensively studied as potential modulators of body composition and body fat mass. In a recent meta-analysis of 18 clinical studies, Whigham et al. (2007) reported that the effect of
+CLA supplementation on the loss of fat mass is modest. It was estimated that supplementation with
+3.2 g CLA reduced fat mass by 0.09 kg per week. In a 1-year study, it was found that a daily consumption of 3.5 g CLA isomers containing equal amounts of cis-9, trans-11- and trans-10, cis-12
+CLA isomers decreased fat mass by approximately 2 kg. This effect was already achieved after six months (Gaullier et al., 2004). The reduction in fat mass appears to be located mainly in the legs
+(Gaullier et al., 2007), which is not considered as the metabolically active fat region. Although animal studies have suggested that trans-10, cis-12 CLA is the most active CLA isomer, this conclusion cannot be drawn from the limited number of human studies that have been carried out with single isomers (Wigham et al., 2007). It needs to be emphasised that CLA intakes in these studies exceed by far those that can be achieved with normal diets.
+5.7.6. Conclusion
+Short to medium-term (up to 1 year) and long-term intervention studies provide evidence that a moderate fat intake (<35 E%) is associated with reduced energy intake and therefore moderate weight reduction or prevention of weight gain.
+Some studies may suggest that SFA decreases energy expenditure as compared with cis-unsaturated fatty acids, but more studies - especially at lower intakes - are needed to extend these observations.
+From human studies, there is no evidence that, at habitual intakes n-3 PUFA, TFA, and CLA have a discernable impact on energy balance.
+5.8. Cardiovascular disease
+5.8.1. Total fat, saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA),
+A review of three dietary intervention studies has shown that decreasing the intakes of products rich in SFA plus cholesterol at the expense of products rich in linoleic acid and alpha-linolenic acid, and low in cholesterol, decreased the number of cardiovascular deaths (Sacks and Katan, 2002). No such effects were seen in a fourth study. Overall, these intervention trials strongly suggest that diet-induced changes in blood total cholesterol concentrations are causally related to changes in cardiovascular risk. Noteworthy, in these studies, total fat intake was hardly changed. In three other intervention trials, the reduction of total fat intake, in particular of saturated fat, and the increase in the consumption of carbohydrate-rich foods, did not significantly reduce the risk of cardiovascular disease. However, it cannot be excluded that the duration, compliance, and sample sizes may have been insufficient to demonstrate a reduction in coronary events. In the Health Professional follow up study, no relationships between total fat intake or intake of SFA, cis-MUFA, and n-6 PUFA with risk of stroke have been reported (He et al., 2003). Also, in the Women's Health Initiative Dietary
+Modification Trial a dietary intervention that reduced total fat intake and increased intakes of vegetables, fruits, and grains did not significantly reduce the risk of cardiovascular disease (Howard et al., 2006b).
+EFSA Journal 2010; 8(3):1461 46
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5.8.2. n-3 polyunsaturated fatty acids (n-3 PUFA)
+He et al. (2004a) carried out a meta-analysis of cohort studies to examine the association between fish intake and CHD mortality. Results indicated that fish consumption was inversely associated with fatal
+CHD. Compared with subjects who never consumed fish or consumed fish less than once per month, the multivariate relative risk (RR) for CHD mortality were 0.89 (95% CI, 0.79 to 1.01) for fish intake
+1 to 3 times per month, 0.85 (95% CI, 0.76 to 0.96) for once per week, 0.77 (95% CI, 0.66 to 0.89) for
+2 to 4 times per week, and 0.62 (95% CI, 0.46 to 0.82) for 5 or more times per week. Each daily increase in fish intake of 20 g was related to a 7% lower risk of CHD mortality. Comparable conclusions were drawn when stroke was considered as endpoint (He et al., 2004b). It should be noted that in these two studies, relationships with fish intake were examined and not with n-3 LCPUFA.
+Bucher et al. (2002) explored the relationship between the intake of dietary (from fish) and supplemental n-3 LCPUFA on CHD using data from randomised controlled trials. The risk ratio in patients who were on n-3 LCPUFA-enriched diets was 0.8 (95% CI, 0.5 to 1.2) for nonfatal myocardial infarction, 0.7 (95% CI, 0.6 to 0.8) for fatal myocardial infarction, 0.7 (95% CI, 0.6 to 0.9) for sudden death, and 0.8 (95% CI, 0.7 to 0.9) for overall mortality compared to those on control diets or placebo. Results did not differ between dietary and supplemental interventions. No dose-response relationships were reported.
+Based on a meta-analysis of randomised trials and large prospective studies, Mozaffarian and Rimm
+(2006) reported that the intake of EPA plus DHA is negatively related to cardiovascular risk in a dosedependent way. Intakes of 250 mg per day of EPA and DHA appeared to be sufficient for primary prevention in healthy adults. Recently, Harris et al. (2008) also conducted a meta-analysis based on six epidemiological studies in the United States. Results showed a continuous significant doseresponse relationship between the intake of EPA plus DHA up to 500 mg per day and the risk of death from CHD. In addition, observational studies, randomised clinical trials and experimental studies provide evidence that modest consumption of fish or fish oil (1 - 2 servings/wk of oily fish, or approx.
+250 mg per day of EPA plus DHA) reduces the risk of coronary heart disease and sudden cardiac death (Mozzafarian, 2008).
+Wang et al. (2006) also concluded from a systematic review of the literature that increased consumption of n-3 LCPUFA from fish or fish-oil supplements, but not of alpha-linolenic acid, reduces the rates of all-cause mortality, cardiac and sudden death, and possibly stroke. Effects appeared to be stronger in secondary than in primary prevention settings. Adverse effects were minor.
+In contrast, based on a meta-analysis that included both randomised controlled trials and cohort studies, Hooper et al. (2006) concluded that dietary or supplemental n-3 PUFA had no effect on cardiovascular events in subjects at risk or in the general population. For many reasons, however, their approach has been criticised by other authors (Twisselmann, 2006). Virtanen et al. (2008) also reported that fish consumption was associated with a lower risk of total cardiovascular disease, a relationship that was not modified by the intake of n-6 PUFA.
+Mozaffarian et al. (2005) reported that fish oil significantly reduced heart rate, particularly in those with higher baseline heart rate or longer intervention duration. This conclusion was based on a metaanalysis of thirty randomised controlled trials in humans. No evidence was present for a doseresponse effect. Brouwer et al. (2006) did not observe any beneficial effects of a daily supplement of
+2 g of fish oil on ventricular tachyarrhythmia or death in patients with implantable cardioverterdefibrillators and prior documented malignant ventricular tachycardia or ventricular fibrillation.
+Results for alpha-linolenic acid are less consistent. Brouwer et al. (2004) reported that increasing intake of alpha-linolenic acid by 1.2 g per day decreased the risk of fatal coronary heart disease by at least 20%. Wang et al. (2006), however, found no evidence that alpha-linolenic acid reduced the rates of all-cause mortality, cardiac and sudden death, and possibly stroke.
+EFSA Journal 2010; 8(3):1461 47
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5.8.3. Trans fatty acids (TFA)
+As already reviewed (EFSA, 2004; Mozaffarian and Clarke, 2009), results from a number of prospective cohort studies consistently support the findings from intervention studies for an association between higher intakes of TFA and increased risk of CHD. The available evidence is insufficient to establish whether there is any difference between ruminant and industrially produced
+TFA consumed in equivalent amounts and risk of CHD.
+5.8.4. Cholesterol
+In 2003, Hu and Willett (2002) reviewed the literature and concluded that there was no strong evidence that dietary cholesterol and modest egg consumption (1 egg per day) were related with either
+CHD or stroke. However, it was estimated that the relative risk for cardiovascular disease for each increase in the intake of dietary cholesterol of 200 mg / 1000 kcal was 1.37 (95% CI: 1.12 to 1.68)
+(Tanasescu et al., 2004). Djousse and Gaziano (2008) reported that in the 21,275 participants from the
+Physicians' Health Study I, the hazard ratio for incident heart failure was 1.28 (95% CI: 1.02 to 1.61) for men who consumed daily one egg and 1.64 (95% CI: 1.08 to 2.49) for those who consumed 2 or more eggs a day. Below these intakes, no associations were reported. In the Nurses' Health Study cohort, however, cholesterol intake was not related to intraparenchymal hemorrhages (Iso et al.,
+2001). For stroke, no relationship with cholesterol intake was found in male US healthcare professionals (He et al., 2003).
+5.8.5. Conclusion
+From intervention and epidemiological prospective cohort studies, it can be concluded that the fattyacid composition of the diet is an important determinant of cardiovascular risk. Decreasing the intake of SFA and TFA, and increasing the intake of fish oil, lower cardiovascular risk. Alpha-linolenic acid may also have a specific beneficial effect, but more intervention studies, specifically designed to look at the cardioprotective effects of this fatty acid, are needed. Available data on the relationship between cholesterol intake and risk of cardiovascular disease are inconsistent at current levels of intake.
+5.9. Type 2 diabetes mellitus
+5.9.1. Total fat, saturated fatty acids (SFA), cis-monounsaturated fatty acids (cis-MUFA), and n-6 polyunsaturated fatty acids (n-6 PUFA)
+In the Nurses Health Study, no effects were found of total fat, SFA, and cis-MUFA intakes vs. those of an isocaloric amount of energy from carbohydrates on the risk to develop type 2 diabetes mellitus.
+However, for a 5 E% increase of linoleic acid intake, the RR was 0.63 (95% CI, 0.53 to 0.76)
+(Salmerón et al., 2001). In contrast, the Iowa Women‟s Health Study only found some suggestions for an inverse relationship between PUFA and vegetable fat intake with the incidence of type 2 diabetes, but not with any type of fatty acids or with animal fat (Meyer et al., 2001). In the Health Professionals
+Follow-up Study, no relationships were observed for men between total fat or fatty acid intake and the risk of type 2 diabetes. Relationships with vegetable or animal fat intake were also not statistically significant (Van Dam et al., 2002).
+EFSA Journal 2010; 8(3):1461 48
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+5.9.2. n-3 polyunsaturated fatty acids (n-3 PUFA)
+Salmeron et al. (2001) reported that in the Nurses Health Study EPA plus DHA intake was inversely related to the risk to develop type 2 diabetes mellitus. In two other studies, however, no effects of n-3
+PUFA were reported (Meyer et al., 2001; Van Dam et al, 2002).
+5.9.3. Trans fatty acids (TFA)
+In the Nurses Health Study a positive relationship was observed between the intake of TFA and the risk of development of type 2 diabetes. These effects were primarily observed in obese women, which may be explained by the fact that these women were already more insulin resistant at the start of the study compared with non-obese women (Salmeron et al., 2001). In other studies, however, such relationships were not reported (Meyer et al., 2001; van Dam et al., 2002).
+5.9.4. Cholesterol
+Meyer et al. (2001) found a positive relationship between the intake of cholesterol and the incidence of type 2 diabetes mellitus. At a median daily intake of 382 mg, the RR was 1.17 (95% CI, 1.01 to
+1.37). Results were not corrected for intakes of fatty acids. Salmeron et al. (2001) reported that each increase of 100 mg dietary cholesterol/1000 kcal was associated with a 12% increased risk of type 2
+diabetes mellitus, when results were adjusted for differences in the intakes of fatty acids.
+5.9.5. Conclusion
+Epidemiological prospective cohort studies have not found consistent relationships between total fat intake, the intake of specific fatty acids or cholesterol with the risk to develop type 2 diabetes mellitus.
+5.10. Cancer
+A large number of studies have examined the link between total fat, SFA, MUFA, n-3 and n-6
+LCPUFA, TFA and other specific fatty acid intakes and the occurrence of cancers. In its last report, the World Cancer Research Foundation (WCRF/AICR, 2007) found however that only few suggestive relationships could be established between the intake of total fat and/or fat-containing foods and the risk of cancer.
+There is limited evidence suggesting that high total fat intakes may increase the risk of breast
+(postmenopausal) cancer. Schulz et al. (2008) confirmed the positive association between total fat intake and incidence of breast cancer in the EPIC-Potsdam study (HR 2.34, 95% CI 1.45-3.79, p for trend 0.0004 for the highest compared to the lowest tertile of a simplified food pattern score. This score is positively associated with total dietary fat and all fatty acid fractions. Total fat intake was
+31.15 E% for the first tertile and 39.2 E% for the highest tertile, after adjustment for confounders).
+Similar conclusions were reached in other studies (Prentice et al., 2006; Chlebowski et al., 2006;
+Borugian et al., 2004; McEligot et al., 2006). Total fat intake has also been associated with higher risk of lung cancer.
+Saturated fat intakes appear to be positively associated with breast cancer risk (Boyd et al., 2003;
+Bingham et al., 2003; Cho et al., 2003; Thiebaut et al., 2007; Sieri et al., 2008). Results from the EPIC cohort in Cambridge show that, using dietary data from diaries, a daily intake of around 35 g SFA doubles the risk of breast cancer in comparison to daily intakes of 10 g or less (Gonzalez, 2006). No significant association was found between the intake of either SFA, total fat or any subtype of fat and the risk of prostate cancer (Crowe et al., 2008).
+EFSA Journal 2010; 8(3):1461 49
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Trans fatty acids (Maillard et al., 2002) and more specifically trans-MUFA (Chajès et al., 2008) have been also strongly associated with an increased risk of breast cancer.
+Finally, the consumption of certain food items has also been associated with cancer risk. For example, butter consumption is associated with an increased risk of lung cancer, whereas the consumption of foods containing animal fat has been associated with an increased risk of colorectal cancer
+(WCRF/AICR, 2007). Conversely, consumption of fish (WCRF/AICR, 2007; Geelen et al., 2007; Hall et al., 2008) and olive oil (Stoneham et al., 2000; Rouillier et al., 2005; Galeone et al., 2007) appear to decrease the risk of colorectal cancer. However, these associations cannot be attributed to specific fatty acids.
+5.10.1. Conclusion
+For many specific fatty acids, results from prospective cohort studies are still too limited, and sometimes contradictory, to conclude on clear associations between their intakes and the risk of a particular type of cancer. The Panel concludes that at present the evidence is not sufficient to define a
+DRVs for total fat or specific fatty acids based on cancer outcomes.
+5.11. Nervous system function
+In the first months of life, lipids, besides energy, also supply structural components for the anatomical and functional development of the brain and the nervous system. DHA in functional areas of the brain is higher in breastfed infants than in infants fed formulas devoid of DHA (Farquharson et al., 1992;
+Makrides et al., 1994). The DHA content of tissues and brain has been associated with higher developmental scores observed in breastfed compared to formula-fed infants and this effect may be modulated by the individual genetic polymorhisms leading to DHA synthesis (Caspi et al., 2007).
+Within breastfed infants, DHA status at birth and maternal DHA intake in pregnancy are interconnected and are associated with the infants‟ developmental performance (Helland et al., 2003;
+Dunstan et al., 2008; Innis, 2007). Results from trials in formula fed infants are more divergent, and could be partly related to un-investigated covariates such as infants‟ DHA status at birth and the individual genetic background (Simmer et al., 2008).
+DHA supplementation through the complementary feeding period seems still effective in improving the neuro-functional and visual performance (Birch et al., 2007; Agostoni et al., 2009). Section 5.1.2.2
+reports indications on the levels of preformed DHA in the diet of infants. While 20 mg per day seem to represent the lowest limit of intake in the first six months through human milk (Marangoni et al,
+2000) and may partly affect the timing of developmental milestones in the first 12 months (Agostoni et al., 2009), 50 to 100 mg per day have been found effective for the visual function during the subsequent complementary feeding period (Birch et al., 2007; EFSA 2009).
+5.12. Cognitive decline and dementia
+There is some evidence from cross-sectional and prospective observational studies for an inverse association between dietary and supplemental intake of n-3 LCPUFA and the risk of cognitive decline, dementia, and Alzheimer disease (Lim et al., 2006; Issa et al., 2006). Available observational studies are more consistent in reporting benefits of n-3 LCPUFA on cognitive decline in elderly individuals without dementia than in the incidence of dementia or Alzheimer disease (Fothui et al.,
+2009). The few clinical trials available do not provide convincing evidence for an effect of n-3
+LCPUFA in the prevention or treatment of any form of dementia (Fothui et al., 2009) and most recent systematic reviews agree that available data are insufficient to draw firm conclusions on the role of nEFSA Journal 2010; 8(3):1461 50
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+3 LCPUFA on cognitive function in normal aging or on the incidence of dementia, including
+Alzheimer disease (Cederholm and Palmblad, 2010; Cole et al., 2009).
+The Panel concludes that the evidence available is not sufficient to define a DRV for n-3 LCPUFA based on cognitive decline or dementia outcomes.
+6. Key data on which to base Dietary Reference Values
+It should be emphasised that Dietary Reference Values for macronutrients - which are expressed as
+E% - are mutually dependent, because the sum of the separate recommendations is 100%. Thus, a change in the recommendation for one of the macronutrients is necessarily accompanied by a change in the recommendation of at least one of the other energy-providing macronutrients. Similarly, reference values for the separate classes of fatty acids are mutually dependent, as the sum equals total fat intake. An exception may be the n-3 LCPUFA and cholesterol for which reference intakes are usually expressed in mg per day. Recommendations for dietary cholesterol - if any - are also expressed in mg/MJ or mg per day.
+6.1. Total fat
+Fat is an important dense source of energy and facilitates the absorption of fat-soluble dietary components such as vitamins. Fats and oils are in themselves important sources of these components and of EFA. High-fat diets may decrease insulin-sensitivity. Also, fat intake is positively associated with changes in fasting and postprandial factor VII, which may increase cardiovascular risk. However, no unequivocal conclusions can be drawn and effects cannot be quantified. Short to medium-term (up to one year) and long-term intervention studies provide evidence that a moderate fat intake (<35 E%) is accompanied by a reduced energy intake and therefore moderate weight reduction or prevention of weight gain. The available data do not permit to establish dose-response relationships. The Panel, therefore, comes to the conclusion that only a Reference Intake range can be given for total fat intake, partly based on practical considerations (e.g. current levels of intake, achievable dietary patterns). At the lowest observed intake of total fat in European countries (20 E%) no overt signs of deficiencies have been observed neither adverse effects on blood lipids. Total fat intakes > 35 E% may be compatible with both good health and normal body weight depending on dietary patterns and the level of physical activity. The Panel proposes to set for adults a lower bound of the Reference Intake range of 20 E% and an upper bound of 35 E%.
+Fat intake in infants can gradually be reduced in the second half of the first year of life, from the start of the complementary feeding period up to three years of age: 40 E% in the 6 to 12 month period and
+35 to 40 E% in the 2nd and 3rd year of life. Fat intakes below 25 E% have been associated with low vitamin levels in some young children. For children above the age of three years the RI for adults applies.
+6.2. Saturated fatty acids (SFA)
+SFA are synthesised by the body and are not required in the diet. Therefore, no PRI, AR, LTI or AI is set.
+There is a positive, dose-dependent relationship between the intake of a mixture of SFA and blood
+LDL cholesterol concentrations when compared to carbohydrates. There is also evidence from dietary intervention studies that decreasing the intakes of products rich in SFA by replacement with products rich in n-6 PUFA (without changing total fat intake) decreases the number of cardiovascular events.
+As the relationship between SFA intake and the increase in blood LDL cholesterol concentrations is continuous, no threshold of SFA intake can be defined below which there is no adverse effect. Also
+EFSA Journal 2010; 8(3):1461 51
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the no UL can be set as any increase in the intake of a mixture of SFA adversely affects blood LDL cholesterol concentrations.
+The four major SFA in the diet (lauric acid, myristic acid, palmitic acid, and stearic acid) may have different effects on the blood lipoprotein profile. However, the data available are not sufficient for the establishment of DRVs for individual SFA.
+Dietary SFA are provided by all fats and oils, which are also important sources of essential fatty acids. Furthermore, a significant proportion of dietary SFA is obtained from animal foods that are important sources of vitamins and essential minerals. Thus, there is a limit to which the intake of SFA can be lowered without compromising adequacy of intake of essential nutrients and this will vary between populations depending on prevailing patterns of food intake. Therefore, the Panel concludes that SFA intake should be as low as possible within the context of a nutritionally adequate diet.
+Limiting the intake of SFA should be considered when establishing nutrient goals and recommendations.
+The Panel notes that a number of authorities have established nutrient recommendations of SFA for individuals below 8 to 10 E% (see Section 4). Typically, these nutrient recommendations reflect a judgement of what level of SFA intake is practically achievable within the context of a nutritionally adequate diet based on known patterns of intake of foods and nutrients in specific populations. It is also noted that the average intake of SFA in adults in many EU Member States exceeds these recommendations (see Section 3).
+6.3. Cis-monounsaturated fatty acids (cis-MUFA)
+Cis-MUFA are not nutritionally essential as they can be synthesised from other (saturated) fatty acids and from carbohydrates and have no known specific role in preventing or promoting diet-related diseases, and are, therefore, not required in the diet. The Panel proposes not to set any DRV for cisMUFA.
+6.4. Cis-polyunsaturated fatty acids (cis-PUFA)
+In view of the different metabolic effects of the various dietary cis-PUFA, the Panel proposes not to formulate a DRV for the intake of total cis-PUFA. Also, the Panel proposes not to set specific values for the n-3/n-6 ratio as there are insufficient data on clinical and biochemical endpoints in humans to recommend a ratio independent of absolute levels of intake.
+6.4.1. n-6 polyunsaturated fatty acids (n-6 PUFA)
+Linoleic acid cannot be synthesised by the body, is required to maintain "metabolic integrity", and is therefore an EFA. However, there are not sufficient scientific data to derive an AR, PRI or LTI.
+There is a negative (beneficial), dose-dependent relationship between the intake of linoleic acid and blood LDL cholesterol concentrations, while this relationship is positive for HDL cholesterol concentrations. In addition, linoleic acid lowers fasting blood triacylglycerol concentrations, when compared to carbohydrates. There is also evidence from dietary intervention studies that decreasing the intakes of products rich in SFA by a replacement of products rich in n-6 PUFA (without changing total fat intake) reduces the number of cardiovascular events. As the relationship between linoleic acid intake and the blood lipid profile is continuous, no threshold value of linoleic acid intake can be identified below which the risk for cardiovascular events increases.
+EFSA Journal 2010; 8(3):1461 52
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+The Panel proposes to set an AI for linoleic acid of 4 E%, based on the lowest estimated mean intakes of the various population groups from a number of European countries, where overt linoleic deficiency symptoms are not present.
+Arachidonic acid is synthesised by the body from linoleic acid and is therefore not an EFA. Though it plays an important role to maintain metabolic integrity, there is no need to define a DRV for preformed arachidonic acid. The Panel, therefore, proposes not to set any DRV for arachidonic acid.
+Finally, there is at present no consistent evidence that the intake of any of the n-6 PUFA has detrimental effects on health (e.g. in promoting diet-related diseases). The Panel therefore proposes not to set an UL for total or any of the n-6 PUFA.
+6.4.2. n-3 polyunsaturated fatty acids (n-3 PUFA)
+Alpha-linolenic acid cannot be synthesised by the body, is required to maintain "metabolic integrity", and is therefore an EFA. However, there are not sufficient scientific data to derive an AR. The Panel therefore proposes to set an AI for alpha-linolenic acid of 0.5 E%, based on the lowest estimated mean intakes of the various population groups from a number of European countries, where overt alphalinolenic acid deficiency symptoms are not present. There is no convincing evidence for a further positive or negative unique role for alpha-linolenic acid in diet-related diseases.
+The human body can synthesise EPA and DHA from alpha-linolenic acid. Intervention studies have demonstrated beneficial effects of preformed n-3 LCPUFA on recognised cardiovascular risk factors, such as a reduction of plasma triacylglycerol concentrations, platelet aggregation, and blood pressure.
+These effects were mainly observed at intakes 1g per day, well above levels that were associated with lower CVD risk in epidemiological studies. With respect to cardiovascular diseases, prospective epidemiological and dietary intervention studies indicate that oily fish consumption or n-3 LCPUFA dietary supplements (equivalent to a range of 250 to 500 mg of EPA plus DHA daily) decrease the risk of mortality from CHD and sudden cardiac death. An intake of 250 mg per day of EPA plus DHA appears to be sufficient for primary prevention in healthy subjects. Therefore, and because available data are insufficient to derive an AR, the Panel proposes to set an AI of 250 mg for EPA plus DHA based on considerations of cardiovascular health.
+In infants, DHA intakes at levels of 50 to 100 mg per day have been found effective for visual function during the complementary feeding period. The Panel proposes an AI of 100 mg for the age
+>6 months to 24 months.
+The currently available data do not permit to define an age specific quantitative estimate of an adequate dietary intake of EPA and DHA for children aged 2 to 18 years. However dietary advice for children should be consistent with advice (food and nutrient based dietary guidelines, respectively) for the adult population (which is 1 to 2 fatty fish meals per wk or ~250 mg of EPA plus DHA per day). This intake should also be compatible with an adequate n-3 LCPUFA supply during pregnancy and lactation, when 100 to 200 mg additional preformed DHA should be added to the habitual diet to compensate for oxidative losses of maternal dietary DHA and accumulation of DHA in body fat of the foetus/infant.
+6.5. Trans fatty acids (TFA)
+TFA are not synthesised in the human body to a significant extent, but are also not required in the diet. Therefore, no PRI, AR, or AI is set.
+EFSA Journal 2010; 8(3):1461 53
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Consumption of diets containing trans-MUFA, like diets containing mixtures of SFA, increases blood total and LDL cholesterol concentrations in a dose-dependent manner, compared with consumption of diets containing cis-MUFA or cis-PUFA. Consumption of diets containing trans-MUFA also results in reduced blood HDL cholesterol concentrations and increases the total cholesterol to HDL cholesterol ratio. The available evidence indicates that TFA from ruminant sources have adverse effects on blood lipids and lipoproteins similar to those from industrial sources. Prospective cohort studies show a consistent relationship between higher intakes of TFA and increased risk of CHD. The available evidence is insufficient to establish whether there is a difference between equivalent amounts of ruminant and industrially produced TFA on the risk of CHD.
+Dietary TFA are provided by several fats and oils that are also important sources of essential fatty acids and other nutrients. Thus, there is a limit to which the intake of TFA can be lowered without compromising the adequacy of intake of essential nutrients. Therefore, the Panel concludes that TFA intake should be as low as possible within the context of a nutritionally adequate diet. Limiting the intake of TFA should be considered when establishing nutrient goals and recommendations.
+The Panel notes that a number of authorities have established nutrient recommendations of TFA for individuals below 1 to 2 E% (see Section 4). Typically, these recommendations reflect a judgement of what maximum level of TFA intake is practically achievable within the context of a nutritionally adequate diet based on known patterns of intake of foods and nutrients in specific populations. The
+Panel also notes that the average intake of TFA in adults in the EU has decreased considerably over recent years (see Section 3).
+6.6. Conjugated linoleic acid (CLA)
+There is no convincing evidence that any of the CLA isomers in the diet play a role in prevention or promotion of diet-related diseases. The Panel, therefore, proposes not to set any DRV for CLA.
+6.7. Cholesterol
+Cholesterol is sufficiently synthesised by the body and is not required in the diet. Therefore, no PRI,
+AR, or AI is set.
+Although there is a positive dose-dependent relationship between the intake of dietary cholesterol and blood LDL cholesterol concentrations, the main dietary determinant of blood levels of LDL cholesterol is saturated fat intake. Furthermore, most dietary cholesterol is obtained from foods which are also significant sources of dietary SFA, e.g. dairy and meat products. Therefore the Panel decided not to propose a reference value for cholesterol intake beside its conclusion on the intake of SFA.
+
+CONCLUSIONS AND RECOMMENDATIONS
+
+Total fat
+Available data are insufficient to define a Lower Threshold Intake or Tolerable Upper Intake Level for total fat intake. The Panel concludes that only a Reference Intake range can be established for total fat intake, partly based on practical considerations (e.g. current levels of intake, achievable dietary patterns in healthy populations). At the lowest observed intake of total fat (20 E%), no overt signs of deficiencies have been observed neither adverse effects on blood lipids. Total fat intakes > 35 E% may be compatible with both good health and normal body weight depending on dietary patterns and the level of physical activity.
+EFSA Journal 2010; 8(3):1461 54
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+The Panel proposes to set a lower bound of the Reference Intake Range of 20 E% and an upper bound of 35 E% for adults.
+In the second half of the first year of life, from the start of the complementary feeding period up to three years of age fat intake in infants and young children can be, gradually reduced: 40 E% in the 6
+to 12 month period and 35 to 40 E% in the 2nd and 3rd year of life. For children above the age of three years the Reference Intake Range for adults applies.
+Fat intakes below 25 E% have been associated with low vitamin levels in some infants and young children.
+Saturated fatty acids
+Saturated fatty acids are synthesised by the body and are not required in the diet. Therefore, no
+Population Reference Intake, Average Requirement, or Adequate Intake is set.
+As the relationship between saturated fatty acids intake and the effects on the blood lipid profile is continuous, there is no threshold of saturated fatty acids intake below which no adverse effects are observed. Thus, no Tolerble Upper Intake Level can be set.
+The Panel concludes that saturated fatty acids intake should be as low as possible within the context of a nutritionally adequate diet. Limiting the intake of saturated fatty acids should be considered when establishing nutrient goals and recommendations.
+Cis- monounsaturated fatty acids are not nutritionally essential, are synthesised by the body, have no known specific role in preventing or promoting diet-related diseases, and are not required in the diet.
+The Panel, therefore, proposes not to set any Dietary Reference Value for cis- monounsaturated fatty acids.
+Cis-polyunsaturated fatty acids (cis-PUFA)
+In view of the different metabolic effects of the various dietary cis- polyunsaturated fatty acids, the
+Panel proposes not to formulate any Dietary Reference Value for the intake of total cispolyunsaturated fatty acids. Also, the Panel proposes not to set specific values for the n-3/n-6 ratio as available data are insufficient to recommend a ratio independent of absolute levels of intake which should be the subject of nutrient and/or food based dietary guidelines.
+Linoleic acid cannot be synthesised by the body, is required to maintain "metabolic integrity", and is therefore an essential fatty acid. However, there is not sufficient scientific evidence to derive a Lower
+Threshold Intake, Average Requirement or Population Reference Intkae.
+As the relationship between linoleic acid intake and the blood lipid profile is continuous, there is no threshold of linoleic acid intake to establish a Lower Threshold Intake.
+The Panel proposes to set an Adequate Intake for linoleic acid of 4 E%, based on the lowest estimated mean intakes of the various population groups from various European countries, where overt linoleic acid deficiency symptoms are not present.
+Arachidonic acid is synthesised by the body from linoleic acid and is, therefore, not an essential fatty acid. The Panel proposes not to set any Dietary Reference Value for arachidonic acid.
+EFSA Journal 2010; 8(3):1461 55
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Finally, there is at present no consistent evidence that intake of any of the n-6 polyunsaturated fatty acids has any detrimental effects on health (e.g. in promoting diet-related diseases). The Panel, therefore, proposes not to set an Tolerable Upper Intake Level for total or any of the n-6
+polyunsaturated fatty acids.
+n-3 polyunsaturated fatty acids (n-3 PUFA)
+Alpha-linolenic acid cannot be synthesised by the body, is required to maintain "metabolic integrity", and is therefore an EFA. However, there are not sufficient scientific data to derive an Average
+Requirement, a Lower Threshold Intake or a Population Reference Intake.. The Panel proposes to set an AI for alpha-linolenic acid of 0.5 E%, based on the lowest estimated mean intakes of the various population groups from the various European countries, where overt alpha-linolenic acid deficiency symptoms are not present.
+The human body can synthesise eicosapentaenoic acid and docosahexaenoic acid from alpha-linolenic acid. Scientific evidence indicates that oily fish consumption or dietary supplements containing eicosapentaenoic acid plus docosahexaenoic acid decrease the risk of mortality from coronary heart disease. Taking into account that available data are insufficient to derive an Average Requirement, the
+Panel proposes to set an Adequate Intake for adults of 250 mg for eicosapentaenoic acid plus docosahexaenoic acid based on considerations of cardiovascular health.
+The Panel proposes an Adequate Intake of 100 mg docosahexaenoic acid for older infants (>6 months of age) and young children below the age of 24 months.
+For the age period 2 to 18 years, the Panel proposes no Adequate Intake for docosahexaenoic acid plus eicosapentaenoic acid. However dietary advice for children should be consistent with advice for the adult population.
+The Panel considers that during pregnancy and lactation an adequate n-3 long-chain polyunsaturated fatty acids supply consists of the Adequate Intake for adults (250 mg docosahexaenoic acid plus eicosapentaenoic acid) and 100 to 200 mg additional preformed docosahexaenoic acid.
+Trans fatty acids (TFA)
+Trans fatty acids are not synthesised by the human body, but are also not required in the diet.
+Therefore, no Population Reference Intake, Average Requirement, or Adequate Intake is set.
+Higher intakes of trans fatty acids have consistently been found to be associated with an increased risk of coronary heart disease.
+There is a limit to which the intake of trans fatty acids can be lowered without compromising the adequacy of intake of essential nutrients. Therefore, the Panel concludes that trans fatty acids intake should be as low as possible within the context of a nutritionally adequate diet. Limiting the intake of trans fatty acids should be considered when establishing nutrient goals and recommendations.
+Conjugated linoleic acids (CLA)
+There is no convincing evidence that any of the conjugated linoleic acids isomers in the diet play a role in prevention or promotion of diet-related diseases. The Panel therefore proposes not to set any
+Dietary Reference Value for conjugated linoleic acids.
+EFSA Journal 2010; 8(3):1461 56
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+Cholesterol
+Cholesterol is synthesised by the body and is not required in the diet. Therefore, no Population
+Reference Intake, Average Requirement, or Adequate Intake is set.
+Although there is a positive dose-dependent relationship between the intake of dietary cholesterol with blood LDL cholesterol concentrations, the main dietary determinant of blood LDL cholesterol concentrations is saturated fat intake.
+Therefore the Panel decided not to propose a reference value for cholesterol intake beside its conclusion on the intake of saturated fatty acids.
+EFSA Journal 2010; 8(3):1461 57
+2010,
+3, from by
+Sti.
+Wiley on
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the
+
+SUMMARY OF DRV FOR FATS
+
+Adults Children 1 Pregnancy and lactation 1
+Total fat RI = 20-35E% >6-12 months, AI2 = 40 E% RI = 20-35E%
+1-3 years, RI = 35-40 E%
+> 4 years, RI = 20-35 E%
+SFA As low as possible As low as possible As low as possible
+Cis-MUFA No DRV No DRV No DRV
+Cis-PUFA No DRV No DRV No DRV
+.n-3/n-6 ratio No recommendation No recommendation No recommendation
+.n-6 PUFA No DRV No DRV No DRV
+..LA AI3 = 4 E%, AI3 = 4 E%, AI3 = 4 E%,
+..ARA No DRV No DRV No DRV
+.n-3 PUFA No DRV No DRV No DRV
+..ALA AI3 = 0.5 E% AI3 = 0.5 E% AI3 = 0.5 E%
+..EPA+DHA AI = 250mg per day AI 7-24 mths, RI: DHA+EPA = 250mg per
+DHA = 100 mg per day day plus 100-200mg per day
+
+DHA
+
+TFA As low as possible As low as possible As low as possible
+CLA No DRV No DRV No DRV
+Cholesterol No reference value besides No reference value besides No reference value besides the limitation on the intake the limitation on the intake the limitation on the intake of SFA of SFA of SFA
+1 Dietary Reference Values are as for adults unless otherwise noted.
+2 Based upon experimentally derived estimates of adquate nutrient intake/ consensus reports (Aggett et al., 1994,
+Agostoni et al., 2008)
+3 Based on lowest estimated mean intakes in EU where overt deficiency symptoms are not present
+EFSA Journal 2010; 8(3):1461 58
+2010,
+3, from by
+Sti.
+Wiley
+See the
+Terms and on
+Wiley for rules of use;
+OA are by the

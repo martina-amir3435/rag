@@ -1,0 +1,1181 @@
+Protein quality assessment in follow-up formula for young children and ready to use therapeutic foods
+Report of the Fao Expert Working Group
+Rome, 6 - 9 November 2017
+Protein quality assessment in follow-up formula for young children and ready to use therapeutic foods
+Report of the Fao Expert Working Group
+Rome, 6 - 9 November 2017
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+Required citation:
+FAO. 2018. Protein quality assessment in follow-up formula for young children and ready to use therapeutic foods. Rome. 50 pp.
+Licence: CC BY-NC-SA 3.0 IGO.
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of FAO.
+
+ISBN 978-92-5-131120-2
+
+Some rights reserved. This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike
+3.0 IGO licence (CC BY-NC-SA 3.0 IGO;
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-commercial purposes, provided that the work is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific organization, products or services. The use of the FAO logo is not permitted. If the work is adapted, then it must be
+
+the following disclaimer along with the required citation: "This translation was not created by the Food and Agriculture
+Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original
+[Language] edition shall be the authoritative edition.
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and arbitration as described in Article 8 of the licence except as otherwise provided herein. The applicable mediation rules will be the mediation rules of the World Intellectual Property Organization and any arbitration will be conducted in accordance with the Arbitration Rules of the United Nations Commission on International
+Trade Law (UNCITRAL).
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third party, such as tables, figures or images, are responsible for determining whether permission is needed for that reuse and for obtaining permission from
+
+solely with the user.
+Sales, rights and licensing. FAO information products are available on the FAO website (www.fao.org/publications) and can be purchased through publications-sales@fao.org. Requests for commercial use should be submitted via: www.fao.org/contact-us/licence-request. Queries regarding rights and licensing should be submitted to:
+
+Acknowledgments ...........................................................................................................................................v
+Abbreviations and acronyms .........................................................................................................................vi
+Glossary - definition of terms used in the guideline ..................................................................................vii
+Executive summary .........................................................................................................................................ix
+
+2. Protein and amino acid requirements and amino acid reference patterns in the target populations
+
+2.1. Overview of protein, amino acid and nitrogen metabolism in adult, infant and children ..........................2
+
+2.4. Protein and amino acid requirement in catch-up growth and poor environments in infant and children
+
+2.5. Summary: proposed amino acid reference pattern for FUF-YC for infant and children 1 - 2.9 years and
+
+3.1. Overview of protein and amino acid digestibility - apparent and true digestibility, fecal and ileal
+
+3.3. Measurements of protein digestibility in human adults and children - current approaches and future
+
+3.4. Animal models for protein and amino acid digestibility, with special reference to infants and young
+
+3.6. Recommended methods for protein and amino acid digestibility for FUF-YC and RUTF and costs
+
+4.3. Protein quality assessment in diets of developing countries - FUF-YC and RUTF used for treating SAM
+
+4.4. Summary on guidelines and recommendation for protein quality assessment in FUF-YC and RUTF ........22
+
+Tables
+Table 1 - Protein and amino acid requirement and amino acid reference pattern proposed for
+FUF-YC (1 - 2 year) and for RUTF (target weight gain value of 10 g/kg/d), in infants and children, 6 months to 5 years .......................................................................................x
+Table 2 - EAR and safe level of protein intake for children aged 1 - 2.9 years (sexes combined) ............4
+Table 3 - Amino acid requirement in children 1 - 2.9 years determined by factorial calculation
+
+Table 4 - Protein and amino acid requirement for catch-up weight gain of 10 g/kg/d in infant and
+
+Table 5 - Protein and amino acid requirement and amino acid reference pattern proposed for
+FUF-YC (1 - 2 year) and for RUTF (target weight gain value of 10 g/kg/d, 6 months to 5
+
+Table 6 - Computation of PDCAAS for 25 percent Milk RUTF (25% Milk in 100 g product)...............19
+Table 7 - Protein quality assessment of RUTF formulations found in the literature .............................23
+Table 8 - True digestibility values for various protein sources in humans (WHO 2007) ........................33
+Table 9 - Digestibility values of various protein sources as determined by the rat balance method
+
+Figures
+
+Figure 3 - Algorithm for protein quality assessment with the available digestibility values .................15
+
+Acknowledgments
+The Food and Agriculture Organization of the United Nations would like to express its appreciation to all those who contributed to the preparation of this document through the provision of their time, expertise and other relevant information both before, during and after the meeting. Special appreciation is extended to Professor Daniel Tomé and Professor Anura Kurpad for chairing the meeting and leading the preparation of the meeting report. All contributors are listed in the following pages.
+The work was supported and funded by the Government of Canada (Agriculture and Agri-Food Canada) and the FAO's regular programme funds.
+
+Abbreviations and acronyms
+AAA Aromatic Amino Acids
+AAS Amino Acid Score
+ANFs Anti-nutritional Factors
+CCNFSDU Codex Committee on Nutrition and Foods for Special Dietary Uses
+DIAAS Digestible Indispensable Amino Acid Score
+EAR Estimated Average Requirement
+EED Environmental Enteric Dysfunction
+FAO Food and Agriculture Organization of the United Nations
+FUF-YC Follow up Formula for Young Children1
+IAA Indispensable Amino Acid
+IAAO Indicator Amino Acid Oxidation
+LAL Lysinoalanine
+PDCAAS Protein Digestibility-Corrected Amino Acid Score
+RUTF Ready to Use Therapeutic Food
+SAA Sulfur Amino Acids
+SAM Severe Acute Malnutrition
+WHO World Health Organization
+1 The name of the product used at the time of the adoption of the Report of the 38th session of the Codex Committee on
+Nutrition and Foods for Special Dietary Uses
+
+Glossary - definition of terms used in the guideline
+A
+Amino acid score or Chemical score:
+mg of amino acid in 1 g of test protein
+Amino acid score = mg of amino acid in 1 g of requirement pattern
+The amino acid score is calculated as above and expressed either as a ratio to unity (recommended), or on a percentage scale (WHO 1991).
+B
+Bioavailability: the term "bioavailability" encompasses three properties of foods that can alter the proportion of an amino acid that can be utilized; these are:
+- Digestibility, which describes the net absorption of an amino acid.
+- Chemical integrity, which describes the proportion of the amino acid that, if absorbed, is in an utilizable form.
+- Freedom from interference in metabolism resulting from the presence in the food of substances that limit the utilization of the amino acid.
+Of these, the greatest source of variation in bioavailability is, in most cases, digestibility (FAO 2013).
+F
+Fecal digestibility: defined in terms of balance of amino acids or nitrogen measured from the mouth to anus.
+
+Ileal digestibility: defined in terms of balance of amino acids or nitrogen measured from the mouth to terminal ileum, which ends at the ileocaecal valve.
+
+Limiting amino acid (LAA): the essential amino acid of a dietary protein source present in the lowest proportion as compared to the same quantity of another protein (real or hypothetical) selected as a standard. The apparent limiting amino acid in a protein is thus dependent on the standard chosen.
+The true limiting amino acid in a protein is, however, the amino acid limiting growth in a biological experiment (WHO 1991).
+
+P
+Protein requirement: the lowest level of dietary protein intake that will balance the losses of nitrogen from the body, and thus maintain the body protein mass, in persons at energy and other nutrient balance with modest levels of physical activity, plus, in children or in pregnant or lactating women, the needs associated with the deposition of tissues or the secretion of milk at rates consistent with good health (WHO 2007).
+Protein digestibility: defined in terms of balance of amino acids or nitrogen across the small intestine.
+The difference between intake and losses provides a measure of the extent of digestion and absorption of food protein as amino acids by the gastrointestinal tract for use by the body (WHO 2007).
+
+Executive summary
+The Expert Consultation of the Codex Committee on Nutrition and Foods for Special Dietary Uses
+(CCNFSDU), 38th session, identified the need to determine protein quality of Follow-up Formula for
+Young Children (FUF-YC) and Ready-to-Use-Therapeutic Foods (RUTF), and subsequently sought scientific advice from the Food and Agriculture Organization of the United Nations (FAO) to address this need.
+In the 2014 FAO report on "Research approaches and methods for evaluating the protein quality of human foods", the Working Group noted that the recommended Digestible Indispensable Amino
+Acid Score (DIAAS) values have not been established for all protein sources, and the transition to the method be made only with availability of data. Therefore, for the purpose of drafting guidelines, the currently available Protein Digestibility-Corrected Amino Acid Score (PDCAAS) values are to be adopted.
+In connection to this, FAO convened an Expert Working Group to discuss questions and related scientific issues, raised by CCNFSDU, and were tasked to provide practical guidelines and assistance to member countries and industry on how to determine protein quality of FUF-YC and RUTF.
+The fundamental questions around protein quality of FUF-YC and RUTF are recommendations related to protein and amino acid requirements, relevant amino acid scoring patterns to be used, and methods for protein and amino acid digestibility. The below questions and associated scientific issues were discussed by the Expert Working Group in the process of drafting the guideline and recommendations:
+- what is the protein and amino acid requirement in infants and children of the target age group, which is 1 - 2.9 years for FUF-YC and 0.5-4.9 years for RUTF? How do the requirements change, especially in Severe Acute Malnutrition (SAM) for which RUTF is intended?
+- Which reference amino acid pattern to use for determination of protein quality in FUF-YC and RUTF?
+- What are the currently available methods to evaluate protein and amino acid digestibility for protein quality assessment? What are the limitations of these methods?
+- How do anti-nutritional and environmental factors influence digestibility of food products?
+- What is the PDCAAS target score for FUF-YC and RUTF?
+- What are the cost implications of recommended methods to define protein digestibility?
+Recommended amino acid scoring patterns to be used for calculation of PDCAAS
+FUF-YC: The Expert Working Group recommends the use of protein, amino acid requirements and reference scoring pattern for children in the 1 - 2.9 year age group for determining protein quality.
+The reference amino acid pattern is computed utilizing a protein requirement of 0.86 g/kg/day
+(0.66 g/kg/day for maintenance and 0.20 g/kg/day for growth) and the maintenance and tissue pattern of amino acids (as reported in WHO/FAO/UNU 2007, summarized in Table 1).
+RUTF: The Expert Working Group recommends the use of the reference amino acid pattern for a preferred weight gain value of 10 g/kg/day for catch-up growth and related protein requirement of 2.82 g/kg/day (0.82 g/kg/day for maintenance and 2.00 g/kg/day for growth). This is similarly computed using the maintenance and tissue pattern of amino acids (as reported in WHO/FAO/UNU
+2007, summarized in Table 1). Formulations should preferably maintain a phenylalanine to tyrosine and methionine to cysteine ratio of 1:1, to ensure adequate Aromatic Amino Acid (AAA) and Sulfur
+Amino Acid (SAA) supply during catch-up growth.
+
+Table 1 - Protein and amino acid requirement and amino acid reference pattern proposed for FUF-YC
+(1 - 2 year) and for RUTF (target weight gain value of 10 g/kg/d), in infants and children,
+6 months to 5 years
+Requirement Protein (g/kg/d) Amino acid (mg/kg/d)
+His Ile Leu Lys SAA* AAA* Thr Trp Val
+1 - 2 years 0.86 15 27 54 45 22 40 23 6.4 36
+Catch-up growth 2.82 66 95 198 183 88 177 103 29 130
+Amino acid reference pattern (mg/g Protein)a
+1 - 2 years 18 31 63 52 26 46 27 7.4 42
+Catch-up growth 24 34 70 65 31 63 36 10 46
+a calculated as amino acid requirement in mg/kg/d divided by total protein requirement in g/kg/d
+*SAA = sulphur amino acids (methionine + cysteine), AAA = aromatic amino acids (phenylalanine + tyrosine)
+Protein digestibility
+The Expert Working Group proposes an algorithm that uses the best available methods to assess protein digestibility, depending on data availability. Member countries and/or industries are recommended to follow in order, starting with human true ileal digestibility values, growing pig true ileal digestibility values and rat true ileal digestibility values. If these are not available, human, pig, or rat fecal protein digestibility values should be used, in that order. One should also consider the possibility of generating prediction equations for ileal digestibility values, obtained from comparisons between pig and rat models and humans, that give scope for future research. It also recommends considering tested and agreedupon in vitro methods of protein digestibility that are compared against in-vivo methods, once available.
+The Expert Working Group recommends considering the influence of malnutrition, poor environments and infections on digestibility of formulations in infant and children while calculating and interpreting the PDCAAS.
+The Expert Working Group recommends considering the effects of anti-nutritional factors (ANFs) on digestibility when calculating PDCAAS values. ANFs reduce protein digestibility mainly through a) inhibiting the action of digestive enzymes, b) binding with proteins causing precipitation and/or c) chelating nutrients, digestive enzymes and/or mineral cofactors. In such situations it may be necessary to include a correction for the bioavailability of the amino acids. It is prudent to note that the use of
+PDCAAS method is inappropriate for routine determination of protein quality in those protein sources that contain high levels of known ANFs, as the PDCAAS method would overestimate the protein quality of such products. Where possible, appropriate processing measures should be adopted to overcome these effects. Similar recommendation would apply to formulations that through processing and storage result in the generation of ANFs, such as those formed during the Maillard reaction, racemization and lysinoalanine.
+
+PDCAAS: The Expert Working Group recommends using PDCAAS and appropriate digestibility values to determine protein quality of FUF-YC and RUTF. A high-quality protein source will have a PDCAAS score of 100. However, a PDCAAS score of ≥90 can still be considered adequate for these formulations.
+In formulations with PDCAAS score of <90 the quantity of protein should be adjusted to achieve the desired value. It should be noted that the ideal metric for protein quality assessment is the DIAAS.
+However, for practical and regulatory purposes at present, since true ileal digestibility values of individual amino acids are incomplete, the Expert Working Group recommends the use of PDCAAS.
+Other recommendations
+The Expert Working Group recommends member countries and industries to test the efficacy of a new formulation for its ability to support growth or related outcomes of interest in the target population, which, in this scenario, would be children of 1 to 2.9 years for FUF-YC and 0.5 to
+4.9 years for RUTF and not just rely on fulfilling the protein quality recommendation.
+The Expert Working Group recommends estimating true ileal nitrogen and amino acid digestibility values from animal models, where human data is not available. Rat models can be preferred as they are economical when compared to pigs, but where feasible, the recommendation is to conduct human studies that although limited by their cost, are desirable.
+Future research recommendations
+- It is necessary to generate a complete dataset on the true ileal digestibility for different protein sources.
+- In order to allow for an algorithm to be operationalized, it is necessary to compare true ileal nitrogen and amino acid digestibility of foods within the full range of protein digestibility's between pig, rat and human, and to generate a robust statistical prediction equation.
+- At present there are no data to show whether available models (adult human via naso-ileal intubation, pig ileal model or rat ileal model) are representative in children with malnutrition. There is a need for studies comparing ileal digestibility in children, both normal and malnourished, to adults and suitable animal models.
+- It is important to develop an agreed-on in vitro method to predict true ileal nitrogen and amino acid digestibility values.
+- There is clearly a need to further examine whether essential amino acid needs are increased (beyond current estimates) for adequate growth and development in malnourished children, where frequent episodes of gut insults occur due to poor environments.
+- With introduction of formulations or food preparations that are enriched with single or multiple amino acids, one needs to consider setting scoring methods to accommodate added amino acids.
+- It is important to determine the contribution of amino acids generated from the colonic microbiome towards the amino acid pool of the whole body, as there is considerable uncertainty around such a contribution towards host amino acid economy.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+1. Introduction
+In response to a request from the 38th Session of the Codex Committee on Nutrition and Foods for Special Dietary Uses (CCNFSDU) the Food and Agriculture Organization of the United
+Nations (FAO) convened an Expert Working Group at the FAO Headquarters, Rome, Italy, from
+6 to 9 November 2017.
+Consistent with the need to provide safe food for young children, particularly during the complementary feeding period between 12 and 36 months and the period of rapid development to the age of 59
+months, the meeting addressed questions related to protein quality evaluation for the development of the Codex Standards on
+1) Follow-up Formula for Young Children (FUF-YC) (aged 12 - 36-months); and
+2) Ready-to-Use-Therapeutic Foods (RUTF) (aged 6 - 59 months).
+The topics discussed include the following:
+- protein and amino acid requirement in the target age group;
+- age group to be considered for amino acid reference profile in FUF-YC and RUTF;
+- the measurement of protein and amino acid digestibility and bioavailability;
+- the calculation of Protein Quality Score for FUF-YC and RUTF;
+- the recommendations and guidelines for countries to use Protein Digestibility-Corrected Amino Acid
+Score (PDCAAS) in FUF-YC and RUTF.
+Main objectives were:
+- to determine the appropriate comparative protein or amino acid reference pattern to define protein quality for use in FUF-YC and RUTF;
+- to provide guidance on the preferred protein quality assessment methodology that should be stipulated with the standards for FUF-YC and RUTF;
+- to provide guidance on the measurement of protein and amino acid digestibility;
+- to provide the appropriate reference amino acid profiles and the amino acid composition of common ingredients used for FUF-YC and RUTF;
+- to provide cost implications for countries to use PDCAAS in FUF-YC and RUTF.
+This report provides practical guidance on the measurement of protein quality in two distinct food products used to feed children in different conditions: RUTF and FUF-YC. RUTF is a therapeutic food to be provided under medical supervision to children with uncomplicated Severe Acute Malnutrition
+(SAM) between 6 and 59 months. It is recommended to feed RUTF during the recovery phase, to ensure adequate provision of required macro- and micronutrients. FUF-YC is intended to bridge or improve the nutrient gap in children's diets between 12 and 36 months, in those who are on complementary feeding with or without breastfeeding. However, FUF-YC is not intended to have the undesired consequence of replacing the natural home-based diet of the child.
+
+While several different methods exist for the assessment of the quality of protein in a diet or food, the current accepted method is a chemical scoring approach. Expert Consultations conducted on Protein
+Quality (FAO/WHO 1991, WHO/FAO/UNU 2007) concluded that the preferred approaches to measuring protein quality are the PDCAAS and related methods such as Digestible Indispensable Amino Acid Score
+(DIAAS). These methods relate the indispensable amino acid content of an individual foodstuff or mixed diet to a reference amino acid profile after applying a correction term for protein digestibility.
+In this regard, this report is only intended to outline how protein quality should be measured, by the definition of protein and amino acid requirement and scoring patterns according to the PDCAAS or
+DIAAS methods, for each of the foods (RUTF and FUF-YC).In presenting the recommendations regarding the treatment of SAM with RUTF, or whether FUF-YC should be a replacement for complementary foods, the Expert Working Group also considered the long-term health consequences of such feeding interventions, where they do not increase the risk of obesity and its consequences in later life.
+The report also provides future research recommendations including the need to generate data on the true ileal digestibility for different protein sources so that DIAAS values can be used in the future.
+2. Protein and amino acid requirements and amino acid reference patterns in the target populations for FUF-YC and RUTF
+2.1. Overview of protein, amino acid and nitrogen metabolism in adult, infant and children
+As with all living organisms the human body exists in a dynamic state in which it extracts from the environment the materials it needs to support its structure and function, with the end products being returned to the environment (Waterlow 1981; Jackson et al. 2015). In adults, energy and nutrient balance is achieved over extended periods of time, and during states of balance, energetically and chemically, there are losses from the body equivalent to that taken in, with size, structure and body composition remaining more or less constant (Reeds 1990; Waterlow 1995, 1999, 2006; WHO/FAO/
+UNU 2007).
+During the infant and children period of growth there is net deposition of energy and all nutrients, as new tissues. During childhood, periods of insufficient nutrient consumption lead to deficits in growth
+(linear or weight gain) that may be aggravated by periods of ill health. In this circumstance, recovery is associated with a greater rate of net tissue deposition to correct any deficit incurred (Jackson and
+Wootton 1990; Jackson 1990; Graham et al. 1996).
+The pattern of energy and nutrients required for maintenance and net tissue deposition defines the dietary intake required to make up for any deficit. The amount and pattern will vary with sex, age, composition of tissue deposition and recovery of functional competence and these will in turn determine the quantitative and qualitative pattern necessary to make good the deficit (Jackson 1993; Reeds 2000).
+The most obvious component of tissue lost or regained during these processes is protein and other amino acid derivatives (Reeds 1999, 2000).
+Dietary proteins contribute to meeting nutritional needs through the provision of nitrogen and amino acids. The amount and pattern of proteins being turned over (synthesised and degraded) within the body and the needs for net deposition characterise the pattern that must be made available. In addition
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods to meeting the needs for protein turnover and net protein deposition, amino acids fulfil important functions as the precursors for structural and functional compounds that are metabolically active, such as neurotransmitters, glutathione, haem and creatine (Reeds 2000).
+The categorization of amino acids into those that must be provided preformed in the diet (indispensable or dietary essential) and those that do not (dispensable or non-dietary essential) forms the basis for the concept of protein quality, the extent to which the dietary pattern of indispensable amino acids in the diet matches the pattern of the body's need for indispensable amino acids. In addition to the dietary intake of amino acids as an integral component of protein, the dispensable amino acids are synthesised endogenously as an integral feature of intermediary metabolism. Quantitatively, the rate of endogenous formation may exceed that taken in the diet substantially, up to an order of magnitude, and require complex inter-organ cooperativity. At all ages and in all states the demand for dispensable amino acids exceeds that for indispensable amino acids, although the relative proportions may vary widely during adulthood (Reeds 1990; Jackson 1995; Reeds 2000).
+Normal adults can readily maintain nitrogen balance across the range of dietary protein intakes from 40
+to 200 g/d when the need for energy and all other nutrients has been satisfied. As the protein intake decreases, balance is restored through a decrease in urinary excretion of urea. Higher levels of dietary protein intake, which provide amino acids at greater levels than what can be efficiently utilized, must be catabolised without placing undue metabolic stress on the body and excreted in a non-toxic form
+(Harper et al. 1970; Benevenga and Steele 1984).
+An example of the fine balance between sufficient and excess can be illustrated from the need for sulphur containing amino acids, methionine and cysteine. During the catabolism of methionine excess methyl groups are buffered through methylation of glycine to form sarcosine; sulfhydryl groups are conjugated to serine in the formation of cysteine, which is held intracellularly conjugated with glutamine and glycine in the form of glutathione. Thus, the handling of generous amounts of methionine/cysteine generates a competitive demand for other possible pathways such as the formation of creatine, haem or collagen (Harper et al. 1970; Benevenga and Steele 1984; Meakins et al. 1998).
+The ability of a diet to support whole body nitrogen equilibrium in adults or positive nitrogen balance during childhood is necessary but not a sufficient characterisation of its adequacy. The use of nitrogen balance to assess the protein adequacy of a diet requires that the needs for energy and all other nutrients has been satisfied, and hence "protein" or "nitrogen" is the first limiting consideration. It is well characterised that around the marginal requirement for energy or marginal requirements for protein there is a complex interaction between the two with increased energy intake sparing protein or increased protein intake sparing energy. If any other nutrient is limiting, there is inefficiency in achieving nitrogen balance or the net retention of amino acids as tissue. This is important in practice, for example when increased gastrointestinal losses of potassium or magnesium have not been taken into account.
+The efficiency with which different forms of dietary amino acids can be utilized may be predicted by the nature of the balance between the metabolic demand and that supplied directly or indirectly from the diet. Beyond nitrogen balance, the nature of growth, both its quantity and quality mark the extent to which dietary protein and its constituent amino acids match the body's needs (Reeds 1990, 2000).
+Further functional indices related to the capacity for maintaining the integrity of the organism, resilience to infection, inflammation and immunity should inform these judgements. Measures of long-term health are increasingly considered important, such as the risk of obesity in childhood or chronic disorders including cancer in later life.
+
+2.2. Protein requirement in infant and children 1 - 2.9 years
+The Estimated Average Requirement (EAR) for protein, in the age range of 1 to 2.9 years is calculated as the sum of maintenance requirement plus the protein deposited during growth (Table 2).
+EAR = maintenance + tissue protein deposition (deposition / efficiency of utilization)
+It is assumed that the maintenance requirement in this age range is equal to the adult value of 0.66 g/kg/d, derived from observations of nitrogen balance versus nitrogen intake in
+235 individuals (WHO/FAO/UNU 2007). Observed values in children were close to this figure. The value for the average protein deposited during growth is taken from estimations of protein accretion by whole body potassium counting (Butte et al. 2000) in this age range. The efficiency of utilization of protein for deposition during growth was calculated as the average from several studies, to be 58 percent in healthy infant and children (WHO/FAO/UNU 2007).
+The recommended level (exceeding the requirement of 97.5 percent of the population) is then estimated assuming that the requirement follows a log normal distribution i.e., safe level is the average level plus
+1.96 standard deviation, with total variability of maintenance and deposition calculated from the root mean square of CV of 12 percent for the maintenance needs (as used in case of adults) and 24 percent for the protein deposition rates between 1 - 2.9 y.
+Table 2 - EAR and safe level of protein intake for children aged 1 - 2.9 years (sexes combined) g protein/kg body weight/day (g/kg/d)
+Age (y) Maintenancea Growthb Total (EAR) Safe levelc 1.96SD
+1 0.66 0.29 0.95 1.14
+1.5 0.66 0.19 0.85 1.03
+2 0.66 0.13 0.79 0.97
+a from N balance studies b adjusted for efficiency of utilization of 58% from N balance studies (WHO/FAO/UNU 2007) c SD calculated as in text
+2.3. Amino acid requirement in infant and children 1 - 2.9 years
+Nitrogen balance studies have provided the only empirical data available for determination of indispensable amino acid requirements in children. However, due to problems in interpreting the data, they were not utilized; instead the factorial approach was used to calculate the indispensable amino acid requirement from 6 months through to 18 years (WHO/FAO/UNU 2007). The factorial approach based on the maintenance and growth components of the protein requirement was used to estimate the indispensable amino acid requirements (WHO/FAO/UNU 2007) (Table 3).
+Maintenance component
+The amino acid requirements for maintenance was assumed to be similar to adults based on the observation that the average maintenance nitrogen requirement of children (110 mg/kg/d) across a wide age range from 6 months to 18 years was similar to the value of 105 mg/kg/d found for adults
+(WHO/FAO/UNU 2007). Thus the adult maintenance protein requirement of 0.66 g/kg/d times the adult
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods maintenance amino acid pattern (amino acid requirement x maintenance protein requirement) was used to calculate the maintenance portion of the amino acid requirements (WHO/FAO/UNU 2007).
+Growth component
+The growth component was estimated using the best available data on the rates of protein deposition at different ages (Butte et al. 2000). The amino acid composition of the body proteins and the efficiency of protein utilization of 0.58 were obtained from nitrogen balance studies conducted in children from
+6 months to 12 years old (WHO/FAO/UNU 2007). The amino acid requirement for each indispensable amino acid in Table 3 was thus calculated as the sum of the adult maintenance protein requirement (g/ kg/d) times the maintenance amino acid pattern (mg/g protein), plus growth (tissue deposition rate in g/kg/day) adjusted for efficiency of deposition (0.58) times the human tissue amino acid pattern (mg/g protein) (WHO/FAO/UNU 2007).
+Table 3 - Amino acid requirement in children 1 - 2.9 years determined by factorial calculation (WHO/
+FAO/UNU 2007)
+AA pattern (mg/g Protein) His Ile Leu Lys SAA* AAA* Thr Trp Val
+Tissue amino acid patterna 27 35 75 73 35 73 42 12 49
+Maintenance amino acid patternb 15 30 59 45 22 38 23 6 39
+Protein requirement (g/kg/d) Amino acid requirement (mg/kg/d)d
+Maintenance Growth c His Ile Leu Lys SAA AAA Thr Trp Val
+0.66 0.20 15 27 54 45 22 40 23 6.4 36
+a amino acid composition of whole-body protein (WHO/FAO/UNU (2007) b adult maintenance pattern calculated as the amino acid requirement for adults (mg/kg) i.e. the mean protein requirement for adult (0.66 g/kg) (WHO/FAO/UNU (2007) c calculated as average growth rate for age range adjusted for efficiency of protein utilization of 58%(WHO/FAO/UNU (2007) d sum of amino acids contained he the dietary requirement for maintenance (maintenance protein x the adult scoring pattern) and growth (tissue deposition adjusted for a 58% efficiency of utilization x the tissue pattern) (WHO/FAO/UNU (2007)
+*SAA = sulphur amino acids (methionine + cysteine), AAA = aromatic amino acids (phenylalanine + tyrosine)
+Support for adopting the factorial approach
+Estimates from factorial approach are supported by findings from stable isotope studies. For instance, the total branched chain amino acid (leucine, isoleucine and valine) requirement estimated from the indicator amino acid oxidation (IAAO) method for adults (Riazi et al. 2003) and children (Mager et al.
+2003) were 144 and 147 mg/kg/day respectively. An estimate of the growth component of 6 - 10 year-old children of 10 mg/kg/day (Mager et al. 2003) gives a total estimate by the factorial approach of 154 mg/ kg/day (144+10) (WHO/FAO/UNU (2007). Similarly, for lysine, the estimated daily requirement derived from the IAAO method was 35 mg/kg/d in both children and adults (Elango et al. 2007; Kriengsinyos et al. 2004). An estimate of the growth component of 6.1 mg/kg/d for growth in the 9 - 13 year-old children gives a total need of 41 mg/kg/d (35+6.1) by the factorial approach.
+
+2.4. Protein and amino acid requirement in catch-up growth and poor environments in infant and children 0.5 - 4.9 years
+Growth deficits that occur due to undernourishment in children are classified into two categories of thinness or wasting (weight-for-height), and shortness or stunting (height-for-age), which are less that 2SD below the respective appropriate reference growth standards (FAO/WHO/UNU 2007). Severe wasting is defined as weight for length/height less than 3SD below the WHO standard for age and sex (WHO 2006, 2009). Both types of growth deficits are predominantly due to a combined effect of environmental factors and poor nutrition (FAO/WHO/UNU 2007).
+Once the adverse effects are removed, catch-up growth is enabled where the growth deficits are corrected, although improvement in weight occurs more rapidly than height (FAO/WHO/UNU 2007).
+Factors that determine slower catch-up in height are still unknown, height changes occur over a longer period, and peak velocity for height may not be gained until weight-for-height is restored (FAO/WHO/
+UNU 2007). The focus in the following sections will be primarily on the catch-up growth requirements for protein and amino acids in terms of weight deficit.
+Following the initial management of the severely wasted child as per the World Health Organization
+(WHO) guidelines (Ashworth et al. 2003), rates of catch-up growth can be rapid depending on the amount of nutrient that can be consumed. In the presence of adequate energy and micronutrients, the protein needs during catch-up growth have been factorially calculated (FAO/WHO/UNU 2007). The
+Expert Working Group agreed on a preferred weight gain value of 10 g/kg/d considering the usual weight gain of 10 - 15 g/kg/day, during the recovery phase of SAM (WHO 1999) (Table 4). The calculations do require assumptions to be made on composition of weight gain, whether it is lean or fat, the amount of the maintenance protein and energy values, and finally the efficiency of the utilization and deposition of protein and energy. The calculations for amino acid requirement use maintenance amino acid pattern and tissue amino acid composition for maintenance and growth requirement, respectively. Full details for the calculations are presented in the 2007 FAO/WHO/UNU report.
+Table 4 - Protein and amino acid requirement for catch-up weight gain of 10 g/kg/d in infant and children 6 months to 5 years
+AA pattern (mg/g Protein) His Ile Leu Lys SAA* AAA* Thr Trp Val
+Maintenance 15 30 59 45 22 38 23 6 39
+Tissue 27 35 75 73 35 73 42 12 49
+Requirement Protein (g/kg/d)a Amino acid (mg/kg/d) (b)
+Maintenance 0.82 12 25 48 37 18 31 19 5 32
+Growth 2.00 54 70 150 146 70 146 84 24 98
+Total requirement 2.82 66 95 198 183 88 177 103 29 130
+a Target protein requirement to achieve a catch-up weight gain of 10 g/kg/d is calculated by considering a compositional weight gain of 73:27, lean/fat equivalent to 14% protein and 27% fat, 14% deposited tissue adjusted for a 70% efficiency of utilization, and a safe level of maintenance at 1.24X0.66 g/kg/d = 0.82, with 0.66 g/kg/d being the adult maintenance protein needs.
+b The amino acid requirement for catch-up growth was factorially derived (Table 3) from the maintenance (0.82 g/kg/d) and growth requirement (2.0 g/kg/d), related to adult maintenance amino acid pattern, and tissue amino acid pattern, respectively.
+*SAA = sulphur amino acids (methionine + cysteine), AAA = aromatic amino acids (phenylalanine + tyrosine)
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+Severe Acute Malnutrition (SAM)
+In SAM, there have been reports of differences in protein metabolism between edematous versus nonedematous forms. While the non-edematous malnourished child can increase body protein breakdown to supply amino acids for survival, edematous malnourished children have a slower rate of body protein breakdown (Manary et al.1998; Jahoor et al. 2008), resulting in lower plasma indispensable amino acids
+(Jahoor et al. 2008).
+During the growth recovery phase de novo synthesis of several dispensable amino acids could be limiting in vivo thus becoming conditionally indispensable (i.e. tyrosine, cysteine). This in turn could limit the synthesis of acute phase proteins and anti-oxidant molecules, which are required during periods of recovery from infection.
+The impact of supplementing Aromatic Amino Acids (AAA) phenylalanine, tyrosine and tryptophan have been examined in the catch-up growth phase of recovery from SAM
+(Hsu et al. 2014), as acute phase proteins are rich in these amino acids. Supplementation with AAA at
+330 mg/kg/d (phenylalanine at 140 mg/kg/d, tyrosine at 130 mg/kg/d, and tryptophan at 60mg/kg/d) showed significant increases in acute phase protein synthesis, compared to a similar dose of alanine. This suggests that there is an increased demand for the AAA during the catch-up growth phase.
+The requirements for tyrosine during catch-up growth were examined in a dose response study, in the presence of 140 mg phenylalanine/kg/d (Badaloo et al. 2010). The requirement for tyrosine was 99 mg/ kg/d, suggesting that the phenylalanine: tyrosine needs during catch-up growth are at 59:41, similar to body protein (55:45) and in requirements determined in neonates (56:44) (Roberts et al. 2001). It was discussed at the meeting that the diet formulations should attempt to balance the phenylalanine:
+tyrosine ratio to be closer to 1:1, to ensure adequate AAA during growth and recovery.
+Glutathione, the primary cellular anti-oxidant molecule, synthesis is rate limited by the availability of cysteine (Jahoor et al. 2012). In edematous malnutrition supplementation of cysteine increased glutathione synthesis, but methionine supplementation, the pre-cursor of cysteine, did not (Badaloo et al. 2002; Green et al. 2014). In addition, methionine remethylation, transmethylation and transulfuration pathways were not affected by edematous malnutrition (Jahoor et al. 2006a, 2006b). The overall conclusion from this set of studies is that while methionine is the indispensable amino acid and is also necessary for polyamine synthesis or s-adenosylmethionine (universal methyl donor), the balance of methionine/cysteine in the diet would be important to be closer to 1:1 to ensure adequate Sulfur Amino
+Acid (SAA) supply during catch-up growth.
+Amino acid needs in poor environments
+Children living in poor environments could have altered amino acid needs due to small intestinal malabsorption and chronic intestinal inflammation (Crane et al. 2015). While it is understood that childhood stunting is multifactorial in its causes (Millward 2017), childhood Environmental Enteric
+Dysfunction (EED) leading to increased gut permeability has been implicated in lower serum concentrations of some amino acids in stunted children (Semba et al. 2016a). Furthermore, rural stunted Malawi children had lower serum amino acid concentrations of all essential amino acids when compared to non-stunted children (Semba et al. 2016b).
+It is unclear whether supplementation with protein and amino acids would benefit these children
+(Arsenault and Brown 2017). But, there is evidence that lysine requirements are increased by
+~20 percent in chronic-malnourished Indian children aged ~7.5y due to gut parasite infestation (Pillai et al. 2015). It is of note that children in the study were asymptomatic, but with a weight-for-age and height-for-age <2SD (Pillai et al. 2015), suggesting that children living in poor environments with increased rates of small intestinal insults may increase needs for the most limiting amino acid (lysine) in plant-based diets.
+
+It is instrumental to examine earlier data collected from the neonatal piglet model where it was shown that the portal drained viscera (primarily the small intestine) extracted significant amounts of essential and non-essential amino acids (Stoll et al. 1998). Using a similar neonatal piglet model, the apparent needs for threonine (Bertolo et al. 1998), branched-chain amino acids (BCAA; leucine, isoleucine and valine) (Elango et al. 2002), and SAA (methionine+cysteine) (Shoveller et al. 2003) were shown to be increased by 60 percent, 44 percent and 31 percent, respectively, associated with gastric feeding, compared to intravenous feeding.
+The increased need for threonine has been attributed to the need to form a major secretory component of small intestinal mucin proteins. In a follow up study, piglets receiving threonine deficient diets had significantly increased episodes of diarrhoea, reduced mucosal mass, reduced mucin protein, and reduced mucin-producing goblet cells in duodenum and ileum (Law et al. 2007). There is clearly a need to further examine whether essential amino acid needs are increased (beyond current estimates) for adequate growth and development in malnourished children, where frequent episodes of gut insults occur due to poor environments.
+2.5. Summary: proposed amino acid reference pattern for FUF-YC for infant and children 1 - 2.9 years and RUTF for infant and children 0.5 - 4.9 years
+The Expert Working Group proposes the amino acid reference patterns reported in Table
+5 calculated from protein and amino acid requirement and based on the age group of
+1 - 2 years for FUF-YC and on a preferred weight gain of 10 g/kg/d for SAM children receiving RUTF in recovery.
+Table 5 - Protein and amino acid requirement and amino acid reference pattern proposed for FUF-YC
+(1 - 2 year) and for RUTF (target weight gain value of 10 g/kg/d, 6 months to 5 years)
+Requirement Protein (g/kg/d) Amino acid (mg/kg/d)
+His Ile Leu Lys SAA* AAA* Thr Trp Val
+1 - 2 years 0.86 15 27 54 45 22 40 23 6.4 36
+Catch-up growth 2.82 66 95 198 183 88 177 103 29 130
+Amino acid reference pattern (mg/g Protein) a
+1 - 2 years 18 31 63 52 26 46 27 7.4 42
+Catch-up growth 24 34 70 65 31 63 36 10 46
+a calculated as amino acid requirement in mg/kg/d divided by total protein requirement in g/kg/d
+*SAA = sulphur amino acids (methionine + cysteine), AAA = aromatic amino acids (phenylalanine + tyrosine
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+3. Protein digestibility methods for FUF-YC and RUTF
+3.1. Overview of protein and amino acid digestibility - apparent and true digestibility, fecal and ileal digestibility - influence of malnutrition and poor environment
+The scoring approach considers the content of bio-available amino acid in food and diet that represents the dietary intake which is made available to the organism for metabolism after digestion and absorption and is oriented to sequential anabolic and catabolic pathways.
+Bioavailability is traditionally associated with digestibility that measures digestive losses expressed as the proportion of ingested nitrogen or amino acids that is absorbed in the intestine following protein consumption:
+Digestibility (%) = (ingested - digestive losses) / ingested %
+Apparent and true digestibility, fecal and ileal digestibility
+Digestion is a complex process due to the continuous movements and exchange of protein, amino acids and urea between the gut lumen and the systemic pools of the body (Figure 1). From the perspective of nitrogen metabolism and flow, the small and large intestine are considered as two functionally separate pools operating in series. In the healthy adult, the nitrogen flux through the small intestine may be around 25 - 30 g/d with as much as 50 percent being derived from the diet and the balance from endogenous secretions in various forms. The flow through the ileo-caecal valve is estimated to be about
+10 percent of the total flux.
+Food Protein
+Digestibility can be determined by measuring the digestive losses in the faeces or at the level of the terminal ileum. The digestibility of protein has
+SMALL largely been determined from fecal digestibility
+
+INTESTINE
+
+Amino
+(difference between nitrogen ingested and
+Acid excreted in the feces). In addition, apparent versus true protein digestibility differentiates between Absorbed
+Endogenous nitrogen dietary and endogenous origin of nitrogen and nitrogen and AA and protein amino acids in the intestinal lumen and in digestive losses. True fecal digestibility measure true dietary fecal losses by the difference between total and
+Ileal digestibility endo-genous fecal losses. Endogenous fecal losses
+NH + were traditionally determined by using a protein 4
+free diet.
+
+LARGE
+
+Amino acids and short peptides (di- and tri-peptides)
+INTESTINE are end products of food protein digestion that are absorbed in the small intestine. Unabsorbed amino acids and peptides are mostly metabolized fecal digestibility by colonic bacteria with the production of ammonia, bacterial metabolites and amino acids.
+Ammonia and many of the bacterial metabolites can be absorbed by the colon whereas amino acid Fecal losses absorption in the colon remains questionable.
+The protein digestibility values obtained by the Figure 1 - True ileal protein digestibility
+
+fecal analysis method are thus overestimated when compared to the ileal analysis method. The ileal digestibility is considered more accurate for dietary amino acid digestibility and availability (FAO 2014).
+Differences between fecal and ileal digestibility are particularly important for protein sources which are poorly digested in the upper intestine, increasing the quantity to be fermented in the colon. In addition, in the PDCAAS approach the same digestibility, usually fecal, of the protein is applied to each amino acid. More recent developments consider that all amino acids from a same dietary protein source are not similarly absorbed and that each amino acid should be treated as an individual nutrient. This has led to consider the true individual ileal digestibility of each amino acid as more accurate (FAO 2014).
+Influence of malnutrition, poor environments and infections on digestive capacities in infant and children
+Both the quality and the quantity of complementary foods can positively influence body weight and linear growth. However, dietary quality, specifically protein quality and micronutrient content is a critical component, in that poor-quality food cannot be easily compensated for by quantity. Many complementary feeding studies and programs fail to demonstrate adequate effects of protein supplementation on growth; for example, the effect of complementary feeding performed in seven efficacy trials around the world with and without fortified foods showed modest population effect sizes (standardized mean difference, Cohen's d) of about 0.26 and 0.28 for weight and height respectively (Dewey and AduAfarwuah 2008). Many factors are potentially responsible for this, including social, family and individual level determinants, as well as biological variables, such as coexisting morbidity.
+One possibility is that the quality of food provided is effectively reduced because of the child's inability to digest what is consumed. This might be due to EED that results from unsanitary environments, with persistent intestinal immune activation and increased intestinal permeability (Crane et al. 2015), and is thought to reduce the ability to digest and absorb protein, thereby impacting linear growth. It is well known that undernourished children have low disaccharidase activity in their intestines, along with poor jejunal absorption of sugars (James 1972).
+The secretion of many pancreatic enzymes, such as trypsin, chymotrypsin, amylase and lipase was found to be lower in undernourished children, aged 1 - 3 years, from Senegal and Ivory Coast, in comparison with well-nourished age and sex matched French children (Sauniere and Sarles 1988). The defect in secretion of enzymes, as well as ions, prompted the authors to term this condition as a silent exocrine pancreatic insufficiency, which showed a variable response to feeding, and never quite recovered to match the French children's level of enzyme secretion. Finally, it is possible that in addition to digestive capacity, there will be a poor absorption of amino acids and dipeptides due to decreased villous surface area (Crane et al. 2015)
+Poor digestibility could also occur because of intestinal parasites. The mucosal changes that occur because of intestinal parasites are similar to that described in EED. For example, the presence of moderate burdens of Ascaris suum, an intestinal parasitic nematode, in experimentally infected pigs has been shown to cause flattening of villi as well as villous atrophy and fusion (Martin et al. 1984), all of which could lead to a loss of brush border enzymes and a reduced surface area for digestion and absorption.
+Deworming Indian school children led to a reduction in their lysine requirement, after two weeks (Pillai et al. 2015). However, the mechanism of this relatively acute effect is unknown. Another possible cause of malabsorption could be bacterial overgrowth of the small intestine due to the presence of worms, though this is more commonly associated with infections such as Giardia duodenalis, a parasite that colonizes the small intestine and transmitted through contaminated water or food (Gendrel et al. 1992;
+de Boisseu et al. 1996).
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+3.2. Antinutrient effects on protein digestibility of human foods
+Antinutrients or Anti-nutritional Factors (ANFS) are dietary factors that reduce the bioavailability of nutrients. These may be naturally occurring in plants and seeds or formed during processing and storage of ingredients or foods (including formulas). In general, naturally occurring ANFs diminish dietary protein quality via one or more of three mechanisms. They may reduce protein digestibility by inhibiting the action of digestive enzymes in the gut. Alternatively, they may chelate nutrients preventing their digestion and absorption. Some ANFs damage the digestive tract, reducing the efficiency of digestion and absorption.
+Protease inhibitors, such as trypsin inhibitor inhibit the action of proteases. This ANF is found in significant quantities in soyabeans and in lower quantities in other plant-based protein sources such as peas and beans. The concentration and activity of trypsin inhibitor varies greatly between batches and cultivars of soyabeans (Anderson and Wolf, 1995). Trypsin inhibitor is thermolabile, and the heat processing applied to products such as soyabeans (extrusion, steam processing or flaking, boiling, autoclaving etc.) typically inactivate up to 80 percent of this ANF (Gatel 1994). It is noted that currently there are no regulatory upper safe limits established for dietary trypsin inhibitors.
+Tannins are polyphenolic compounds. Condensed tannins (flavolans or procyanidins) are present in cereal grains and legume seeds (such as sorghum, millet and many beans and peas). Condensed tannins bind with proteins causing precipitation, thus reducing protein and amino acid digestibility. They are generally heat resistant and potential methods to reduce their content in foods (dehulling, soaking in water or alkaline solutions, germination, addition of chemicals to bind with the tannins) are ineffective or too costly for routine application (Jansman and Longstaff 1993). An alternative is the development of cultivars with low levels of condensed tannins, as has occurred with faba beans (Crépon et al. 2010).
+Phytic acid, or phytate, is found in oilseeds and grain legumes. It chelates with several nutrients, including protein and synthetic amino acids that are often added to infant formulas. It can chelate with digestive enzymes and/or mineral cofactors and in this manner, decreases the activity of digestive enzymes. It also interferes with zinc homeostasis (Manary et al. 2002). Phytic acid is relatively heat stable, with extrusion reducing phytate content by around 20 - 30 percent (Batista et al. 2010). Fermentation has also been demonstrated to reduce phytate content by
+23 - 26 percent (Antony and Chandra 1999). The most effective manner to minimize the effect of phytic acid is via the addition of the exogenous enzyme phytase to the diet/formula. It should be noted that phytase is thermolabile, thus must be added following any processing that involves heat.
+Processing and storage of protein sources of formulas can result in the generation of ANFs, such as those formed during the Maillard reaction, racemization and lysinoalanine. The Maillard reaction occurs between reducing sugars and lysine. The "early" Maillard reaction renders lysine nutritionally unavailable.
+With severe processing, carbonyls may be formed that react with other amino acids, decreasing their nutritional bioavailability (for review see Moughan 2005). Infant formula requires heat processing in their manufacturing processes (eg. spray-drying, sterilization, treatment at ultra-high temperatures, extrusion). Moreover, the processing of some ingredients, such as soyabean, to minimize the quantities of other ANFs (such as trypsin inhibitor) may provoke the Maillard reaction. During conventional amino acid analysis, a proportion of the nutritionally unavailable lysine residues will convert back to lysine, causing an overestimation of the amount of lysine in these products. This degree of overestimation of the lysine that is nutritionally available for processed milk products has been shown to be up to 14 percent
+(Rutherfurd and Moughan 2005). It is necessary, therefore, to determine the quantity of available lysine in infant formula, using methods such as that described by Moughan and Rutherford 1996.
+Heat and/or alkaline treatments can cause racemization, which involves the conversion of L-amino acids to their D-amino acid isomer, and the formation of lysinoalanine (LAL). Protein bound D-amino acids are reported to be hydrolysed at a slower rate than their L-amino acid counterparts and have a slower
+
+absorption from the digestive tract (see Gilani et al. 2012). The formation of LAL in foods results in a decrease in the bioavailability of lysine, cysteine and threonine, along with reduced protein digestibility.
+Increased LAL in foods also poses a risk of kidney damage (see Gilani et al. 2012).
+In protein sources and formulas that contain minimal quantities of ANFs, nitrogen and protein digestibility is a good measure of the bioavailability of most amino acids. However, in protein sources that contain
+ANFs (either naturally occurring or because of processing), it is necessary to include a correction for the bioavailability of the amino acids when calculating PDCAAS values. As discussed by FAO (2013), it is likely to be inappropriate to use the PDCAAS method for routine determination of protein quality in protein sources that contain high levels of known ANFs, as the PDCAAS method will overestimate the protein quality of such products.
+3.3. Measurements of protein digestibility in human adults and children - current approaches and future developments
+The direct determination of true ileal nitrogen and amino acid digestibility requires the collection of ileal digesta. In the human, this is performed by using naso-ileal intubation methods or collection of digesta from humans that have previously undergone an ileostomy operation. These methods are however invasive and ethically non-relevant for their use as routine methods (FAO 2013, 2014). Alternatively, minimally invasive or non-invasive alternative methods are discussed for amino acid bioavailability. Stable isotope-signature based method for bioavailability were proposed including the IAAO - non-invasive, based on free amino acid mixture, and the dual- tracer approach that can lead to a non-invasive method
+(FAO 2014).
+In the naso-ileal intubation methods, human subjects are equipped with a double-lumen intestinal tube introduced through the nose up to the terminal ileum, with one lumen used to perfuse a nonabsorbable marker of the flux of intestinal effluents, and the other used to aspirate ileal effluent samples. In addition, the method uses intrinsic and uniformly nitrogen or carbon stable isotope-labelled dietary protein source to differentiate dietary protein-bound dietary amino acids and nitrogen from endogenous protein, amino acids and derived metabolites (particularly ammonia and urea) already present in the intestinal lumen (Fuller and Tomé 2005; Bos et al. 2005, 2007; Fromentin et al. 2012).
+Nitrogen and amino acid true digestibility's are calculated from the cumulated amounts recovered at the ileal level and thus not absorbed in the small intestine. True ileal digestibility measured for different protein sources were: milk and meat protein 95 percent, egg, soy and pea protein, 91
+percent, wheat protein, 85 - 90 percent, rapeseed protein, 84 percent (Oberli et al. 2015; Fromentin et al. 2013; Gaudichon et al. 2002; Juillet et al. 2008; Bos et al. 2005; Bos et al. 2007). In addition, true ileal digestibility values of dietary amino acids were also measured after the ingestion of milk or soy protein, with digestibility of amino acids ranging from 91 percent (glycine) to 99 percent (tyrosine) for milk protein, and from 89 percent (threonine) to 97 percent (tyrosine) for soy protein (Gaudichon et al. 2002).
+An alternative option that allows the collection of digesta from humans to determine true ileal nitrogen and amino acid digestibility coefficients involves humans with a permanent ileostomy, as described in
+Moughan et al. (2005). This method can be used for fibrous/coarse foods, which is not the case for naso-ileal intubation methods. However, it is possible that digestibility results obtained in ileostomates could differ slightly than those in the "intact" human (i.e. via naso-ileal intubation), due to the presence of the ileostomy. Tracer based approaches have also been used to study the digestibility of 13C-and
+15N-labelled egg protein (Evenepoel et al. 1998), where the ileal effluent was collected in ileostomates and analysed for their residual labelled protein content, in a classical oro-ileal balance.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+The IAAO method is based on the concept that when one IAA is deficient for protein synthesis, then the relative surplus of other amino acids including the indicator amino acid (usually
+L-[1-13C-phenylalanine) is oxidized (Elango et al. 2012). A reference slope is constructed from the IAAO response measured with graded intakes of free (crystalline) limiting amino acid (e.g. methionine or lysine) from a reference crystalline AA mixture patterned after egg protein. The metabolic availability is calculated from the ratio of the IAAO response to the addition of amino acid intake from test proteins
+(substituted for a portion to the free amino acid mixture) to that of free (crystalline) amino acids. The metabolic availability measured by the IAAO method is an estimate of the proportion of the amino acid available for protein synthesis. Hence the IAAO method measures not only digestibility, which has the potential to overestimate protein quality (Rutherfurd 2012, Moughan 2003) but also accounts for all losses due to cellular metabolism (Elango et al. 2012). Thus, the method accounts for some amino acids, e.g. lysine that form Maillard products, which are not available for protein synthesis though absorbed.
+The method was validated in pigs (Moehn et al. 2005) and applied in humans for the measurement of methionine metabolic bioavailability in casein and soy protein (Humayun et al. 2007) and of lysine in cooked white rice and oven-browned cooked rice (Prolla et al. 2013).
+The dual-tracer method of measuring small intestinal amino acid digestibility (FAO 2014) follows the principles of other dual-tracer applications such as those used to study starch digestion (Priebe et al.
+2008). This tracer approach had been used in earlier studies of protein digestion, albeit for a single amino acid, where phenylalanine digestibility was measured by the dual-tracer method in humans with cystic fibrosis, using uniformly labelled 15N-spirulina (Engelen et al. 2014). For measuring the digestibility of different amino acids, by the dual-tracer technique, an intrinsically isotope-labelled test protein is simultaneously fed with a different isotope-labelled 'standard' protein, whose digestibility is known (Devi et al. 2018). Then, the postprandial ratio of the appearance of differently labelled amino acids in the blood allows for the evaluation of the true digestion and absorption of the test protein, since the splanchnic uptake and metabolism of the different amino acids can be corrected for, when using this ratio approach. As test and standard proteins are delivered simultaneously, it is assumed that their splanchnic extraction terms will be the same. In addition, since this method only measures the appearance of labelled amino acids from the intrinsically labelled test and standard protein, it is not confounded by endogenous protein secretion, and is hence a measure of true ileal digestibility.
+3.4. Animal models for protein and amino acid digestibility, with special reference to infants and young children - current approaches and future developments
+Due to the lack of available data on true ileal nitrogen and amino acid digestibility coefficients of foods determined in the human, and difficulties in the use of humans for routine determinations, data are generated in animal models. The two animal models that have been most commonly used for protein quality evaluation are the pig and rat.
+The digestive tract of the piglet is very similar to that of the milk-fed infant (Moughan et al. 1992).
+Moreover, for infant formulas, the bottle-fed piglet has been shown to be a pertinent model for the human infant (Darragh and Moughan 1995). It should be noted, however, that it is very complex to work with very young piglets, thus for routine evaluations, older growing pigs are typically used. The growing pig has been shown to give values of nitrogen and amino acid digestibility close to human values (Deglaire et al. 2009; Rowan et al. 1994), at least for highly digestible proteins (FAO 2014).
+However, statistical prediction equations need to be generated that relate nitrogen and amino acid digestibility values determined in the pig with those determined in the human, encompassing the full
+
+range of digestibility seen in human protein sources, especially for protein sources with lower nitrogen and amino acid digestibility (60 - 85 percent). Overall, the use of the pig model offers the advantages that their digestive physiology is very similar to that of the human (Deglaire and Moughan 2012; Guilloteau et al. 2010). They are meal feeders, readily eat human foods and provide large samples of ileal digesta.
+The rat is another potential animal model for the determination of true ileal nitrogen and amino acid digestibility. In order to determine true ileal nitrogen and amino acid digestibility in the rat, the protein sources need to be ground, to prevent selection of particles by the rats. This grinding may affect the digestibility of the nitrogen and amino acids. Moreover, the rat is not a meal feeder, and has the risk of coprophagy occurring, although the latter can be minimized in experimental studies. Currently, there is no data that compares the digestibility values determined in the rat and those in infants or young children, and no published direct comparisons of true ileal nitrogen and amino acid digestibility of protein sources between the rat and the adult human.
+3.5. Nitrogen to protein conversion factor
+For nutritional objectives related to protein quality, the protein content in a foodstuff is the source of amino acids, and estimating protein content aims at the estimation of total amino acid content. The protein content in a foodstuff is usually estimated by multiplying the nitrogen content by a nitrogento-protein conversion factor, considering that the majority of nitrogen is associated with amino acids in protein. This nitrogen-to-protein conversion factor is traditionally set at 6.25. This historical factor
+(dating back to the 19th century) assumes the nitrogen content of proteins to be 16 percent. There are however different limitations to this approach.
+Firstly, nitrogenous compounds in foodstuffs do not only comprise protein or amino acids, but also include numerous substances such as nucleic acids, amines, urea, ammonia, nitrates, Other
+Non-protein notrogenous nitrites, phospholipids, nitrogenous glycosides, Nitrogen
+Compounds etc. Analysis of protein and non-protein nitrogen content of breast milk from mothers of term infants shows that total nitrogen in human milk represents both protein, about 75 percent, and non-protein nitrogen, which is made up of urea (up to 50
+percent of the non-protein nitrogen), amino acids and other nitrogenous compounds (SCF 2003;
+WHO/FAO/UNU 2007). Non-protein nitrogen fraction in different biomass products (mushroom,
+Protein, vegetables, algal samples, plant leaves, food Amino amino acid Proteins products, and cereal products) represents from Nitrogen Acids (biochemical
+5 to 50 percent of total nitrogen (Chen et al. entity)
+2017).
+Secondly, if some proteins (considered as biochemical entity) are constituted only by amino acids which are the compounds that contain nitrogen, for other protein the amino acid chain is associated to a "prosthetic" group that usually Prosthetic groups does not contain nitrogen (mineral, sugar, fatty acid, etc.). For protein with a prosthetic group the mass of the protein is different if we consider only Figure 2 - Nitrogenous compounds in foodstuff
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods the amino acid part or the biochemical entity including the amino acid part and the prosthetic group, but the nitrogen content remains the same. The conversion factor related to the biochemical entity is higher than the conversion factor related to amino acids. Calculation in different products of the ratio of protein (as the sum of anhydrous amino acids) to amino acid nitrogen provide conversion factors in the range 5.0-6.15 (Fujihara et al. 2008; Chen et al. 2017). In contrast, values provided from Jones (1941) obtained from the ratio of protein (as molecular entities) to Kjeldahl nitrogen are in the higher range of
+5.7 - 6.38.
+Lastly the different amino acid chains of pure proteins differ in terms of their nitrogen contents that results from differences in their amino acid composition, because the nitrogen content of amino acids can vary considerably, being high in arginyl, histidyl, glycyl, and asparagyl residues and low in phenylalanyl and tyrosyl residues. This explains that, even if only the amino acid content is considered, the ratio of protein amino acids to amino acid nitrogen provide a relatively large range from 5.0 to 6.15 for different products (Fujihara et al. 2008; Chen et al. 2017).
+3.6. Recommended methods for protein and amino acid digestibility for FUFYC and RUTF and costs involved in digestibility measurements
+The Expert Working Group agreed that true nitrogen and amino acid digestibility determined at the ileal level (the end of the small intestine) should ideally be used to correct for protein availability in the formulation of FUFs and RTUFs, as per the recommendations of FAO (2013; 2014). However, at present these data do not exist for most of the protein ingredients that are used in these formulas.
+True ileal nitrogen and amino acid digestibility
+Human true ileal digestibility data determined in the adult human, whether determined using the naso-ileal intubation method or with ileostomised humans (once validated), could provide informative estimates of nitrogen and amino acid availability when Growing pig true ileal digestibility evaluating the protein quality of FUFs and RUTFs.
+However, as discussed in a recent FAO report
+(FAO 2013), at present there is a limited amount of data available on ileal digestibility of nitrogen Rat true ileal digestibility and amino acids for foods determined in humans
+(Deglaire et al. 2009; Gaudichon et al. 2002;
+Rowan et al. 1994). These methods are invasive and ethically non-relevant for their use as routine
+Human fecal digestibility methods (FAO 2013, 2014). In future, stable isotope-signature based method for bioavailability such as the Indicator IAAO, and the dual-tracer approach could be used in humans provided they
+Pig fecal digestibility have been previously validated in comparison to direct methods.
+When these data do not exist, it is necessary to use true ileal nitrogen and amino acid digestibility Rat fecal digestibility data determined in an animal model. As true ileal nitrogen and individual amino acid digestibility values measured in rat and pig are generated Figure 3 - Algorithm for protein quality and published, these values should be preferred. assessment with the available
+When individual amino acid digestibility values digestibility values
+
+are available they should be preferred with DIAAS being used to determine protein quality. Example calculations for the calculation of DIAAS are presented in the FAO report (FAO 2013).
+A further alternative for the correction of nitrogen and amino acid availability is data generated using in vitro methods. In future, due to ethical considerations with studies involving humans or animal models, in vitro methods are likely to become the preferred methods. However, at present there are many different in vitro models, and these differ in reaction conditions and, most likely, in the digestibility results generated. There is no agreed-on model for the determination of true ileal nitrogen and amino acid digestibility values using in vitro methods, and little data is available on digestibility values to allow the use of these methods at present.
+The Expert Working Group proposes an algorithm (Figure 3) that uses the best available methods to assess protein digestibility, depending on data availability for defining protein quality of FUF-YC and
+RUTF. Member countries and/or industries are recommended to follow in order, starting with human true ileal digestibility values, growing pig true ileal digestibility values, rat true ileal digestibility values.
+If these are not available, human, pig, or rat fecal protein digestibility values should be used, in that order. One should also consider the possibility of generating prediction equations for ileal digestibility values, obtained from comparisons between pig and rat models and humans that give scope for future research. A cautionary note ought to be considered in formulations utilizing plant-based protein sources, owing to the effect of anti-nutritional factors as explained in section 2.2. Also, one must be aware of the adverse effects of poor environment and infections on intestinal function in children, as digestibility values may differ in such instances.
+Cost of digestibility measurements
+Where human data on true ileal nitrogen and amino acid digestibility of protein sources are not available, ileal digestibility data could be determined in pig or rat. Pig models are however more expensive to work with than the rat model, and, in the future, there may be limitations on their use for ethical reasons. Rat is an economical model, and where there is no data on true ileal nitrogen and amino acid digestibility values for foods or ingredients determined in the human or pig, ileal data determined in the rat should be used to correct nitrogen and amino acid availability for the FUFs and RUTFs.
+On average the total costs involved in conducting digestibility studies using a dual stable-isotope approach is ~8 000 USD per subject. This includes costs of procuring labelled reference protein (for example spirulina), producing 2H labelled test protein using deuterium; in addition there are experimental and analytical costs.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+4. Procedures and recommendations
+4.1. Use of PDCAAS in assessing protein quality of formulated products
+While several methods exist for the assessment of the quality of proteins in a diet or food, the current accepted method is a chemical scoring method.
+The chemical amino acid score is the ratio for each amino acid (mg/g protein) in the food ingredient or formulation and a reference pattern of amino acids (mg/g protein). The PDCAAS is computed by correcting the lowest chemical amino acid score of one of four essential amino acids (lysine, tryptophan,
+SAA and threonine) by the protein fecal or ileal digestibility.
+Chemical amino acid score % = 100 x [(mg of amino acid in 1 g test protein) / (mg of amino acid in reference pattern)].
+PDCAAS% = weighted protein digestibility for the food formulation * limiting Amino Acid
+Score (AAS).
+In the more recently modified score DIAAS the content of each IAA, and in particular the most commonly limiting four indispensable amino acids (lysine, tryptophan, SAA and threonine) is corrected by its specific ileal digestibility. Then each value is related to same amino acid in the reference amino acid pattern.
+DIAAS% = 100 x [(mg of digestible dietary indispensable amino acid in 1 g of the dietary protein) / (mg of the same dietary indispensable amino acid in 1g of the reference protein)].
+Scores are truncated to 100 percent. A PDCAAS or DIAAS score below 100 indicates that at least one amino acid is limiting in the food or diet and a score of 100 that there is no limiting amino acid in the food or diet. A key difference between the DIAAS and the PDCAAS is that DIAAS requires the use of true ileal digestibility of each amino acid determined in humans then in growing pigs or in growing rats in descending order of preference (as per the suggested algorithm) (FAO 2013).
+4.2. Computing PDCAAS in food formulations (e.g. RUTF)
+Computing the PDCAAS to assess protein quality is recommended as part of the assessment of the nutritional composition of a new food formulation used either as a
+FUF-YC or RUTF. In this section we provide steps for computing the PDCAAS for food formulations. The method to compute PDCAAS has been outlined in detail with associated caveats in the 2007 protein requirements (WHO/FAO/UNU 2007). To compute the PDCAAS, first the AAS for the indispensable amino acids must be estimated. The AAS determines the effectiveness with which absorbed dietary nitrogen meets the indispensable amino acid requirement at safe levels of protein intake.
+The following steps and Table 6 outlines an example for the PDCAAS computation procedure of
+25 percent RUTF. Once a formulation and its ingredients (amounts per 100 g) are identified, the protein and amino acid content for each of the ingredients in the formulation should be extracted from appropriate food composition data (preferably from the US Department of Agriculture, Agricultural
+Research Service, Nutrient Data Laboratory, USDA National Nutrient Database for Standard Reference,
+Release 28).
+
+1. For the computation, the amino acids lysine, tryptophan, threonine, SAA (methionine and cysteine combined) are required, although, to assess the amino acid pattern (mg/g protein), computations could include all amino acids (see Table 6).
+2. Data on fecal digestibility should be integrated with the food composition data.
+Appendix 1 provides estimates of human and rat fecal digestibility, which are not the most accurate data, however, at this moment, this is the best available and thus recommended option.
+3. The total protein content and the amino acid content for the food formulation are then calculated.
+4. The amounts of each amino acid are then converted to mg/g of protein (for each ingredient). In other words, amino acid pattern for the protein source is calculated.
+5. The protein value of each food ingredient is then multiplied by the digestibility value for that ingredient to calculate the amount of digestible protein present in that food item.
+6. By multiplying digestible protein values with calculated amino acid pattern mg/g values, the total digestible amino acid content (total mg per food ingredient) is computed for each amino acid.
+7. Weighted digestibility is then calculated, weighted by the protein contribution of each ingredient.
+The standard assumption here is that digestibility of foods does not change when foods are consumed in mixed diets. However as noted earlier (section 2.5), digestibility can be affected by processing and under the presence of anti-nutrient factors.
+8. The digestible amount of each amino acid per gram of digestible protein is then calculated (units:
+mg/g protein). This value should be divided by the recommended reference pattern (see Table 4 or section 1.5) to calculate the unit less AAS. The AAS is calculated for lysine, SAA, threonine, and tryptophan.
+9. The amino acid with the lowest score is the limiting amino acid. The AAS of this amino acid is then used in computing PDCAAS, which is the product of the lowest AAS and the weighted digestibility of the food formulation.
+10. If the PDCAAS is over 100 percent, it should be rounded down to 100.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+
+2 ) t c u
+
+o r p g
+
+n
+
+k l i M
+%
+
+(
+F
+T
+U
+R k l i M t n e
+
+r e p
+
+r o f
+S
+
+A A
+
+P f o n o i t a t u p
+
+o
+
+-
+
+e
+
+b a
+T elbitsegiD laceF prT rhT
+*AAS syL nietorP tnuomA tneidergnI ytilibitsegid atad noitisopmoc dooF g sdica onimA g g g
+15.0
+36.1
+575.1
+868.2
+4.43
+59.0
+2.63
+
+klim miks deirD
+32.0
+35.0
+327.0
+186.0
+1.12
+59.0
+2.22
+
+tcudorp g
+001FTUR kliM
+%52
+:noitalumroF g/gm sdica onimA g g g
+1.41
+1.54
+6.34
+3.97
+6.8
+0.9
+
+klim miks deirD
+4.01
+6.32
+6.23
+7.03
+5.5
+8.5
+
+gm sdica onima latoT
+
+klim miks deirD
+
+1.41
+8.41
+muS
+
+g/gm dica onima elbitsegiD
+
+g/gm
+)niag thgiew yad/gk/g
+01( dednemmoceR
+72.1
+20.1
+72.1
+39.0
+erocs dica onimA
+059.0
+ytilibitsegid dethgieW
+
+)enietsyc
++ eninoihtem( sdica onima ruhplus
+=
+AAS*
+FTUR fo noitrop g
+
+rep klim fo g
+
+sniatnoC noitalumrof
+FTUR dradnats a sa ot derrefer si ti erehw
+
+,la te yelkaO morf deniatbo saw
+
+FTUR
+
+%52
+rof noitisopmoc ehT
+
+4.3. Protein quality assessment in diets of developing countries - FUF-YC and
+RUTF used for treating SAM in children aged 0.5 - 4.9 years
+In 2016, at a global level, 52 million children 6 - 59 months suffered from SAM (with or without complications) with 14 million in Sub-Saharan African and 36 million children in South Asia (UNICEF,
+2017). Food products used within the treatment regime need to be carefully assessed for nutrient density
+(quality protein, fat and micronutrients). SAM and underweight is most prevalent in those populations in the developing world that subsist primarily on cereals and cereal products with very low levels of animal source food consumption. Such diets are likely to be very low in micronutrients as well as high quality protein (Ghosh and Uauy 2016).
+At a public health level, there is a need for a better understanding on how adjusting for protein quality could change pattern of protein availability and intakes. Furthermore, a clear set of guidelines is needed to ensure that products targeting specific conditions (e.g. treatment of SAM) to achieve nutrition outcomes in meeting specific standards derived in an evidence-based manner. Adjusting amino acid requirements for physiologic status to evaluate food aid products has been shown to assess protein quality more accurately (Callaghan et al. 2017) and protein quality scores have been reported to be highly correlated with the rate of weight gain in recovery from SAM (Manary et al. 2016).
+Global availability and individual intakes corrected for protein quality
+Ecological analysis examining trends in global availability (from 1961 to 2005) of protein correcting for protein quality using the PDCAAS methods show differences in availability of energy and utilizable (good quality) protein across regions and countries. Correcting for quality of protein led to a reduction in total protein by 11 percent globally with as much as a 17 percent reduction in total protein availability in
+Africa (Ghosh and Uauy 2016). Adjusting for energy deficit and infections leads to a further reduction in protein availability in Sub-Saharan Africa and South Asia (Ghosh et al. 2012). Estimates of protein inadequacy (computed from availability) are found to be significantly lower using total protein versus protein adjusted for PDCAAS (utilizable protein). Furthermore, while both total protein and utilizable protein were negatively associated with prevalence of stunting at the national level, the association of utilizable protein unlike total protein is independent of total energy availability.
+Assessment of protein intakes adjusted for protein quality using individual level data shows mixed results.
+An analysis of protein quality of diets of children under five from Kenya, Uganda and Bangladesh found about 30% risk of inadequacy (Suri et al. 2012). More recent analysis has shown highest prevalence of inadequate protein intake being found only in breast feeding children aged 6 - 8 months (24% in
+Bangladesh, 16% in Peru), with very low or no risk of inadequacy in older children (Arsenault and Brown
+2017). The authors concluded that a risk of inadequate protein intake was likely an effect of low intake from complementary foods, and that the quality of complementary foods and protein density (protein intake/100 kcal/day) in infants in Peru and Guatemala (but not Bangladesh) was significantly higher in those infants who met the EAR for protein than those who did not (Arsenault and Brown 2017). Key caveats in both sets of findings is that none of the country data are representative at the national or sub-national level, there is a mixture of rural, urban and peri-urban data with likely purposive sampling.
+Protein intakes in infants and young children across many different national surveys and cross-sectional surveys showed much higher levels of protein intake than required but it is unclear if any of these estimates have been adjusted for protein quality (Suthutvoravut et al. 2015). Excess protein intakes have also been documented in infancy and early childhood in most developed countries and in some developing countries and were discussed in relation with potential enhance weight gain and later risk of obesity (Koletzko et al. 2009a; Koletzko et al. 2009b). Lower protein in FUF-YC was associated with lower weight gain up to 2 years of age (Koletzko et al. 2009a). These findings are particularly relevant in the discussion of protein quality assessment of FUF-YC.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+Effectiveness and protein quality of RUTF: plant versus animal based formulations
+RUTF used for outpatient treatment of SAM without complications are required to meet specifications as laid out in the guidelines on community based management of SAM (WHO et al. 2007). Specifically, within the context of energy and protein requirements, per 100 g, RUTF products must provide 520 - 550
+kcals with 10 - 12 percent total energy originating from protein. Furthermore, 50 percent of the total protein must come from milk or a milk-based product. The latter recommendation is based on findings from studies that have found a milk based RUTF (50 percent of total protein) to be as efficacious (or even more) as standard therapy for children recovering from malnutrition after being stabilized (Ciliberto et al. 2005; Diop et al. 2003; Lenters et al. 2013). A study conducted in Senegalese children found significantly higher weight gain in children fed RUTF compared to F100 along with an average lower duration of rehabilitation (Diop et al. 2003). In Malawi, children who received home based therapy with
+RUTF had significantly higher gains in WHZ score, were less likely to relapse or die and had a lower prevalence of respiratory infections and diarrhoea compared to children who received standard therapy
+(F-100) (Ciliberto et al. 2005). A systematic review found that children given RUTF were 51 percent more likely to achieve nutritional recovery than the standard care group (Lenters et al. 2013).
+While currently almost all RUTF available for therapeutic purposes are made of a combination of peanut paste and dried skim milk, efforts are being placed on formulating RUTF using lower cost milk products or locally available legumes such as soya bean, chick peas, cereal flours such as rice, millet, oats, wheat and sorghum (WHO and UNICEF 2007). Studies comparing different levels of milk in RUTF, using different types of milk products (e.g. whey protein concentrate WPC 34) as well as formulating RUTF solely using plant based proteins or a combination of plant based proteins that are enriched with single or multiple amino acids (Bahwere et al. 2017; Bahwere et al. 2016; Bahwere et al. 2014; Irena et al. 2015; Oakley et al. 2010). A comparison of 10 percent milk (~ 20 percent milk protein) to 25 percent Milk RUTF or standard RUTF (>50% milk protein) found that 10 percent RUTF was less effective in the treatment of
+SAM in Malawian children
+6 - 59 months (Oakley et al. 2010). While rates of recovery were similar (81 to 84 percent) these were significantly different with duration of recovery being shorter in the group with 25 percent Milk RUTF.
+On the other hand, substituting dried skim milk with whey protein concentrate led to recovery rates and weight gain that were non-inferior than standard RUTF (Bahwere et al. 2014). Effectiveness studies comparing non-milk-based RUTF to standard RUTF in non-inferiority cluster randomized trials did not find equivalence in recovery or weight gain in Zambian children (Irena et al. 2015), a finding that was further confounded by the age of children, but did in children in the Democratic Republic of Congo
+(Bahwere et al. 2016). The equivalency was also observed in another study conducted in Malawi that examined the efficacy of plant-based RUTF (soya-maize and sorghum) which was enriched with essential amino acids (Bahwere et al. 2017). These findings indicate promising avenues for further research.
+An assessment of protein quality of different milk-based RUTF and plant-based RUTF was conducted using the new proposed reference pattern (Table 4 ) which utilizes the preferred weight gain value of 10 g/kg/day and protein needs of 2.82 g/kg/day (0.82 g/kg/day for maintenance +2.0 g/kg/day for growth). Amino acid pattern, scores and PDCAAS of the milk-based RUTF including standard
+F-100, RUTF, 10 percent Milk RUTF and whey protein RUTF (Bahwere et al. 2014; Oakley et al. 2010;
+WHO 1999) and the plant based RUTF (Bahwere et al. 2017; Bahwere et al. 2016; Irena et al. 2015) were computed using the method outlined in the WHO 2007 protein requirements (WHO/FAO/UNU
+2007). Weighted digestibility was computed using true fecal digestibility values (Axtell et al. 1981;
+WHO/FAO/UNU 2007). All products almost met the amino acid reference pattern (Table 5) and most
+AAS were above 1, except in the case of 10 percent Milk RUTF where lysine was 0.83 as well as in the case of Soy-Maize-Sorghum RUTF where it was 0.9. PDCAAS estimates were computed (in all products, lysine was the lowest score) and estimates are presented in Table 7.
+
+4.4. Summary on guidelines and recommendation for protein quality assessment in FUF-YC and RUTF
+The Expert Working Group recommends the following in relation to protein quality assessment in
+FUF-YC and RUTF:
+a. to use PDCAAS and appropriate fecal digestibility values to define protein quality of FUF-YC and
+RUTF.
+b. To use reference amino acid requirements and scoring patterns of children in the
+1 - 2.9 year age group for determining protein quality of FUF-YC (Table 5).
+c. To use reference amino acid requirement and scoring patterns related to catch up growth of
+10 g/kg/day for determining protein quality of RUTF (Table 5).
+d. To consider effects of anti-nutritional factors and impaired gut function in the presence of poor environment and infections on digestibility.
+e. A high-quality protein source will have a PDCAAS score of 100. However, a PDCAAS score of ≥90
+can still be considered adequate for these formulations. In formulations with PDCAAS score of <90
+the quantity of protein should be adjusted to achieve the desired value.
+f. The efficacy of new formulations should not rely on protein quality considerations alone, and should be tested for their ability to support catch up growth in the target population, which in this scenario would be children of 1 to 2.9 years for FUF-YC and 0.5 to 4.9 years for RUTF.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+
+e r u t a r e t i l e h t n
+
+n u o f s n o i t a lu
+
+r o f
+
+F T U
+
+R f o t n e m s s e s s a y t il a u q n i e t o r P
+-
+
+e l b a T laV
+*prT
+*rhT
+$AAA
+*$AAS
+*syL ueL uelI siH g/gm dica onimA
+
+)niag thgiew yad/gk/g
+01( desoporP g/gm dica onimA
+
+)klim miks deird(
+001F
+FTUR desab-kliM
+
+)klim morf
+%05>(
+FTUR klim
+%52
+
+)klim morf
+%02~(
+FTUR klim
+%01
+
+)etartnecnoc yehw(
+
+FTUR
+
+CPW
+
+FTUR dehcirne dna desab tnalP
+
+FTUR muhgros-eziam-ayoS
+
+FTUR dica onima-muhgros-eziam-yoS
+
+FTUR dica onima-klim-muhgros-eziam-yoS erocs dica onimA a001
+54.1
+14.1
+52.1
+35.1
+14.1
+22.1
+04.1
+87.1
+31.1
+)klim miks deird(
+001F
+FTUR desab-kliM
+
+91.1
+72.1
+20.1
+05.1
+72.1
+39.0
+42.1
+04.1
+01.1
+)klim morf
+%05>(
+FTUR klim
+%52
+
+10.1
+42.1
+89.0
+14.1
+52.1
+38.0
+11.1
+42.1
+60.1
+)klim morf
+%02~(
+FTUR klim
+%01
+
+79.0
+05.1
+93.1
+60.1
+85.1
+69.0
+72.1
+92.1
+49.0
+)etartnecnoc yehw(
+
+FTUR
+
+CPW
+
+FTUR dehcirne dna desab tnalP
+
+99.0
+13.1
+90.1
+03.1
+83.1
+09.0
+01.1
+92.1
+20.1
+FTUR muhgros-eziam-yoS
+9.0
+0.1
+2.1
+
+41.1
+89.0
+22.1
+71.1
+90.1
+
+60.1
+bFTUR dica onima-muhgros-eziam-yoS
+0.1
+1.1
+2.1
+
+41.1
+40.1
+42.1
+91.1
+31.1
+
+01.1
+bFTUR dica onima-klim-muhgros-eziam-yoS
+)enisoryt
++ eninalalynehp( sdica onima citamora
+=
+
+AAA
+
+,)enietsyc
++ eninoihtem( sdica onima ruhplus
+=
+AAS$ fo eht rof desu sdica onimA* fo pets lanfi eht ta
+
+ot 611
+morf detacnurt saw eulav ehT a eseht rof elbaliava erew snwodkaerb tneidergni oN
+.seitilibitsegid fo rof dewolla taht atad dica onima dna lacitylana morf devired era setamitse esehT b elbarapmoc suht era dna sepicer noitalumrof morf gnitrats snoitatupmoc no desab era setamitse rehto llA
+.stcudorp rehto eht ot elbarapmoc yleritne eb ton yam eseht suht
+,stcudorp rehto hcae ot desu ni ecnereffid ot eud seulav dehsilbup rehto naht rewol eb yam seulav
+
+5. Future research recommendations
+Following the provision of practical guidance on the measurement of protein quality in FUF-YC and
+RUTF used to feed children in different conditions, the Expert Working Group summarized research recommendations for future work:
+- It is necessary to generate a complete dataset on the true ileal digestibility for different protein sources so that DIAAS values can be used in the future, as this data becomes available.
+- In order to allow for an algorithm to be operationalized, it is necessary to compare true ileal nitrogen and amino acid digestibility of foods within the full range of protein digestibility's between pig and human, and to generate a robust statistical prediction equation.
+- At present there are no data to show whether available models (adult human via naso-ileal intubation, pig ileal model or rat ileal model) are representative in children with malnutrition. There is a need for studies comparing ileal digestibility in children, both normal and malnourished, to adults and suitable animal models.
+- It is important to develop an agreed-on in vitro method to predict true ileal nitrogen and amino acid digestibility values.
+- There is clearly a need to further examine whether essential amino acid needs are increased (beyond current estimates) for adequate growth and development in malnourished children, where frequent episodes of gut insults occur due to poor environments.
+- With introduction of formulations or food preparations that are enriched with single or multiple amino acids, one needs to consider setting scoring methods to accommodate added amino acids.
+- It is important to determine the contribution of amino acids generated from the colonic microbiome towards the amino acid pool of the whole body, as there is considerable uncertainty around such a contribution towards host amino acid economy.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+6. References
+Anderson, R.L. and Wolf, W.J. 1995. Compositional changes in trypsin inhibitors, phytic acid, saponins and isoflavones related to soybean processing. The Journal of nutrition, 125(3), p.S581.
+Antony, U. and Chandra, T.S. 1999. Enzymatic treatment and use of starters for the nutrient enhancement in fermented flour of red and white varieties of finger millet (Eleusine coracana). Journal of agricultural and food chemistry, 47(5), pp.2016-2019.
+Arsenault, J.E. and Brown, K.H. 2017. Dietary Protein Intake in Young Children in Selected LowIncome Countries Is Generally Adequate in Relation to Estimated Requirements for Healthy Children,
+Except When Complementary Food Intake Is Low. The Journal of Nutrition, p.jn239657.
+Arsenault, J.E. and Brown, K.H. 2017. Effects of protein or amino-acid supplementation on the physical growth of young children in low-income countries. Nutrition Reviews, 75(9), pp.699-717.
+Ashworth, A. 2003. Guidelines for the inpatient treatment of severely malnourished children. World
+Health Organization.
+Axtell, J.D., Kirleis, A.W., Hassen, M.M., Mason, N.D.C., Mertz, E.T. and Munck, L. 1981.
+Digestibility of sorghum proteins. Proceedings of the National Academy of Sciences, 78(3), pp.13331335.
+Badaloo, A., Hsu, J.W.C., Taylor-Bryan, C., Reid, M., Forrester, T. and Jahoor, F. 2010. Tyrosine requirement during the rapid catch-up growth phase of recovery from severe childhood undernutrition.
+British journal of nutrition, 104(8), pp.1174-1180.
+Badaloo, A., Reid, M., Forrester, T., Heird, W.C. and Jahoor, F. 2002. Cysteine supplementation improves the erythrocyte glutathione synthesis rate in children with severe edematous malnutrition. The
+American journal of clinical nutrition, 76(3), pp.646-652.
+Bahwere, P., Akomo, P., Mwale, M., Murakami, H., Banda, C., Kathumba, S., Banda, C., Jere,
+S., Sadler, K. and Collins, S. 2017. Soya, maize, and sorghum - based ready-to-use therapeutic food with amino acid is as efficacious as the standard milk and peanut paste - based formulation for the treatment of severe acute malnutrition in children: a noninferiority individually randomized controlled efficacy clinical trial in Malawi. The American Journal of Clinical Nutrition, 106(4), pp.1100-1112.
+Bahwere, P., Balaluka, B., Wells, J.C., Mbiribindi, C.N., Sadler, K., Akomo, P., Dramaix-Wilmet,
+M. and Collins, S. 2016. Cereals and pulse-based ready-to-use therapeutic food as an alternative to the standard milk-and peanut paste - based formulation for treating severe acute malnutrition: a noninferiority, individually randomized controlled efficacy clinical trial. The American journal of clinical nutrition, 103(4), pp.1145-1161.
+Bahwere, P., Banda, T., Sadler, K., Nyirenda, G., Owino, V., Shaba, B., Dibari, F. and Collins,
+S. 2014. Effectiveness of milk whey protein-based ready-to-use therapeutic food in treatment of severe acute malnutrition in Malawian under-5 children: a randomised, double-blind, controlled non-inferiority clinical trial. Maternal & child nutrition, 10(3), pp.436-451.
+Batista, K.A., Prudêncio, S.H. and Fernandes, K.F. 2010. Changes in the Functional Properties and Antinutritional Factors of Extruded Hard-to-Cook Common Beans (Phaseolus vulgaris, L.). Journal of food science, 75(3).
+Benevenga, N.J. and Steele, R.D. 1984. Adverse effects of excessive consumption of amino acids.
+Annual review of nutrition, 4(1), pp.157-181.
+
+Bertolo, R.F., Chen, C.Z., Law, G., Pencharz, P.B. and Ball, R.O. 1998. Threonine requirement of neonatal piglets receiving total parenteral nutrition is considerably lower than that of piglets receiving an identical diet intragastrically. The Journal of nutrition, 128(10), pp.1752-1759.
+Bos, C., Juillet, B., Fouillet, H., Turlan, L., Daré, S., Luengo, C., N'tounda, R., Benamouzig, R.,
+Gausserès, N., Tomé, D. and Gaudichon, C. 2005. Postprandial metabolic utilization of wheat protein in humans. The American journal of clinical nutrition, 81(1), pp.87-94.
+Bos, C., Airinei, G., Mariotti, F., Benamouzig, R., Bérot, S., Evrard, J., Fénart, E., Tomé, D. and
+Gaudichon, C. 2007. The poor digestibility of rapeseed protein is balanced by its very high metabolic utilization in humans. The Journal of nutrition, 137(3), pp.594-600.
+Butte, N.F., Hopkinson, J.M., Wong, W.W., Smith, E.O.B. and Ellis, K.J. 2000. Body composition during the first 2 years of life: an updated reference. Pediatric research, 47(5), pp.578-585.
+Callaghan, M., Oyama, M. and Manary, M. 2017. Sufficient Protein Quality of Food Aid Varies with the Physiologic Status of Recipients. The Journal of nutrition, 147(3), pp.277-280.
+Chen, X., Zhao, G., Zhang, Y., Han, L. and Xiao, W. 2017. Nitrogen-to-Protein Conversion Factors for Crop Residues and Animal Manure Common in China. Journal of Agricultural and Food Chemistry,
+65, pp.9186-9190.
+Ciliberto, M.A., Sandige, H., Ndekha, M.J., Ashorn, P., Briend, A., Ciliberto, H.M. and Manary,
+M.J. 2005. Comparison of home-based therapy with ready-to-use therapeutic food with standard therapy in the treatment of malnourished Malawian children: a controlled, clinical effectiveness trial.
+The American journal of clinical nutrition, 81(4), pp.864-870.
+Crane, R.J., Jones, K.D. and Berkley, J.A. 2015. Environmental enteric dysfunction: an overview.
+Food and nutrition bulletin, 36(1_suppl1), pp.S76-S87.
+Crépon, K., Marget, P., Peyronnet, C., Carrouée, B., Arese, P. and Duc, G. 2010. Nutritional value of faba bean (Vicia faba L.) seeds for feed and food. Field Crops Research, 115(3), pp.329-339.
+Darragh, A.J. and Moughan, P.J. 1995. The three-week-old piglet as a model animal for studying protein digestion in human infants. Journal of pediatric gastroenterology and nutrition, 21(4), pp.387393.
+De Boissieu, D., Chaussain, M., Badoual, J., Raymond, J. and Dupont, C. 1996. Small-bowel bacterial overgrowth in children with chronic diarrhea, abdominal pain, or both. The Journal of pediatrics,
+128(2), pp.203-207.
+Deglaire, A. and Moughan, P.J. 2012. Animal models for determining amino acid digestibility in humans - a review. British Journal of Nutrition, 108(S2), pp.S273-S281.
+Deglaire, A., Bos, C., Tomé, D. and Moughan, P.J. 2009. Ileal digestibility of dietary protein in the growing pig and adult human. British journal of nutrition, 102(12), pp.1752-1759.
+Devi, S., Varkey, A., Sheshshayee, M.S., Preston, T. and Kurpad, A.V. 2018. Measurement of protein digestibility in humans by a dual-tracer method. The American journal of clinical nutrition, 107(6), pp.984-991.
+Dewey, K.G. and Adu-Afarwuah, S. 2008. Systematic review of the efficacy and effectiveness of complementary feeding interventions in developing countries. Maternal & child nutrition, 4(s1), pp.2485.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+Dossou, N.I., Ndour, M.M., Briend, A. and Wade, S. 2003. Comparison of the efficacy of a solid ready-to-use food and a liquid, milk-based diet for the rehabilitation of severely malnourished children:
+a randomized trial. The American journal of clinical nutrition, 78(2), pp.302-307.
+Elango, R., Humayun, M.A., Ball, R.O. and Pencharz, P.B. 2007. Lysine requirement of healthy school-age children determined by the indicator amino acid oxidation method. The American journal of clinical nutrition, 86(2), pp.360-365.
+Elango, R., Levesque, C., Ball, R.O. and Pencharz, P.B. 2012. Available versus digestible amino acids - new stable isotope methods. British Journal of Nutrition, 108(S2), pp.S306-S314.
+Elango, R., Pencharz, P.B. and Ball, R.O. 2002. The branched-chain amino acid requirement of parenterally fed neonatal piglets is less than the enteral requirement. The Journal of nutrition, 132(10), pp.3123-3129.
+Ellis, K.J., Shypailo, R.J., Abrams, S.A. and Wong, W.W. 2000. The reference child and adolescent models of body composition: a contemporary comparison. Annals of the New York Academy of Sciences,
+904(1), pp.374-382.
+Engelen, M.P.K.J., Com, G., Anderson, P.J. and Deutz, N.E.P. 2014. New stable isotope method to measure protein digestibility and response to pancreatic enzyme intake in cystic fibrosis. Clinical
+Nutrition, 33(6), pp.1024-1032.
+Evenepoel, P., Geypens, B., Luypaerts, A., Hiele, M., Ghoos, Y. and Rutgeerts, P. 1998.
+Digestibility of cooked and raw egg protein in humans as assessed by stable isotope techniques. The
+Journal of nutrition, 128(10), pp.1716-1722.
+FAO. 2013. Dietary protein quality evaluation in human nutrition. Report of an FAO Expert
+Consultation, FAO Food and Nutrition Paper 92. Rome.
+FAO. 2014. Research approaches and methods for evaluating the protein quality of human foods.
+Report of a FAO Expert Working Group.
+FAO/WHO. 1991. Protein quality evaluation in human diets. Report of the Joint FAO/WHO Expert
+Consultation. FAO Food and Nutrition Paper No. 51. Rome.FAO.
+Fromentin, C., Sanders, P., Nau, F., Anton, M., Fromentin, G., Tomé, D., Thibault, J.N. and
+Gaudichon, C. 2012. A pilot study for the intrinsic labeling of egg proteins with 15N and 13C. Rapid
+Communications in Mass Spectrometry, 26(1), pp.43-48.
+Fromentin, C., Tomé, D., Nau, F., Flet, L., Luengo, C., Azzout-Marniche, D., Sanders, P.,
+Fromentin, G. and Gaudichon, C. 2013. Dietary proteins contribute little to glucose production, even under optimal gluconeogenic conditions in healthy humans. Diabetes, 62(5), pp.1435-1442.
+Fujihara, S., Sasaki, H., Aoyagi, Y. and Sugahara, T. 2008. Nitrogen-to-Protein Conversion Factors for Some Cereal Products in Japan. Journal of food science, 73(3).
+Fuller, M.F. and Tomé, D. 2005. In vivo determination of amino acid bioavailability in humans and model animals. Journal of AOAC International, 88(3), pp.923-934.
+Gatel, F. 1994. Protein quality of legume seeds for non-ruminant animals: a literature review. Animal
+Feed Science and Technology, 45(3), pp.317-348.
+Gaudichon, C., Bos, C., Morens, C., Petzke, K.J., Mariotti, F., Everwand, J., Benamouzig, R.,
+Daré, S., Tomé, D. and Metges, C.C. 2002. Ileal losses of nitrogen and amino acids in humans and their importance to the assessment of amino acid requirements. Gastroenterology, 123(1), pp.50-59.
+
+Gendrel, D., Richard-Lenoble, D., Kombila, M., Dupont, C., Moreno, J.L., Gendrel, C., Nardou,
+M. and Chaussain, M. 1992. Influence of intestinal parasitism on lactose absorption in well-nourished
+African children. The American journal of tropical medicine and hygiene, 46(2), pp.137-140.
+Ghosh, S. and Uauy, R. 2016. Protein Quality and Amino Acids in Maternal and Child Nutrition and
+Health. Encyclopedia of Food and Health. Oxford: Academic Press, pp.516-523.
+Ghosh, S., Suri, D. and Uauy, R. 2012. Assessment of protein adequacy in developing countries:
+quality matters. British Journal of Nutrition, 108(S2), pp.S77-S87.
+Gilani, G.S., Xiao, C.W. and Cockell, K.A. 2012. Impact of antinutritional factors in food proteins on the digestibility of protein and the bioavailability of amino acids and on protein quality. British Journal of Nutrition, 108(S2), pp.S315-S332.
+Green, C.O., Badaloo, A.V., Hsu, J.W., Taylor-Bryan, C., Reid, M., Forrester, T. and Jahoor, F.
+2014. Effects of randomized supplementation of methionine or alanine on cysteine and glutathione production during the early phase of treatment of children with edematous malnutrition. The American journal of clinical nutrition, 99(5), pp.1052-1058.
+Graham, G.G., MacLean, W.C., Brown, K.H., Morales, E., Lembcke, J. and Gastañaduy, A.
+1996. Protein requirements of infants and children: growth during recovery from malnutrition. Pediatrics,
+97(4), pp.499-505.
+Guilloteau, P., Zabielski, R., Hammon, H.M. and Metges, C.C. 2010. Nutritional programming of gastrointestinal tract development. Is the pig a good model for man?. Nutrition Research Reviews,
+23(1), pp.4-22.
+Harper, A.E., Benevenga, N.J. and Wohlhueter, R.M. 1970. Effects of disproportionate amounts of amino acids. Physiological Reviews, 50, pp. 428-558.
+Hsu, J.W., Badaloo, A., Wilson, L., Taylor-Bryan, C., Chambers, B., Reid, M., Forrester, T. and
+Jahoor, F. 2014. Dietary supplementation with aromatic amino acids increases protein synthesis in children with severe acute malnutrition. The Journal of nutrition, 144(5), pp.660-666.
+Humayun, M.A., Elango, R., Moehn, S., Ball, R.O. and Pencharz, P.B. 2007. Application of the indicator amino acid oxidation technique for the determination of metabolic availability of sulfur amino acids from casein versus soy protein isolate in adult men. The Journal of nutrition, 137(8), pp.1874-1879.
+Irena, A.H., Bahwere, P., Owino, V.O., Diop, E.I., Bachmann, M.O., Mbwili-Muleya, C., Dibari,
+F., Sadler, K. and Collins, S. 2015. Comparison of the effectiveness of a milk-free soy-maize-sorghumbased ready-to-use therapeutic food to standard ready-to-use therapeutic food with 25% milk in nutrition management of severely acutely malnourished Zambian children: an equivalence non-blinded cluster randomised controlled trial. Maternal & child nutrition, 11(S4), pp.105-119.
+Jackson, A.A., Wootton, S.A. and Wiseman, M. 2015. Nature, purpose and implications of research in nutrition. Nutrition Research Methodologies, pp.1-12.
+Jackson, A.A. and Wootton, S.A. 1990. The energy requirements of growth and catch-up growth.
+Activity, energy expenditure and energy requirements of infants and children, pp.185-214.
+Jackson, A.A. 1990. Protein requirements for catch-up growth. Proceedings of the Nutrition Society,
+49(3), pp.507-516.
+Jackson, A.A. 1993. Chronic malnutrition: protein metabolism. Proceedings of the Nutrition Society,
+52(1), pp.1-10.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+Jackson, A.A. 1995. Salvage of urea-nitrogen and protein requirements. Proceedings of the Nutrition
+Society, 54(2), pp.535-547.
+Jackson, A.A., Gibson, N.R., Bundy, R., Hounslow, A., Millward, D.J. and Wootton, S.A. 2004.
+Transfer of 15N from oral lactose-ureide to lysine in normal adults. International journal of food sciences and nutrition, 55(6), pp.455-462.
+Jackson, A.A. 1998. Salvage of urea nitrogen in the large bowel: functional significance in metabolic control, and adaptation. Biochemical Society Transactions, 26, pp. 231-236.
+Jahoor, F. 2012. Effects of decreased availability of sulfur amino acids in severe childhood undernutrition. Nutrition reviews, 70(3), pp.176-187.
+Jahoor, F., Badaloo, A., Reid, M. and Forrester, T. 2006. Sulfur amino acid metabolism in children with severe childhood undernutrition: methionine kinetics. The American journal of clinical nutrition,
+84(6), pp.1400-1405.
+Jahoor, F., Badaloo, A., Reid, M. and Forrester, T. 2006. Sulfur amino acid metabolism in children with severe childhood undernutrition: cysteine kinetics. The American journal of clinical nutrition, 84(6), pp.1393-1399.
+Jahoor, F., Badaloo, A., Reid, M. and Forrester, T. 2008. Protein metabolism in severe childhood malnutrition. Annals of tropical paediatrics, 28(2), pp.87-101.
+James, W.P.T. 1972. Comparison of three methods used in assessment of carbohydrate absorption in malnourished children. Archives of disease in childhood, 47(254), pp.531-536.
+Jansman A.J.M., and Longstaff M. 1993. Nutritional effects of tannins and vicine/covicine in legume seeds. In Proceedings of the Second International Workshop on "Antinutritional Factors (ANFs) in Legume Seeds", pp. 301 - 316
+Jones, D.B. 1941. Factors for converting percentages of nitrogen in foods and feeds into percentages of proteins, pp. 1-22. Washington, DC: US Department of Agriculture.
+Juillet, B., Fouillet, H., Bos, C., Mariotti, F., Gausserès, N., Benamouzig, R., Tomé, D. and
+Gaudichon, C. 2008. Increasing habitual protein intake results in reduced postprandial efficiency of peripheral, anabolic wheat protein nitrogen use in humans. The American journal of clinical nutrition,
+87(3), pp.666-678.
+Koletzko, B., von Kries, R., Closa, R., Escribano, J., Scaglioni, S., Giovannini, M., Beyer, J.,
+Demmelmair, H., Gruszfeld, D., Dobrzanska, A., Sengier, A., Langhendries, J.-P., Rolland Cachera,
+M.-F. & Grote, V. 2009a. Lower protein in infant formula is associated with lower weight up to age 2 y:
+a randomized clinical trial. The American Journal of Clinical Nutrition, 89(6), pp.1836-1845.
+Koletzko, B., von Kries, R., Monasterolo, R.C., Subías, J.E., Scaglioni, S., Giovannini, M.,
+Beyer, J., Demmelmair, H., Anton, B., Gruszfeld, D. and Dobrzanska, A. 2009. Can infant feeding choices modulate later obesity risk? The American journal of clinical nutrition, 89(5), pp.1502S-1508S.
+Kriengsinyos, W., Wykes, L.J., Goonewardene, L.A., Ball, R.O. and Pencharz, P.B. 2004.
+Phase of menstrual cycle affects lysine requirement in healthy women. American Journal of PhysiologyEndocrinology and Metabolism, 287(3), pp.E489-E496.
+Law, G.K., Bertolo, R.F., Adjiri-Awere, A., Pencharz, P.B. and Ball, R.O. 2007. Adequate oral threonine is critical for mucin production and gut function in neonatal piglets. American Journal of
+Physiology-Gastrointestinal and Liver Physiology, 292(5), pp.G1293-G1301.
+
+Lenters, L.M., Wazny, K., Webb, P., Ahmed, T. and Bhutta, Z.A. 2013. Treatment of severe and moderate acute malnutrition in low-and middle-income settings: a systematic review, meta-analysis and
+Delphi process. BMC Public Health, 13(3), p.S23.
+Mager, D.R., Wykes, L.J., Ball, R.O. and Pencharz, P.B. 2003. Branched-chain amino acid requirements in school-aged children determined by indicator amino acid oxidation (IAAO). The Journal of nutrition, 133(11), pp.3540-3545.
+Manary, M., Callaghan, M., Singh, L. and Briend, A. 2016. Protein quality and growth in malnourished children. Food and nutrition bulletin, 37(1_suppl), pp.S29-S36.
+Manary, M.J., Hotz, C., Krebs, N.F., Gibson, R.S., Westcott, J.E., Broadhead, R.L. and Hambidge,
+K.M. 2002. Zinc homeostasis in Malawian children consuming a high-phytate, maize-based diet. The
+American journal of clinical nutrition, 75(6), pp.1057-1061.
+Manary, M.J., Broadhead, R.L. and Yarasheski, K.E. 1998. Whole-body protein kinetics in marasmus and kwashiorkor during acute infection. The American journal of clinical nutrition, 67(6), pp.1205-1209.
+Martin, J., Crompton, D.W.T., Carrera, E. and Nesheim, M.C. 1984. Mucosal surface lesions in young protein-deficient pigs infected with Ascaris suum (Nematoda). Parasitology, 88(2), pp.333-340.
+Meakins, T.S., Persaud, C. and Jackson, A.A. 1998. Dietary supplementation with L-methionine impairs the utilization of urea-nitrogen and increases 5-L-oxoprolinuria in normal women consuming a low protein diet. The Journal of nutrition, 128(4), pp.720-727.
+Millward, D.J. 2017. Nutrition, infection and stunting: the roles of deficiencies of individual nutrients and foods, and of inflammation, as determinants of reduced linear growth of children. Nutrition research reviews, 30(1), pp.50-72.
+Moehn, S., Bertolo, R.F., Pencharz, P.B. and Ball, R.O. 2005. Development of the indicator amino acid oxidation technique to determine the availability of amino acids from dietary protein in pigs. The
+Journal of nutrition, 135(12), pp.2866-2870.
+Moughan, P.J. and Rutherfurd, S.M. 1996. A new method for determining digestible reactive lysine in foods. Journal of Agricultural and Food Chemistry, 44(8), pp.2202-2209.
+Moughan, P.J. 2005. Absorption of chemically unmodified lysine from proteins in foods that have sustained damage during processing or storage. Journal of AOAC International, 88(3), pp.949-954.
+Moughan, P.J., Butts, C.A., van Wijk, H., Rowan, A.M. and Reynolds, G.W. 2005. An acute ileal amino acid digestibility assay is a valid procedure for use in human ileostomates. The Journal of nutrition,
+135(3), pp.404-409.
+Moughan, P.J. 2003. Amino acid availability: aspects of chemical analysis and bioassay methodology.
+Nutrition Research Reviews, 16(2), pp.127-141.
+Oakley, E., Reinking, J., Sandige, H., Trehan, I., Kennedy, G., Maleta, K. and Manary, M. 2010.
+A ready-to-use therapeutic food containing 10% milk is less effective than one with 25% milk in the treatment of severely malnourished children. The Journal of nutrition, 140(12), pp.2248-2252.
+Oberli, M., Marsset-Baglieri, A., Airinei, G., Santé-Lhoutellier, V., Khodorova, N., Rémond,
+D., Foucault-Simonin, A., Piedcoq, J., Tomé, D., Fromentin, G. and Benamouzig, R. 2015. High true ileal digestibility but not postprandial utilization of nitrogen from bovine meat protein in humans is moderately decreased by high-temperature, long-duration cooking. The Journal of nutrition, 145(10), pp.2221-2228.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+Pillai, R.R., Elango, R., Ball, R.O., Kurpad, A.V. and Pencharz, P.B. 2015. Lysine requirements of moderately undernourished school-aged Indian children are reduced by treatment for intestinal parasites as measured by the indicator amino acid oxidation technique. The Journal of nutrition, 145(5), pp.954959.
+Pillai, R.R., Elango, R., Ball, R.O., Kurpad, A.V. and Pencharz, P.B. 2015. Lysine requirements of moderately undernourished school-aged Indian children are reduced by treatment for intestinal parasites as measured by the indicator amino acid oxidation technique. The Journal of nutrition, 145(5), pp.954959.
+Priebe, M.G., Wachters-Hagedoorn, R.E., Heimweg, J.A., Small, A., Preston, T., Elzinga, H.,
+Stellaard, F. and Vonk, R.J. 2008. An explorative study of in vivo digestive starch characteristics and postprandial glucose kinetics of wholemeal wheat bread. European journal of nutrition, 47(8), p.417.
+Prolla, I.R., Rafii, M., Courtney-Martin, G., Elango, R., da Silva, L.P., Ball, R.O. and Pencharz,
+P.B. 2013. Lysine from cooked white rice consumed by healthy young men is highly metabolically available when assessed using the indicator amino acid oxidation technique. The Journal of nutrition,
+143(3), pp.302-306.
+Reeds, P.J. 1990. Amino acid needs and protein scoring patterns. Proceedings of the Nutrition
+Society, 49(3), pp.489-497.
+Reeds, P.J. 2000. Dispensable and indispensable amino acids for humans. The Journal of Nutrition,
+130(7), pp.1835S-1840S.
+Riazi, R., Wykes, L.J., Ball, R.O. and Pencharz, P.B. 2003. The total branched-chain amino acid requirement in young healthy adult men determined by indicator amino acid oxidation by use of L-[113C] phenylalanine. The Journal of nutrition, 133(5), pp.1383-1389.
+Rowan, A.M., Moughan, P.J., Wilson, M.N., Maher, K. and Tasman-Jones, C. 1994. Comparison of the ileal and faecal digestibility of dietary amino acids in adult humans and evaluation of the pig as a model animal for digestion studies in man. British Journal of Nutrition, 71(1), pp.29-42.
+Rudman, D., Millikan, W.J., Richardson, T.J., Bixler 2nd, T.J., Stackhouse, J. and McGarrity,
+W.C. 1975. Elemental balances during intravenous hyperalimentation of underweight adult subjects.
+Journal of Clinical Investigation, 55(1), p.94.
+Rutherfurd, S.M. and Moughan, P.J. 2012. Available versus digestible dietary amino acids. British
+Journal of Nutrition, 108(S2), pp.S298-S305.
+Rutherfurd, S.M. and Moughan, P.J. 2005. Digestible reactive lysine in selected milk-based products. Journal of dairy science, 88(1), pp.40-48.
+Sauniere, J.F. and Sarles, H. 1988. Exocrine pancreatic function and protein-calorie malnutrition in
+Dakar and Abidjan (West Africa): silent pancreatic insufficiency. The American journal of clinical nutrition,
+48(5), pp.1233-1238.
+Scientific Committee. 2003. Report of the scientific committee on food on the revision of essential requirements of infant formulae and follow-on formulae. Brussel: SCF.
+Semba, R.D., Shardell, M., Ashour, F.A.S., Moaddel, R., Trehan, I., Maleta, K.M., Ordiz, M.I.,
+Kraemer, K., Khadeer, M.A., Ferrucci, L. and Manary, M.J. 2016. Child stunting is associated with low circulating essential amino acids. EBioMedicine, 6, pp.246-252.
+
+Semba, R.D., Shardell, M., Trehan, I., Moaddel, R., Maleta, K.M., Ordiz, M.I., Kraemer, K.,
+Khadeer, M., Ferrucci, L. and Manary, M.J. 2016. Metabolic alterations in children with environmental enteric dysfunction. Scientific reports, 6, p.28009.
+Shoveller, A.K., Brunton, J.A., Pencharz, P.B. and Ball, R.O. 2003. The methionine requirement is lower in neonatal piglets fed parenterally than in those fed enterally. The Journal of nutrition, 133(5), pp.1390-1397.
+Stoll, B., Henry, J., Reeds, P.J., Yu, H., Jahoor, F. and Burrin, D.G. 1998. Catabolism dominates the first-pass intestinal metabolism of dietary essential amino acids in milk protein-fed piglets. The
+Journal of Nutrition, 128(3), pp.606-614.
+Suri, D., Urbanek, J. and Ghosh, S. 2012. Risk of protein inadequacy among young children from rural, low-income populations of Uganda, Kenya and Bangladesh. The FASEB Journal, 26(1 Supplement), pp.631-3.
+Suthutvoravut, U., Abiodun, P.O., Chomtho, S., Chongviriyaphan, N., Cruchet, S., Davies,
+P.S., Fuchs, G.J., Gopalan, S., Van Goudoever, J.B., De La Rey Nel, E. and Scheimann, A. 2015.
+Composition of follow-up formula for young children aged 12-36 months: recommendations of an international expert group coordinated by the Nutrition Association of Thailand and the Early Nutrition
+Academy. Annals of Nutrition and Metabolism, 67(2), pp.119-132.
+UNICEF. 2009. Childinfo: Monitoring the situation of children and women. Under- five Mortality
+(U5MR)", URL: childinfo. org/mortality_underf ive. php.
+UNICEF. 2017. WHO & The World Bank Group.(2016). Levels and trends in child Malnutrition.
+Joint Child Malnutrition Estimates. unicef. org/wp-content/uploads/2017/05/JME-2017brochure-1. pdf Accessed June, 5.
+Waterlow, J.C. 1981. Nutrition and protein turnover in man. Br Med Bull, 37(1), pp.5-10.
+Waterlow, J.C. 1995. Whole-body protein turnover in humans - past, present, and future. Annual review of nutrition, 15(1), pp.57-92.
+Waterlow, J.C. 1999. The mysteries of nitrogen balance. Nutrition Research Reviews, 12(1), pp.2554.
+Waterlow, J.C. 2006. Protein turnover. CABI.
+WHO. 2009. WHO child growth standards and the identification of severe acute malnutrition in infants and children: a Joint Statement by the World Health Organization and the United Nations
+Children's Fund. WHO. Geneva
+WHO and UNICEF. 2007. Community-based management of severe acute malnutrition: a joint statement by the World Health Organization, the World Food Programme, the United Nations System
+Standing Committee on Nutrition and the United Nations Children's Fund.
+WHO. 1999. Management of severe malnutrition: a manual for physicians and other senior health workers.
+WHO. 2006. WHO child growth standards: length/height for age, weight-for-age, weight-for-length, weight-for-height and body mass index-for-age, methods and development.
+HO/FAO/UNU. 2007. Protein and amino acid requirements in human nutrition. Report of a joint
+WHO/FAO/UNU Expert Consultation. WHO Technical Report Series, No 935. Geneva.
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+Appendix 1
+Table 8 - True digestibility values for various protein sources in humans (WHO 2007)
+Protein source True digestibility (%) Protein source True digestibility (%)
+American mixed diet 96 Oatmeal 86
+Beans 78 Oats, cereal 72
+Brazilian mixed diet 78 Peanut butter 95
+Chinese mixed diet 96 Peanuts 94
+Corn, cereal 70 Peas, mature 88
+Corn, whole 87 Rice, cereal 75
+Cottonseed 90 Rice, polished 88
+Egg 97 Soy flour 86
+Farina 99 Soy protein isolate 95
+Filipino mixed diet 88 Sunflower seed flour 90
+Indian rice + beans diet 78 Triticale 90
+Indian rice diet 77 Wheat flour, white 96
+Indian rice diet + milk 87 Wheat gluten 99
+Maize 85 Wheat, cereal 77
+Maize + beans 78 Wheat, refined 96
+Maize + beans + milk 84 Wheat, whole 86
+Meat, fish 94
+Milk, cheese 95
+Millet 79
+Table 9 - Digestibility values of various protein sources as determined by the rat balance method
+(WHO 1991)
+Protein source Digestibility (%) Protein source Digestibility (%)
+Beef (roast) 100 Rapeseed protein 95
+concentrate
+Beef salami 99 Rolled Oats 94
+Casein 99 Rice-wheat-gluten 93
+Corn-pea 83 Rice-soyabean 90
+Corn-soybean 93 Skim milk 95
+Chicken franks 96 Sausage 94
+Egg white solids 98 Soybean 90
+Fababean (autoclaved) 86 Soybean protein isolate 98
+Lentil (autoclaved) 85 Sunflower meal 90
+Macaroni - cheese 95 Tuna fish 97
+Pea flour 88 Wheat 93
+Pea, Century (autoclaved) 83 Wheat-flour-casein 95
+Peanut 96
+Peanut meal 91
+Peanut butter 98
+Pinto bean (canned) 79
+Potatoes - beef 86
+
+Appendix 2
+List of participants
+Glenda COURTNEY-MARTIN Daniel TOMÉ (co-chair)
+Associate Scientist Professor of Human Nutrition
+Research Institute AgroParisTech
+Hospital for Sick Children Paris
+Assistant Professor France
+Dept. of Nutritional Sciences and Faculty of Kinesiology and Physical Education FAO Secretariat
+University of Toronto
+Ajax, ON Warren T. K. LEE
+Canada Senior Nutrition Officer and Group Leader
+Nutrition Assessment and Scientific Advice Group
+Rajavel ELANGO (ESNA)
+Assistant Professor Nutrition and Food Systems Division (ESN)
+Department of Pediatrics and, School of Population and Viale delle Terme di Caracalla
+Public Health 00153 Rome, Italy
+University of British Columbia Tel.: +39 06 570 54077
+Vancouver E-mail: warren.lee@fao.org
+Canada
+Maria XIPSITI
+Alan Anthony JACKSON Nutrition Officer
+Honorary Consultant Clinical Nutrition Nutrition Assessment and Scientific Advice Group
+University Hospital Southampton NHS Foundation Trust (ESNA)
+Emeritus Professor of Human Nutrition Nutrition and Food Systems Division (ESN)
+University of Southampton Viale delle Terme di Caracalla
+United Kingdom 00153 Rome, Italy
+Tel.: +39 06 570 56060
+Shibani GHOSH E-mail: maria.xipsiti@fao.org
+Adjunct Assistant Professor, Senior Scientist
+Friedman School of Nutrition Science and Policy Cristiana FUSCONI
+Tufts University Office Assistant
+Boston, MA Nutrition Assessment and Scientific Advice Group
+United States of America (ESNA)
+Nutrition and Food Systems Division (ESN)
+Suzanne HODGKINSON Viale delle Terme di Caracalla
+Senior Scientist 00153 Rome, Italy
+Massey Institute of Food Science and Technology Tel.: +39 06 570 53534
+(MIFST) E-mail: cristiana.fusconi@fao.org
+Massey University
+Palmerston North Nirupama SHIVAKUMAR
+New Zealand FAO International Consultant
+Anura Vishwanath KURPAD (co-chair)
+Professor
+Head of Physiology and of Nutrition
+St John's Medical College
+Bangalore
+India
+
+Protein Quality Assessment in Follow-up Formula for Young Children and Ready to Use Therapeutic Foods
+Appendix 3
+Call for experts
+FAO Expert Working Group on Protein Quality Assessment in Follow up Formula for Young Children and
+Ready to Use Therapeutic Foods
+Call for experts
+As follow-up to a request submitted by the Codex Committee on Nutrition and Foods for Special Dietary
+Uses (CCNFSDU) *, FAO is seeking experts to participate in a four day working group session to be held at the FAO Headquarters, Rome, Italy, from 6 to 9 November 2017.
+The objective of this working group will be to provide scientific advice on setting up guidelines for
+Codex members to determine protein quality using the Protein Digestibility - Corrected Amino Acid Score
+(PDCAAS) in Follow- up formula (FUF) for young children (12 - 36 months) and Ready to Use Therapeutic
+Foods (RUTF).
+Interested experts should apply by submitting their curriculum vitae (CV) to the FAO Nutrition and Food
+Systems Division. Before applying, please check the selection criteria, process, and application guidelines detailed here below.
+Selection criteria
+Applicants should meet the following general criteria:
+- advanced University/College degree in nutrition science, food science, or related fields;
+- good knowledge of the English language, both written and oral;
+- experience with in vitro/in vivo models/assays on the digestion and efficiency of utilization of protein and amino acids;
+- experience in research and application of the PDCAAS method in assessing protein quality in foods;
+- scientific publications in peer-reviewed journals, in particular published in the past ten years;
+- ability to prepare scientific documents and to work in an international environment with scientists from various disciplines;
+- leadership, or invited participation, in national or international scientific bodies, committees and other expert advisory bodies pertinent to the scope of this work is desirable.
+Selection process
+FAO places great value on the technical quality and independence of the participating experts as well as on the transparency of its selection process.
+Applicants' CV will be reviewed on the basis of the criteria listed above by a selection panel consisting of three or more individuals including at least two independent, internationally recognized external experts appointed by FAO. In selecting experts, FAO will consider, in addition to scientific and technical excellence in the topic of the review, balanced geographic representation, including developing and developed countries, as well as gender. Experts may be requested to assist in the preparation of background papers.
+
+Appointment of experts
+The experts will be invited to contribute only in their individual scientific capacity. Experts will not represent their government, nor their institution. Attendance expenses (travel and per diem) will be covered by FAO. No other remuneration is foreseen.
+Application guidelines
+Interested experts should submit their CV to Dr Warren T K Lee (warren.lee@fao.org), cc.Ms Cristiana Fusconi (cristiana.fusconi@fao.org), by 15 September 2017.
+CVs should include a description of education and work experience and a list of peer-reviewed publications relevant to the factors indicated above (please do not include copies of your publications in your submission, unless specifically requested at a later date).
+Experts will be asked to indicate in writing any possible conflict of interest (financial and intellectual) that may affect their scientific independence as an expert. For transparency purposes, experts will be required to also indicate their employment (past or present) in any commercial enterprise or private or civil sector association; benefit of research/study grants; shareholdings in commercial enterprises active in fields related to food and nutrition. These declarations will be evaluated and retained by the FAO Secretariat.
+In addition, experts will be requested to sign a confidentiality undertaking to ensure proper handling of dossiers and information.
+Meetings and correspondences will be conducted in English, no translation service will be provided.
+All applications should be sent electronically to:
+Dr. Warren T K Lee
+Senior Nutrition Officer
+Nutrition and Food Systems Division
+Food and Agriculture Organization of the United Nations (FAO)
+Viale delle Terme di Caracalla
+00153 Rome, Italy
+Email: warren.lee@fao.org and cristiana.fusconi@fao.org
+Tel: +39 06 57053283
+Fax: +39 06 5705459
+*Link to the Report of the 38th session of the Codex Committee on Nutrition and Foods for Special
+Dietary Uses
+
+Consistent with the need to provide safe food for young children, particularly during the complementary feeding period between 12 and 36 months and the period of rapid development to age 59 months, the Food and Agriculture
+Organization of the United Nations (FAO) convened an Expert Working Group the FAO Headquarters, Rome, Italy, from 6 to 9 November 2017. The meeting addressed questions related to protein quality evaluation in two distinct products used to feed children in different conditions: Ready to Use Therapeutic Food
+(RUTF) and Follow up Formula for Young Children (FUF-YC). Specific meeting objectives were:
+- To determine the appropriate comparative protein or amino acid reference pattern to define protein quality for use in FUF-YC and RUTF.
+- To provide guidance on the preferred protein quality assessment methodology that should be stipulated with the standards for FUF-YC and RUTF.
+- To provide guidance on the measurement of protein and amino acid digestibility.
+- To provide the appropriate reference amino acid profiles and the amino acid composition of common ingredients used for FUF-YC and RUTF.
+- To provide cost implications for countries to use PDCAAS in FUF-YC and
+RUTF.
+This report provides future research recommendations including the need to generate data on the true ileal digestibility for different protein sources so that
+Digestible Indispensable Amino Acid Score (DIAAS) values can be used in the future.
+
+ISBN 978-92-5-131120-2
+
+Food and Agriculture Organization of the United Nations
+Viale delle Terme di Caracalla
+00153 Rome, Italy www.fao.org 9 7 8 9 2 5 1 3 1 1 2 0 2
+CA2487EN/1/11.18

@@ -1,0 +1,763 @@
+ORIGINAL RESEARCH CURRENTDEVELOPMENTSINNUTRITION
+
+CommunityandGlobalNutrition
+Urban Egyptian Women Aged 19 - 30 Years Display Nutrition
+Transition-Like Dietary Patterns, with High Energy and Sodium Intakes, and Insufficient Iron, Vitamin D, and Folate Intakes
+ChloéMCBrouzes,1NicolasDarcel,1DanielTomé,1MariaCarlotaDao,2RaphaëlleBourdet-Sicard,3BridgetAHolmes,3andAnneLluch3
+1UniversitéParis-Saclay,AgroParisTech,INRAE,UMRPNCA,75005,Paris,France;2SorbonneUniversité,INSERM,NutritionandObesity - SystemicApproaches
+ResearchGroup8(NutriOmics),ICAN,Paris,France;and3DanoneNutriciaResearch,Palaiseau,France
+
+ABSTRACT
+
+Background:RecentchangesinEgyptiandietaryhabitscanbeattributedtomoreurbanandsedentarylifestylesandtoalterationsinthedietary andeconomiccontext.ThemeanBMIofEgyptianwomenisoneofthehighestworldwide,and50%haveirondeficiency.
+Objective:TheaimwastoquantifyfoodandnutrientintakesofurbanEgyptianwomenandconductadetailedanalysisofmicronutrients commonlyconsumedininadequateamounts,suchasiron,vitaminD,andfolate.
+Methods:UrbanEgyptianwomenaged19 - 30y(n=130)wererecruitedduring2016 - 2017.EnergyneedswereestimatedusingtheHenry equation,assumingalowphysicalactivitylevel(1.4).Dietaryintakesandironbioavailabilitywereestimatedfroma4-dfooddiary.Macronutrient intakeswerecomparedwithWHO/FAOpopulationgoalsandmicronutrientintakeswithEgyptianrecommendations.Ironneedsweredetermined foreachsubject.
+Results:ThemeanBMI(kg/m2)was27.9±4.9.Themeantotalenergyintake(TEI;2389±715kcal/d)wassignificantlyhigherthanneeds
+(2135±237kcal/d;P=0.00018).Totalfat(33%TEI)andSFA(11%TEI)intakeswereslightlyhigherthanpopulationgoals(15 - 30%TEIand
+<10%TEI,respectively).Dietsprovided18±8g/doffiber,98±54g/doftotalsugars,andnearlytwicetherecommendedsodiumintake(intake:
+2787±1065mg/d;recommendation:<1500mg/d).Estimateddietaryironbioavailabilitywaslow(9.2%±1.6%),and79%ofwomenconsumed lessironthantheaveragerequirement(17.5±7mg/d).Overall,82%and80%ofwomenconsumedlessvitaminDandfolate,respectively,than recommended.
+Conclusions:Egyptianwomenaged19 - 30yhavehighintakesofenergyandsodium,whereasiron,vitaminD,andfolateintakesareinsufficient, withonlylowconcentrationsofbioavailableiron.Theseresultscallforfurtherinvestigationintomeasuresthatwouldimprovethispopulation'sdiet quality. CurrDevNutr2020;4:nzz143.
+Keywords:Egypt,women,diet,nutrition,malnutrition,transition,iron,bioavailability
+
+( re-use,pleasecontactjournals.permissions@oup.com
+InitialreviewcompletedOctober22,2019.RevisionacceptedDecember18,2019.PublishedonlineJanuary6,2020.
+DanoneNutriciaResearchfundedthestudy.
+Authordisclosures:CMCB'ssalarywasfundedbyDanone.ALandRB-SareDanoneemployees.BAHwasaDanoneemployeeatthetimeofthestudy.NDdoesscientificconsultingforDanone.
+MCDreceivedanhonorariumforherparticipationintheDanone"Yoghurtinnutritionconference"(Mexico,February2018).DTreportsnoconflictsofinterest.
+SupplementalMaterial1andSupplementalTables1 - 6areavailablefromthe"Supplementarydata"linkintheonlinepostingofthearticleandfromthesamelinkintheonlinetableofcontentsat
+
+PresentaddressforMCD:JeanMayerUSDAHumanNutritionResearchCenteronAging,TuftsUniversity,Boston,MA02111,USA.
+PresentaddressforBAH:MRCEpidemiologyUnit,UniversityofCambridge,InstituteofMetabolicScience,Box285,CambridgeBiomedicalCampus,HillsRoad,CambridgeCB20QQ,United
+Kingdom.
+AddresscorrespondencetoDT(e-mail:tome@agroparistech.fr).
+Abbreviationsused:EFSA,EuropeanFoodSafetyAuthority;ICAN,Instituteofcardiometabolismandnutrition;INRAE,Institutnationalderecherchepourl'agriculture,l'alimentationet l'environnement;INSERM,Institutnationaldelasantéetdelarecherchemédicale;MRC,MedicalResearchCouncil;SEC,socioeconomicclass;TEI,totalenergyintake;UMRPNCA:Unitémixtede recherchephysiologiedelanutritionetducomportementalimentaire;USDA,UnitedStatesdepartmentofagriculture.
+Introduction anemia(5).Thiscoexistenceofundernutritionalongwithoverweight and obesity, known as the double burden of malnutrition(6),is also
+ThemeanBMI(inkg/m2)ofEgyptianwomenisamongthehighestin foundinchildren(2).ThesituationinEgyptisnottypicalinthatthere theworld(30.6)(1),withan88%prevalenceofoverweightandobe- isnocleargradientinanemiaandoverweightbasedonsocioeconomic sity in those women living in urban areas (2), which is greater than class(SEC).AnemiaisalmostasprevalentinthehighestSECasinthe observed in men or children (2 - 4). Approximately 50% of Egyptian lowest (26% vs. 29%). The prevalence of overweight and obesity inwomenaged20 - 49yhaveirondeficiencyand25%haveiron-deficiency creasesmoderatelywithwealth(80%inthelowestSECvs.88%inthe
+
+2 Brouzesetal.
+highestSEC)andstronglywithageinwomen(52%of15-to19-y-old Additionally,femalerespondentsweresometimesreluctanttoprovide girls,75%of20-to29-y-oldwomen,and93%of40-to49-y-oldwomen their weight (and height), especially when the interviewer was male.
+areoverweightorobese)(2). TheresearchteamtriedtomatchfemaleinetrviewerswithfemaleparThehighprevalenceofoverweightandobesityinEgyptisthought ticipants, but this was not always feasible. Missing or implausible toberelatedtohighenergyintakecombinedwithlowlevelsofphysical values were corrected using an Akaike Information Criterion backactivity(7),especiallyinwomen,duetosocioculturalfactorsandsafety wards elimination procedure [function "step" in R (22)] to identify concerns(8).Recentchangesintheeconomicenvironmentanddietary a model with statistically significant predictors of height and weight patterns(7,9)meanthatanimalproducts,fruits,andvegetablesareex- values. The model that was retained included the variables "age," pensivefoodsthatarenowconsumedinlargeramountsbypeopleof "gender," and "number of people in the household"; and a multiple higherSECs(10).Thesenutrient-densefoodsarethereforelessacces- imputation procedure was performed to impute missing height and sibletolowerSECs.Unrefinedcereals,legumes,dark-greenleafyveg- weightvalues("mice"packageinR(23)),asdetailedinSupplemental etables,fruits,cheese,oils,andwhiteandredmeathavebeendescribed Material1.Thedeclaredandimputedweight,height,andBMIvalues asthepillarsofthetraditionalEgyptianfoodsystem(9).However,new arepresentedinSupplementalTable1.
+lifestylesthatareemergingasaresultofurbanizationandlongerwork- Apointsystemclassifiedparticipantsasbelongingto1of6SECs ing hours have led to reduced consumption of traditional foods and (A,B,C1,C2,D,E).Thepointsystemwasbasedonthejobdescription greaterintakesoffastfoodandsugar-sweetenedbeverages,morefre- ofthemainwageearner,themonthlyhouseholdincome,typeofacquentsnacking,andconsumptionofthemaincookedmeallaterinthe commodation,possessions(washingmachine,microwave,numberof day(9,10). carsandvalue,etc.)andlifestyle(sportsclubmembership,regulartrips
+Repeated economic crises have also weakened this food-deficit abroad).SECAwasthehighestandclassDwasthelowestincludedin country[Egyptisoneofthelargestfoodimportersworldwide(11)],and thesample.Thediarywascompletedfor4consecutivedays,including, thefoodsubsidysystemmayhavecontributedtoincentivizingthecon- wherepossible,1weekendday,tobetterrepresentweeklydietaryhabits.
+sumptionofcalorie-richfoods(e.g.,subsidizedoil,bread,andsugar) Thediarywascompletedonpaperandcoveredthewholediet,includ-
+(3). Egyptians traditionally consume large quantities of broad beans ingfoodandbeverageintakeathomeandoutsideofthehome,with andsweetenedblacktea(9),whichcontainphytatesandiron-binding detailedinformationonhomemaderecipesanddietarysupplements.A polyphenols, respectively, both of which decrease iron bioavailability photographicfoodatlasofportionsizeswasusedtoestimateportion
+(12).Inindividualswithobesity,ironabsorptionmaybefurtherim- sizebasedonpicturesoftypicaldishes.
+pairedduetoinflammation-inducedhepcidinsecretion,whichleadsto Quality-control checks related to food-intake data were routinely ironsequestration(13). performed during data collection, and final data quality checks were
+Improvingyoungwomen'sdietaryintakehasthepotentialtoimpact done on the complete database. In addition to routine checks, 10% thehealthofbothwomenandfutureinfants(14 - 17).Theobjectiveof of data coded were cross-checked to identify and resolve discrepthisstudywastoquantifyfoodandnutrientintakesin19-to30-y-old ancies. Any issues regarding diary completeness, portion sizes, and
+Egyptianwomenlivinginurbanareasandtoexaminespecificallythe energyandnutrientintakeswerediscussedamongresearchteammemintakeofmicronutrientscommonlyconsumedininadequateamounts, bers to reach a consensus. Missing data, outliers, and out-of-range suchasiron(2,5),vitaminD(18,19),andfolate(20). valueswereidentifiedwithenergyandnutrientdistributions.Among the 860 people surveyed, 144 were women aged 19 - 30 y, of whom
+14wereexcluded[duetohavingimplausibledailyenergyintakesdeMethods finedasbeingbelowthe5thorabovethe95thpercentiles(24)],leadingtoastudysampleof130women,with4dofthediarycompleted
+Studydesignandstudypopulation (Figure1).
+The Research Ethics Committee of Ain Shams University, Faculty of
+Medicine,Cairo,Egypt,approvedthestudyprotocol.Dietarydatafrom womenaged19 - 30y(n=130)wereextractedfromadescriptive,cross- Creationofacompositefood-compositiondatabase sectionalsurveyconductedbetweenNovember2016andMarch2017 The 378 foods consumed by the subjects (n = 130) were classified in males and females (age range: 1 - 50 y; n = 860) living in 4 urban into 15 main food groups and 52 subgroups, as detailed in Suppleareas in Egypt (Greater Cairo, Alexandria, Delta, and Upper Egypt), mentalTable2.Thisclassificationwasbasedontheclassificationused representing SECs A to D in the urban population (21). A door-to- in Optifood, a diet-modeling software program developed to design door random-sampling methodology with a screening questionnaire population-specific,food-basedrecommendations(25).Egyptianfoodwasusedtoreachquotasforage,gender,socialclass,andregioninor- compositiontables(26)werecomplementedwithTurkishandSerbian dertoobtainarepresentativesample.Interviewersrandomlyselected food-compositiontables(27,28).Thenutritionalcompositionoffoods households,and1individualperhousehold(selectedaccordingtoage suchaslentilswasadaptedfromtheglobalfood-compositiontablefor andgenderquotas)wasinvitedtoparticipateinthestudyandreceived pulses(29)andthatofspicesandsomeotherfoodswasadaptedfromrethe study documents in Arabic, including a consent form, an infor- centlypublishedIndianfood-compositiondata(30).Atthetimeofthe mation sheet, a sociodemographic questionnaire, and a 4-d food di- study,theonlyfortificationprograminplaceinEgyptwassaltiodizaary.Participantsself-reportedtheirheightandweight,yettherewere tion. As iodized salt use is very prevalent in the country [92.5% of challengesincollectingthesedata.Briefly,somerespondentswereun- householdssurveyedinapreviousstudyusediodizedsalt(31)],allsalt awareoftheirownweightandheightandprovidedunrealisticestimates. consumedwasconsideredtobefortifiedwith15ppmofiodine.
+Transition-likedietaryintakesinEgyptianwomen 3
+NonhemeandhemeironintakeswereestimatedbasedontheconSurvey of individuals aged 1−50 tentofhemeandnonhemeironineachfoodsubgroup(38,39),asdeliving in urban Egypt (n = 860) tailedinSupplementalTable3.Abioavailabilityof25%wasassumed forhemeironintake(12,40).
+EquationsfromArmahetal.(41)wereusedtoestimatenonheme
+Selection of 19−30-year-old ironbioavailabilityforeachwoman,asdescribedbelow:
+women (n = 144) ln (nonhemeironbioavailability) (%)=6.294 − 0.709ln (SF)
+
+Exclusion if daily energy intakes <5th or >95th −0.247ln (P) − 0.137ln (Ca) − 0.083ln (NH) (3) percentiles (n = 14) whereSFisserumferritin(μg/L);CisvitaminC(mg);MFPismeat,
+Remaining subjects included in fish,andpoultry(g);Tisblackteaequivalents(numberofcups);Pis the analysis (n = 130) phytate(mg);Caiscalcium(mg);andNHisnonhemeiron(mg).Serum ferritinwasassumedtobe15μg/Lforallwomen,asapproximatelyhalf ofEgyptianwomenhaveaferritinconcentration<15μg/L(5).Vitamin
+FIGURE1 Subjectselectionfordietaryanalysisof19-to
+C,calcium,andmeat-fish-poultryintakesweredirectlyderivedfrom
+30-y-oldEgyptianwomenlivinginurbanareas.
+thesubjects'dietarydata.Asnoinformationwasavailableonphytate intake,aphytateintakeof1400mg/dwasassumedforallparticipants,
+Calculationofenergyandnutrientintakesandcomparison whichcorrespondstoamixeddietwithahighproportionofunrefined withneedsandrecommendedintakes cerealgrainproductsandlegumes(42).Blackteaequivalentsweredeterminedbasedondietarydataandusingtheapproachdescribedby
+Energyneedswerecalculatedusingequationsforbasalmetabolicrate
+Armahetal.(41)toconvertthenumberofbeveragesconsumedinto for18-to30-y-oldwomenwithindividualreportedorimputedbody blackteaequivalents.
+weight(32)andassumingaphysicalactivitylevelof1.4,correspondThe total amount of iron needed could then be calculated as the ing to a sedentary lifestyle, for all women (33, 34). Total energy inbioavailable iron needs, divided by bioavailability, and a variation of takes(TEIs)werecomparedwithenergyneedsforeachwoman.Nu40%wasassumed.
+trientintakeswerecalculatedbasedonfoodandbeverageintakeonly anddidnotincludedietarysupplementsduetolimitedinformationon
+Needs (bioavailableiron,mg/d) thetypesofsupplementsconsumedandthelownumberofsupplement Totalamountofironneeded = users(n=8,6.2%ofthestudysample).Nutrientintakeswereanalyzed Bioavailability and compared with WHO/FAO population goals for macronutrients ±40% (4)
+(35)andEgyptianrecommendationsformicronutrientintakes(36).For iron,meanintakeswerecomparedwithindividualneeds,asdescribed inthefollowingsection.
+Statisticalanalysis
+Dataarepresentedasthemeans±SDsforcontinuousvariablesand
+Calculationofironbioavailabilityandneeds aspercentagesforcategoricalvariables.Asenergyandironneedswere
+Ironneedsforpremenopausalwomenrelymainlyonbasallosses,menstruallosses,andironbioavailability(12).Bioavailableironneedswere calculatedindividually,thedifferencesbetweenmeanintakeandneeds calculatedbyaddingbasalironlossestomenstrualironlosses.Basal weretestedusingStudent'sttests.Forallothermicronutrients,thedifironlossesareestimatedtobe14μg/kgofbodyweightperday(12, ferences between mean and recommended intakes were tested using
+37); when averaged over the entire 28-d menstrual cycle, this means
+Welch's2-samplettests,astheserieshadunequalvariances.Whenthe thatmenstrualironlossesare∼0.56mg/d(12).Therefore,women'siron recommendednutrientintakewasexpressedasarange,thevaluereneedswerecalculatedasfollows:
+tainedforcomparisonwasthelowerboundoftherecommendedrange.
+A P-value cutoff of 0.05 was used for statistical significance. BonferNeeds (bioavailableiron, mg/d)= basallosses+menstruallosses (mg) roni corrections for simultaneous analysis were applied to micronu-
+(cid:2) (cid:3)
+= 0.014 × bodyweight (kg) +0.56 trients,andthenullhypothesiswasrejectedatasignificancelevelof
+0.05/20=0.0025.
+(1)
+Micronutrient intakes were considered "critical" when the following 2 conditions were fulfilled: 1) >50% of the sample had inIronbioavailabilityfromdietwascalculatedbasedonintakesand bioavailabilityofbothhemeandnonhemeironfromdietaryintakes. takes less than the recommended amount (or needs, for iron) and
+2) the mean intake was significantly lower than the recommendation (P < 0.0025), except for sodium (which was considered critiResultantbioavailabilityfromdiet
+(cid:2) (cid:3) (cid:2) (cid:3) cal if the intake was significantly higher than the recommendation;
+= hemeiron(mg)×25% + nonhemeiron(mg)×nonhemeironbioavailability(%)
+(2) P<0.0025).
+ironintake(mg)
+4 Brouzesetal.
+TABLE1 Demographiccharacteristicsofthe19-to
+30-y-oldurbanEgyptianwomenincludedinthisstudy1
+Variable Values
+Age,y 24.7±3.7
+Weight,2kg 73.9±12.9
+Height,2m 1.63±0.12
+BMI,2kg/m2 27.9±4.9
+Geographicalregion,%ofwomen
+GreaterCairo 43.1
+Delta 26.2
+UpperEgypt 16.9
+Alexandria 13.8
+Socioeconomicclass,%ofwomen
+A(highest) 2.3
+B 14.6
+C1 19.2
+C2 51.5
+D(lowest) 12.3
+1Valuesaremeans±SDsunlessotherwiseindicated;n=130.
+2Meanswerecalculatedafterreplacingmissingorimplausibleheightandweight valueswithimputedvalues.
+Results FIGURE2 Energyneedsandintakesof19-to30-y-old
+Egyptianwomenlivinginurbanareas(n=130).Eachgraycircle
+Populationcharacteristics represents1woman.Themean±SDvaluesarepresentedonthe
+Themeanageofthewomenwas24.7±3.7y.Mostoftheparticipants leftsideoftheboxplots.Theasteriskinthecenterofthegraph indicatesthattherewasasignificantdifferenceinmeanenergy werefromGreaterCairo(43.1%),andthemajoritywerelowermiddle intakeandneeds,asdeterminedbyttest.
+class (51.5% of the women were from SEC C2)(Table1). The mean reportedweightwas72.2±13.4kgandthemeanreportedBMIwas
+27.6±5.3(n=80;SupplementalTable1).Afterreplacingthemissing andimplausiblevalueswithimputedvalues(38%;n=50;Supplemental twice the recommended level, with 93.1% of participants consuming
+Table1),themeanweightforthe130womenwas73.9±12.9kg,and >1500mg/dand88%ofwomenconsuming>2300mg/d[whichisthe themeanBMIwas27.9±4.9(Table1). upperlimitsetbytheUSInstituteofMedicineforhealthyindividuals
+(44);datanotshown].Meanintakeswerewithinoraboverecommendationsforcalcium,copper,iodine,magnesium,phosphorous,zinc,viEnergyandnutrientintakes taminA,vitaminE,niacin,pantothenicacid,riboflavin,thiamin,and
+Themeandailytotalenergyintake(2389±715kcal)wassignificantly vitaminsB-12,B-6,andC.
+higher (on average, 254 kcal higher; P = 0.00018) than daily energy needs(2135±237kcal)(Figure2).
+Themeantotalfat(89±32g/d;33.4%TEI)andSFA(30±13g/d;
+11.2%TEI) intakes were slightly higher than those specified by the 400
+WHO's population goals (15 - 30%TEI and <10%TEI, respectively)
+(Figure3).Proteinintake(87±28g/d;14.6%TEI)waswithintherec- 307
+ommendedrange(10 - 15%TEI),andcarbohydrateintake(307±96g/d; 300
+51.4%TEI)wasslightlybelowtherecommendedrange(55 - 75%TEI).
+Approximately one-third of carbohydrates came from total sugars 200
+(98±54g/d;16%TEI),whereastheWHOrecommendsafree-sugar intakeof<5 - 10%TEI(43).Fiberintakewas18±8g/d,whichisbelow
+
+100 89 87
+thedailyrecommendedintakeof25g/d.
+Mean iron, potassium, vitamin D, and folate intakes were be- 18 30
+low recommendations (Table 2). On average, women had intakes of 0
+13.8 ± 4.6 mg iron/d, whereas their daily needs were 17.5 ± 7 mg iron/d,with78.5%ofwomenwithinadequateintakes(ironbioavailabilityandneedswillbediscussedindetailinthefollowingsection).
+Morethanfour-fifthsofwomenconsumedlessvitaminD(82.3%ofsubjectshadanintakeof<5μg/d),folate(80%ofwomenhadanintakeof
+<400μg/d),andpotassium(82.3%hadanintakeof<4.7g/d)thanthe recommendedlevels.Sodiumintake(2787±1065mg/d)wasnearly
+)d/g( ekatni yliaD
+FIGURE3 Meandailymacronutrientintakein19-to30-y-old urbanEgyptianwomen(n=130).Errorbarsdisplayedonthe figurearestandarddeviations.
+Transition-likedietaryintakesinEgyptianwomen 5
+TABLE2 Meandailymicronutrientintakesin19-to30-y-oldurbanEgyptianwomencomparedwithrecommendedintakes1
+Mean±SD Recommended Meanofthe Percentofwomenwith
+Micronutrient intake intake2 differences3(95%CI) P4 inadequateintake5
+Criticalmicronutrients6
+Iron,mg 13.8 ± 4.6 17.5±77 −3.7(−4.7,−2.8) ∗ 78.5
+Potassium,g 3.4 ± 1.2 >4.7 −1.3(−1.5,−1.0) ∗ 82.3
+Sodium,mg 2787 ± 1065 <1500 1287(1102,1472) ∗ 93.1
+Folate,mg 308 ± 130 >400 −92(−115,−69) ∗ 80.0
+VitaminD,μg 3.27 ± 3.53 5 - 10 −1.73(−2.34,−1.12) ∗ 82.3
+Othermicronutrients
+Calcium,mg 1001 ± 392 >1000 1(−67,70) 0.9658 56.9
+Copper,mg 1.56 ± 0.63 >0.9 0.66(0.55,0.76) ∗ 11.5
+Iodine,μg 211 ± 98 >150 61(43,78) ∗ 27.7
+Magnesium,mg 458 ± 148 220 - 310 238(212,264) ∗ 3.1
+Phosphorus,mg 1406 ± 438 >700 706(630,782) ∗ 1.5
+Zinc,mg 10.98 ± 3.56 7.2 - 9 3.78(3.16,4.39) ∗ 13.8
+VitaminA,μgretinol 851 ± 1279 500 - 700 351(129,573) ∗ 63.1
+equivalent
+VitaminE,μg 11.89 ± 6.36 7.5 - 15 4.39(3.28,5.49) ∗ 25.4
+Niacin,mgniacinequivalent 21.3 ± 10.8 14 - 16 7.3(5.4,9.2) ∗ 23.8
+Pantothenicacid,mg 8.46 ± 18.14 >5 3.46(0.31,6.61) 0.0315 68.5
+Riboflavin,mg 1.55 ± 0.59 >1.1 0.45(0.34,0.55) ∗ 23.1
+Thiamin,mg 1.25 ± 0.43 >1.1 0.15(0.08,0.23) ∗ 41.5
+VitaminB-12,μg 6.02 ± 5.61 >2.4 3.62(2.65,4.59) ∗ 21.5
+VitaminB-6,mg 1.45 ± 0.61 >1.3 0.15(0.04,0.25) 0.0072 52.3
+VitaminC,mg 152 ± 94 45 - 75 107(91,123) ∗ 6.2
+1n=130.∗P<0.0025(cutoffusedforrejectingnullhypothesisafterBonferronicorrection).
+2BasedonnutrientintakesrecommendedbytheEgyptHealthMinistryandtheWHO(36).
+3Themeanofdifferenceswascalculatedasthemeanintakeminustherecommendedintake,usingthelowerboundoftherangewhenrecommendationswereexpressed asranges(magnesium;zinc;vitaminsA,D,andE;niacin;andvitaminC).Apositivedifferenceindicatesthatmeanintakesareaboverecommendations;anegative differenceindicatesthatmeanintakesarebelowrecommendations.
+4ThePvaluesshownareforWelch's2-samplettestscomparingtheintakeofandrequirementforallnutrientsexceptiron,forwhichaStudent'sttestwasperformedto comparetheintakeandrequirement.Whenrecommendednutrientintakeswereexpressedasranges,thelowerboundoftherangewasusedascomparisonwithmean intakesinstatisticaltests.
+5Forsodium,intakesabovetherecommendationarelabeledasbeinginadequate.Forallothernutrientspresented,intakesbelowtherecommendation(orbelowthe lowerboundoftherange)areconsideredinadequate.
+6Nutrientswereidentifiedas"critical"when>50%ofwomenhadintakeslessthantherecommendationandthemeanintakewassignificantlylowerthantherecommendation(P<0.0025afterBonferronicorrection),exceptforsodium(whichwasdefinedascriticalgiventhat>50%ofwomenhadintakeshigherthantherecommended amountandthemeanintakewassignificantlyhigherthantherecommendation).
+7Individualironrequirementsforeachwomanwerecalculatedbasedonbodyweightandassumingmenstruallossesof0.56mg/d(12).Avariationinironrequirements of40%wasassumed.
+Calculationofironbioavailability,intakes,andneeds fish,andeggs(351±199kcal);anddairyproducts(290±185kcal).
+Dietaryironwasconsumedpredominantlyinnonhemeform(Table3; The 3 food subgroups with the highest contribution to daily total
+12.6 ± 4.3 mg/d of nonheme iron out of the 13.8 ± 4.6 mg iron energy intake were refined grain products (e.g., rice, pasta, noodles, consumed daily). Given that nonheme iron has a bioavailability of couscous)(265±144kcal),bread(258±167kcal),andsandwiches
+7.8%±0.7%,andassumingabioavailabilityof25%forhemeiron(12), (182±248kcal)(SupplementalTable4).
+thetotalironbioavailabilitywas9.2%±1.6%,withthevariabilitycom- Added sugars (25.8 ± 19.2 g) and beverages (21.9 ± 24.5 g) ingfromdietcomposition(asserumferritinwasassumedtobe15μg/L accounted for most of the total sugar intake. Meat, fish, and eggs forallwomen). Dietaryintakeprovided,onaverage, 1.3±0.5mg/d (29.7±18.5g);dairyproducts(16.9±11.5g);andbakeryproducts of bioavailable iron, whereas the needs were 1.6 ± 0.2 mg/d (9.5±5.9g)werethe3mainsourcesofprotein.Totalfatwasobtained
+(Figure4). primarily from meat, fish, and eggs (20.1 ± 12.7 g); dairy products
+(19.6±13.9g);andcomposites(mixedfoodgroups)(8.6±9.2g).Atthe subgrouplevel,themainsourcesofSFAswerewhitecheese(7.8±7.9g),
+Energyandnutrientsourcesaccordingtofoodconsumption milk (2.8 ± 2.8 g), and sandwiches (2.2 ± 3.3 g) (Supplemental
+Table4summarizesthecontributionofthevariousfoodgroupstoen- Table4).
+ergy,totalsugars,protein,totalfat,SFA,iron,potassium,sodium,folate, Iron was obtained primarily from meat, fish, and eggs andvitaminDintakes.SupplementalTables4 - 6detailthefoodgroups (3.16 ± 2.06 mg) and bakery products (2.52 ± 1.90 mg). At the andsubgroupsthatprovidedallothernutrients. subgrouplevel(SupplementalTable5),theprimaryironsourceswere
+The 3 food groups with the greatest contribution to mean total bread(1.97±1.72mg)andlegumes(1.01±1.12mg),bothofwhich daily energy intake were bakery products (351 ± 230 kcal); meat, containonlynonhemeiron,aswellassandwiches(1.27±2.24mg),
+6 Brouzesetal.
+TABLE3 Parametersforestimatingnonhemeiron thelongterm.Thedietarydatarevealedunbalancednutrientintakes, absorption,ironintake,andironbioavailabilityin19-to withahighintakeoftotalsugars,SFAs,andsodiumandaninsufficient
+30-y-oldurbanEgyptianwomen1
+intakeofvitaminD,folate,potassium,andiron.DataavailableinpreValues vious studies using biochemical measures show consistency with the
+Parametersfornonhemeironabsorptioncalculation2 insufficientintakesofiron(2,5),vitaminD(18,19),andfolates(20)
+Serumferritin,μg/L 15 estimatedinourstudy.
+VitaminC,mg/d 152 ± 94 Mostwomen(78.5%)hadinsufficientironintakes,andthisisconMeat,fish,andpoultry,g/d 158 ± 105 sistent with the high prevalence of iron deficiency (50%) and ironBlackteaequivalents,numberofcups/d 1.4 ± 1.0
+deficiencyanemia(25%)inEgyptianwomen(5).Thismayberelated
+Phytate,mg/d 1400
+Calcium,mg/d 1001 ± 392 totherelativelylowconsumptionofhemeiron - richanimalproducts,
+Ironintake,3mg/d combined with the daily consumption of black tea and high-phytate
+Nonheme 12.6 ± 4.3 fooditemssuchasbread,whichdecreasesthebioavailabilityofnonHeme 1.2 ± 1.3 heme iron (13.8 ± 4.6 mg/d of total iron intake, 1.2 ± 1.3 mg/d of
+Total 13.8 ± 4.6 heme iron, and nonheme iron absorbed at a rate of 7.8% ± 0.7%).
+Ironbioavailability,%
+Nonheme2 7.8 ± 0.7 Giventhelownumberofsubjectsreportedlytakingdietarysupplements
+Heme4 25 (n=8;6.2%),theinsufficientironintakescouldbeproblematicatthe
+Resultantbioavailabilityfromthediet5 9.2 ± 1.6 population level, particularly for women of childbearing age. Several
+1Valuesaremeans±SDs;n=130.Forserumferritin,phytateintake,andheme assumptionsweremadewhencalculatingironbioavailability.Phytate ironbioavailability,thesamevalueswereassumedforallparticipants,sothereis intakes were set at 1400 mg/d for all participants, based on the high noSD.
+consumptionoflegumesandbread(74and97g/d,respectively).Serum
+2Nonhemeironabsorption(assumedtobeequaltobioavailability)wasestimated usingequationsfromArmahetal.(41). ferritin,whichwassetat15μg/LbasedonnationalEgyptiandata(5),
+3Intakeswerecalculatedfromthe4-dfooddiaryof19-to30-y-oldEgyptianwomen isthemainfactoraffectingnonhemeironbioavailability(41).Indeed, andfromtheproportionofhemeandnonhemeironcontainedinanimal-derived whenironstoresarelow(lowferritinconcentration),lessofthehorfoods[SupplementalTable3;(38,39)].
+4Hemeironabsorptionwasassumedtobe25%(12). mone hepcidin is released by the liver, which promotes dietary iron
+5Resultantironbioavailabilityfromthedietwasbasedonhemeandnonhemeiron absorptioninthegutandironrecyclinginthebody(47).Theresults intakeandbioavailability.
+fromthisstudysuggestthatencouragingcarefulselectionofhemeiron - rich animal food sources, the inclusion of vitamin C - rich fruit such which can contain some animal ingredients. The top 3 sources con- ascitrusfruitinthediet,anddecreasedconsumptionofteaandcoftributingtopotassiumintakeweremeat,fish,andeggs(482±304mg); feecouldimprovebothironintakeandbioavailability.Futurestudies potatoes (456 ± 525 mg); and vegetables (447 ± 474 mg). Dairy warrantconcurrentassessmentofironstatusanddietaryintakeinthis products(660±539mg/d;whitecheesenotably,with464±482mg/d; population.
+SupplementalTable5)andmeat,fish,andeggs(424±311mg/d)were Total fats (33.4%TEI) were consumed in slight excess compared thefoodsthatcontributedmosttosodiumintake. with WHO population goals (15 - 30%TEI), but complied with EuroThetop3sourcesoffolateinthedietofEgyptianwomenwereveg- peanFoodSafetyAuthority(EFSA)andtheUSInstituteofMedicine etables(54.0±60.4μg);legumes,nuts,andseeds(51.8±51.4μg);and recommendations[20 - 35%TEI(48,49)].SFAs(11.2%TEI)wereconmeat,fish,andeggs(39.0±35.2μg).NearlyallvitaminDintakecame sumedinhigheramountsthanrecommended[<10%TEIaccordingto fromthemeat,fish,andeggsgroup(2.65±3.49μg),withbonelessfish WHO,"aslowaspossible"accordingtoEFSA(49)andUS(48)rec-
+(1.84±3.39μg),eggs(0.50±0.65μg),andpoultry(0.22±0.28μg) ommendations],mainlyduetothehighconsumptionofwhitecheese beingthemainsources(SupplementalTable6). (notablyfetacheese,whichishighinsodiumandSFAsandiswidely consumedinEgypt).
+Approximately one-third of carbohydrate came from total sugars.
+Discussion Ideally,thecontributionoftotalsugarstocarbohydrateintakeshould bereduced,asthe2mainsourcesofsugarsweretablesugarandsugarAhighprevalenceofoverweightwasfoundinthisgroupof19-to30-y- sweetenedbeverages,andtheWHOrecommendsthatonly5 - 10%TEI oldwomenfromurbanareasofEgypt(meanBMI:27.9±4.9).Thisis shouldcomefromfreesugars(43).
+consistentwithdatafromtheWHOreportingameanBMIof30.6for Intotal,93%ofthewomenhadintakesofsodiuminexcessofrecomEgyptianwomen(1)andwithdatafromthenationalDemographicand mendations:onaverage,twicetherecommendedamountofsodiuminHealthSurvey,whichreportedthat20-to29-y-oldEgyptianwomenhad takewasconsumed(2787±1065mg/dinsteadof1500mg/d)and88% ameanBMIof28.2(2).Alowlevelofphysicalactivitywasassumedfor ofwomenconsumed≥2300mg/d.Sincehighsodiumintakeincreases calculatingenergyneeds,aspreviouslyreportedinEgyptians(34,45), theriskofhighbloodpressure,stroke,fatalstroke,andfatalcoronary whichcouldbeduetoculturalandreligiousbarriersorwomen'ssafety heartdisease,theWHOstronglyrecommendsreducingsodiumintake concerns(8,34,46).Thefoodhabitsofthesewomenweretypicalofa to<2000mg/d(50),andtheUSInstituteofMedicineusesanupper populationundergoingnutritiontransition,facingthedoubleburden limitof2300mg/dofsodiumforhealthyindividualswithouthyperofmalnutrition.Theirdailyenergyintakeswere,onaverage,254kcal tension(44).Highintakesofsodium(2500 - 2700mg/d)havealready greaterthantheirneeds,whichcanbeasufficientcaloricsurpluscon- beenhighlightedinadolescents(12 - 18yold)withandwithouthypertributingtoanincreaseintheprevalenceofoverweightandobesityin tensionfromthecityofSohag(51).Reducingcheeseconsumptionor
+Transition-likedietaryintakesinEgyptianwomen 7
+FIGURE4 Bioavailableironintake(lightgray)andironlosses(darkgray)in19-to30-y-oldurbanEgyptianwomen(n=130).The light-graydashedlinerepresentsthemeanintake,andthedark-graydashedlinerepresentsthemeanlosses.
+refrainingfromaddingsaltatthetableorduringcookingcouldhelp folatewerevegetables(especiallygreenleafyvegetablessuchasspinach reduce sodium intake. In contrast, potassium intake was below rec- ortheplantmolokheya),legumes(withalargeconsumptionofbroad ommendations for 82% of the women, with an average intake of beans, consumed as the traditional Egyptian dish fuul), and animal
+3.4±1.2g/d.ItisimportanttonotethattheEgyptianrecommenda- products.TheEgyptiangovernmentlaunchedaninitiativein2008to tionforpotassiumintake(>4.7g/d)ishigherthantheEFSA'sdefinition increase iron and folate intake by fortifying the national (in Egypofanadequateintake(3.5g/d),andthatEFSAstatesthatapotassium tianbaladi)breadflourwithironandfolate(54),butregrettably,the intake>3.5g/dtendstodecreasetheriskofstroke(52). program has now ended. Tailored dietary recommendations that inVitaminDintakeswerebelowtherecommendedamountfor82% cludegoodsourcesoffolatewouldhelpwomenconsumeanadequate ofthewomen,whichisconcerningasmostEgyptianwomenwearveils intake.
+(53), so vitamin D synthesis from sun exposure is limited. Vitamin Themainlimitationofourstudyislinkedtotheself-reportednature
+DdeficiencyhaspreviouslybeenidentifiedasaprobleminEgyptian ofheightandweightvaluescollectedinthestudy.Energyneedswereesmothers(19)andhealthyEgyptianfemales(18)andisoftenrelatedto timatedbasedonself-reportedweights,wheremorethanone-thirdof limitedsunexposure,lowfishconsumption,alowlevelofeducation, valuesweremissingorimplausible.Inordertoaddressthisissue,we andahighBMI(19).IncreasedvitaminDintakecouldbeencouraged imputedmissingandimplausiblevaluesbasedondemographicdataon bypromotingdirectsupplementation,theintroductionofvitaminD - 19-to50-y-oldmenandwomen,andvaluesweresimilar.Yet,calculated fortifiedproducts,ortheselectionofappropriatevitaminD - richfoods, energyneedsareonlyapproximationsobtainedfromthedataavailable.
+suchasfish.YoungEgyptianwomencouldbeencouragedtoconsume Theissuesthatwefacedcollectingself-reportedheightandweighthighlarger portion sizes and/or consume fish more frequently, with suit- lighttheimportanceofovercomingbarriers(suchasculturalorpractiableadvicearoundhealthypreparation,tohelpincreasetheirvitaminD cal)intakingdirectbodymeasurements.Thesmallsamplesizeofour intake. studypopulation(n=130)isanotherlimitation,andfurtherresearch
+Overall,80%ofthewomensurveyedhadaninsufficientfolatein- ondietarypracticesofEgyptianwomenatthenationallevelcouldintake. In contrast, a previous study using blood measures suggested vestigatethemagnitudeofthenutritionalimbalances.Additionally,as thatfolateintakewaslessofconcern,asonly14.7%ofwomenofre- inanydietarysurvey,subjectsmayhavemisreportedorchangedtheir productive age (20 - 49 y old) had folate deficiency (serum concen- dietaryintakesduringthedaysofsurvey,andtheresultsmaynotbereptrations<10nmol/L)(20).Inthecurrentstudy,themainsourcesof resentativeoftheirhabitualdietaryintakes.Biochemicalindicatorsof
+8 Brouzesetal.
+dlo-y-03ot-91nisekatniDnimativdna,etalof,muidos,muissatop,nori,AFS,taflatot,nietorp,sraguslatot,ygreneotpuorgdoofhcaefonoitubirtnoC
+4ELBAT
+1nemownaitpygEnabru
+,DnimatiV
+,muissatoP gμ gμ,etaloF gm,muidoS gm gm,norI g,sAFS g,taflatoT g,nietorP g,sraguslatoT lack,ygrenE
+60.0
+±
+60.0
+2.22
+±
+3.91
+
+±
+
+±
+
+76.0
+±
+28.0
+9.0
+±
+4.1
+3.2
+±
+6.3
+2.4
+±
+0.7
+8.0
+±
+8.0
+
+±
+
+stcudorpniargdnasniarG
+01.0
+±
+40.0
+4.5
+±
+6.3
+
+±
+
+±
+
+09.1
+±
+25.2
+2.2
+±
+4.1
+3.5
+±
+3.4
+9.5
+±
+5.9
+8.61
+±
+1.21
+
+±
+
+stcudorpyrekaB
+20.0
+±
+00.0
+7.62
+±
+2.32
+
+±
+
+±
+
+76.0
+±
+85.0
+3.2
+±
+9.1
+2.8
+±
+1.7
+5.2
+±
+2.2
+4.1
+±
+9.0
+
+±
+
+seotatoP
+00.0
+±
+00.0
+4.15
+±
+8.15
+
+±
+
+±
+
+75.1
+±
+07.1
+1.1
+±
+9.0
+3.7
+±
+0.7
+6.5
+±
+0.6
+3.0
+±
+3.0
+
+±
+
+sdeesdna,stun,semugeL
+52.0
+±
+73.0
+8.71
+±
+5.72
+
+±
+
+±
+
+43.0
+±
+53.0
+3.9
+±
+2.31
+9.31
+±
+6.91
+5.11
+±
+9.61
+0.8
+±
+9.9
+
+±
+
+stcudorpyriaD
+94.3
+±
+56.2
+2.53
+±
+0.93
+
+±
+
+±
+
+60.2
+±
+61.3
+6.4
+±
+2.6
+7.21
+±
+1.02
+5.81
+±
+7.92
+1.1
+±
+0.1
+
+±
+
+sggedna,hsfi,taeM
+00.0
+±
+00.0
+2.72
+±
+8.42
+
+±
+
+±
+
+67.0
+±
+07.0
+1.0
+±
+0.0
+4.0
+±
+3.0
+4.1
+±
+3.1
+0.71
+±
+4.51
+
+±
+
+stiurF
+31.0
+±
+40.0
+4.06
+±
+0.45
+
+±
+
+±
+
+17.0
+±
+87.0
+8.0
+±
+4.0
+3.7
+±
+9.2
+4.2
+±
+2.2
+7.5
+±
+9.3
+
+±
+
+selbategeV
+20.0
+±
+00.0
+0.0
+±
+0.0
+
+±
+
+±
+
+10.0
+±
+10.0
+2.1
+±
+6.0
+0.21
+±
+2.6
+0.0
+±
+0.0
+0.0
+±
+0.0
+
+±
+
+stafdeddA
+00.0
+±
+00.0
+0.0
+±
+0.0
+
+±
+
+±
+
+44.0
+±
+02.0
+0.0
+±
+0.0
+0.0
+±
+0.0
+0.0
+±
+0.0
+2.91
+±
+8.52
+
+±
+
+sragusdeddA
+20.0
+±
+10.0
+6.0
+±
+3.0
+
+±
+
+±
+
+02.0
+±
+80.0
+2.1
+±
+5.0
+6.2
+±
+2.1
+6.0
+±
+2.0
+5.4
+±
+0.2
+
+±
+
+dnaydnac(sdoofkcansdeneteewS
+)etalocohc
+00.0
+±
+00.0
+1.34
+±
+1.23
+
+±
+
+±
+
+90.1
+±
+66.0
+2.0
+±
+1.0
+8.0
+±
+3.0
+8.0
+±
+8.0
+5.42
+±
+9.12
+
+±
+
+)yriadnon(segareveB
+20.0
+±
+00.0
+5.7
+±
+9.1
+
+±
+
+±
+
+15.0
+±
+61.0
+5.0
+±
+1.0
+1.1
+±
+3.0
+1.1
+±
+3.0
+6.11
+±
+1.2
+
+±
+
+2suoenallecsiM
+81.0
+±
+90.0
+2.03
+±
+7.42
+
+±
+
+±
+
+83.2
+±
+47.1
+3.3
+±
+5.2
+2.9
+±
+6.8
+6.01
+±
+3.9
+1.2
+±
+8.1
+
+±
+
+3)spuorgdoofdexim(setisopmoC
+20.0
+±
+00.0
+2.7
+±
+9.5
+
+±
+
+±
+
+24.0
+±
+53.0
+9.0
+±
+4.0
+6.8
+±
+0.7
+8.1
+±
+5.1
+6.0
+±
+2.0
+
+±
+
+skcansyrovaS
+.031=n;sDS±snaemeraseulaV1
+.sreneteewsdna,sdaerps,maj,gnisserddalas,secuas,secips,sbreh,stnemidnocsedulcnipuorg"suoenallecsiM"ehT2
+.spuorgdooflarevesmorfstneidergnifodesopmocerewtahtsehsidnairategevdna,spuos,sehciwdnas,sehsidniamsedulcnipuorg")spuorgdoofdexim(setisopmoC"ehT3
+nutrients (e.g., serum ferritin, plasma folate, 25-hydroxyvitamin D) werenotmeasuredinthisstudy,butthesewouldhavefacilitatedunderstandingofthevalidityoftheresults.Severalassumptionsonparametersimpactingironbioavailabilityweremadebasedontheliterature[phytateintakes(42),serumferritinconcentrations(5),menstrual losses(12)],whereasotherparameterswerenottakenintoaccount[e.g., contraceptionmethod(55),inflammation(13),parasiteinfection(12), geneticdiseasesuchasβ-thalassemia(56,57)],asdatarelatedtothese factorswereunfortunatelynotcollectedinourstudy.Itwouldhavebeen interesting to compare iron intakes with blood analyses (e.g., serum ferritin,hemoglobin,C-reactiveprotein)tobetterunderstandtheroot causesofanemiainourpopulation.
+Theresultsfromthisstudyindicatethat19-to30-y-oldwomenlivinginurbanEgypthavenutritiontransition - likedietarypatterns,with notablyhighenergy,SFA,totalsugar,andsodiumintakesandinsufficientiron,vitaminD,andfolateintakes.Inadditiontothenutrient-poor andenergy-richdietsreportedhere,thehighprevalenceofoverweight andobesityinthispopulationposesagreaterriskfornutritionaldeficiencies(13)andrelatedchronicdiseases(58).Strategiesareneeded toincreasebothironabsorptionandintakeandtoimproveoveralldiet quality.Todate,nocountry-specific,food-baseddietaryguidelinesexist forEgypt(59),whiletraditionalEgyptianfoodsincludearangeofvery nutritiousfoodsthatarehighindietaryfiberandlowinsaturatedfat
+(60),suchaslegumes(broadbeans,chickpeas,etc.),liver,greenleafy vegetables,herbs,fruits,dates,andbread(9).Thegreateravailability andconsumptionoffastfoods(9)andsubsidizedfoods(bread,oil,and sugar),whicharehighincalories,mayhaveplayedaroleintheincreasingprevalenceofobesity(3),suggestingthatitcouldbehelpfultofortifyhealthier(lesscaloric,morenutrient-dense)foods.Follow-upwork shouldfocusondevelopingfood-baseddietaryguidelinesthatinclude localfoodsandinvestigatingthepotentialpublichealthbenefitsassociatedwithfoodfortification.ImprovingthedietaryhabitsofEgyptian womenhasthepotentialtoimprovethehealthofwomen,children,and futuregenerations(14 - 17).
+Acknowledgments
+We thank Maria Glibetic, Marina Nikolic, Jelena Milesevic, Milica
+Zekovic,andAgnesKadvanfromtheInstituteforMedicalResearch,
+CenterofExcellenceinNutritionandMetabolismResearch(CENM), of Belgrade, Serbia, for their contribution to the coding and analysesofthedietarysurvey.WethankDanoneEgyptlocalteam,including Sherine Omar, Dalia Hashem, and Hisham Khalil, for their help inimplementingthestudyandinterpretingtheresults.Wealsothank theKantarEgyptresearchteamincludingHebaMoheeb,DianaYoussef,
+NermeenBedeir,andEmadElSayed,whowereinvolvedinthedatacollection,aswellastheKantardata-processingmanagerImanMohamed andherteamofcoders,whotranscribedthedatafromArabictoEnglish.Theauthors'responsibilitieswereasfollows - BAHandMCD:designedthedietarysurveyandledthesurveyimplementation;BAH:had studyoversightonacquisitionofdietarydataandconversiontonutrients;CMCB,DT,ND,andAL:designedtheanalyses;CMCB:analyzed thedietarydataandperformedthestatisticalanalyses;CMCB,DT,AL,
+ND,RB-S,BAH,andMCD:interpretedthedata;CMCB,DT,AL,and
+ND:wrotethemanuscript;andallauthors:readandapprovedthefinal manuscript.
+Transition-likedietaryintakesinEgyptianwomen 9
+References in R. R Documentation, Journal of Statistical Software 2018;45(3),
+10.18637/jss.v045.i03,Version3.6.0.
+1.WorldHealthOrganization.Cartographermeanbodymassindex(kg/m2), 24.Rhee JJ, Sampson L, Cho E, Hughes MD, Hu FB, Willett WC.
+ages18+,2016(agestandardizedestimate):female.Geneva(Switzerland): Comparison of methods to account for implausible reporting of
+WorldHealthOrganization;2017. energy intake in epidemiologic studies. Am J Epidemiol 2015;181(4):
+2.EgyptMinistryofHealthandPopulation;El-ZanatyandAssociates;DHS 225 - 33.
+Program,ICFInternational.EgyptDemographicandHealthSurvey2014. 25.FergusonEL,DarmonN,BriendA,PremachandraIM.Food-baseddietary
+Cairo(Egypt)andRockville(MD):MinistryofHealthandPopulationand guidelinescanbedevelopedandtestedusinglinearprogramminganalysis.J
+ICFInternational;2015. Nutr2004;134(4):951 - 7.
+3.EckerO,Al-RiffaiP,BreisingerC,El-BatrawyR.Nutritionandeconomic 26.National Nutrition Institute [Egypt]. Food composition tables for Egypt.
+development:exploringEgypt'sexceptionalismandtheroleoffoodsubsidies. Cairo(Egypt):NationalNutritionInstitute;2006.
+Washington(DC):InternationalFoodPolicyResearchInstitute;2016. 27.TürKomp.Turkishfoodcompositiondatabase.Determinationofnational
+4.KanterR,CaballeroB.Globalgenderdisparitiesinobesity:areview.Adv foodcompositionandformationofawidelyavailableandsustainablesystem.
+Nutr2012;3(4):491 - 8. GebzeKocaeli(Turkey):TürKomp;2013.
+5.TawfikAA,HannaET,Abdel-MaksoudAM.Anemiaandirondeficiency 28.Gurinovic ́M,Mileševic ́J,KadvanA,Djekic ́-Ivankovic ́M,Debeljak-Martacˇic ́ anemiainEgypt.IOSRJPharm2015;5(4):30 - 4. J,Takic ́M,Nikolic ́M,Rankovic ́S,FinglasP,Glibetic ́M.Establishmentand
+6.World Health Organization. The double burden of malnutrition: policy advancesintheonlineSerbianfoodandrecipedatabaseharmonizedwith brief.Geneva(Switzerland):WorldHealthOrganization;2016.ContractNo.: EuroFIRTMstandards.FoodChem2016;193:30 - 8.
+WHO/NMH/NHD/17.3. 29.GrandeF,StadlmayrB,FialonM,DahdouhS,RittenschoberD,Longvah
+7.GalalOM.ThenutritiontransitioninEgypt:obesity,undernutritionandthe T,CharrondiereU.FAO/INFOODSglobalfoodcompositiondatabasefor foodconsumptioncontext.PublicHealthNutr2002;5(1a):141 - 8. pulses,version1.0.Rome:FAO;2017.
+8.Musaiger AO, Al-Mannai M, Tayyem R, Al-Lalla O, Ali EY, Kalam 30.LongvahT,An_antan_I,BhaskaracharyK,VenkaiahK,LongvahT.Indian
+F, Benhamed MM, Saghir S, Halahleh I, Djoudi Z. Perceived barriers foodcompositiontables.Telangana(India):NationalInstituteofNutrition;
+to healthy eating and physical activity among adolescents in seven 2017.
+Arabcountries:across-culturalstudy.SciWorldJ2013;2013(232164):12, 31.EgyptMinistryofHealthandPopulation;IodineGlobalNetwork;Global
+10.1155/2013/232164. Alliance for Improved Nutrition; UNICEF; World Health Organization.
+9.Hassan-WassefH.FoodhabitsoftheEgyptians:newlyemergingtrends.East EgyptIodineSurvey2014 - 2015:jointstatement.Cairo(Egypt):Ministryof
+MediterrHealthJ2004;10(6):898 - 915. HealthandPopulation;2015.
+10.Dawoud S. An analysis of food consumption patterns in Egypt. Kiel 32.Henry CJK. Basal metabolic rate studies in humans: measurement and
+(Germany):Christian-AlbrechtsUniversitätKiel;2005. developmentofnewequations.PublicHealthNutr2005;8(7A):1133 - 52.
+11.Food and Agriculture Organization. AQUASTAT country profile - Egypt. 33.Food and Agriculture Organization; World Health Organization; United
+Rome:FAO;2016. Nations University. Human Energy Requirements: report of a Joint
+12.WorldHealthOrganization.Vitaminandmineralrequirementsinhuman FAO/WHO/UNUExpertConsultation,FAOFoodandNutritionTechnical nutrition.Geneva(Switzerland):WorldHealthOrganization;2004. ReportSeries(vol1).Rome:FAO/WHO/UNUniversity;2001.
+13.Yanoff LB, Menzie CM, Denkinger B, Sebring NG, McHugh T, Remaley 34.SubhiLKA,BoseS,AniMFA.Prevalenceofphysicallyactiveandsedentary
+AT,YanovskiJA.Inflammationandirondeficiencyinthehypoferremiaof adolescents in 10 Eastern Mediterranean countries and its relation with obesity.IntJObes2007;31:1412. age, sex, and body mass index. J Physical Activity Health 2015;12(2):
+14.FraserD,Abu-SaadK.Maternalnutritionandbirthoutcomes.Epidemiol 257 - 65.
+Rev2010;32(1):5 - 25. 35.World Health Organization, Food and Agriculture Organization of the
+15.Burke R, Leon J, Suchdev P. Identification, prevention and treatment United Nations. Diet, nutrition, and the prevention of chronic diseases:
+of iron deficiency during the first 1000 days. Nutrients 2014;6(10): report of a Joint WHO/FAO Expert Consultation. Geneva (Switzerland):
+4093 - 114. WHO/FAO;2003,924120916X.
+16.GernandAD,SchulzeKJ,StewartCP,WestKP,Jr,ChristianP.Micronutrient 36.MinistryofHealthEgypt.Rangeofrecommendednutrientintakeofvitamins deficienciesinpregnancyworldwide:healtheffectsandprevention.NatRev andmineralsaccordingtoWHO(2004)andNationalAcademyofScience
+Endocrinol2016;12:274. (2004).Cairo(Egypt):MinistryofHealthEgypt; 2004.
+17.BaidalJAW,LocksLM,ChengER,Blake-LambTL,PerkinsME,TaverasEM. 37.GreenR,CharltonR,SeftelH,BothwellT,MayetF,AdamsB,FinchC,
+Riskfactorsforchildhoodobesityinthefirst1,000days:asystematicreview. LayrisseM.Bodyironexcretioninman:acollaborativestudy.AmJMed
+AmJPrevMed2016;50(6):761 - 79. 1968;45(3):336 - 53.
+18.Botros RM, Sabry IM, Abdelbaky RS, Eid YM, Nasr MS, Hendawy LM. 38.Kongkachuichai R, Napatthalung P, Charoensiri R. Heme and nonheme
+VitaminDdeficiencyamonghealthyEgyptianfemales.Endocrinologíay ironcontentofanimalproductscommonlyconsumedinThailand.JFood
+Nutrición2015;62(7):314 - 21. ComposAnal2002;15(4):389 - 98.
+19.El Rifai NM, Abdel Moety GAF, Gaafar HM, Hamed DA. Vitamin 39.Lombardi-BocciaG,Martinez-DominguezB,AguzziA.TotalhemeandnonD deficiency in Egyptian mothers and their neonates and possible hemeironinrawandcookedmeats.JFoodSci2002;67(5):1738 - 41.
+related factors. J Maternal-Fetal Neonatal Med 2014;27(10):1064 - 68, 40.Hallberg L. Bioavailability of dietary iron in man. Annu Rev Nutr
+10.3109/14767058.2013.849240. 1981;1(1):123 - 47.
+20.TawfikAA,HannaET,FreigSA.FolatestatusinEgypt.IOSRJNursHealth 41.ArmahSM,CarriquiryA,SullivanD,CookJD,ReddyMB.AcompletedietSci2014;3(2):32 - 6. basedalgorithmforpredictingnonhemeironabsorptioninadults.JNutr
+21.HolmesBA,DaoM-C,ZekovicM,NikolicM,MilesevicJ,KadvanA,Omar 2013;143(7):1136 - 40.
+S,HashemD,BrouzesCMC,GlibeticM.DietarysurveyintheEgyptian 42.EFSAPanelonDieteticProductsNutritionandAllergies.Scientificopinion populationrevealsunbalanceddietswithlowmicronutrientadequacy(P12- ondietaryreferencevaluesforzinc.EFSAJ2014;12(10):3844.
+047).CurrDevNutr2018;2(11):46,10.1093/cdn/nzy039. 43.WorldHealthOrganization.Guideline:sugarsintakeforadultsandchildren.
+22.RCoreTeamandContributorsWorldwide.Version4.0.0,consultedon22- Geneva(Switzerland):WorldHealthOrganization;2015.
+11-2019,TheRStatspackage"Step":chooseamodelbyAICinastepwise 44.AppelLJ,BakerD,Bar-OrO,MinakerK,MorrisR,ResnickL,SawkaM, algorithm,RDocumentation,Worldwide,2019. Volpe S, Weinberger M, Whelton P. Dietary Reference Intakes for water,
+23.R Core Team and Contributors Worldwide, van Buuren S, Groothuis- potassium, sodium, chloride, and sulfate. Washington (DC): Institute of
+Oudshoorm CG, MICE: Multivariate Imputation by Chained Equations Medicine;2005.
+10 Brouzesetal.
+45.MusaigerAO.OverweightandobesityintheEasternMediterraneanregion: 53.SlackmanM.TheNewYorkTimes(WK3).January28,2007. InEgypt,aNew canwecontrolit?EastMediterrHealthJ2004;10(10):789 - 93. BattleBeginsOvertheVeil;2007.
+46.WalsethK,FastingK.Islam'sviewonphysicalactivityandsport:Egyptian 54.ElhakimN,LaillouA,ElNakeebA,YacoubR,ShehataM.Fortifyingbaladi womeninterpretingIslam.InternationalReviewfortheSociologyofSport breadinEgypt:reachingmorethan50millionpeoplethroughthesubsidy
+Journal 2003;38(1):45 - 60. program.FoodNutrBull2012;33(4Suppl):S260 - 71.
+47.NemethE,TuttleMS,PowelsonJ,VaughnMB,DonovanA,WardDM,Ganz 55.EFSAPanelonDieteticProductsNutritionandAllergies.Scientificopinion
+T,KaplanJ.Hepcidinregulatescellularironeffluxbybindingtoferroportin ondietaryreferencevaluesforiron.EFSAJ2015;13(10):4254.
+andinducingitsinternalization.Science2004;306(5704):2090 - 3. 56.El-BeshlawyA,KaddahN,RagebL,Hussein I,Mouktar G,MoustafaA,
+48.TrumboP,SchlickerS,YatesAA,PoosM.DietaryReferenceIntakesfor ElraoufE,HassaballaN,GaafarT,El-SendionyH.Thalassemiaprevalence energy,carbohydrate,fiber,fat,fattyacids,cholesterol,proteinandamino andstatusinEgypt.PediatrRes1999;45(S5):760.
+acids.JAcadNutrDiet2002;102(11):1621. 57.El-Beshlawy A, Youssry I. Prevention of hemoglobinopathies in Egypt.
+49.EFSAPanelonDieteticProductsNutritionandAllergies.ScientificOpinion Hemoglobin2009;33(Suppl1):S14 - 20.
+on Dietary Reference Values for fats, including saturated fatty acids, 58.Field AE, Coakley EH, Must A, Spadano JL, Laird N, Dietz WH, Rimm polyunsaturatedfattyacids,monounsaturatedfattyacids,transfattyacids, E, Colditz GA. Impact of overweight on the risk of developing common andcholesterol.EFSAJ2010;8(3):1461. chronicdiseasesduringa10-yearperiod.JAMAInternMed2001;161(13):
+50.World Health Organization. Guideline: sodium intake for adults and 1581 - 6.
+children.Geneva(Switzerland):WHO;2012. 59.Montagnese C, Santarpia L, Iavarone F, Strangio F, Sangiovanni B,
+51.TayelDI,El-SayedNA,El-SayedNA.Dietarypatternandbloodpressure BuonifacioM,CaldaraAR,SilvestriE,ContaldoF,PasanisiF.Food-based levels of adolescents in Sohag, Egypt. J Egypt Public Health Assoc dietary guidelines around the world: eastern Mediterranean and Middle
+2013;88(2):97 - 103. Easterncountries.Nutrients2019;11(6):1325.
+52.TurckD,BressonJL,BurlingameB,DeanT,Fairweather-TaitS,HeinonenM, 60.Hassan-Wassef H. Gaining recognition for the identity of Mediterranean
+Hirsch-ErnstKI,MangelsdorfI,McArdleH,Neuhäuser-BertholdM.Dietary products.CIHEAM(CentreInternationaldesHautesEtudesAgronomiques referencevaluesforpotassium.EFSAJournal2016;14(10):56. Méditerranéennes)briefingnotes2007;28(22June2007).

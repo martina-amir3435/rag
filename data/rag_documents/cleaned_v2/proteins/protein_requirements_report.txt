@@ -1,0 +1,1307 @@
+ISSN 0254-4725
+
+FAO evaluation in human NUTRITION
+PAPER nutrition 92
+Protein is supplied by food ingredients, whole foods, sole-source foods and mixed diets and the match between dietary supply and human Report of an protein needs is vital to support the health and well-being of human populations. Since 1989 the
+Protein Digestibility Corrected Amino Acid Score FAO Expert Consultation
+(PDCAAS) method for evaluating protein quality has been used widely. However, limitations of
+PDCAAS have been recognised and new research
+(cid:383)(cid:80)(cid:70)(cid:75)(cid:80)(cid:73)(cid:85)(cid:2)(cid:78)(cid:71)(cid:70)(cid:2)(cid:86)(cid:81)(cid:2)(cid:67)(cid:2)(cid:84)(cid:71)(cid:88)(cid:75)(cid:71)(cid:89)(cid:2)(cid:81)(cid:72)(cid:2)(cid:86)(cid:74)(cid:71)(cid:2)(cid:67)(cid:70)(cid:71)(cid:83)(cid:87)(cid:67)(cid:69)(cid:91)(cid:2)(cid:81)(cid:72)(cid:2)(cid:50)(cid:38)(cid:37)(cid:35)(cid:35)(cid:53)(cid:2) and its application vis-à-vis other methods of estimating dietary protein quality. This report of the FAO Expert Consultation on Protein Quality
+Evaluation in Human Nutrition, held in Auckland,
+New Zealand, from March 31 to April 2, 2011, considers the effectiveness and concerns about the PDCAAS method for evaluating protein quality
+(cid:67)(cid:80)(cid:70)(cid:2)(cid:82)(cid:84)(cid:81)(cid:88)(cid:75)(cid:70)(cid:71)(cid:85)(cid:2)(cid:76)(cid:87)(cid:85)(cid:86)(cid:75)(cid:383)(cid:69)(cid:67)(cid:86)(cid:75)(cid:81)(cid:80)(cid:85)(cid:2)(cid:67)(cid:80)(cid:70)(cid:2)(cid:84)(cid:71)(cid:69)(cid:81)(cid:79)(cid:79)(cid:71)(cid:80)(cid:70)(cid:67)(cid:86)(cid:75)(cid:81)(cid:80)(cid:85)(cid:2) concerning the PDCAAS method. A new method of dietary quality evaluation called DIAAS is recommended for application in practice.
+
+ISBN 978-92-5-107417-6 ISSN 0254-4725
+
+9 7 8 9 2 5 1 0 7 4 1 7 6
+I3124E/1/11.12
+
+Dietary protein quality evaluation in human nutrition
+- Report of an
+
+FAO
+
+Expert
+Consultation
+
+FFAAOO
+
+Copertina Fao I3124/E 24/01/13 15:09 Pagina 1
+FAO evaluation in
+
+NUTRITION
+
+PAPER human nutrition
+
+Report of an
+FAO Expert Consultation
+31 March - 2 April, 2011
+Auckland, New Zealand
+
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS
+
+ROME, 2013
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations
+(FAO) concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views of FAO.
+
+ISBN 978-92-5-107417-6
+
+material in this information product. Non-commercial uses will be authorized free of charge, upon request. Reproduction for resale or other commercial purposes, including educational purposes, may incur fees. Applications for
+
+queries concerning rights and licences, should be addressed by e-mail to
+
+Office of Knowledge Exchange, Research and Extension, FAO,
+Viale delle Terme di Caracalla, 00153 Rome, Italy.
+
+Acknowledgements
+The committee would like to thank Dr Shane Rutherfurd of the Riddet Institute, Massey
+University, New Zealand for supplying data for the exemplar calculations of DIAAS and
+Dr Joyce Boye of Agriculture and Agri-Food Canada, for providing the examples of the calculation of DIAAS given in Section IV (2) of the report.
+We also thank Mrs Terri Palmer of the Riddet Institute, Massey University, for secretarial assistance.
+
+Acknowledgements iii
+Acronyms ix
+CHAPTER 1. INTRODUCTION 1
+CHAPTER 2. SUMMARY OF KEY FINDINGS FROM THE 2011 FAO
+
+EXPERT CONSULTATION ON PROTEIN QUALITY EVALUATION IN
+
+HUMAN NUTRITION 3
+
+2.1 key findings 3
+CHAPTER 3. BACKGROUND TO THE CONSULTATION 7
+3.1 major scientific reviews of protein quality evaluation methodology 7
+- Introduction 7
+3.2 airlee conference (1981) 8
+3.3 deliberations of the codex committee on vegetable proteins regarding protein quality assessment (1982-1989) 8
+3.4 joint fao/who expert consultation on protein quality evaluation (1989) 9
+- Amino acid analysis of foods 10
+- Amino acid requirements and scoring pattern 11
+- Digestibility considerations 11
+- Overall recommendation of the FAO/WHO 1989 Expert
+Consultation (published 1991) 12
+3.5 fao/who/unu expert consultation on protein and amino acid requirements in human nutrition (rome 2001, geneva 2002, published as a who/fao/unu report in 2007) 12
+- Overall recommendation 14
+- The 2011 FAO Consultation 17
+CHAPTER 4. FINDINGS AND RECOMMENDATIONS OF THE 2011 FAO EXPERT
+
+CONSULTATION ON PROTEIN QUALITY EVALUATION IN HUMAN
+
+NUTRITION 19
+
+4.1 significance and appropriateness of pdcaas in practice and truncation of pdcaas 19
+- The digestible indispensable amino acid score (DIAAS) 20
+- Practical application of the DIAAS 21
+
+4.2 example calculations of diaas and the expression of digestible amino acid contents of foods 22
+- Digestible amino acid contents 22
+- Calculation of DIAAS 22
+- Example of calculation of DIAAS for a single food ingredient 23
+- Example of calculation of DIAAS for a food mixture 23
+4.3. background to the validity of the amino acid scoring patterns 23
+- Definition of dietary indispensable amino acid scoring patterns to be used in the calculation of DIAAS from immediately post infancy to adulthood 23
+- Breast milk pattern 28
+- Pattern for preschool and older children and adults:
+historical perspective 28
+- Calculation of the scoring patterns from amino acid requirement values 30
+- Optimal amino acid requirements 31
+4.4 correction for amino acid digestibility and availability in the calculation of diaas 32
+- Bioavailability of amino acids 32
+- Digestibility: amino acids 33
+- Chemical availability of amino acids 37
+- Loss of bioavailability due to the presence of interfering substances 38
+4.5 considerations regarding the use of bioassays to determine protein quality 38
+- Postprandial protein utilization (PPU) 39
+- Net postprandial protein utilization (NPPU) 39
+- Application of the IAAO method to determine the metabolic availability (MA) of amino acids 40
+4.6 amino acid analysis and true amino acid digestibility/ bioavailability methodologies 41
+- Amino acid analysis methodology 41
+- True amino acid digestibility/availability assays 41
+4.7 bioactive components intrinsically associated with food proteins including those occurring naturally or formed during processing 42
+4.8 diaas - regulatory issues 42
+4.9 recommendations for further research 44
+- Human amino acid requirements 44
+- Analytical 45
+- Ileal digestibility 45
+- Evaluation and perfection of techniques to directly measure the bioavailability of protein bound dietary amino acids in humans 45
+
+- Impact of interaction between bioactive factors and protein quality and function 46
+- Communication 46
+- Animal and plant breeding, food preparation and processing effects 46
+4.10 strength of evidence used in making the recommendations 46
+- Preamble 46
+- A hierarchy of evidence 47
+- Strength of evidence pertaining to this consultation 48
+
+APPENDICES 51
+
+appendix i: fao expert consultation on protein quality evaluation 51
+appendix ii: attendance at the expert consultation on protein quality in human nutrition 55
+
+REFERENCES 57
+
+List of tables
+TABLE 1.
+Calculation of DIAAS value for whole milk powder (WMP) 24
+TABLE 2.
+Calculation of DIAAS value for a mixture of wheat, peas and whole milk powder 25
+TABLE 3.
+Amino acid scoring patterns for toddlers, children, adolescents and adults
+(amended values from the 2007 WHO/FAO/UNU report) 27
+TABLE 4.
+Dietary indispensable amino acid profile of human milk 28
+TABLE 5.
+Recommended amino acid scoring patterns for infants, children and older children, adolescents and adults 29
+TABLE 6.
+Example of the use of DIAAS for protein quality assessment in the context of making claims 44
+
+List of figures
+FIGURE 1.
+Model of protein metabolism in humans from WHO/FAO/UNU (2007) 7
+FIGURE 2.
+Framework depicting short- and long-term potential protein quality related health outcomes. This indicates the need to look beyond physiological and metabolic responses in assessing health effects 26
+FIGURE 3.
+Ranking of the validity of types of evidence for establishing dietary fatty acid requirements (favourability decreasing from left to right) 47
+
+Acronyms
+FAO Food and Agriculture Organization of the United Nations
+WHO World Health Organisation
+PDCAAS Protein Digestibility Corrected Amino Acid Score
+DIAAS Digestible Indispensable Amino Acid Score
+IAA Indispensable Amino Acids
+UNU United Nations University
+USDA United States Department of Agriculture
+PER Protein Efficiency Ratio
+RNPR Relative Net Protein Ratio method
+CCVP Codex Committee on Vegetable Proteins
+NPR Net Protein Ratio
+NPU Net Protein Utilization
+BV Biological Value
+INCAP Institute of Nutrition of Central America and Panama
+HPLC High Performance Liquid Chromatography
+CV Coefficient of Variation
+PITC Phenylisothiocyanate
+NSP Non-starch polysaccharide
+AOAC Association of Official Analytical Communities
+AA Amino Acid
+DIAA Digestible Indispensable Amino Acid
+IAA Indispensable Amino Acid
+WMP Whole Milk Powder
+Lys Lysine
+SAA Sulphur Amino Acid
+Thr Threonine
+Trp Tryptophan
+CVDs Cardiovascular diseases
+His Histidine
+Leu Leucine
+AAA Aromatic Amino Acids
+
+Val Valine
+Met Lysine
+Cys Cystine
+Phe Phenylalanine
+Met Methionine
+Tyr Tyrosine
+Ile Isoleucine
+PPU Postprandial Protein Utilisation
+NPPU Net Postprandial Protein Utilization
+MA Metabolic Availability
+IAAO Indicator Amino Acid Oxidation
+IDAA Indispensable Dietary Amino Acid
+EAR Estimated Average Requirement
+IEX Ion Exchange chromatography
+RP Reversed-phase chromatography
+GCMS Gas Chromatography-Mass Spectrometry
+CE Capillary Electrophoresis
+CEMS Capillary Electrophoresis-Mass Spectrometry
+UPLC Ultra Performance Liquid Chromatography
+LCMS Liquid Chromatography-Mass Spectrometry
+LC Liquid Chromatography
+ANFs Antinutritional Factors
+NRV Nutrient Reference Value
+RCT Randomized Controlled Trials
+JECFA Joint Expert Committee on Food Additives
+Chapter 1: Introduction 1
+Chapter 1:
+Introduction
+As the world's population increases rapidly and against the constraints of limiting land, water and food resources, it is more important than ever to be able to define accurately the amount and quality of protein required to meet human nutritional needs and describe appropriately the protein supplied by food ingredients, whole foods, sole-source foods and mixed diets. The match between dietary supply and human protein needs is vital to support the health and well-being of human populations.
+In 1989 the joint FAO/WHO Expert Consultation on Protein Quality Evaluation recommended the use of the Protein Digestibility Corrected Amino Acid Score (PDCAAS) method for evaluating protein quality. In calculating PDCAAS the limiting amino acid score (i.e. the ratio of the first-limiting amino acid in a gram of target food protein to that in a reference protein or requirement value) is multiplied by protein digestibility, with the intention of assessing how well dietary protein can match the demand for amino acids, and allowing the prediction of dietary protein utilisation. The PDCAAS method has now been in use for some 20 years and has proved to be of considerable value in practice. Nevertheless, limitations of PDCAAS have been recognised and debated, and new research findings have accumulated, whereby it has become timely to review the adequacy of PDCAAS and its application vis-à-vis other methods of estimating dietary protein quality.
+It was in this context that an FAO Expert Consultation on Protein Quality Evaluation in Human Nutrition was held in Auckland, New Zealand, from March 31 to April 2,
+2011. The Expert Consultation directly followed the 2011 International Symposium on
+Dietary Protein for Human Health (Auckland, New Zealand, 27-30 March 2011) where numerous topics relevant to the consultation were discussed. The Agenda adopted by the Consultation is attached as Appendix I and the membership of the Consultation is given in Appendix II.
+The provisional meeting objectives were adopted. The objectives were to:
+1. Review the effectiveness and use of the PDCAAS method for evaluating protein quality since its adoption by the expert group meeting in 1989 and further publication in 1991.
+2. Review current concerns and limitations of the PDCAAS method as reported in the literature.
+2 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+3. Review the advantages and disadvantages of alternative methods to evaluate protein quality.
+4. Provide justifications and recommendations for accepting, rejecting and, or modifying the PDCAAS method.
+5. Establish recommendations for protein quality assessments and applications.
+6. Recommend further research activities related to protein quality assessments as needed, based on emerging needs or new scientific developments as identified by the expert group.
+7. Review the method of calculation of PDCAAS and related scores and its uses in practice, consider the need for revisions or modifications based on the knowledge and experience generated over the past two decades.
+The Expert Committee recognised that this report builds on and extends the comprehensive body of knowledge embedded in previous FAO/WHO reports on the subject, and on the wider more recent scientific literature. As in previous reports, the primary task of this Consultation has been to provide FAO with tools for addressing practical questions on matters such as the adequacy of food supplies, targets for food and nutrition policy and the norms to be applied in labelling and regulation of protein quality for normal populations, as well as providing a perspective on the potential role for protein with respect to health, well-being and clinical conditions at various stages of the life course.
+The aim of a report of this kind is to provide an objective assessment of the current state of scientific knowledge in the area and thus advice for current best practice.
+Naturally, in the process, gaps in knowledge are identified and so the report becomes yet another important step in a process of continuous improvement. In this context, the report provides recommendations for future research.
+In presenting this report the Expert Committee was mindful of the sentiments expressed in the work and teachings of the late Professor John C. Waterlow, a pioneer in the field, that the outcomes of this work must, first and foremost, be directed towards combating hunger and malnutrition in all its forms. This has been the Committee's overall guiding principle.
+The Committee records with sadness the recent death of esteemed Committee member, Dr Malcolm Fuller. The collection of scientific papers published in 2012 as a Special Supplement of the British Journal of Nutrition (Supplement: Dietary Protein for Human Health) that provided the background scientific material for the Expert
+Consultation, has been dedicated to the memory of Dr Malcolm F. Fuller.
+Paul J. Moughan
+Chair of Consultation
+September, 2012
+Chapter 2: Summary of key findings from the 2011 FAO Expert Consultation on Protein Quality
+Evaluation in Human Nutrition 3
+Chapter 2:
+Summary of key findings from the
+2011 FAO Expert Consultation on
+Protein Quality Evaluation in Human
+Nutrition
+In 1989 the joint FAO/WHO Expert Consultation on Protein Quality Evaluation recommended the use of the Protein Digestibility Corrected Amino Acid Score (PDCAAS) for evaluating protein quality in humans. In calculating PDCAAS the limiting amino acid score is multiplied by protein digestibility, with the intention of assessing how well dietary protein can match the demand for amino acids, and allowing the prediction of dietary protein utilisation. The PDCAAS method has now been in use for some 20 years and has proved to be of considerable value in practice. Nevertheless, limitations of PDCAAS have been recognised, and new research findings have accumulated, whereby it has become timely to review the adequacy of PDCAAS.
+It was in this context that an FAO Expert Consultation on Protein Quality Evaluation in
+Human Nutrition was held in Auckland, New Zealand, from 31 March to 2 April, 2011, the key findings of which are summarised here.
+2.1 KEy FINDINgS
+- In dietary protein quality evaluation, dietary amino acids should be treated as individual nutrients and wherever possible data for digestible or bioavailable amino acids should be given in food tables on an individual amino acid basis.
+- A new protein quality measure (digestible indispensable amino acid score; DIAAS) is recommended to replace PDCAAS. DIAAS is defined as: DIAAS % = 100 x [(mg of digestible dietary indispensable amino acid in 1 g of the dietary protein) / (mg of the same dietary indispensable amino acid in 1 g of the reference protein)].
+Both ileal and faecal amino acid digestibility approaches can be subject to important limitations, but it is concluded that on balance ileal protein or amino acid digestibility, i.e. determined at the terminal ileum at the end of the small intestine, is considered to better reflect the amounts of amino acids absorbed and should be used in
+4 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation calculating DIAAS. Digestibility should be based on the true ileal digestibility of each amino acid preferably determined in humans, but if this is not possible, in growing pigs or in growing rats in that order.
+It is recommended that for foods susceptible to damage from processing, 'reactive' rather than 'total' lysine contents and the true ileal digestibility of reactive lysine
+(lysine availability) rather than of total lysine, be determined and used in the calculation of DIAAS.
+Recommended amino acid scoring patterns (i.e. amino acid pattern of the reference protein) to be used for calculating DIAAS are as follows:
+- Infants (birth to 6 months), pattern of breast milk (as noted in Tables 4 and 5 of this report).
+- Young children (6 months to 3 y), pattern for the 0.5 y old infant (as noted in
+Table 5 of this report).
+- Older children, adolescents and adults, pattern for the 3 to 10 y old child (as noted in Table 5 of this report.
+For regulatory purposes two scoring patterns are recommended: the amino acid composition of human milk for infant formulas, and for all other foods and population groups the pattern for young children (6 months to 3 y) as noted in Table 5 of this report.
+In calculating DIAAS the ratio should be calculated for each dietary indispensable amino acid and the lowest value designated as the DIAAS. DIAAS can have values below or in some circumstances above 100%. Values above 100% should not be truncated except where calculating DIAAS for protein or amino acid intakes for mixed diets or sole source foods.
+- A dataset of currently available information on the true ileal amino acid digestibility of foods for humans was collated and assessed, as part of the Expert Consultation, for its adequacy for practical application in the calculation of DIAAS.
+After assessment of the ileal amino acid digestibility dataset it was concluded that currently available data are insufficient to support the application in practice (though its use in principle is supported) of true ileal amino acid digestibility in the calculation of DIAAS.
+More data on the true ileal amino acid digestibility of human foods are urgently needed, determined in humans and animal models. More inter-species (human, pig, rat) true ileal amino acid digestibility comparisons are needed.
+If the data obtained from these studies convincingly support the move in practice to ileal digestibility, assessment of the potential public health impact of this recommendation needs to be undertaken.
+Chapter 2: Summary of key findings from the 2011 FAO Expert Consultation on Protein Quality
+Evaluation in Human Nutrition 5
+- It is recommended that the FAO convene a Working Group, as a matter of urgency, to agree upon an experimental protocol to enable the development of a more robust data set of the true ileal amino acid digestibility of human foods and agree upon a method for assessment of the potential impact of the use of true ileal amino acid digestibility data. The protocol should include recommended best practice for a pigbased assay for true ileal amino acid digestibility determination.
+- It is recommended that FAO establish a formal working party to review amino acid analysis methodologies and provide some guidance towards international standardization. It is recommended that the 1970 FAO Publication "Amino Acid
+Contents of Foods and Biological Data on Proteins" should be updated on a continuous basis with inclusion of values, where available, for protein (faecal and ileal) digestibility, ileal amino acid digestibility and DIAAS.
+- Until such time as an agreed dataset of true ileal amino acid digestibility for human foods becomes available, the protein quality of human foods and diets should be assessed using DIAAS, but values for faecal crude protein digestibility should be used.
+In the interim, digestible individual dietary amino acid values should be calculated using faecal crude protein digestibility values applied to dietary amino acid contents.
+- There will be a need for financial support for the research agenda described above
+(interspecies true ileal amino acid digestibility comparison and the development of a database of true ileal amino acid digestibility for human foods). It is anticipated that the private sector along with UN technical and normative agencies, multilateral, bilateral and national Government agencies, and public-good organisations will provide such support, as a matter of urgency. If resources are not allocated to fulfil the latter proposed research objectives in a timely manner, then the present recommendation for the application of DIAAS in practice may need to be reviewed, since DIAAS and the conclusions of this report rely upon a system of true ileal amino acid digestibility and availability.
+- DIAAS is the recommended method for dietary protein quality assessment for regulatory purposes. The report discusses the use of DIAAS in relation to nutrition claims.
+- The report makes recommendations for further research in the area.
+Chapter 3: Background to the Consultation 7
+Chapter 3:
+Background to the Consultation
+3.1 MAjOR SCIENTIFIC REvIEwS OF PROTEIN QUALITy EvALUATION
+METHODOLOgy
+Introduction
+Protein quality evaluation aims to determine the capacity of food protein sources and diets to meet the protein and essential amino-nitrogen requirements, i.e. to satisfy the metabolic needs for amino acids and nitrogen (see Figure 1). Protein requirements are currently defined in terms of intakes required to meet metabolic needs for maintenance as indicated by nitrogen balance in the respective age group plus those associated with the protein needs for normal growth of infants and children, pregnancy and lactation
+FIgURE 1.
+Model of protein metabolism in humans from WHO/FAO/UNU (2007)
+Protein intake Tissue protein
+Free amino-acid
+Protein substrate pool turnover
+Upper gastrointestinal tract
+Repletion of fasting loss and growth
+Metabilic demand
+Lower
+Obligatory gastrointestinal
+Adaptive tract Surplus or
+UREA salvage non-utilized intake
+Urea synthesis
+Faecal nitrogen Urinary urea Sweat nitrogen Urinary non- Protein losses, nitrogen urea nitrogen skin, hair, etc.
+8 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation in women. Thus, the only truly valid measures of protein quality for humans are those that assess directly the effectiveness of different protein sources to provide for normal growth and, or other functions dependent on adequate protein nutrition in subjects that represent the target population. However, notwithstanding this definition of the ideal situation, the assessment of protein quality in human population groups over the past decades has relied on indirect approaches involving in vitro assays, and animal and or human metabolic studies that can be used routinely and safely to predict human protein and amino acid utilisation. To ensure accuracy and wide applicability, the routine methods must include all of the basic parameters that collectively determine the quality of a protein: absolute and relative quantities of dietary indispensable amino acids (IAA), digestibility of protein, and the bioavailability of amino acids (Harper, 1981).
+3.2 AIRLEE CONFERENCE (1981)
+Major reviews and evaluations of protein quality assessment methods, including those based on rat growth and nitrogen balance as well as amino acid scoring techniques were undertaken at the Airlee Conference in 1981 sponsored by Howard University, the USDA and the US National Science Foundation (Bodwell, et al., 1981); by the Codex Committee on Vegetable Proteins which met between 1982 and 1989 (Codex Alimentarius
+Commission, 1989); by FAO/WHO (1991, 2001) and by WHO/FAO/UNU (2007). At the
+Airlee conference it was generally agreed that the Protein Efficiency Ratio (PER) method should be replaced by a more precise and appropriate method. Although a different rat assay procedure (the Relative Net Protein Ratio method, RNPR) was considered as an improvement over the PER method, a method based on comparison of the amino acid content of food with human amino acid requirements (amino acid scoring system) was accepted as the most suitable approach for assessing the protein quality of foods
+(Harper, 1981). It was also recommended that amino acid score should be corrected for incomplete digestibility of protein, and for the unavailability of individual amino acids, especially those that are susceptible to damage during food processing or cooking prior to consumption. This conference recognized the need for further research to standardize amino acid analysis methodology, to improve methods for the determination of the digestibility of protein and the bioavailability of amino acids, and to further investigate human amino acid requirements with the aim of developing an accurate amino acid scoring pattern (Bodwell, et al., 1981).
+3.3 DELIBERATIONS OF THE CODEx COMMITTEE ON vEgETABLE
+PROTEINS REgARDINg PROTEIN QUALITy ASSESSMENT (1982-1989)
+The recommendations of the Airlee Conference were taken up by the Codex
+Committee on Vegetable Proteins (CCVP) (Codex Alimentarius Commission, 1989), which was established to develop international Codex standards (including protein quality requirements) for vegetable protein products. An Ad Hoc Working Group on Protein
+Quality Measurement was formed to conduct cooperative research to identify the most
+Chapter 3: Background to the Consultation 9
+promising methods for evaluation of the protein quality of foods. In collaborative studies organized by the USDA (Bodwell, et al., 1989), seventeen protein products were studied for amino acid profiles, for protein and amino acid digestibility (by in vitro and rat balance methods), amino acid availability (by chemical methods and rat, Escherichia coli, and
+Streptococcus zymogenes growth methods), and for protein quality indices based on
+PER, NPR (Net Protein Ratio), RNPR, Net Protein Utilization (NPU), and Biological Value
+(BV) obtained in the rapidly growing weanling rat. Inter-laboratory studies on protein digestibility determinations were also organized by the USDA to test the appropriateness of the in vitro methods (McDonough, et al., 1990a), and to standardize the rat balance method (McDonough, et al., 1990b). Results of these and other related studies were discussed at the Fifth Session of the CCVP (Codex Alimentarius Commission, 1989) held in 1989 in Ottawa, Canada.
+Based on the recommendations of the Ad Hoc Working Group on Protein Quality
+Measurement, the CCVP at its Fifth Session agreed that, given that values for the requirements of dietary indispensable amino acids had been identified by FAO/WHO/UNU
+(1985) and that this report had suggested that the quality of a protein could be predicted from a comparison of the pattern of its amino acid composition to the pattern of human amino acid requirements (i.e. the amino acid score corrected for its digestibility based on the true faecal digestibility of protein as determined using the rat balance method), then this approach was the most suitable method for the routine assessment of the protein quality of vegetable protein products and other food products (Codex Alimentarius
+Commission, 1989). Amino acid score was based on the amount of the first limiting amino acid, and its calculation included the use of the requirement pattern suggested by the FAO/WHO/UNU (1985) for the preschool child based on human studies conducted at INCAP in the 1960s and 70s (Viteri, 2010). Because the proposed protein quality methodologies had broad implications beyond the specific purview of the CCVP, the CCVP recognized the need for the wider scientific community to address issues such as amino acid quantification, protein digestibility and amino acid bioavailability measurements, and respective correlations in humans. The CCVP accordingly recommended at its Fifth
+Session in 1989 that an FAO/WHO expert consultation should be held to review protein quality methodologies. Such a consultation was requested to review the results and recommendations of the research conducted by the Codex Ad Hoc Working Group on
+Protein Quality Measurement, and to evaluate the PDCAAS method for its usefulness in assessing protein quality in human nutrition.
+3.4 jOINT FAO/wHO ExPERT CONSULTATION ON PROTEIN QUALITy
+EvALUATION (1989)
+A Joint FAO/WHO Expert Consultation on Protein Quality Evaluation was held in Bethesda,
+MD from December 4 to 8, 1989. The objectives of the meeting were: to review present knowledge of protein quality assessment, to discuss various techniques used in assessing protein quality of foods, and to specifically evaluate amino acid score corrected for
+10 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation protein digestibility (PDCAAS), the method recommended by CCVP. The report of the
+Joint FAO/WHO Expert Consultation was published in 1991. The Consultation concluded that PDCAAS was the most suitable regulatory method for assessing the protein quality of foods and infant formulas. It was further concluded that since this method is based on human amino acid requirements, it is inherently more appropriate than animal based assays in predicting the protein quality of foods. Therefore the Consultation recommended that PDCAAS be adopted as the preferred method for measuring the quality of proteins used in human nutrition. Other conclusions and recommendations of the Consultation
+(FAO/WHO, 1991) are noted below:
+Amino acid analysis of foods
+1. The 1989 Consultation recognized that significant advances had been made in standardizing methodologies for the determination of amino acids.
+2. It noted that methods for the determination of amino acids in foods required three standardized hydrolyses including acid hydrolysis of unoxidized protein for the determination of all amino acids except tryptophan, methionine and cysteine; acid hydrolysis of oxidized protein for the determination of methionine and cysteine; and alkaline hydrolysis of unoxidized protein for the determination of tryptophan (AOAC,
+2000), followed by separation and quantitation of the released amino acids by ion exchange chromatography (IEC) using cation exchange resins and post-column derivatization (by a commercial amino acid analyzer or HPLC system) or by precolumn derivatization followed by reverse phase HPLC.
+3. The standardized amino acid analysis methods can provide values with a withinlaboratory coefficient of variation (CV) of about 5% and between-laboratories of about 10% for most amino acids. This variability was considered acceptable for the purpose of calculating amino acid score.
+4. The need for further studies to standardise the hydrolytic and oxidation procedures and to improve accuracy of the procedures for further reduction in inter-laboratory variation was noted.
+5. Collaborative testing and comparative analysis of the new HPLC methods was recommended.
+6. It was recommended that amino acid results should be reported as mg amino acid/g
+N or mg amino acid/g protein by using the nitrogen-to-protein conversion factor of
+6.25. The use of other food-specific protein factors was not recommended.
+7. It was recommended that FAO update their publication entitled "Amino Acid
+Content of Foods and Biological Data on Proteins" (FAO, 1970) and commission new amino acid analyses of local food sources for which there were insufficient data.
+8. It was recommended that national tables of amino acid composition of food products, clearly defined in terms of composition and processing, be developed.
+Chapter 3: Background to the Consultation 11
+Amino acid requirements and scoring pattern
+1. The 1989 Consultation recognized that the amino acid scoring pattern proposed in
+1985 (FAO/WHO/UNU, 1985) for children of preschool age was the most suitable pattern for use in the evaluation of dietary protein quality for all age groups, except infants.
+2. It was also noted that the amino acid profile of mature human milk should be the basis for the scoring pattern to assess protein quality in foods for infants of less than
+1 year of age; considering that the growth and metabolic state of the fully breast fed infant was set as the normative standard for both growth and human nutritional needs 0-6 months.
+3. It also noted that the recommendation for the two amino acid scoring patterns to be used for infants and for all other ages must be considered as temporary until the results of further research either confirmed their adequacy or demanded a revision.
+4. It was recommended that further research should be carried out to confirm the currently accepted values of protein and amino acid requirements of infants and preschool children and to define the amino acid requirements of school-aged or adolescent children and of adults; and that the FAO/WHO coordinate international research programmes to determine human amino acid needs.
+Digestibility considerations
+1. The 1989 Consultation noted similarities in the ability of humans and rats to digest foods, and concluded that the true digestibility of crude protein is a reasonable approximation of the true digestibility of most amino acids (as determined by the rat balance method) in diets based on animal protein sources, cereals, oilseeds, legumes or mixtures of protein sources. Therefore, it was recommended that amino acid scores be corrected for the true digestibility of protein only.
+2. The Consultation agreed that the rat balance method was the most suitable practical method for predicting protein digestibility for humans.
+3. It further recommended that research should be undertaken to compare protein digestibility values of humans and rats for identical foods.
+4. It recommended that further research be carried out to perfect and evaluate the most promising in vitro procedures for estimating protein digestibility; and when human balance studies cannot be used, the standardized rat faecal-balance method of Eggum (1973) or McDonough et al. (1990b) should be used.
+5. Digestibility determinations must be carried out for novel products or processes.
+However, established protein digestibility values of well-defined foods may be taken from a published data base for use in the routine assessment of the protein quality of foods by the amino acid scoring procedure, provided that all safety and toxicological criteria have been met. Moreover, a data base for the protein digestibility of raw and processed products should be established.
+12 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+6. Further research was encouraged to perfect and evaluate the most promising in vitro methods for predicting protein digestibility, such as those of Satterlee et al. (1979) and of Pederson and Eggum (1983).
+7. It was recognized that amino acid digestibility values obtained by the faecal method, are, for most amino acids in most food products, inaccurate in comparison to those obtained by the ileal analysis method. In some studies, net synthesis of methionine and lysine has been reported to occur in the large intestine. Thus, depending on the amino acid and on the food, amino acid digestibility values obtained by the faecal analysis method are overestimated (which is usually the case) or underestimated when compared to those obtained by the ileal analysis method. While it was recognised that the measure of true faecal protein or amino acid digestibility has shortcomings, it was considered that the method was still superior in practice to the ileal analysis method. This decision was based on uncertainties concerning the contribution and variation of endogenous protein secretions at the terminal ileum.
+Overall recommendation of the FAO/wHO 1989 Expert Consultation
+(published 1991)
+Based on the above conclusions, the Consultation agreed that the protein digestibilitycorrected amino acid score (PDCAAS) method was the most suitable approach for the routine evaluation of overall protein quality for humans and recommended the adoption of this method as an official method at the international level.
+3.5 FAO/wHO/UNU ExPERT CONSULTATION ON PROTEIN AND AMINO
+ACID REQUIREMENTS IN HUMAN NUTRITION (ROME 2001, gENEvA
+2002, PUBLISHED AS A wHO/FAO/UNU REPORT IN 2007)
+The primary objectives of this Consultation were: "to review, advise and update protein and amino acid requirements for all age groups (infants, children, adolescents, adults, elderly), and for women during pregnancy and lactation; to review and develop recommendations on protein requirements in health and disease, including their implications for developing countries; and to develop recommendations on protein quality and labelling, with respect to new requirement levels, for use worldwide and in the Codex Alimentarius".
+Since its adoption by FAO/WHO in 1991, the PDCAAS method had been widely accepted but also criticised for a number of reasons. In preparation for the Expert
+Consultation on Protein and Amino Acid Requirements in Human Nutrition, experts met at a preliminary meeting in Rome in 2001 in working groups, one of which (working group 5) considered, amongst other things, analytical issues regarding protein, protein quality and food labelling.
+Working group 5, in an unpublished report, assessed the validity of criticisms of the
+PDCAAS method. These criticisms of the PDCAAS method included:
+Chapter 3: Background to the Consultation 13
+1. The PDCAAS method does not credit extra nutritional value to high quality proteins.
+2. The PDCAAS method overestimates protein quality of products containing antinutritional factors.
+3. The PDCAAS method does not adequately take into account the bioavailability of amino acids.
+4. The PDCAAS method overestimates the quality of poorly digestible proteins supplemented with limiting amino acids, and of proteins co-limiting in more than one amino acid.
+After addressing the above-noted criticisms of the PDCAAS method, the Working
+Group made the following observations and recommendations:
+1. There are two distinct uses of protein quality data: assessment of a diet's ability to meet human protein and amino acid requirements and assessment of the protein adequacy for regulatory purposes of foods and food products sold to consumers.
+2. Amino acids should be treated as individual nutrients, and the ultimate evaluation of the nutritional value of proteins should be made from amino acid data in comparison to requirements. This would require the use of adjustments for the digestibility of protein and/or amino acids, and their availability.
+3. There are sufficient data on the digestibility of proteins in foods and these data should be compiled. However, there is insufficient information on the digestibility and bioavailability of amino acids. Until sufficient data on digestible amino acids in foods become available, inclusion of correction for protein digestibility would serve a useful nutritional purpose in predicting information on the levels of digestible amino acids. This would indicate the capacity of individual protein sources to complement protein sources that are deficient in specific dietary indispensable amino acids.
+4. Until data on digestible amino acids in foods become available, the digestibility of protein should be considered as a good approximation of the bioavailability of amino acids in mixed human diets based on properly processed (containing minimal amounts of residual antinutritional factors) foods. In such cases, the PDCAAS method would be the preferred method for the routine prediction of protein quality.
+5. The PDCAAS method may be inappropriate for the routine prediction of the protein quality of sole-source foods such as infant formulas and enteral nutritionals and novel protein sources that contain high levels of known antinutritional factors, both those occurring naturally and those formed during processing. Because high levels of antinutritional factors (substances present in foods other than nutrients that can perturb digestion or metabolism) may have an adverse impact on the digestibility of amino acids and the utilisation of protein the use of the PDCAAS method would overestimate the protein quality of products containing these factors. There is a need to establish safe upper limits of antinutritional factors.
+6. For regulatory uses, the PDCAAS method is also inappropriate for the prediction of the protein quality of high quality protein food ingredients because it fails to recognize their nutritional value as supplements to low quality proteins; therefore,
+14 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation the PDCAAS method should be revised to permit values of more than 100 for food ingredients.
+7. To improve accuracy and to further reduce inter-laboratory variation in amino acid analysis, additional studies should be undertaken to standardize the hydrolytic and oxidation procedures. Collaborative studies should be undertaken of the extensively used HPLC methods for the determination of amino acids such as the pre-column derivatization with PITC (phenylisothiocyanate). Moreover, an official standardised method for the determination of amino acids in foods and faeces and ileal digesta should be developed.
+8. Research should be undertaken to compare ileal amino acid digestibility values derived using human-based assays and animal models for identical foods. In addition, standardised ileal digestibility procedures should be developed and sufficient data on foods should be generated to facilitate replacement of the faecal method by the ileal method. Ileal digestibility is defined as the disappearance of a nutrient between the mouth and the end of the small intestine (terminal ileum) whereas faecal digestibility is the disappearance of a nutrient between the mouth and the end of the digestive tract.
+9. The 1970 FAO Publication, "Amino Acid Contents of Foods and Biological Data on
+Proteins" should be revised with new data and additional information on nitrogento-protein conversion factors and amino acid digestibility values where applicable.
+10. The above-noted recommendations for revision, further compilation of data and further research, would improve the usefulness of the PDCAAS method and suggest new suitable in vitro or biological assays for the routine prediction of protein quality of foods that would be applicable to the entire range of foods used in human nutrition.
+Overall recommendation
+In view of the perceived shortcomings of the PDCAAS method noted above, it was recommended that a new FAO/WHO expert consultation on protein quality evaluation be convened to re-examine the validity of the PDCAAS method for the routine protein quality assessment of foods, and to suggest appropriate revisions and, or adoption of a biological assay that would be applicable to the entire range of foods used in human diets.
+In the final report of the Consultation, published in 2007, the PDCAAS method was endorsed with minor modifications to the calculation method but the following concerns were also raised about the method:
+In previous reports, scoring patterns were calculated by dividing amino acid requirement values by the safe level of protein intake. However, more recent scoring patterns had been based on amino acid requirement values, which generally reflected best estimates of average requirements. This approach is supported by the values derived
+Chapter 3: Background to the Consultation 15
+by Hegsted (1963) from his regression analysis of nitrogen balance data. Therefore, in the
+WHO/FAO/UNU (2007) report, scoring patterns were based on amino acid requirement values divided by the mean protein requirement.
+New scoring patterns were proposed for four age groups including infants, preschool children (1-2 y), older children and adolescents (4-18 y), and adults (> 18 y).
+A second concern identified, related to correction for faecal as opposed to ileal protein digestibility in the calculation of PDCAAS. In the introduction to the final report digestibility of dietary proteins had been reviewed in terms of both ileal and faecal digestibility. It was argued that because of the considerable exchange of nitrogen in terms of protein, amino acids and urea between systemic pools and the gut lumen, digestibility is more complex than usually assumed, a principle captured in the overall model for human nitrogen metabolism shown in Figure 1. In this context two important issues were raised.
+Firstly because of the considerable magnitude of flow of endogenous nitrogencontaining compounds into the lumen of the small intestine (possibly as much as 70
+to 100 g protein each day) which mixes with dietary amino acids, and which are both substantially absorbed by the time they reach the terminal ileum, "ileal digestibility" (the difference between dietary amino acids and those appearing in the terminal ileum) is at best a crude approximation of the handling of nitrogen-containing materials in the small intestine. It was noted, however, that there are methodologies to allow the determination of the ileal endogenous amino acids, and the correction of amino acid digestibility values for this component.
+Secondly tracer studies show that faecal nitrogen derives from a pool of nitrogen that includes not only ileal effluent and any residue from the dietary consumption, but also sloughed away cells and mucins derived within the colon, and nitrogen-containing compounds sourced from the systemic circulation of the host, especially urea and possibly uric acid and creatine. This nitrogen is present in faeces mainly as microbial protein in quantities that have been shown in some cases to be much less than estimates of total nitrogen inflo into the colon, because of considerable reuptake of nitrogen from the colon. Furthermore, human studies have shown that faecal nitrogen is to some extent a function of bacterial biomass in the colon, itself related to dietary resistant starch and non-starch polysaccharide (NSP) intake which serve as energy sources for colonic bacterial synthesis using nitrogen largely from urea salvage. Because reuptake of nitrogen from the colon is mainly in the form of ammonia which re-enters the metabolic pool as shown in
+Figure 1, its ultimate excretory fate can include urinary urea, and evidence exists to show that with human diets with a high proportion of plant foods and NSP there can be an inverse relationship between faecal and urinary nitrogen excretion. Taken together this means that for human diets containing large amounts of non-digestible carbohydrate, faecal nitrogen cannot be used as a reliable measure of digestibility. It was concluded that
+16 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation the concepts of both ileal digestibility and faecal digestibility can be subject to important limitations especially where there is a need to determine the critical nutritional value of foods at the margins of satisfying dietary requirements. It was concluded that methods of assessing the digestibility of dietary protein in human nutrition cannot be used with any confidence in the development of policy options, unless the limitations of the underlying assumptions have been taken into account adequately.
+Against this background the question of the use of ileal as opposed to faecal digestibility was examined noting especially literature reports (Darragh and Hodgkinson,
+2000; Moughan, 2003) about practically important ileo-faecal differences in non-ruminant animals such as pigs and rats and the general applicability of these observations to humans, and ileo-faecal differences observed in humans (Rowan et al., 1994; Gaudichon et al., 2002; Moughan, 2003). It was recommended that while faecal digestibility may remain the appropriate measure of overall nitrogen digestibility, it is unlikely to be an accurate measure of amino acid digestibility.
+A third concern related to the reduced bioavailability of some amino acids, such as lysine, that may be chemically transformed during the processing of foods. It was noted that the correction for protein digestibility in the calculation of PDCAAS values may not account for this reduction in bioavailability. Therefore, the need to have a specific assay to accurately measure lysine digestibility in such cases was recognized. A specific assay
+(Moughan and Rutherfurd, 1996; Rutherfurd et al., 1997a; Rutherfurd and Moughan,
+1998; Moughan, 2003) for "reactive" lysine, which distinguishes it from biologically unavailable lysine that has undergone Maillard reactions, was considered suitable in such cases.
+A fourth important and controversial concern related to truncation of the amino acid score and consequent PDCAAS value. It was argued that truncation removes any nutritional differences between high protein foods such as milk and soya, although actual concentrations of important dietary indispensable amino acids, which may be limiting in some diets, are higher in milk than in soya. This could be recognized by giving individual protein sources an amino acid score of > 1 (or > 100). In the FAO/WHO 1991
+report, truncation was not used for calculating amino acid scores but was applied to the calculation of the PDCAAS value, and this created considerable confusion.
+The PDCAAS value should predict the overall efficiency of protein utilization based on its two components, digestibility and biological value (BV; nitrogen retained divided by digestible nitrogen). The principle behind this approach is that the utilization of any protein will be first limited by digestibility, which determines the overall amount of dietary amino acid nitrogen absorbed, and BV describes the ability of the absorbed amino acids to meet the metabolic demand. For any amount of absorbed nitrogen the best that can be achieved is that the amino acid pattern exactly matches the requirements, so that all amino acids are utilized. Furthermore it was noted that while score is determined
+Chapter 3: Background to the Consultation 17
+only from indispensable amino acid content, the metabolic demand is for both dietary indispensable amino acids and dietary non-essential nitrogen. This means that when any or all indispensable amino acids are present in excess of the demand, the absorbed mixture could become unbalanced and limited by dispensable amino acids. Therefore, BV can never exceed 1 or 100. In this respect, and for mixed diets or whole foods, PDCAAS values of > 1 or 100 should never be used.
+Calculation of the amino acid score for a dietary protein mixture especially when the digestibility of individual proteins varies was also considered to require clarification.
+In this case, amino acid score is calculated for the mixture from its overall amino acid profile without identifying the score of component proteins. Based on the principle that protein digestibility is first limiting, the amino acid score for a protein mixture should be calculated from the weighted average digestible amino acid content. This is in contrast to the recommendation given in the FAO/WHO 1991 report.
+The final report (WHO/FAO/UNU, 2007) concluded that there were several aspects of protein quality evaluation that required further consideration. Thus it was recommended that a complete listing of the digestibility and amino acid scores of food proteins based on updated data on amino acid composition, and on the new scoring patterns (derived in the WHO/FAO/UNU 2007 report), should be the subject of a new technical report.
+However it was suggested that the principles discussed in the report should be applied.
+That is, protein quality should be assessed in terms of PDCAAS calculated from the best estimate of protein digestibility and the amino acid score, based on a comparison of the amino acid composition of digestible protein with the scoring pattern appropriate for the age group. Also when such PDCAAS values are used to adjust the intakes of the dietary mixture to meet the safe level, the score of the mixture should not be > 1 or 100.
+However, the case for giving non-truncated amino acid scores >1 or 100 for individual protein sources was considered to require further evaluation.
+Since the FAO/WHO (1991) report, significant advances have been made in methods for amino acid analysis of foods and for determining amino acid digestibility. Moreover, working group 5 of the 2001 Rome consultation recommended that protein should be measured as the sum of individual amino acid residues (the molecular weight of each amino acid less the molecular weight of water) plus free amino acids. Since there is no official AOAC (Association of Official Analytical Chemists) international method for the amino acid analysis of foods, collaborative research and scientific consensus would be required to achieve this objective.
+The 2011 FAO Consultation
+Based on the deliberations of the FAO/WHO (2001) Working Group and the WHO/FAO/
+UNU Expert Consultation on Protein and Amino Acid Requirements held in 2002, with findings published in 2007, it was decided to hold a further FAO Expert Consultation
+18 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation on dietary protein evaluation, specifically addressing key issues raised in the earlier consultations, but remaining unresolved. To this end an FAO Consultation was held in
+Auckland, New Zealand in 2011 immediately following the International Symposium on
+Dietary Protein for Human Health organized by the Riddet Institute, Massey University,
+New Zealand, FAO, Rome and Health Canada, Ottawa.
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 19
+Chapter 4:
+Findings and recommendations of the
+2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition
+4.1 SIgNIFICANCE AND APPROPRIATENESS OF PDCAAS IN PRACTICE AND
+
+TRUNCATION OF PDCAAS
+
+Increasingly there is interest in the metabolic effects of specific individual dietary amino acids, and for this reason it is important to have accurate information on the amounts of digestible or preferably bioavailable amino acids in foods and proteins. It is thus recommended that dietary amino acids be treated as individual nutrients and that wherever possible data for digestible or bioavailable amino acids be given in food tables on an individual amino acid basis.
+In the context of whole diets and the nutritional adequacy of a food protein or a mixture of food proteins, the assessment of the nutritional value of a protein should reflect its ability to satisfy the metabolic needs for individual amino acids and nitrogen.
+Once again dietary protein should be considered as a source of amino acids as individual nutrients. The Amino Acid Score is intended to predict protein quality in terms of the potential capacity of the food protein to provide the appropriate pattern of dietary indispensable amino acids. The actual capacity of the protein to satisfy the amino acid needs will require the use of corrections for amino acid digestibility and availability.
+Although the general principles inherent in the calculation of PDCAAS values are not disputed, the use of a single value of crude protein digestibility to correct the dietary amounts of each individual dietary indispensable amino acid for its digestibility is considered to be a short-coming, when there are practically important quantitative differences in digestibility between crude protein and individual dietary indispensable and dispensable amino acids. In this case the accuracy of a calculated Amino Acid Score can be enhanced by using appropriate digestibility or bioavailability data for each individual dietary indispensable amino acid. This also makes full use of the information currently available. A further inherent shortcoming of the PDCAAS approach is that correction for digestibility is based on an estimate of crude protein digestibility determined over the total digestive tract (i.e. faecal digestibility). Although, as discussed earlier (Section III), both the ileal and faecal digestibility approaches can be subject to important limitations,
+20 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation the consultation concluded that on balance protein or amino acid digestibility determined at the end of the small intestine (i.e. terminal ileum, ileal digestibility) is considered to better reflect the amount of amino acid absorbed. Based on both these considerations, a new protein quality measure, (digestible indispensable amino acid score; DIAAS) is recommended to replace PDCAAS.
+The digestible indispensable amino acid score (DIAAS)
+As protein digestibility does not always reflect the digestibility of individual dietary indispensable amino acids, using a score based on individual dietary indispensable amino acid digestibility is preferable.
+It is recommended that a revised score called the Digestible Indispensable
+Amino Acid Score (DIAAS) be used and be defined as follows:
+DIAAS % = 100 x [(mg of digestible dietary indispensable amino acid in 1 g of the dietary protein) / (mg of the same dietary indispensable amino acid in 1 g of the reference protein)].
+Digestibility should be based on the true ileal digestibility (i.e., determined at the end of the small intestine) of each amino acid preferably determined in humans (Gaudichon et al., 2002; Moughan, 2003; Fuller and Tomé, 2005), but if this is not possible, in the growing pig (Stein et al., 2007) or in the growing rat, (Moughan et al., 1984), in that order. When amino acid digestibility data are not available amino acid digestibility is assumed to be equivalent to crude protein digestibility. In this case, true ileal crude protein digestibility data are preferable, but where unavailable, true faecal crude protein digestibility may be used. It is recognised that amino acid digestibility may vary quite greatly between batches of food or food ingredients. It is impractical, however, to submit all batches of a food to bioassay and thus the use of tabulated mean data is permitted.
+However, where a new cultivar, food by-product or food appears, it should be subject to an in vivo assay for true ileal amino acid digestibility.
+Recommended amino acid scoring patterns (i.e. amino acid pattern of the reference protein) to be used for calculating protein quality for dietary assessment are as follows:
+- Infants (birth to 6 months), the pattern of breast milk (as noted in Tables 4
+and 5).
+- young children (6 months to 3 y), the pattern for the 0.5 y old infant (as noted in Table 5).
+- Older children, adolescents and adults, the pattern for 3 to 10 y old children
+(as noted in Table 5).
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 21
+For regulatory purposes two scoring patterns are recommended: the amino acid composition of human milk for infant formulas, and for all other foods and population groups the pattern for young children (6 months to 3 y) as noted in
+Table 5.
+The ratio should be calculated for each dietary indispensable amino acid and the lowest value designated as the DIAAS and used as an indicator of dietary protein quality.
+The DIAAS can have values below or in some circumstances above 100%. Values above
+100% should not be truncated as was done for the PDCAAS value, except where calculating DIAAS for protein or amino acid intakes for mixed diets or sole source foods
+(see below) where truncated values must be used.
+Examples of calculations are shown for single food and multiple ingredient dishes and diets in Section 2 of the report.
+Practical application of the DIAAS
+There are three distinct uses of the DIAAS:
+- Calculation of DIAAS in mixed diets for meeting the needs for quality protein, as humans consume proteins from varied protein sources in mixed diets.
+- To document the additional benefit of individual protein sources with higher scores in complementing less nutritious proteins.
+- For regulatory purposes to classify and monitor the protein adequacy of foods and food products sold to consumers.
+When examining the quality of protein in mixed diets or in sole source foods (e.g., infant formulas) the DIAAS is used to estimate the available protein intake and the DIAAS can be used to adjust dietary protein intakes to meet requirements, (i.e. safe intake of any diet in relation to protein = safe protein requirement/DIAAS value of diet).
+In this case a DIAAS value >100% should never be used, since this would mean that for "high quality" diets based on egg or milk for example, for which the DIAAS values of the proteins individually may exceed 100%, the safe intake of that diet would be lower than the safe requirement level even though the safe requirement level may have been established with egg or milk in the first place.
+When examining protein intakes of mixed diets or sole source foods (e.g., infant formulas) the DIAAS and protein content can be used to estimate the available protein intake. DIAAS can be used as a means of defining protein equivalent intake (protein adequacy), when it is multiplied by the actual protein content or intake (i.e. measured protein intake times DIAAS).
+However, protein intake can be corrected for its quality by using DIAAS only when ≤100 but
+22 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation not above. The DIAAS should not be used to inflate the apparent protein content of the food or diet.
+DIAAS may be used to assess the quality of single ingredients or individual foods to take into consideration complementation. A DIAAS over 100 indicates potential to complement protein of lower quality provided that a suitable total N intake is maintained. For individual foods or food ingredients, not truncating the score allows ready calculation of the protein quality of mixed diets. The DIAAS for a mixed diet itself should be truncated.
+4.2 ExAMPLE CALCULATIONS OF DIAAS AND THE ExPRESSION OF
+DIgESTIBLE AMINO ACID CONTENTS OF FOODS
+Digestible amino acid contents
+The true ileal digestible amino acid (AA) content of a food may be expressed in a number of ways:
+mg AA per gram of food (on an 'as is' or 'as consumed' basis) or mg AA per gram of food dry matter (oven dry matter) or mg AA per gram of food protein.
+The latter mode of expression is required for the calculation of DIAAS (see below).
+Calculation of DIAAS
+The digestible (dietary) indispensable amino acid score (DIAAS) for a food or food ingredient can be obtained from the digestible indispensable amino acid (DIAA) content in 1 g protein of food and the IAA reference ratio. These values can be calculated using the following equations:
+Digestible IAA content for each IAA in 1 g protein of food
+Digestible IAA content = mg of IAA in 1 g protein of food multiplied by the true ileal digestibility coefficient for the same dietary indispensable amino acid (the digestibility coefficient is the percentage value divided by 100, e.g. digestibility = 90%, coefficient = 90/100 = 0.90);
+Digestible IAA reference ratio for each IAA
+Digestible IAA reference ratio = Digestible IAA content in 1 g protein of food (mg)/mg of the same dietary indispensable amino acid in 1 g of the reference protein (amino acid scoring pattern);
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 23
+Digestible IAA score (DIAAS)
+For a given reference protein amino acid pattern (amino acid scoring pattern), the DIAAS is the lowest calculated value for the DIAA reference ratio, expressed as a percentage (i.e., the IAA having the lowest digestible reference ratio; ratio x 100).
+The DIAAS may, therefore, be expressed by the following equation:
+DIAAS % = 100 x lowest value [(mg of digestible dietary indispensable amino acid in
+1 g of the dietary protein)/(mg of the same dietary indispensable amino acid in 1 g of the reference protein)] or
+DIAAS % = 100 x lowest value ["Digestible IAA reference ratio" for a given amino acid scoring pattern].
+Note that the main difference between DIAAS and PDCAAS is that true ileal amino acid digestibility for the dietary indispensable amino acids is used rather than a single faecal crude protein digestibility value.
+Example of calculation of DIAAS for a single food ingredient
+Refer Table 1.
+Example of calculation of DIAAS for a food mixture
+Refer Table 2.
+4.3 BACKgROUND TO THE vALIDITy OF THE AMINO ACID SCORINg
+
+PATTERNS
+
+Definition of dietary indispensable amino acid scoring patterns to be used in the calculation of DIAAS from immediately post infancy to adulthood
+Consideration was given to the accuracy of current estimates of dietary indispensable amino acid scoring patterns (see Millward, 2012 a,b). Discussions were held in the context of an overall model of protein metabolism in humans (refer Figure 1) and a framework for short- and long-term protein quality related health outcomes (refer Figure 2). The
+Committee noted emerging knowledge on long-term transgenerational changes due to dietary protein intakes during pregnancy in the F generation in rats (Hoile et al., 2011)
+
+and in humans (Waterland et al., 2010).
+24 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+.1 ELBAT
+)PMW( klim elohw rof eulav
+SAAID fo noitaluclaC tnetnoc
+AAI elbitsegid laeli eurT
+1ytilibitsegiD
+AAI laeli eurT
+1atad noitisopmoC
+2PMw ni prT rhT
+AAS syL prT rhT
+5AAS syL prT rhT
+AAS syL thgieW
+)g( g/gm( g/gm(
+)g001/g(
+JxF
+IxE
+HxD
+GxC
+J
+
+H
+G
+F
+E
+
+B
+A
+
+09.0
+09.0
+49.0
+59.0
+
+kliM redwoP
+PMw rof
+
+SAAID4
+
+oitar
+AAI elbitsegiD3
+g/gm
+:nrettap ecnerefeR
+
+AAI
+
+)y( puorg egA
+)%( ni
+
+elbaT ot refer( nietorp
+)troper siht prT rhT
+AAS syL prT rhT
+AAS syL
+)prT(
+
+96.0
+19.0
+00.1
+70.1
+
+)shtm
+6 ot htrib( tnafnI
+)AAS(
+
+14.1
+92.1
+22.1
+03.1
+5.8
+
+)sry
+3 ot shtnom
+6( dlihC
+)AAS(
+
+28.1
+06.1
+34.1
+45.1
+6.6
+
+tluda
+,tnecseloda
+,dlihc redlO onima laeli eurT
+.eugaH ehT
+,BVC
+,deeF laminA draoB tcudorP
+.stneidergni deef fo seulav lanoitirtun dna snoitisopmoc lacimehC
+.)7002( selbaT deeF
+
+BVC
+
+:ecnerefeR
+
+.atad gip morf deniatbo seulav namuh detciderp no desab era stneiciffeoc
+)AAI( dica
+.noitaluclac eht ni dedulcni eb dluohs
+AAI lla elbissop erehw
+,sdica onima ruof rof nwohs si noitaluclac
+,elpmaxe fo ekas eht roF
+
+eht fo g1
+ni dica onima yrateid emas eht fo gm/ klim elohw fo nietorp g
+
+ni
+AAI elbitsegiD( oitar
+AAI elbitsegiD
+
+rof
+;96
+fo
+SAAID a sah
+PMW stnafni rof
+;nrettap hcae rof
+% sa desserpxe
+"oitar
+AAI elbitsegid" eht fo eulav tsewoL( klim elohw rof SAAID
+
+.)341 stluda dna stnecseloda
+,nerdlihc redlo rof dna
+
+nerdlihc
+.enietsyc dna eninoihtem rof stneiciffeoc eht fo egareva dethgiew eht si sihT
+
+.)nahpotpyrt
+= prT
+,eninoerht
+= rhT ,)enietsyc
++ eninoihtem( sdica onima ruhplus=AAS
+,enisyl=syL
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 25
+.2 ELBAT klim elohw dna saep
+,taehw fo erutxim a rof eulav
+SAAID fo noitaluclaC
+2erutxim ni tnetnoc
+AAI elbitsegid laeli eurT
+AAI laeli eurT
+1noitisopmoC
+1ytilibitsegiD prT rhT
+5AAS syL prT rhT AAS syL prT rhT
+AAS syL thgieW ni tnetnoc erutxim
+)gm(
+)g( g/gm(
+)g001/g(
+)g(
+)BxA(
+IxEx)BxA(
+HxDx)BxA(
+GxCx)BxA(
+BxA
+J
+
+I H
+
+G
+
+F E
+
+B
+A
+JxFx 084
+
+19.0
+68.0 598.0
+28.0
+21 92
+
+taehW
+
+66.0
+37.0 96.0
+97.0
+9 73
+
+aeP
+
+09.0
+09.0 49.0
+59.0
+31 44
+
+redwop kliM
+
+slatoT
+6.9
+4.72
+0.92
+9.83
+latot/dica onima hcae rof latot( nietorp g/gm
+:sdica onimA rof
+
+SAAID4
+
+oitar
+AAI elbitsegiD3
+:nrettap ecnerefeR puorg egA
+)%( erutxim ot refeR( nietorp g/gm
+)troper siht ni
+
+elbaT prT rhT
+AAS syL prT rhT
+AAS syL
+)syL(
+
+65.0
+26.0
+88.0
+65.0
+71 44
+
+)shtom
+6 ot htrib( tnafnI
+)syL(
+
+31.1
+88.0
+80.1
+86.0
+5.8 13
+
+)sry 3
+ot shtnom 6( dlihC
+)syL(
+
+54.1
+01.1
+62.1
+28.0
+6.6 52
+
+tluda
+,tnecseloda
+,dlihc redlO dica onima laeli eurT
+.eugaH ehT
+,BVC
+,deeF laminA draoB tcudorP
+.stneidergni deef fo seulav lanoitirtun dna snoitisopmoc lacimehC
+.)7002( selbaT deeF
+BVC :ecnerefeR
+
+.atad gip morf deniatbo seulav namuh detciderp eht no desab era stneiciffeoc ytilibitsegid )AAI(
+.noitaluclac eht ni dedulcni eb dluohs
+AAI lla elbissop erehw
+;sdica onima ruof rof nwohs si noitaluclac
+,elpmaxe fo ekas eht roF
+
+eht fo g1
+ni dica onima yrateid emas eht fo gm/ teid dexim fo nietorp g 1
+ni AAI elbitsegiD( oitar
+AAI elbitsegiD
+
+rof
+;65
+fo
+SAAID a sah doof dexim eht stnafni rof
+;nrettap hcae rof
+% sa desserpxe
+"oitar ecnerefer AAI elbitsegid" eht fo eulav tsewoL( teid dexim rof SAAID
+
+.)%001
+ot detacnurt eb dluow ti
+,%001
+dedeecxe
+SAAID eht fi teid dexim a si siht sa esac siht nI :BN ;28 stluda dna stnecseloda
+,nerdlihc redlo rof dna 86 nerdlihc
+.enietsyc dna eninoihtem rof stneiciffeoc eht fo egareva dethgiew eht era esehT
+
+.nahpotpyrt
+= prT
+,eninoerht
+= rhT ,)enietsyc
++ eninoihtem( sdica onima ruhplus=AAS
+,enisyl=syL
+26 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+FIgURE 2.
+Framework depicting short- and long-term potential protein quality related health outcomes. This indicates the need to look beyond physiological and metabolic responses in assessing health effects
+Protein quality related
+Physiologic/metabolic responses health outcomes
+- Absorption-digestibility
+- Metabolic utilization Short-term outcomes Long-term outcomes
+- Nitrogen balance
+- Growth and tissue repair - Life course events, linear
+- Lean mass/muscle/bone (wasting and stunting) growth, menarche, aging
+- Tissue turnover - Immune function and host - Age-related functional losses,
+- Secretory proteins defence system (prevalence muscle, bone strength,
+- Host defences/Immunity and severity of infection) immunity, cognitive decline
+- Growth & maturation - Muscle and skeletal mass - Nutrition related chronic
+- Tissue repair (capacity for physical work and diseases. CVDs, cancer, athletic performance) hypertension, oxidative
+- Mental performance, mood, damage, repair systems
+Epigenetic sleep patterns
+- Detoxication of chemical
+Receptors agents and anti-oxidant system gENES PROTEIN
+
+METABOLISM
+
+Hormones genetic
+Monogenic Polygenic
+Future efforts
+Present efforts
+The amino acid composition of human milk is recommended for predicting the protein quality of foods for infants and is discussed in the following section. Scoring patterns developed and published in the FAO/WHO/UNU (2007) report are recommended for age groups other than infants, and values for six-months-on are given in Table 3. Small calculation errors were found in the table given in the 2007 report for the three to 10
+year age group and these have been corrected in the present table.
+Inspection of the scoring patterns in relation to growth has led us to suggest that three scoring patterns (refer Table 5) be applied. Recommended amino acid scoring patterns for calculating protein quality for dietary assessment are as follows:
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 27
+- Infants (birth to 6 months), pattern of breast milk.
+- young children (6 months to 3 y), pattern for the 0.5 y old infant.
+- Older children, adolescents and adults, pattern for the 3 to 10 y old child.
+For regulatory purposes, two scoring patterns are recommended, the amino acid composition of human milk for infant formulas and for all other foods and population groups the pattern for young children (6 months to 3 y); refer to
+Table 5 in this report.
+TABLE 3.
+Amino acid scoring patterns for toddlers, children, adolescents and adults (amended values from the 2007 WHO/FAO/UNU report)
+His Ile Leu Lys SAA AAA Thr Trp val
+Tissue amino acid pattern (mg/g protein)1 27 35 75 73 35 73 42 12 49
+Maintenance amino acid pattern (mg/g
+15 30 59 45 22 38 23 6 39
+protein)2
+Protein requirements (g/kg/d)
+Age (yr) Maintenance growth3 amino acid requirements (mg/kg/d)4
+0.5 0.66 0.46 22 36 73 63 31 59 35 9.5 48
+1-2 0.66 0.20 15 27 54 44 22 40 24 6 36
+3-10 0.66 0.07 12 22 44 35 17 30 18 4.8 29
+11-14 0.66 0.07 12 22 44 35 17 30 18 4.8 29
+15-18 0.66 0.04 11 21 42 33 16 28 17 4.4 28
+>18 0.66 0.00 10 20 39 30 15 25 15 4.0 26
+scoring pattern mg/g protein requirement5
+0.5 20 32 66 57 27 52 31 8.5 43
+1-2 18 31 63 52 25 46 27 7 41
+3-10 16 30 61 48 23 41 25 6.6 40
+11-14 16 30 61 48 23 41 25 6.6 40
+15-18 16 30 60 47 23 40 24 6.3 40
+>18 15 30 59 45 22 38 23 6.0 39
+His, histidine; Ile, isoleucine; Leu, leucine; SAA, sulphur amino acids; AAA, aromatic amino acids, Thr, threonine, Trp, tryptophan;
+Val, valine
+1 Amino acid composition of whole-body protein.
+2 Adult maintenance pattern.
+3 Calculated as average values for the age range: growth adjusted for protein utilization of 58%.
+4 Sum of amino acids contained in the dietary requirement for maintenance (maintenance protein x the adult scoring pattern) and growth (tissue deposition adjusted for a 58% dietary efficiency of utilization x the tissue pattern).
+5 Amino acid requirements/protein requirements for the selected age groups. Note that these values, some of which are slightly amended from the 2007 report, are the correctly calculated values. In the published report, the value for the SAA requirement for children aged 3-10 is incorrect (18mg/kg/d) as are the SAA patterns for infants preschool and school children up to 10,
+(28, 26 and 24 mg/g protein).
+28 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+Breast milk pattern
+The amino acid composition of human milk has been used as a reference pattern to define the amino acid scores for infant foods (FAO/WHO/UNU, 2007). The metabolic demand for amino acids of the new born infant is not known with any certainty and the pattern of amino acids in human milk is not necessarily the same as the pattern of amino acid requirements. In fact amino acid intakes from breast milk are likely to be in excess of the actual demand for two reasons. Firstly as discussed in the FAO/WHO/UNU (2007) report, various calculations of the likely demand for amino acids by the new born infant indicate values that are lower than intakes from breast milk (Dewey et al., 1996). Indeed the values for individual amino acids in the requirement pattern at 6 months, calculated by FAO/WHO/UNU (2007) on the basis of a maintenance and growth factorial model, are on average 30% lower. Secondly the true ileal digestibility of breast milk amino acids in the human infant may be less than 100%. Actual values are not known although studies using bottle-fed piglets as a model for the human infant have shown values for the digestibility of amino acids in human milk ranging from 81 - 100 % (Darragh and
+Moughan, 1998). Nevertheless, because intakes of breast milk from a healthy wellnourished mother are considered to satisfy protein requirements for the first 6 months of life, the amino acid content of breast milk is recommended as the current best estimate of amino acid requirements for this age group. The amounts of amino acids in human breast milk corrected for the true ileal digestibility of amino acids in human breast milk may provide useful information on the pattern of amino acids required by the infant.
+Table 4.
+Dietary indispensable amino The amounts of each of the dietary indispensable acid profile of human milk1 amino acids in human milk, shown in table 4 are those listed by FAO/WHO/UNU (2007) (which derive from
+Amino acid* (mg/g total protein) reports published by Heine et al., 1991, Davis et al.,
+His 21 1994, and Villalpando et al., 1998.) These values are
+Ile 55 calculated from the amino acid content of proteins in
+Leu 96 breast milk, with protein calculated as 75% of total
+Lys 69 nitrogen given that 25% of nitrogen in breast milk is
+Met + Cys 33 non-protein nitrogen. For weaned infants from the age
+Phe + Tyr 94 of six months and for older children the scoring patterns shown in Table 5 derived for the various age groups in
+Thr 44
+Table 3 are more appropriate.
+Trp 17
+Val 55
+Pattern for preschool and older children and
+1 Values from FAO/WHO/UNU (2007) adults: historical perspective
+* The three-letter abbreviations for amino acids (His, histidine; Ile, isoleucine; Leu, leucine; Lys, lysine; Met, methionine; Cys, The use of an amino acid requirement pattern based cystine; Phe, phenylalanine; Tyr, tyrosine; on values for preschool-age children to evaluate protein
+Thr, threonine; Trp, tryptophan; Val, valine) are used. quality for all age groups apart from infants derives from
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 29
+Table 5.
+Recommended amino acid scoring patterns for infants, children and older children, adolescents and adults
+Age group His Ile Leu Lys SAA AAA Thr Trp val scoring pattern mg/g protein requirement
+Infant (birth to 6 months)1 21 55 96 69 33 94 44 17 55
+Child (6 months to 3 year)2 20 32 66 57 27 52 31 8.5 43
+Older child, adolescent, adult3 16 30 61 48 23 41 25 6.6 40
+1 Infant is based on the gross amino acid content of human milk from Table 4.
+2 Child group is from the 6 month (0.5 y) values from Table 3.
+3 Older child, adolescent, adult group is from the 3-10 y values from Table 3.
+the joint 1991 FAO/WHO expert consultation on protein quality evaluation (see Millward,
+2012b). At that time the available information on amino acid requirement patterns had been summarized in the 1985 report in which values had been reported for infants, preschool and older children and adults. In the case of both preschool children and schoolchildren, the 1985 report commented on the limited and unsatisfactory nature of the information available. The 1991 Consultation, which was asked to report on protein quality evaluation, re-examined the amino acid requirement values identified in the 1985
+report. That report argued that the amino acid requirement values for adults were too low and were unsuitable for use in scoring patterns for the evaluation of protein quality in adults. Whereas the values for schoolchildren were considered flawed, the values reported for preschool children were adopted as the basis of a scoring pattern within the protein digestibility-corrected amino acid score methodology for all ages, as an interim measure until more satisfactory values could be defined.
+The 2007 WHO/FAO/UNU Expert Consultation conducted a detailed critical analysis of the reported amino acid requirement values for infants, children and adults and the methodologies used in their derivation (see Millward, 2012a). This committee report endorsed the 1985 report in recommending the breast milk content of amino acids as the best estimate of infant amino acid requirements but was unable to identify reliable requirement values for any other age groups apart from adults. In relation to the values for preschool children, it argued that the reported values were difficult to interpret.
+They had not been peer reviewed and derived from a report that gave incomplete information about their origin. In particular, the limited details that were given (e.g. for lysine) suggested nitrogen accretion rates that were several-fold greater than expected for children of this age with values overall corresponding more closely to the needs of the
+3 - 6-month-old infant than to those of a preschool child for whom growth has fallen to much lower rates than observed in infants. It therefore adopted a factorial approach for infants and children based on the amino acid requirements for maintenance and growth.
+Maintenance was assumed to exhibit the same amino acid pattern at all ages on a mg/ kg body weight basis so that the adult requirement pattern was adopted, while growth
+30 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation was assumed to reflect the amino acid pattern of human tissue protein. On this basis amino acid requirement patterns were derived for children aged 0.5, 1 - 2, 3 - 10, 11 - 14,
+15 - 18 years and for adults.
+Calculation of the scoring patterns from amino acid requirement values
+A scoring pattern for protein quality evaluation is calculated on the basis of the ratio of amino acid to protein requirement (i.e. it is expressed as mg amino acid per g of protein). Thus the magnitude of the denominator, the protein requirement, influences the magnitude of each amino acid within the scoring pattern and consequently the extent to which the pattern would identify a food protein as adequate or deficient in each amino acid (Millward, 2012b). Previous reports on protein and amino acid requirements (FAO/
+WHO, 1973; WHO, 1985) had defined these scoring patterns from values for amino acid requirements expressed in relation to the safe protein requirement on the basis that the amino acid values represented the upper range of requirement values. Although this issue was not specifically discussed in the 2007 report in calculating a requirement pattern it identified estimates for the dietary indispensable amino acids as mean requirement values and therefore calculated the pattern with the mean total protein requirement, 0.66 g/kg for the adult.
+It can be argued (Millward, 2012b) that although the values for each amino acid requirement identified in the 2007 report were selected as the best estimates from a range of different values, some higher and some lower than the selected values, they represented mean values so that the denominator in the pattern should be the mean protein requirement. An alternative argument is that in all of the experimental stable isotope studies from which amino acid requirement values have been derived the subjects have received intakes of protein or more often purified amino acids, at higher levels than the mean or even safe requirement levels (i.e. 1 g/kg/d). On the basis of an adaptive metabolic demand in which the requirement varies with the intake, the values obtained in these studies are likely to be higher than the minimum requirement and relate more closely to a protein intake that is higher than the minimum value indicated by the mean protein requirement value. In this case the safe protein intake would be a more appropriate value for the denominator of the scoring pattern.
+This is an important issue in that the scoring pattern calculated with the mean protein requirement will contain values for each amino acid that are 20% higher than those calculated with the safe protein requirement. Thus dietary proteins judged inadequate by the former pattern may be judged adequate by the latter and vice versa.
+The 2007 report evaluated the implications of the scoring patterns derived with the mean protein requirement for the adequacy of dietary protein intakes and quality, and identified a significant prevalence of protein deficiency in several population groups in developing and developed countries and discussed the possibility that the scoring patterns may contain values for important amino acids such as lysine that are too
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 31
+high. However the 2007 report also made the point that any risk assessment aimed at identifying prevalence of deficit should aspire to an acceptable balance between the numbers of false positives and false negatives. Moreover, there has been no direct experimental demonstration that the requirement for each dietary indispensable amino acid directly varies with the total intake of protein. In this context the present committee decided it was better to overestimate than underestimate risk and accepted the view that the scoring pattern should be based on the mean rather than the safe protein requirement.
+Optimal amino acid requirements
+Current estimates of the nutritional requirements for protein as reported by WHO/FAO/
+UNU (2007) are defined as: the lowest level of dietary protein intake that will balance the losses of nitrogen from the body, and thus maintain the body protein mass (assumed to be at a desirable level), in persons at energy balance with modest levels of physical activity and any special needs for growth, reproduction and lactation. That report acknowledged that such a definition does not necessarily identify the optimal intake for health, which is less quantifiable and would require more specific and validated biomarkers. After reviewing the evidence base for any relationships between protein intakes and health the report concluded: "Current knowledge of the relationship between protein intake and health is insufficient to enable clear recommendations about either optimal intakes for long-term health or to define a safe upper limit". Such research is ongoing and it may prove to be the case that there are circumstances in which benefits accrue from intakes above the minimum protein requirements, especially given that most definitions of "the healthy diet" involve overall protein intakes which are considerably higher than the minimum protein requirement derived from nitrogen balance. In circumstances in which an increased intake of protein or intake of specific amino acids may be appropriate or recommended, the optimal profile of amino acids in the protein is important in achieving the desired response. Further, the pattern of absorption of amino acids may affect the response to the ingested protein. For these reasons, use of estimates of the amounts of individual digestible amino acids in a protein is likely to be the most successful approach to determining the optimal protein, or combinations of proteins, to be used in any circumstance. This approach accounts for the possibility that in certain specific circumstances a particular protein may be more or less appropriate than reflected by the DIAAS value.
+Examples of cases in which it has been suggested that benefit may accrue from protein intakes that are greater than the minimum include older individuals who might benefit in terms of muscle mass, strength and functional outcomes and these benefits may in turn be reflected in improved health outcomes (Wolfe, 2012). In specific circumstances younger as well as older individuals may benefit from increased intakes of protein. Fat loss in overweight individuals eating a low energy diet may be greater with a relatively high intake of protein due to both satiating effects of protein as well as the thermogenic
+32 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation response to protein intake (Clifton, 2012; Te Morenga and Mann, 2012; WesterterpPlantenga et al., 2012). Gains in muscle mass and strength are greater when resistance exercise is coupled with increased intake of protein above the minimal amount necessary to maintain N-balance (Phillips, 2012). Individuals with chronic infection or inflammation may benefit from higher protein intakes, and the effects of less than optimal levels of total caloric intake may be offset to some extent by higher protein intake. It should be noted, however, that there are circumstances whereby higher protein intakes may be associated with risk. One example is pregnancy where it has been suggested that the protein requirement identified in the 2007 FAO/WHO report, which represents a threefold increase compared with previous estimates, may be too high and represents a risk of adverse outcomes to both mother and child (Millward, 2012a).
+In addition to potential beneficial effects of a protein intake greater than the amount necessary to maintain nitrogen balance in a variety of circumstances, there may be specific cases in which it is desirable to increase the intake of specific amino acids. For example, leucine is recognized as a potential regulator of protein synthesis in a variety of circumstances (McNurlan, 2012; Millward, 2012c); a high level of leucine intake may facilitate overcoming the normal resistance to the anabolic effect of protein intake in clinical situations such as cancer. A number of clinical situations, such as sepsis, are associated with an impairment of the normal rate of synthesis of arginine, and in these circumstances an increased intake of arginine may be beneficial in terms of protein synthesis as well as immune function (Jonker et al., 2012).
+The Committee noted current research trends towards examining dietary protein and amino acid levels that optimise certain health outcomes or organ/body functions in people of different ages and physiological states, rather than the previous focus on determining protein and amino acid requirements to meet body nitrogen balance.
+Research in this direction is encouraged. The recommendation in this report of treating amino acids as separate individual nutrients by stating the amounts of each truly digestible (ileal) dietary indispensable amino acid in foods is viewed as a useful development in this respect.
+4.4 CORRECTION FOR AMINO ACID DIgESTIBILITy AND AvAILABILITy
+
+IN THE CALCULATION OF DIAAS
+
+Bioavailability of amino acids
+Since its adoption by FAO/WHO (1991), the PDCAAS has been widely accepted.
+However, the method has been criticized because it does not adequately account for the bioavailability of amino acids.
+The term "bioavailability" encompasses three properties of foods that can alter the proportion of an amino acid that can be utilized; these are:
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 33
+1. Digestibility, which describes the net absorption of an amino acid.
+2. Chemical integrity, which describes the proportion of the amino acid that, if absorbed, is in a utilizable form.
+3. Freedom from interference in metabolism resulting from the presence in the food of substances that limit the utilization of the amino acid.
+Of these, the greatest source of variation in bioavailability is, in most cases, digestibility.
+Digestibility: amino acids
+It is worth emphasizing at the outset that digestibility is not a fixed attribute of a food but reflects an interaction between the food and the person eating it and so may be subject to individual variation. The term "amino acid digestibility" as used in this report is the proportion of consumed amino acids that is absorbed (i.e. has disappeared from the digestive tract).
+In earlier work protein quality assessment was based on the digestibility of crude protein determined over the total digestive tract. This approach assumes that the digestibility of each amino acid is the same as that of total protein and that amino acid digestibility determined over the total digestive tract is an accurate estimate of dietary amino acid absorption. However, observations with simple-stomached animals have raised questions about the validity of these assumptions.
+As reviewed by WHO/FAO/UNU (2007) (see Section III) most faecal nitrogen is in the form of microbial protein (Mason and Palmer, 1973). Mason et al. (1976) estimated from the faecal excretion of diaminopimelic acid (DAPA) that some 90% of faecal N was of bacterial origin. Subsequent studies using a variety of microbial markers have confirmed this observation. Consequently, the amino acid composition of faeces is closer to that of microbial protein than to that of undigested food residues, and the amino acid composition of faeces varies little with diet, although total faecal nitrogen does vary with faecal bulk and NSP intake. It was concluded that undigested food residues reaching the large intestine are largely degraded by microbial activity during their relatively long residence, when their nitrogen can be converted through microbial amino acid synthesis into microbial biomass with an amino acid profile more or less independent of their initial composition.
+The second observation was that although nitrogen is absorbed from the large intestine, it is mainly in the form of ammonia with only limited evidence for absorption of intact amino acids. In pigs, infusing hydrolyzed casein into the caecum (Zebrowska, 1973;
+1975; Gargallo and Zimmerman, 1981) resulted in very little increase in faecal nitrogen;
+most of the additional infused N was excreted in the urine with little if any improvement in
+N retention. Also infusion into the large intestine of a single dietary indispensable amino
+34 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation acid that was deficient in the diet has been shown to be of little or no benefit (Darragh et al., 1994; Krawielitzki et al., 1984). The results of such studies suggest that most of the carbon skeletons of dietary indispensable amino acids entering the large intestine from the ileum are irreversibly lost, either through microbial metabolism or excretion in the faeces, although their nitrogen may be absorbed and used. However, as discussed earlier
+(Section III), and as indicated in Figure 1, human studies have shown that the hydrolysis of urea within the large intestine and the salvage of its urea nitrogen which is returned to the host amino nitrogen pool, is a quantitatively important part of nitrogen metabolism within this compartment of the digestive tract (Jackson, 1998), and the extent to which this may be a source of nutritionally important amino acids has been investigated with
+15N tracer studies. Clearly the appearance of 15N-labelled protein in blood plasma after intracaecal instillation of labelled proteins (e.g. Heine et al., 1987) is not evidence for the absorption of specific amino acids: most amino acids in the body can acquire 15N by transamination, as seen in the extensive 15N labelling of body protein after giving 15NH Cl
+
+(Patterson et al., 1995; Metges et al., 1999). However, studies with human infants have identified the transfer of 15N from orally administered urea to not only glycine, alanine and histidine in the circulating amino acid pool (sampled as urinary amino acids), but also to lysine which does not gain nitrogen through transamination (Millward et al.,
+2000a). Furthermore in normal healthy adults transfer of 15N from oral lactose-ureide to lysine in both faecal bacterial protein and in urine has been reported (Jackson et al.,
+2004) which is significant because lactose-ureide is resistant to digestion in the upper gastrointestinal tract but is fermented by the colonic microflora to release NH Thus,
+3.
+bacterial amino acid biosynthesis from nitrogen released by urea salvage appears to be a source of indispensable amino acids which can enter the circulating pool. Furthermore the extent of 15N transfer in these studies has been shown to indicate that this process can be nutritionally important. Clearly the evidence base for these processes is currently limited and the route by which colonic urea N is transferred to systemic lysine and other indispensable amino acids is not clear. However such studies raise important questions about nitrogen metabolism in the human large intestine, suggesting that it can not only remove indispensable amino acids but may also in some circumstances be a source of dietary indispensable amino acids. Fuller (2012) has concluded, albeit acknowledging that such a conclusion is based on limited evidence, that a large proportion of the amino acids in the protein of the upper gastrointestinal tract microbiota are incorporated directly from the diet or from endogenous materials rather than being synthesised de novo.
+Despite some remaining uncertainties with respect to microbial amino acid synthesis, it seems that the amino acid composition of ileal digesta provides the best available basis for estimating the proportion of dietary amino acids absorbed. "Ileal digestibility, while not a perfect measure of net amino acid absorption, nonetheless takes us considerably closer to that ideal than amino acid digestibility determined over the whole gut", (Fuller,
+2012).
+These observations show that the process of amino acid digestibility is complex and not entirely understood. Overall the consultation concluded that estimates of the amino
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 35
+acids absorbed from the diet would best be derived from measurement of the flow of amino acids leaving the small intestine; that is, ileal digestibility (Moughan and Smith,
+1985). However, and as discussed earlier (Section III), some of the amino acids leaving the ileum are not of immediate dietary origin but are the remnants of endogenous secretions and cellular material (Skilton et al., 1988; Moughan and Rutherfurd, 2012). This loss of endogenous protein occurs even when no protein is given in the diet and therefore represents part of the requirement. This amount, termed the basal endogenous loss must be deducted from the ileal amino acid flow to estimate the contribution of unabsorbed amino acids from the diet. When apparent amino acid digestibility is corrected for the basal endogenous loss the resulting value is termed true digestibility (Donkoh and
+Moughan, 1994). When apparent amino acid digestibility is corrected by deduction of a constant agreed basal endogenous loss value, the resulting value is termed standardized ileal digestibility (Stein et al., 2007). The basal endogenous amino acid losses can be measured using several methods (Moughan et al., 1998; Boisen and Moughan, 1996;
+Fuller and Tomé, 2005). Endogenous and dietary amino acid losses at the terminal ileum are 0.6 - 1 g/day and 0.4 - 0.7 g/day, respectively (Chacko and Cummings, 1988; Mahé et al., 1992; Rowan et al., 1993; Fuller et al., 1994; Gausserès et al., 1996; Mariotti et al.,
+1999; Gaudichon et al., 2002; Moughan et al., 2005).
+For protein as a whole, however, because nitrogen absorbed in forms other than amino acids can contribute to the nitrogen economy, the absorption of nitrogen over the whole digestive tract is the more appropriate measure. This latter measure also requires correction for endogenous losses (often referred to as metabolic faecal nitrogen).
+It is therefore recommended that protein quality assessment should be based on true ileal digestibility values of individual amino acids rather than the overall
+(faecal) digestibility of protein.
+This conclusion is supported by a number of recent critical reviews on the subject (Fuller,
+2012; Fuller and Tomé, 2005; Hendriks et al., 2012; Levesque and Ball, 2012; Moughan,
+2003). At the present time, there is a limited quantity of data on the ileal amino acid digestibility of foods as determined in humans (Rowan et al., 1994; Gaudichon et al., 2002;
+Deglaire et al., 2009). Where human data are lacking it is recommended that true ileal amino acid digestibility values from the growing pig be used, and where these data are not available from the growing laboratory rat. For digestibility measures in infants the bottle-fed piglet has been a useful animal model (Moughan et al., 1990).
+Although regression equations have been published (Deglaire et al., 2009) to allow the prediction of human true ileal amino acid digestibility from corresponding pig values, it was concluded that more work is required to improve the robustness of these equations.
+When an accurate prediction equation is available, human digestibility values, predicted on the basis of pig values, should be used. For those foods for which neither human nor pig or rat ileal digestibility values yet exist, overall (faecal) protein digestibility values must serve as the best available proxy.
+36 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+It is recommended that the 1970 FAO Publication "Amino Acid Contents of
+Foods and Biological Data on Proteins" should be updated on a continuous basis with inclusion of values, where available, for protein (faecal and ileal) digestibility, ileal amino acid digestibility and DIAAS. These tables should be available in electronic format compatible with the proposed spreadsheet for the calculation of amino acid requirements and DIAAS.
+At the 2011 Expert Consultation, a sub-committee (consisting of Sarwar Gilani, chair; Daniel Tomé, Paul Moughan and Barbara Burlingame, ex officio) was constituted to collate currently available data on the true ileal amino acid digestibility of foods for humans (refer Sub-Committee report at en/ and nutrition/nutrition/63158/en/). A separate subcommittee (consisting of Ricardo Uauy, chair; Joe Millward, Paul Pencharz, Malcolm
+Fuller and Barbara Burlingame, ex officio) was constituted to receive the data set from the first sub-committee and assess its suitability for practical application in the calculation of DIAAS values and to assess implications of these data for the final consultation report.
+After assessment of the dataset of currently available ileal amino acid digestibility values, the sub-committee chaired by R Uauy concluded (refer Sub-Committee report at humannutrition/nutrition/en/ and humannutrition/nutrition/63158/en/):
+1. In principle, true ileal amino acid digestibility is preferable to faecal crude protein or amino acid digestibility for the purpose of defining dietary indispensable amino acid digestibility and assessing the protein quality of dietary protein sources for humans.
+2. There is a fair body of evidence on ileal amino acid digestibility in rats and pigs but there are limited data on ileal amino acid digestibility determined in humans; very few studies have compared the ileal amino acid digestibility of the same protein sources in animals (rats, pigs) and humans. Studies of this kind are greatly needed to be able to support moving in practice to ileal digestibility in the assessment of dietary protein quality for humans.
+3. Future studies should include comparisons of true ileal amino acid digestibility values across the different animal models (pig, rat) and humans using protein sources that are representative of those consumed by human populations.
+4. If the data obtained from these studies (as specified under #3) convincingly support the move to ileal digestibility, assessment of the potential impact of this recommendation
+(to be used in the assessment of individual protein sources as well as mixed diets commonly consumed by humans) needs to be undertaken before the new evaluation model is implemented. This should include potential gains and or losses to public health consequent upon the implementation of the new recommendations on the assessment of protein quality for humans.
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 37
+The Expert Consultation Committee accepted the above conclusions of the sub-committee and recommended: that the FAO convene a working group, as a matter of urgency, to agree upon an experimental protocol to enable the realisation of outcomes numbers 3 and 4 above to be expedited. The implementation of studies to determine true ileal amino acid digestibility broadly across human food types and a subsequent assessment of the potential impact of introducing such data in the context of protein quality evaluation for humans is strongly encouraged. Until such time as an agreed dataset of true ileal amino acid digestibility for human foods becomes available, the protein quality of human foods and diets should be assessed using DIAAS, but values for faecal crude protein digestibility should be used.
+There will be a need for financial support for the latter research agenda
+(interspecies true ileal amino acid digestibility comparison and the development of a database of true ileal amino acid digestibility for human foods). It is anticipated that the private sector along with UN technical and normative agencies, multilateral, bilateral and national government agencies, and publicgood organisations will provide such support, as a matter of urgency. If resources are not allocated to fulfil the latter proposed research objectives in a timely manner, then the present recommendation for the application of DIAAS in practice may need to be reviewed, since DIAAS and the conclusions of this report rely upon a system of true ileal amino acid digestibility and availability.
+Chemical availability of amino acids
+Some amino acids present in foods may be in a structural form that is unavailable (i.e.
+the amino acid may be absorbed in a form that cannot be utilized). This is most likely to be encountered in foods that are heat-treated or subjected to other severe processes
+(Rutherfurd and Moughan, 1990; Rutherfurd and Moughan, 2012). The formation of
+Maillard reaction products, leading to a loss of lysine availability, is the most common example. It is recommended that for foods susceptible to damage from processing,
+'reactive' rather than 'total' lysine contents and the true ileal digestibility of reactive lysine (lysine availability) rather than of total lysine, be determined
+(Moughan and Rutherfurd, 1996; Rutherfurd et al., 1997b). Reactive lysine is lysine whereby the epsilon amino group of the molecule has not been modified chemically and is free to react with a test agent (e.g. fluorodinitrobenzene or o-methylisourea).
+Other amino acids, especially the sulphur amino acids, tryptophan and threonine, may be susceptible to oxidation, with loss of bioavailability, and assays such as the reactive lysine digestibility assay (Moughan and Rutherfurd, 1996) need to be developed for these amino acids.
+38 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+Loss of bioavailability due to the presence of interfering substances
+Many foods contain bioactive (protein or non-protein) substances that may modify amino acid bioavailability either by affecting digestibility or postabsorptive utilisation (Gilani et al., 2012). Many foods, including novel protein sources, may contain high levels of known antinutritional factors, which may be naturally occurring (e.g. tannins, phytates, trypsin inhibitors, glucosinolates, isothiocyanates), formed during processing (e.g. D-amino acids, lysinoalanine), or formed during genetic modification of crops (e.g. lectins).
+Many of these affect digestion and will be taken into account in the determination of true ileal amino acid digestibility but others, such as glucosinolates, isothiocyanates, etc., have more general metabolic effects and their influence on protein metabolism will only be detected in a growth-based bioassay. Where they present a potential problem, recommendations on proper processing to minimize their levels are required as well as recommendations on the safe limits for their inclusion in diets.
+4.5 CONSIDERATIONS REgARDINg THE USE OF BIOASSAyS TO
+DETERMINE PROTEIN QUALITy
+The nutritive value of food protein sources is primarily dependent on the amounts of bioavailable indispensable amino acids and nitrogen in food. Bioavailability refers to the proportion of the total amount of dietary amino acids that is absorbed in a form that can be utilized for body protein synthesis and other pathways which constitute the metabolic demand. In some cases, such as with inadequate energy intake or when dietary protein is in excess, absorbed amino acids may be utilized via catabolism to provide ATP, rather than for body protein synthesis and associated anabolic pathways. This requires that amino acid bioavailability is evaluated under standardised conditions in relation to dietary protein and energy contents. Amino acid availability and utilization are not synonymous.
+Traditionally the methods developed to determine amino acid bioavailability have focused on intestinal absorption or digestibility, which is calculated as the proportion of amino acid intake that does not appear in digesta or faeces. While considerable progress has been made to arrive at the "true ileal digestibility of amino acids" and the "true ileal digestibility of reactive lysine", digestibility-based methods may not always fully account for all losses associated with gut endogenous amino acid losses or absorbed amino acids which are unavailable due to heat processing or the presence of anti-nutritional factors.
+Therefore, there is a need from time to time to apply growth-based bioassays (such as the slope-ratio assay,).In some circumstances the classical Protein Efficiency Ratio (PER) can be used when there is doubt about the protein quality of a food or diet, although it must be recognised that in human nutrition the demand for dietary amino acids for growth is a minor or even negligible component of the demand apart from during early life. This is a major limitation in the use of animal growth models to assess overall protein quality since such trials may underestimate protein quality for human nutrition. In the latter case short term nitrogen balance trials have been used but these have generally lacked
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 39
+discriminatory power (Millward et al., 1989) and resulted in unrealistically low efficiencies of utilisation (shallow slopes) because of an inappropriate analytical model which fails to take into account the adaptive nature of the metabolic demand (Millward, 2003; 2012a).
+While long term feeding trials based on body composition and maintenance of fitness have been used to assess protein quality of specific foods such as wheat (Bolourchi et al., 1968; Edwards et al., 1971), such feeding trials are expensive and logistically difficult to undertake and few have been reported. The diurnal nature of human feeding does involve post-prandial net protein synthesis to replace post absorptive losses and the efficiency of postprandial protein utilisation can be studied. This, to some extent, can be used as a measure of protein quality in humans. Several groups have developed stable isotope tracer studies to do this.
+Postprandial protein utilization (PPU)
+As discussed by Millward and Pacy (1995) postprandial protein utilisation is influenced by both dietary energy intake and by the quality of the protein in terms of its ability to meet the metabolic demand. This means that measurement of acute changes in 13C-1 leucine balance during the transition from a low to high protein intake during a 13C-1 leucine infusion indicates the efficiency of postprandial protein utilisation (PPU). Values obtained in this way are more realistic than those obtained from the slope of nitrogen balance studies which underestimate protein utilisation (Millward, 2003; Millward, 2012a). This approach has been used to compare milk and wheat protein utilisation in normal adults at their habitual levels of protein intake showing that the PPU of milk and wheat protein were 1.00 and 0.68 in a multiple small meal protocol (Millward et al., 2000b) and 0.93
+and 0.61 in a single large meal protocol (Millward et al., 2002). In each case the wheat protein was better utilised than was predicted from its lysine content relative to human tissue protein lysine content possibly through reutilisation of the lysine liberated in the postabsorptive state for postprandial protein deposition. While such studies help to understand utilisation of highly digestible proteins they would be less able to entirely evaluate poorly digestible dietary protein sources.
+Net postprandial protein utilization (NPPU)
+[15N]-labelled proteins (milk, soya protein isolate, wheat and meat) have been used to measure the metabolic fate of dietary nitrogen after its consumption in humans. NPPU is calculated using true ileal digestibility and 15N-labelled protein utilization parameters (Tomé and Bos, 2000). Intrinsic labelling of dietary proteins with 15N allows the investigation of postprandial N transfers into different metabolic pools. Ileal digesta, blood and urine are sampled. The kinetics of dietary N appearance in ileal effluent, plasma proteins, plasma free amino acids, body urea, urinary urea and urinary ammonia are calculated using a
+13-compartment, 21 parameter model (Juillet et al., 2006). NPPU values determined for milk, soya protein isolate and wheat were 81%, 78% and 66%, respectively (Bos et al.,
+1999; Tomé and Bos, 2000; Mariotti et al., 1999; Bos et al., 2005). This approach also
+40 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation incorporates the determination of true ileal amino acid digestibility (Gaudichon et al.,
+2002).
+This method is a major advance in the evaluation of dietary protein quality. It is restricted, however, to foods that can be intrinsically labelled with 15N and the study requires that ileal digesta be collected via a naso-intestinal intubation technique, and the model calculations are fairly complex (Juillet et al., 2006). Therefore, this method is unlikely to be widely adopted for routine application. Furthermore the NPPU technique cannot be readily used to estimate the bioavailability of individual amino acids.
+Application of the IAAO method to determine the metabolic availability
+(MA) of amino acids
+The Indicator Amino Acid Oxidation (IAAO) technique is based on the concept that when one dietary indispensable amino acid in a diet (IDAA) is deficient for protein synthesis, then all other amino acids including the indicator amino acid (another IDAA, usually
+L-[1-13C]phenylalanine) will be oxidized (Pencharz and Ball, 2003). Fundamentally, this is because free amino acids cannot be stored and therefore must be partitioned between incorporation into protein or oxidation. With increasing intake of the limiting amino acid, oxidation of the indicator amino acid decreases, reflecting increasing incorporation into protein. Once the requirement for the limiting amino acid is met, there is no further change in the oxidation of the indicator amino acid. The inflection point, where the oxidation of the indicator amino acid stops decreasing and reaches a plateau is referred to as the 'breakpoint'. The breakpoint identified with the use of bi-phase linear regression analysis indicates the mean or Estimated Average Requirement (EAR) of the limiting (test) amino acid (Pencharz and Ball, 2003). This minimally invasive IAAO method has been systematically applied to determine IDAA requirements in adult humans (Pencharz and
+Ball, 2003; Elango et al., 2008(a); Elango et al., 2008(b)).
+The IAAO method can also be applied to determine the bioavailability or metabolic availability (MA) of amino acids (Moehn et al., 2005; Moehn et al., 2007). IAAO is inversely proportional to the rate of protein synthesis (Ball and Bayley, 1986; Rafii et al., 2008).
+Therefore, at a given amino acid intake, the relative difference in the IAAO rate between test and reference proteins will be proportional to the whole body MA of the test amino acid for protein synthesis, and thus account for all losses of dietary amino acids during digestion, absorption, and cellular metabolism. It would be expected, under controlled conditions and for the often dietary first-limiting amino acid, lysine, that the predicted uptake of reactive lysine (true ileal digestible reactive lysine) from the digestive tract would equal bioavailable lysine determined using the IAAO method and such an experimental comparison for a range of foods would be of interest. The IAAO approach has been used in pigs to determine the availability of dietary protein-bound amino acids (including lysine, threonine and methionine) and in humans for methionine and lysine. It is proving to be a practical method to determine the utilization of protein bound limiting amino acids for net protein synthesis.
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 41
+4.6 AMINO ACID ANALySIS AND TRUE AMINO ACID DIgESTIBILITy/
+BIOAvAILABILITy METHODOLOgIES
+Amino acid analysis methodology
+Considerable progress has been made over recent years in amino acid analysis (Rutherfurd and Sarwar-Gilani, 2009; Otter, 2012) and the Committee agreed that no one method of analysis is necessarily the best, with a variety of approaches being acceptable.
+Amino acids occur in foods in either the free amino acid form or as the building blocks of proteins. The analysis of amino acids in foods is composed of a number of unit operations; the release of the amino acids (if they are in protein form) from the food matrix, the separation of the individual amino acids and their quantification using calibration standards.
+Each of these steps has its own idiosyncrasies, (e.g. different hydrolysis conditions are required for the optimal release of different amino acids and not all amino acids have baseline separation for some chromatographic methods) and there is a diversity of food matrices, such that most laboratories adapt methods to best suit their applications.
+There is currently no official standardised method for amino acid analysis although
+AOAC have a number of validated methods for individual components.
+The established analytical techniques of HPLC (IEX or RP) and GCMS have recently been supplemented by a number of new methods for the characterisation of amino acids. These include capillary electrophoresis (CE), CEMS and UPLC, LCMS and LC with other detectors.
+The Committee agreed that it would be useful if a guide as to suitable approaches (and attendant pitfalls and shortcomings) could be developed, and supported by an international standardization of methods (including approaches to the hydrolysis, separation, detection and presentation of data). The Committee recommended that the FAO establish a formal working party to review amino acid analysis methodologies and provide some guidance towards international standardization.
+True amino acid digestibility/availability assays
+A working party should review and recommend best practice for a pig-based assay for true ileal amino acid digestibility determination. Such an assay would replace the rat true faecal crude protein digestibility assay. Ideally a rapid in vitro protein digestibility assay to determine amino acid digestibility in foods would be available. Many such assays have been developed, but none has been adequately fully and independently validated. There is an urgent need to develop a standardised, independently validated
+42 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation in vitro protein and amino acid digestibility assay. The application of in vivo amino acid bioavailability assays and other assays such as the slope ratio assay is relatively laborious.
+4.7 BIOACTIvE COMPONENTS INTRINSICALLy ASSOCIATED wITH FOOD
+PROTEINS INCLUDINg THOSE OCCURRINg NATURALLy OR FORMED
+DURINg PROCESSINg
+Bioactive components are sometimes associated intrinsically with food proteins.
+Potentially, these may have either negative effects (e.g. ANFs such as trypsin inhibitors and glucosinolates) or a positive effect (e.g. antioxidant effects of polyphenolics or certain effects of bioactive peptides released during the digestion of a protein). Many of the negative effects of compounds such as plant fibre and ANFs are captured in measures of apparent ileal amino acid digestibility and true ileal amino acid digestibility (where correction has been made for basal endogenous amino acid losses), as their effects are often mediated through inducing increased ileal endogenous amino acid losses above the basal endogenous loss value. Nevertheless, there may be both positive and negative effectors, intrinsically associated with dietary proteins, the effects of which will not be reflected in true amino acid digestibility or DIAAS values, and this needs to be recognized.
+Where such factors may be deleterious, it is recommended that upper limits of these compounds in diets be established and it is further recommended that the joint
+Expert Committee on Food Additives (jECFA) give due consideration to these safety aspects. Food processors need to be aware of safe upper limits and ensure quality control, so that in the finished product such compounds are below these set levels.
+The role of bioactive peptides is a rapidly emerging area of science (RutherfurdMarkwick, 2012) and the myriad of potential effects of peptides released during natural digestion cannot be, nor should be expected to be, expressed in a single value of dietary protein quality such as DIAAS. However, their potential importance does need to be recognized, and there is clearly still a need for the application of traditional methods of dietary protein quality evaluation such as PER, NPPU, biological value etc., and a need to understand physiological effects of proteins in addition to direct effects on body protein metabolism.
+4.8 DIAAS - REgULATORy ISSUES
+DIAAS is the recommended method for dietary protein quality assessment for regulatory purposes, and the use of true ileal digestible amino acid contents in their own right for describing foods is also encouraged.
+Individual countries have their own regulations, (e.g. Canada uses protein rating:
+the amount of protein in a serving of reference food, multiplied by PER). The recommendation is to use DIAAS as the measure of protein quality, rather than measures such as PER.
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 43
+For the purpose of Codex, a quality assessment needs to be applied to protein claims. DIAAS is recommended for such protein quality assessment and should be given in conjunction with the protein quantity value. Substitute foods should not have DIAAS lower than the scores for the equivalent real food. Statement: the protein content of the food should be declared as determined by an appropriate analytical method and the quality determined by the DIAAS.
+For making a protein content claim the protein content should be determined analytically and evaluated for quality using DIAAS. The nutrient reference value
+(NRV) for protein recommended for labelling purposes in the interests of international standardization and harmonization is 50 g.
+To qualify for the nutrition claim: "source" for protein, a food must meet the following criteria:
+10% of NRV per 100 g (solids);
+5% of NRV per 100 ml (liquids);
+or 5% of NRV per 100 kcal (12% of NRV per 1 MJ);
+or 10% of NRV per serving.
+To qualify for: "High" for protein, the food must contain two times the values for "source".
+When a food meets the criteria for protein quantity, then a quality measure should be applied.
+A comparison table for foods should be prepared to establish cut off values for nutrition claims for "source" and "high".
+DIAAS cut-off values are needed to distinguish between excellent/high (e.g. 100 or more), good/source (e.g. 75-99), and no claim.
+It is recommended that no nutrition claim should be allowed to be made for source/high protein for proteins with DIAAS less than a certain cut-off (e.g. 75).
+In assessing the quality of proteins, quality cannot be substituted for quantity. An example of how these DIAAS cut-off values may be applied is given in Table 6. The actual values for the DIAAS cut-off points in the context of making claims requires careful further consideration (e.g. in relation to national and local dietary patterns).
+It is recommended that a "quality" statement related to protein (e.g., source of quality protein) be allowed.
+When calculating the DIAAS of new formulations of foods supplemented with crystalline amino acids, DIAAS should be confirmed by biological testing.
+44 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+Table 6.
+Example of the use of DIAAS for protein quality assessment in the context of making claims.
+Food Amount Protein DIAAS1 judged Eligible for Eligible for content quality claim based claim based
+(g/100g) on quantity on quantity and quality
+Wheat 100 g 11 40 Low Yes, high No, none
+Peas 100 g 21 64 Low Yes, high No, none
+Whole milk 100 g 28 122 High Yes, high Yes, High powder
+1 DIAAS calculated using true ileal indispensable amino acid digestibility values and reference amino acid pattern for child (6
+months to 3 years).
+Protein sources for which there are no previous data available must be subjected to biological evaluation for protein quality.
+The Committee recommends that a full published set of guidelines for industry be developed (including recommendations on methods for biological testing), along with a published set of dietary guidelines aimed at providing advice to consumers and policy-makers.
+4.9 RECOMMENDATIONS FOR FURTHER RESEARCH
+Human amino acid requirements
+1. Determine amino acid requirements for subjects fully adapted to lower than usual protein intakes, especially the current mean protein intake of 0.66 g protein/kg/day.
+A recent study has provided an estimate for the mean adult protein requirement of
+0.91 g protein/kg/day. The relevance of such a finding in relation to other recent experimental findings and to the overall data on the mean adult requirement needs to be carefully assessed.
+2. Determine amino acid requirements in different conditions and circumstances, such as in children, pregnancy, aging and exercise, as well as gender effects.
+3. Further validate existing methodologies by comparison with long-term outcomes of body composition and possibly functional outcomes.
+4. Investigate the role of specific amino acids as regulators of metabolism and other functions in various physiological and clinical states, and how such actions of specific amino acids would affect the amino acid profile of the reference protein for DIAAS calculation.
+5. Determine the importance of dietary dispensable amino acid intake, and determine if there are circumstances in which account should be taken of the dispensable amino acids in calculating the DIAAS value of a protein.
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 45
+6. Explore new approaches for determining amino acid requirements, including the use of gene expression studies (including nutrigenomics), metabolomics and/or specific biomarkers.
+7. Explore the implications of dietary protein quality on lifetime health and longevity.
+Analytical
+To update and expand the FAO database of amino acid contents of foods and include true ileal amino acid digestibility data.
+Ileal digestibility
+1. Further determine true ileal digestibility of protein and amino acids in a wider range of foods and determine the ileal digestible tryptophan content of human milk.
+2. Develop non-invasive accurate methods to determine or predict true ileal dietary protein and amino acid digestibility in humans based on identified biomarkers.
+3. Validate the use of animal model data (including providing more robust inter-species prediction equations for true ileal amino acid digestibility) to quantify ileal digestibility in humans, including relating digestibility to functional outcomes.
+4. Determine more fully the role of the small intestinal and colonic microflora on ileal amino acid digestibility values.
+5. Develop new bioavailability assays such as the reactive lysine assay, for other amino acids.
+6. Develop and validate in vitro methods for predicting amino acid digestibility and bioavailability in humans.
+Evaluation and perfection of techniques to directly measure the bioavailability of protein bound dietary amino acids in humans
+While DIAAS, combining ileal amino acid digestibility with predicted bioavailability identified as the amino acid score, is a step forward it is still dependent on the score accurately predicting the biological value of the absorbed amino acid mixture and hence the overall protein quality. Because the actual metabolic demand and requirement for amino acids is complex and not fully understood, any approach to predicting protein quality will likely be imperfect to a greater or lesser extent. The stable isotope methods outlined above offer additional useful information about dietary protein quality in human nutrition, but each has limitations of one sort or another in their application.
+Nevertheless these or other novel approaches need to be further developed. Methods using metabolomics approaches and relating complex metabolite profiles from plasma and urine samples to protein and amino acid true ileal digestibility and availability offer a promising perspective for the evaluation of dietary protein quality in humans.
+46 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+Impact of interaction between bioactive factors and protein quality and function
+1. Investigate bioactive factors intrinsically associated with specific proteins [such as peptides resulting from digestion, trypsin inhibitors, lectins, isoflavones (e.g., genistein), etc.].
+2. Assess nutrient interactive effects during or after digestion that may enhance or depress the bioactivity of the test protein, or may have independent effects, for example, phytic acid, plant fibre, sugars.
+3. Determine the effect of the nature and amount of simultaneous non-protein energy intake on the bioactivity of the test protein.
+Communication
+1. FAO to prepare a manual to provide guidance to policy makers, industry and the public on dietary protein quality evaluation and the use of DIAAS in making protein related claims.
+2. FAO to prepare guidance on integrating aspects of dietary protein quality evaluation into food based dietary guidelines to provide advice for consumers and policy makers.
+3. Incorporation of indicators of protein quality (e.g., lysine value) into food balance sheets for national and global applications.
+Animal and plant breeding, food preparation and processing effects
+1. Determine effects of food preparation and processing methods to optimize dietary protein quality and protein utilization.
+2. Generate data at the level of the genetic resource (i.e., biodiversity and biotechnology) on amino acid composition and digestibility related to sustainability issues and to lead to the recognition of existing and the development of new environmentally sustainable higher protein quality foods.
+4.10 STRENgTH OF EvIDENCE USED IN MAKINg THE RECOMMENDATIONS
+Preamble
+The 2011 FAO Expert Consultation focused on the current state of knowledge relating to amino acid digestibility and availability in foods, and methodologies in which these values, together with the amino acid composition of dietary protein, are used for predicting dietary protein quality in the human diet. Such prediction involves comparing the dietary amino acid supply in terms of the composition, digestibility and bioavailability of amino acids in dietary protein with estimates of protein and amino acid requirements represented by reference amino acid scoring patterns. These latter values were the subject of the 2007 FAO/WHO/UNU expert consultation report and the values per se
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 47
+were not re-examined in this report apart from a careful consideration of the reference amino acid scoring patterns (i.e. age related amino acid requirements per gram of protein requirements), which are proposed for use in this report (see Table 5). The main work of the presently reported consultation involved an analysis of the strengths and weaknesses of the existing PDCAAS classification compared with the proposed replacement DIAAS approach. It is thus important to assess the 'strength of evidence' underlying the conclusions reached by the Committee in relation to the proposed eventual change to the new approach.
+In reaching their conclusions and making recommendations after assessing the scientific evidence, the Expert Consultation Committee was mindful of discussions in previous FAO/WHO reports of the hierarchy of strength of evidence.
+A hierarchy of evidence
+In the most recent FAO report (Fats and Fatty Acids in Human Nutrition, FAO 2010) and in the context of defining dietary requirements for fatty acids, general criteria were identified, namely:
+- To prevent clinical deficiencies.
+- To provide optimal health.
+- To reduce the risk of developing chronic disease.
+Figure 3.
+Ranking of the validity of types of evidence for establishing dietary fatty acid requirements (favourability decreasing from left to right)1
+Randomized Animal studies controlled trials of disease outcomes > Randomized >>> Retrospective >> > Case controlled case control Prevalence series/
+Prospective trials of studies of studies
+Case report cohort studies physiological disease of disease measures outcomes outcomes
+(including Ecological nested case- studies control studies)
+1 Adapted from the 2010 FAO report on recommendations for Fats and Fatty Acids, FAO Food and Nutrition Paper (2010), (FAO,
+2010).
+48 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+In addition physiological measures were identified in which risk factors known to be associated with specific disease outcomes might be assessed as an indirect measure of chronic disease risk reduction. Equilibrium maintenance is another approach and is the balance of nutrient intake and loss, which can be determined directly or predicted in factorial estimates of intakes that balance losses and supply additional needs. Finally animal model studies that have evaluated disease outcomes or physiological measures have been used as supporting evidence for recommendations.
+Because intakes that prevent clinical deficiency are, for almost all nutrients, much lower than intakes that reduce the risk of chronic disease, it has been argued that they can be judged as sub-optimal and lower than likely recommended intakes. Thus reducing the risk of developing chronic disease became the main criterion for setting fatty acid requirements. This was further discussed in relation to a ranking system for the evidence from relevant studies (i.e. studies of diet-disease outcomes, of physiological measures and animal studies) with randomized controlled trials, (RCT) of disease outcomes most highly rated, and case reports least important in the hierarchy (see Figure 3).
+Strength of evidence pertaining to this consultation
+Amino acid scoring patterns
+This Consultation was only concerned with setting nutrient requirements in relation to identifying appropriate amino acid scoring patterns. These derive from the 2007 report on Protein and Amino Acid Requirements in Human Nutrition (WHO/FAO/UNU, 2007) and the current Consultation has accepted the appropriate values. In that report it was stressed that there is a paucity of long-term prospective studies examining health outcomes. In fact no evidence of relationships between protein or amino acid intakes and health and/or disease was found which was sufficient to identify intakes associated with either optimal health or to reduce the risk of developing chronic disease. Indeed for protein and amino acids, as with many individual nutrients, intake-health relationships are mainly limited to case reports with few examples of sufficient evidence to warrant a meta analysis or systematic review to establish the strength of any relationship, and virtually none which include sufficient dose-response data to identify a suitable intake level.
+For example dietary protein intakes have long been discussed as an influence on bone health with evidence for both adverse and beneficial influences, but to date only one meta analysis of the relationship has been published (Darling et al., 2009). Although this identified some positive effects that indicate a small benefit of protein on bone health, it is insufficient evidence to alter current estimates of protein requirements. Similarly there is a large literature on the wide ranging influences of leucine on human physiology and metabolism which have made it subject to special interest, but to date none of these studies has led to revised estimates of the leucine requirement (Millward, 2012c). For this reason it was not possible to apply strictly the hierarchy of evidence as discussed in the 'Fats and Fatty Acids in Human Nutrition' report (FAO, 2010) in the evaluation of the evidence base.
+Chapter 4: Findings and recommendations of the 2011 FAO Expert Consultation on Protein
+Quality Evaluation in Human Nutrition 49
+In practice current estimates of protein requirements have been derived from nitrogen balance studies in adults with estimates of amino acid requirements deriving from a combination of nitrogen balance studies and various stable isotope studies in adults with physiological or metabolic endpoints, (e.g. amino acid balance or isotope oxidation).
+The outcomes of these studies have been used to predict requirements for children and pregnant and lactating women by means of a factorial method together with descriptive, observational data on breast milk amino acid composition used to define the amino acid requirements of infants. In the 2007 WHO/FAO/UNU report all of these approaches were deemed to be subject to limitations of one kind or another with none judged as ideal.
+This Consultation recognises the inherent limitations in currently accepted values of protein and amino acid requirements identified in this report as amino acid scoring patterns. Further studies are clearly needed that include chronic disease related outcomes and functional studies as delineated in Figure 2 of this report. It is also noted that with very few exceptions, N-balance studies of the protein requirement have not included measures of specific physiological outcomes. It is recommended that future studies of the protein requirement incorporate where possible measures of specific physiological outcomes.
+Examples of physiological measures and chronic disease outcomes related to setting criteria for dietary protein and amino acid recommendations might include pregnancyinduced hypertension, intrauterine infections and foetal growth retardation. For young children they would include wasting and stunting, frequency of infections, and overall mortality. For older children they would include stunting, rates of infection and cognitive performance. For adults, relevant outcomes might be undernutrition and frequency of infections, muscle strength and labour productivity and in terms of excessive dietary protein intake, bone health, hypertension, muscle strength and work capacity. For the elderly, sarcopenia, bone health, cognitive decline, immune function and infections, work capacity, hypertension, renal disease, obesity and diabetes would be considered.
+The primary strength of using disease outcomes as an indicator of adequacy or optimal intake is that they represent the most direct method to assess effects on health. However, an important drawback of using disease outcomes is that because they are affected by multiple nutrients, and their interaction with genotype, they are unlikely, to be specific to individual amino acids.
+Protein quality evaluation by DIAAS
+The proposed change from protein digestibility as indicated by faecal nitrogen excretion to ileal amino acid digestibility is based on a consideration of a current understanding of the physiology of protein digestion and amino acid and nitrogen absorption in humans.
+This understanding derives from experimental studies in humans over many years together with experimental studies in monogastric animals especially rodents and pigs.
+The nature of these studies is diverse and consequently the evaluation of the strength of the arguments that an amino acid score calculated from ileal amino acid digestibility is
+50 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation a better predictor of human dietary protein quality than one adjusted by faecal nitrogen digestibility is a difficult task especially in the context of any hierarchical framework of evidence as discussed above. This is because the experimental studies that have generated the evidence base cannot be easily categorised and ranked by type of study as can be done for diet-disease relationships. The experimental studies have involved a wide range of quite different experimental approaches to the study of intestinal protein, amino acid and nitrogen metabolism and absorption. Furthermore it is the case that these processes are by no means fully understood, to the extent that legitimate differences of opinion remain especially about the amino acid and nitrogen transactions in the human colon. Because of this, the decision that the DIAAS approach is more likely to enable accurate prediction of dietary protein quality than PDCAAS was reached on the basis of a collective judgement of the members of the Consultation. Because the assessment of ileal amino acid digestibility is inherently more difficult than that of faecal nitrogen digestibility the Consultation considered the balance between the potential benefit from application of DIAAS and the difficulty of its determination compared with that of PDCAAS. The outcome of that deliberation is described in Section IV, under: "Correction for amino acid digestibility and availability in the calculation of DIAAS".
+Direct evaluation of protein quality
+On the basis that an evidence base relating dietary protein and amino acid intakes with measureable short and long term health outcomes (as indicated in Figure 2 of this report) will accumulate, the Consultation identifies an urgent need to conduct appropriate research investigating the direct influence of the quality of dietary protein on such dietary protein-related health outcomes in well-controlled studies undertaken with human subjects directly.
+Appendices 51
+Appendices:
+Appendix I:
+FAO Expert Consultation on Protein
+Quality Evaluation
+31 March - 2 April 2011
+Auckland, New Zealand, SKYCITY Auckland Convention Centre, 88 Federal Street, Auckland
+DRAFT MEETINg OBjECTIvES:
+1. Review effectiveness and use of the PDCAAS method for evaluating protein quality since its adoption in 1991.
+2. Review current concerns and limitations of the PDCAAS method as reported in the literature.
+3. Review advantages and disadvantages of other methods for evaluating protein quality.
+4. Provide justifications and recommendations for accepting, rejecting or modifying the
+PDCAAS method.
+5. Provide list of recommendations for protein quality assessments and applications.
+6. Recommend further research activities related to protein quality assessments.
+DRAFT PROgRAMME:
+DAy 1:
+08:30 ■ Welcome and introductions
+■ Election of Chair
+■ Election of Vice-Chair and Rapporteurs
+■ Approval of agenda
+■ Overview of recommendations from the last Expert Consultation
+■ Presentation of objectives for the current Expert Consultation
+52 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+10:30 ■ Presentation of Background Information
+■ Human amino acid requirements
+Professor Joe Millward, University of Surrey, UK
+■ Advantages/limitations of the PDCAAS as a method for evaluating protein quality in human diets
+Professor Gertjan Schaafsma, HAN University, The Netherlands
+■ Historical overview of PDCAAS calculation
+Dr Joyce Boye, Food and Agriculture Organization, Rome
+11:45 ■ Presentation of specific issues to be considered by Science Experts
+13:30 ■ Discussion Session 1
+ISSUE 1: Truncation of PDCAAS scores for proteins with higher than
+100% scores to 100%.
+(At issue: Additional benefit of proteins with higher scores in complementing less nutritious proteins is not captured). Discussions and Recommendation.
+ISSUE 2: validity of the use of the preschool-age child amino acid requirement values.
+(At issue: Does current knowledge support this? Also, is there a need to consider conditionally indispensable amino acids?). Discussions and
+15:30 ■ Health Break
+16:00 ■ Discussion Session 1 (continued...)
+ISSUE 3: Use of the amino acid composition of human milk in predicting protein quality of foods for infants.
+(At issue: Review of literature to assess the suitability of the FAO/WHO/UNU
+(1985) reference values for amino acid composition of human milk for use in predicting protein quality of foods for infants). Discussions and
+18:00 ■ End of Day 1
+Appendices 53
+DAy 2
+08:30 ■ Welcome remarks
+08:40 ■ Discussion Session 2
+ISSUE 4: Amino acid analysis methodology.
+(At issue: Review of IEC and HPLC methods for the determination of amino acids in foods and faeces/digesta with the objective of adopting a standardized method for this analysis.). Discussions and Recommendations.
+ISSUE 5: Use of (a) faecal vs ileal protein/amino acid digestibility and (b) true versus apparent digestibility in calculating PDCAAS values.
+(At issue: Faecal digestibility may overestimate digestibility due to microbial degradation in the large intestines. Also effect of age on faecal and ileal protein/amino acid digestibility not clarified. Is the rat still an acceptable model? Are there any developments in in vitro digestibility measurements?).
+Discussions and Recommendations.
+10:30 ■ Discussion Session 2 continued...
+ISSUE 6: Bioavailability vs digestibility of proteins.
+(At issue: Is there a need to include corrections for the bioavailability of individual amino acids and not just for digestibility of protein?). Discussions and
+13:30 ■ Discussion Session 3
+ISSUE 7: Impact of anti-nutritional factors associated with proteins, including naturally occurring and those formed during processing.
+(At issue: The effect of process modifications and the presence of antinutritional components in some protein sources may impact protein quality).
+Discussions and Recommendation.
+54 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+ISSUE 8: Significance of PDCAAS values in practical terms.
+(At issue: Humans consume proteins from varied protein sources. PDCAAS values of single protein sources may not have practical significance.
+Calculation of PDCAAS in mixed diets.).
+15:30 ■ Health Break
+16:00 ■ Discussion Session 3 continued...
+ISSUE 9: Regulatory issues (Codex vs national guidelines)
+(At issue: How can countries use recommended protein quality methodology for regulatory purposes?). Discussions and Recommendation.
+Evening
+17:00-19:00 ■ First meeting of drafting committee
+DAy 3
+8:30 ■ Welcome remarks
+8:40 ■ Discussions and recommendations on further research work and data needed.
+(Examples of some issues requiring consideration: (a) Human sulphur amino acid requirements (cysteine vs methionine); (b) Possible adverse effects of
+
+amino acid content of foods data and need for national data; (d) Others).
+10:30 ■ Review of Report and Recommendations
+13:30 ■ Second meeting of drafting committee.
+Final review and adoption of report and recommendations.
+17:00 ■ Adjournment
+Appendices 55
+Appendix II
+Attendance at the Expert Consultation on
+Protein Quality in Human Nutrition
+31 March - 2 April 2011
+Dr Jaime Amaya-Farfan Dr Ricardo Uauy (Vice-Chair of the Consultation)
+Professor Professor
+Department of Food and Nutrition Planning Universidad de Chile
+Faculty of Food Engineering Macul 5540
+University of Campinas Santiago de Chile
+Campinas Chile
+Sao Paulo
+Brazil Dr Daniel Tomé
+Professor in Human Nutrition
+Dr G Sarwar Gilani AgroParis Tech
+Senior Research Scientist 16 rue Claude Bernard
+Nutrition Research Division F 75005 Paris
+Health Products and Food Branch France
+Health Canada, Government of Canada
+251 Sir Frederick Banting Driveway Dr Anura V Kurpad
+Ottawa, Ontario Dean
+Canada St. John's Research Institute
+St. John's National Academy of Health Sciences
+Dr Paul Pencharz (Rapporteur) Bangalore-560 034
+Professor of Paediatrics and Nutritional Kamataka
+Sciences (Emeritus) India
+Division of Gastroenterology and Nutrition,
+University of Toronto Prof Kyoichi Kishi
+The Hospital for Sick Children, Department of Nutrition
+Toronto, Ontario School of Medicine
+Canada University of Tokushima
+Tokushima, 770
+Japan
+56 Dietary protein quality evaluation in human nutrition: Report of an FAO Expert Consultation
+Dr Gertjan Schaafsma Dr Robert R Wolfe
+Consultant and Professor Professor, Department of Geriatrics
+Sports Nutrition and Lifestyle Research Group Director, Center for Translational Research
+HAN University in Aging and Longevity
+Arnhem-Nijmegen Texas A&M University
+Netherlands College Station, Texas 77843
+United States of America
+Dr Margriet Westerterp-Plantenga
+Professor of Regulation of Food Intake Dr Malcolm Fuller (Rapporteur)
+Department of Human Biology Honorary Research Professor
+Maastricht University Medical Centre Department of Surgery
+6200 MD Maastricht State University of New York
+Netherlands Stony Brook, NY 11794-3760
+United States of America
+Prof Paul J Moughan (Chair of the Consultation)
+Distinguished Professor and Co-Director FAO SECRETARIAT
+Riddet Institute
+Massey University Dr Barbara Burlingame
+Private Bag 11222, Palmerston North, Principal Officer
+New Zealand Nutrition and Consumer Protection Division
+Food and Agriculture Organization of the
+Prof Hettie Schonfeldt (Rapporteur) United Nations
+Associate of the Institute of Food, Nutrition Viale delle Terme di Caracalla and Well-being 00153 Rome,
+Department of Animal and Wildlife Sciences Italy
+University of Pretoria
+Pretoria Dr Joyce Boye (Seconded to FAO)
+South Africa Senior Research Scientist
+Food Research and Development Centre
+Prof Joe Millward Agriculture and Agri-Food Canada
+Professor of Human Nutrition 3600 Casavant Blvd. West
+Director, Centre for Nutrition and Food Safety, St-Hyacinthe, Quebec J2S 8E3
+School of Biomedical and Molecular Sciences, Canada
+University of Surrey
+Guildford, Surrey
+United Kingdom
+References 57

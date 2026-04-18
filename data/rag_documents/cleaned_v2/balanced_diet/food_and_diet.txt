@@ -1,0 +1,459 @@
+]tn irP
+]e n iln
+O
+[
+
+[
+
+9-9-
+
+N N
+
+SS
+SS
+
+FAOSTAT ANALYTICAL BRIEF 113
+
+HIGHLIGHTS
+
+→ Globally, the daily per capita availability of fat and riboflavin (vitamin B2) showed the largest increases between 2010 and 2023, each rising by
+15 percent or more, while that of carbohydrate (excluding fibre), and energy increased the least, with a rise of 3 and 7 percent, respectively.
+→ Statistics from 59 household surveys conducted in 34 countries between 2010 and 2024 show that the lowest income quintile had a lower apparent at-home protein intake from animal sources than people from the highest income quintile.
+→ At the individual level, data from the Mexico National Health and Nutrition
+Survey of 2016 showed that cereals contributed more to the daily food consumption of males than females. Milk, vegetables and fruits contributed more to the daily food consumption of females than males.
+→ The Minimum Dietary Diversity for Women (MDD-W) indicator from 25
+individual surveys in 23 countries show that the percentage of women achieving MDD-W ranges from 13 percent in Uganda in 2020 to
+80 percent in Tajikistan in 2017.
+
+FOOD AND DIET
+
+BACKGROUND
+
+One of the main obstacles towards a healthy diet for all is the insufficiency of available data and statistics on food and nutrition to support effective evidence-based policies. Despite the increasing availability of data, policymakers are often not aware of their existence or their relevance, and consequently these data are not used properly or to their full potential (HLPE, 2023). An added challenge is the scattered location of such data and statistics, and the lack of a centralized structure to house harmonized statistics on food and nutrition from different types of dietary data. As a result of this, teams from three divisions1
+of the Food and Agriculture Organisation of the United Nations (FAO) created an integrated food and diet domain available through FAOSTAT (FAO's comprehensive statistical database on food, agriculture, fisheries, forestry, natural resources management and nutrition).
+Launched in February 2024, and updated in November 2024 and October 2025, the food and diet domain is the first centralized location for the sharing of statistics on different forms of dietary-related data. The domain is composed of four subdomains presenting availability based on FAO supply utilization accounts (SUA) data for 178 countries from 2010 to 2023,2 apparent intake3 based on 59
+1 The Nutrition Assessment team from the FAO Food and Nutrition Division (ESN); the Food Security and Nutrition
+Statistics team, the Crops, Livestock and Food Statistics team from the FAO Statistics Division (ESS); and the
+Statistics team from the FAO Fisheries and Aquaculture Division (NFI).
+2 The global figures presented for SUA in this analytical brief are derived from data aggregated across all countries even though data for some countries are not published.
+3 Statistics from HCES are usually labelled as "apparent consumption" (Fiedler, 2013); however, in welfare analyses, the term "consumption" may refer to food and non-food expenditures, hence the use of the term "apparent intake".
+household consumption and expenditure surveys (HCES) conducted in 34 countries between 2010 and
+2024; intake based on eight nationally representative individual quantitative dietary data surveys from five countries; and statistics related to the Minimum Dietary Diversity for Women (MDD-W) indicator from 25 surveys conducted in 23 countries.
+
+AVAILABILITY FROM SUPPLY UTILIZATION ACCOUNTS DATA
+
+Global supply of energy and selected nutrients increased between 2010 and 2023, although the rate of increase differed by nutrient. The global availability of fat and riboflavin (vitamin B2) showed the strongest increases, each rising by 15 percent or more, followed by calcium (14 percent) and vitamin A (in retinol activity equivalents (RAE)) (12 percent). Carbohydrate (available, i.e. excluding fibre) and energy increased the least, by 3 percent and 7 percent, respectively.
+Figure 1: Change in global daily per capita availability of energy and nutrients from all food groups between 2010 and 2023
+0% 2% 4% 6% 8% 10% 12% 14% 16%
+Fat
+Riboflavin
+Calcium
+Vitamin A (in RAE)
+Potassium
+Dietary fibre
+Phosphorus
+Iron
+Vitamin C
+Protein
+Magnesium
+Zinc
+Thiamin
+Energy
+Carbohydrate, available
+Note: RAE = retinol activity equivalents
+Source: FAO. 2025. FAOSTAT: Availability (Supply utilization accounts). [Accessed October 2025].
+Figure 2 shows that the global iron supply in 2023 was mainly provided by cereals (37 percent);
+vegetables (19 percent); pulses, seeds and nuts (11 percent); meat (9 percent); and roots, tubers and plantains (6 percent). Together, these five food groups accounted for 82 percent of the global daily per capita iron supply.
+Each food group contributes differently to the global supply of a given nutrient. For example, milk made the largest contribution to the global calcium supply (42 percent of the total), while it represented only
+1 percent of the global vitamin C supply. Cereals made the largest contributions to the supply of carbohydrate (available, i.e. excluding fibre), thiamin, magnesium, energy, dietary fibre, zinc, phosphorus, iron, protein and riboflavin.
+For aquatic products,4 nine additional nutrients (such as selenium) were calculated due to their relevance for this food group. The availability of selenium for human consumption at the global level,
+4 Aquatic products are distributed across four of the 20 food groups, namely fish and shellfish, vegetables (for aquatic plants), meat (for aquatic mammal meat), and fats and oils (for fish oil).
+sourced only from fish and shellfish products in 2023, is estimated at 11 μg per capita per day. However, considerable differences exist across countries. For example, in the Maldives, the availability of selenium sourced only from fish and shellfish products was estimated at 55 μg per capita per day in
+2023 compared with 1 μg per capita per day in Zimbabwe (Figure 3).
+Figure 2: Global iron supply by food group (2023)
+Other
+18%
+Cereals
+Roots, tubers, 37% plantains
+6%
+Meat
+9%
+Pulses, seeds and nuts
+11%
+Vegetables
+19%
+Note: Other includes (in descending order) spices and condiments; fruits; eggs; sweets and sugars;
+fish, shellfish; milk; beverages; foods for particular nutritional uses; miscellaneous and fats and oils.
+Source: FAO. 2025. FAOSTAT: Availability (Supply utilization accounts). [Accessed October 2025].
+Figure 3: Supply of selenium sourced only from fish and shellfish products, top countries and territories and world average (2023)
+
+y a d 50
+r e p 40
+a t ip 30
+a c 20
+r e p 10
+g
+μ
+
+Source: FAO. 2025. FAOSTAT: Availability (Supply utilization accounts). [Accessed October 2025].
+APPARENT INTAKE FROM HOUSEHOLD CONSUMPTION AND EXPENDITURE SURVEY DATA
+Statistics on vitamin B12 were computed for 28 countries out of 34 due to data gaps in food composition tables/databases (FCTs). Fish and shellfish were the main providers of vitamin B12, for at-home intake, in 16 out of the 28 countries. The United Republic of Tanzania (in 2018) had the highest vitamin B12
+apparent intake from fish and shellfish due to the high apparent consumption of dried fish (Table 1).
+Statistics by income group were computed for the 30 countries out of 34 for which the HCES data include information on income,5 aggregated at the household level (Figure 4). In these countries, people from the lowest income quintile had a consistently lower apparent at-home protein intake from animal sources compared with people from the highest income quintile. In Malawi (2020) and Niger (2022) people in the highest income quintile had almost double the at-home protein intake from animal sources compared with people in the lowest income quintile. Chile (2022) had the smallest difference in at-home protein intake from animal sources between the highest (38.0 g per capita per day) and the lowest (26.6 g per capita per day) income quintiles.
+Figure 4: At-home protein apparent intake from animal source foods by income group
+
+y a d 60
+r e p 50
+a tip 40
+a 30
+
+r e 20
+p g 10
+
+810 2
+an itn e grA
+2 202
+ain em rA
+22 02
+n in eB
+510 2
+-
+)fo e tatS lan o itan iru lP ( aivilo
+220 2
+o saF an ikru B
+2 202
+e lih C
+910 2
+aciR atso C
+220 2
+e rio vI'd e tô C
+2 202
+aip o ih tE
+4 102
+alam e tau G
+220 2
+u assiB -ae n iu G
+210 2
+aid n I
+42 02
+n atsh kazaK
+6 102
+ayn eK
+0 202
+itab iriK
+020 2
+iw alaM
+2 202
+ilaM
+22 02
+o cixe M
+5 102
+ram n ayM
+220 2
+regiN
+91 02
+airegiN
+320 2
+u reP
+81 02
+ao m aS
+2 202
+lagen eS
+3 102
+sd n alsI n o m o lo
+S
+22 02
+ailam o S
+2 202
+o go T
+610 2
+agn o T
+81 02
+ain azn aT fo cilb u p eR d e tin
+U
+71 02
+yau gu rU
+B
+Highest income quintile Lowest income quintile
+Source: FAO. 2025. FAOSTAT: Apparent intake (Household consumption and expenditure surveys).
+[Accessed October 2025]. Licence: CC-BY.4.0.
+Data are representative for urban and rural areas in 31 of 34 countries, and it was possible to compute vitamin A statistics for 28 of them. Urban areas had a higher daily per capita apparent vitamin A intake
+(in μg of retinol activity equivalents) than rural areas in 24 out of the 28 countries (Table 2). Importantly, apparent intake of vitamin A cannot be compared across countries because in some countries the nutrient content of specific foods (e.g. cereal flours and oils) included fortified food items.6
+5 Total consumption expenditure was used as a proxy for income when no information on income was collected.
+6 The surveys including at least one food matching with a vitamin A fortified food include: Benin (2022), Burkina
+Faso (2022), Côte d'Ivoire (2022), Guinea-Bissau (2022), Kenya (2016), Malawi (2020), Mali (2022), the Niger
+(2022), Nigeria (2019), Senegal (2022), Somalia (2022) and Togo (2022).
+Table 1: Apparent vitamin B12 at-home intake for animal source foods with the 95 percent confidence level
+Eggs and their Fish, shellfish and Meat and meat Milk and milk products their products products products
+Average [lower bound, upper bound] in micrograms (μg) per capita per day
+Argentina - 2018 0.11 [0.07, 0.15] 0.10 [0.04, 0.16] 3.12 [2.39, 3.85] 0.65 [0.44, 0.85]
+Armenia - 2022 0.39 [0.37, 0.40] 0.23 [0.20, 0.25] 1.04 [1.00, 1.08] 0.59 [0.58, 0.60]
+Benin - 2022 0.04 [0.04, 0.04] 2.78 [2.65, 2.90] 0.48 [0.43, 0.52] 0.09 [0.08, 0.10]
+Bolivia (Plurinational
+0.10 [0.09, 0.11] 0.17 [0.14, 0.19] 2.11 [1.98, 2.25] 0.49 [0.46, 0.53]
+State of) - 2015
+Burkina Faso - 2022 0.01 [0.01, 0.01] 1.86 [1.76, 1.96] 0.17 [0.15, 0.20] 0.10 [0.09, 0.12]
+Chile - 20227 0.17 [0.17, 0.18] 0.60 [0.56, 0.65] 1.56 [1.51, 1.61] 0.72 [0.70, 0.74]
+Costa Rica - 2019 0.20 [0.18, 0.21] 0.31 [0.28, 0.33] 1.26 [1.16, 1.36] 0.69 [0.66, 0.72]
+Côte d'Ivoire - 2022 0.05 [0.05, 0.06] 1.26 [1.21, 1.31] 1.09 [1.00, 1.18] 0.09 [0.08, 0.09]
+Ethiopia - 20228 0.05 [0.04, 0.06] 0.02 [0.00, 0.03] 0.16 [0.12, 0.20] 0.21 [0.18, 0.23]
+Guatemala - 2014 0.16 [0.16, 0.17] 0.13 [0.11, 0.14] 0.92 [0.87, 0.96] 0.26 [0.24, 0.28]
+Guinea-Bissau - 2022 0.04 [0.04, 0.04] 1.14 [1.07, 1.21] 0.61 [0.53, 0.69] 0.08 [0.08, 0.09]
+Kazakhstan - 2024 0.27 [0.26, 0.28] 1.52 [1.42, 1.61] 5.12 [4.82, 5.42] 1.03 [1.00, 1.06]
+Kenya - 2016 0.08 [0.07, 0.08] 1.81 [1.66, 1.95] 0.59 [0.53, 0.64] 0.97 [0.95, 1.00]
+Kiribati - 2020 0.01 [0.01, 0.01] 4.76 [4.40, 5.11] 0.47 [0.42, 0.51] 0.12 [0.10, 0.14]
+Malawi - 2020 0.06 [0.06, 0.06] 2.32 [2.13, 2.51] 0.19 [0.18, 0.20] 0.05 [0.04, 0.05]
+Mali - 2022 0.02 [0.01, 0.02] 1.67 [1.50, 1.83] 0.41 [0.36, 0.45] 0.17 [0.15, 0.18]
+Mexico - 2022 0.31 [0.31, 0.32] 0.15 [0.14, 0.15] 0.99 [0.97, 1.01] 0.63 [0.62, 0.64]
+Niger - 2022 0.01 [0.00, 0.01] 0.11 [0.09, 0.14] 0.28 [0.23, 0.32] 0.13 [0.11, 0.14]
+Nigeria - 2019 0.06 [0.05, 0.06] 1.81 [1.75, 1.87] 0.28 [0.27, 0.29] 0.06 [0.06, 0.06]
+Samoa - 2018 0.05 [0.04, 0.05] 1.76 [1.60, 1.93] 0.86 [0.81, 0.92] 0.13 [0.11, 0.15]
+Senegal - 2022 0.03 [0.03, 0.03] 4.43 [4.24, 4.62] 0.35 [0.31, 0.38] 0.29 [0.27, 0.31]
+Solomon Islands - 2013 0.02 [0.01, 0.03] 4.29 [3.30, 5.29] 0.09 [0.06, 0.12] 0.00 [0.00, 0.00]
+Somalia - 2022 0.02 [0.02, 0.03] 0.13 [0.12, 0.15] 1.58 [1.44, 1.73] 0.61 [0.59, 0.62]
+Timor-Leste - 2014 0.06 [0.06, 0.07] 1.10 [0.96, 1.24] 0.23 [0.20, 0.25] 0.01 [0.01, 0.02]
+Togo - 2022 0.02 [0.02, 0.02] 1.88 [1.76, 2.01] 0.25 [0.21, 0.28] 0.03 [0.03, 0.04]
+Tonga - 2016 0.08 [0.07, 0.10] 3.31 [2.66, 3.95] 1.53 [1.45, 1.62] 0.16 [0.14, 0.18]
+United Republic of
+0.01 [0.01, 0.01] 11.3 [10.5, 12.1] 0.42 [0.38, 0.47] 0.17 [0.14, 0.20]
+Tanzania - 20189
+Uruguay - 2017 0.14 [0.13, 0.15] 0.20 [0.18, 0.22] 2.95 [2.84, 3.05] 1.28 [1.25, 1.32]
+Source: FAO. 2025. FAOSTAT: Apparent intake (Household consumption and expenditure surveys).
+[Accessed October 2025]. Licence: CC-BY-4.0.
+7 Corresponds to urban areas of the country's regional capitals and their suburban areas.
+8 Excludes the Tigray region.
+9 Excludes Zanzibar.
+Table 2: Apparent vitamin A intake in urban and rural areas with the 95 percent confidence level
+Average [lower bound, upper bound] in micrograms (μg) of retinol activity equivalents per capita per day
+Afghanistan - 2020 208 [200, 216] 231 [216, 245]
+Armenia - 2022 376 [360, 392] 408 [395, 421]
+Bangladesh - 2016 277 [270, 284] 303 [289, 317]
+Benin - 2022 1 868 [1 789, 1 946] 1 875 [1 799, 1 950]
+Burkina Faso - 2022 262 [241, 283] 409 [378, 441]
+Costa Rica - 2019 361 [336, 385] 481 [457, 504]
+Côte d'Ivoire - 2022 1 476 [1 379, 1 572] 1 321 [1 240, 1 401]
+Ethiopia - 202210 111 [98, 125] 184 [168, 201]
+Guatemala - 2014 414 [391, 437] 639 [611, 667]
+Guinea-Bissau - 2022 1 007 [955, 1 060] 1 382 [1 309, 1 455]
+India - 2012 308 [303, 313] 259 [255, 262]
+Kazakhstan - 2024 901 [833, 970] 1 027 [985, 1 070]
+Kenya - 2016 552 [519, 585] 360 [349, 371]
+Kiribati - 2020 238 [217, 258] 240 [194, 285]
+Malawi - 2020 386 [370, 403] 495 [455, 534]
+Mali - 2022 302 [270, 333] 625 [592, 657]
+Mexico - 2022 344 [338, 351] 447 [440, 453]
+Myanmar - 2015 277 [261, 293] 294 [272, 316]
+Niger - 2022 294 [277, 311] 622 [572, 671]
+Nigeria - 2019 431 [421, 441] 486 [473, 500]
+Pakistan - 2019 257 [252, 262] 280 [273, 286]
+Samoa - 2018 304 [284, 324] 329 [296, 361]
+Senegal - 2022 775 [743, 807] 1 134 [1 105, 1 163]
+Solomon Islands - 2013 355 [328, 382] 323 [305, 340]
+Somalia - 2022 223 [194, 252] 431 [390, 473]
+Togo - 2022 844 [789, 898] 1 002 [953, 1 052]
+Tonga - 2016 487 [446, 528] 653 [548, 756]
+United Republic of Tanzania - 201811 177 [167, 186] 251 [226, 275]
+Source: FAO. 2025. FAOSTAT: Apparent intake (Household consumption and expenditure surveys).
+[Accessed October 2025]. Licence: CC-BY-4.0.
+10 Excludes the Tigray region.
+11 Excludes Zanzibar.
+
+INTAKE FROM INDIVIDUAL QUANTITATIVE DIETARY DATA
+
+Data from individuals aged 1 - 98 years in the Mexico National Health and Nutrition Survey (2016) show that the most consumed food groups were cereals, milk, fruits, vegetables and meat.12 Cereals contributed more to the daily food intake of males (23 percent) than females (19 percent) while milk, fruits and vegetables contributed more to the daily food intake of females (19 percent, 15 percent and
+13 percent, respectively) than males (17 percent, 14 percent and 12 percent, respectively). Meat contributed to the daily food intake for males and females in approximately the same amount
+(10 percent), as shown in Figure 5.
+Figure 5: Percentage contribution of food groups to the average daily intake per capita by sex for all individuals aged 1 - 98 years in the Mexico National Health and Nutrition Survey (2016)
+0% 5% 10% 15% 20% 25%
+Fruits and their products
+Vegetables and their products
+Roots, tubers, plantains and their products
+Fats and oils
+Spices and condiments
+Savoury snacks
+Food additives
+Foods for particular nutritional uses
+Females Males
+Note: The food groups beverages, food supplements and similar, and insects, grubs and their products are not presented in the figure. Survey sample size: n females = 2 333; n males = 1 917.
+Source: FAO. 2025. FAOSTAT: Intake (Individual quantitative dietary surveys). [Accessed October
+The Mexico survey also shows that the daily protein intake per capita was higher in urban areas (64.6 g per capita per day) than in rural areas (60.1 g per capita per day). Meat and milk food groups contributed more to the daily protein intake per capita in urban areas than in rural areas: 24.0 g per capita per day in urban areas compared with 17.0 g per capita per day in rural areas for meat, and 8.4 g per capita per day versus 7.1 g per capita per day for milk; while eggs and fish contributed to the daily protein intake per capita in a similar way in both urban and rural areas (respectively 4.0 g per capita per day in urban
+12 Some foods are consumed daily or nearly daily by most people (e.g. cereals and their products); however, others are consumed less frequently (e.g. fish, shellfish and their products). Statistics on FAOSTAT present the average intake of foods for all individuals (i.e. considering consumers and non-consumers) and for consumers only. Results presented in the analytical brief are based on all subjects.
+areas versus 4.3 g per capita per day in rural areas, and 1.7 g per capita per day versus 1.8 g per capita per day). Conversely, most plant-based sources contributed more to the daily protein intake per capita in rural areas than in urban areas: 15.5 g per capita per day in rural areas versus 12.7 g per capita per day in urban areas for cereals, and 5.7 g per capita per day versus 3.7 g per capita per day for pulses, seeds and nuts (Figure 6).
+Figure 6: Average daily protein intake per capita by food group and geographic level for individuals aged 1 - 98 years in the Mexico National Health and Nutrition Survey (2016) g per capita per day
+0 5 10 15 20 25 30
+Vegetables and their products
+Fruits and their products
+Savoury snacks
+Roots, tubers, plantains and their products
+Spices and condiments
+Note: The food groups beverages, foods for particular nutritional uses, food additives, food supplements and similar and insects, grubs and their products are not presented in the figure. Survey sample size:
+n rural = 2 247; n urban = 2 003.
+Source: FAO. 2025. FAOSTAT: Intake (Individual quantitative dietary surveys). [Accessed October
+According to data from individuals aged 19 - 65 years in the National Individual Food Consumption
+Survey of Saint Kitts and Nevis (2020), the share of cereals to the daily vitamin A intake (retinol equivalents) was higher for females than for males (24 percent versus 14 percent, respectively). The share of meat and roots and tubers to the daily vitamin A intake was higher for males (13 percent and
+8 percent, respectively) than for females (7 percent and 3 percent, respectively) (Figure 7).
+Figure 7: Contribution to daily vitamin A intake (retinol equivalents) per capita by food group and sex for individuals aged 19 - 65 years in the National Individual Food Consumption Survey of Saint Kitts and Nevis (2020)
+Males 28% 14% 15% 8% 13% 4% 3% 8% 8%
+Females 28% 24% 15% 8% 7% 4% 3%3% 7%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Vegetables and their products Cereals and their products
+Composite dishes Milk and milk products
+Meat and meat products Eggs and their products
+Fruits and their products Roots, tubers, plantains and their products
+Other
+Note: "Other" includes (in descending order) sweets and sugars; fish, shellfish; fats and oils; pulses, seeds and nuts; spices and condiments; foods for particular nutritional uses; savoury snacks; food additives; food supplements and similar; and insects and grubs. The beverages food group is not presented in the figure. Survey sample size: n females = 591; n males = 407.
+Source: FAO. 2025. FAOSTAT: Intake (Individual quantitative dietary surveys). [Accessed October
+The Saint Kitts and Nevis survey also revealed that the primary source of vitamin B12 intake for males and females in both younger (19 - 50 years old) and older adults (51 years and over) was fish, shellfish and their products (Figure 8). Among older adults the second main source of vitamin B12 intake was cereals for females (26 percent vs 9 percent for males) and meat for males (28 percent vs. 7 percent for females). The contribution of the composite dishes food group can be explained by the lack of disaggregation of mixed dishes into their respective ingredients. This highlights the importance of standardized tools and methods facilitating data collection at the most disaggregated level, ensuring increased informativeness of the data (Crispim et al., 2024).
+Additional background information on individual quantitative dietary data can be found in FAO/WHO
+(2025a) and Leclercq et al. (2019).
+Figure 8: Contribution of food groups to the daily intake of vitamin B12 per capita by age group and sex in the National Individual Food Consumption Survey of Saint Kitts and Nevis (2020)
+0% 10% 20% 30% 40% 50% 60%
+Foods for particular nutritional uses
+19 - 50 years -Females 19 - 50 years -Males 51 years and older - Females 51 years and older - Males
+Note: The food groups beverages; roots, tubers, plantains; fats and oils; food additives; savoury snacks;
+spices and condiments; fruits; vegetables; food supplements and similar; and insects and grubs are not presented in the figure. Survey sample size: n 19 - 50 years - females = 410; n 19 - 50 years - males =
+275; n 51 years and over - females = 181; n 51 years and over - males = 132.
+Source: FAO. 2025. FAOSTAT: Intake (Individual quantitative dietary surveys). [Accessed October
+DIVERSITY (MINIMUM DIETARY DIVERSITY FOR WOMEN INDICATOR)
+Data on the attainment of MDD-W among women aged 15 to 49 years from 25 nationally representative surveys are presented for 23 countries (Nepal and Nigeria are featured twice, as they have surveys for years 2016 and 2022, and 2018 and 2023, respectively). In 15 of the 25 surveys included in the food and diet domain, MDD-W is achieved (i.e. at least five out of ten predefined food groups were consumed) by more than 50 percent of women at the national level. Notably, in Tajikistan (2017), Tunisia (1996) and Jordan (2023), more than 70 percent of women attain MDD-W, indicating a higher probability of micronutrient intake adequacy. Conversely, Uganda (2020) shows the lowest prevalence of MDD-W
+(Figure 9).
+Figure 9: Proportion of women reaching minimum dietary diversity by survey
+Tajikistan - 2017
+Tunisia - 1996
+Jordan - 2023
+Nauru - 2023
+Philippines - 2022
+Senegal - 2023
+Vanuatu - 2023
+Fiji - 2021
+Cambodia - 2021
+Sierra Leone - 2019
+Nepal - 2022
+Nigeria - 2018
+Brazil - 2014
+Mexico - 2012
+Nepal - 2016
+Ghana - 2022
+Kenya - 2022
+Nigeria - 2023
+Côte d'Ivoire - 2021
+Burkina Faso - 2021
+United Republic of Tanzania - 2022
+Mozambique - 2023
+Lesotho - 2024
+Ethiopia - 2021
+Uganda - 2020
+Source: FAO. 2025. FAOSTAT: Diversity (MDD-W, Minimum Dietary Diversity for Women). [Accessed
+The State of Food Security and Nutrition in the World 2025 (FAO, IFAD, UNICEF, WFP and WHO, 2025) showed that the prevalence of food insecurity is higher in rural areas than in urban areas across all regions but Northern America and Europe. The MDD-W results also indicate a lower dietary diversity in rural areas than in urban areas. This pattern was observed in 20 out of 24 relevant surveys (Nauru
+[2023] did not include disaggregation by geographic level). Sierra Leone (2019), Jordan (2023) and
+Uganda (2020) present similar prevalences for urban and rural areas, while in Brazil (2014), women aged 15 to 49 years in urban areas had a lower dietary diversity than in rural areas (Figure 10).
+Figure 10: Proportion of women reaching minimum dietary diversity by survey and geographic level
+Tajikistan -2017
+Tunisia -1996
+Jordan -2023
+Philippines -2022
+Cambodia -2021
+Vanuatu -2023
+Fiji -2023
+Senegal -2023
+Nigeria -2018
+Nepal -2022
+Sierra Leone -2019
+Nepal -2016
+Mexico -2012
+Kenya -2022
+Brazil -2014
+Ghana -2022
+Nigeria -2023
+United Republic of Tanzania -2022
+Côte d'Ivoire -2021
+Burkina Faso -2021
+Mozambique -2023
+Ethiopia -2021
+Lesotho -2024
+Uganda -2020
+Source: FAO. 2025. FAOSTAT: Diversity (MDD-W, Minimum Dietary Diversity for Women). [Accessed
+In addition to MDD-W prevalence, statistics for MDD-W are disaggregated by the food groups that make up the indicator. The results can be used to identify and highlight underconsumption. For Nigeria in 2023
+(Figure 11), a greater proportion of women in urban areas consumed six out of the ten MDD-W food groups than women in rural areas. Eggs and other vitamin A-rich fruits and vegetables were the food groups with the lowest percentage of women consuming them for both rural and urban areas, whereas grains, white roots and tubers, and plantains were consumed by nearly all women of reproductive age with little difference between urban and rural areas. The gap between urban and rural women was the largest for meat, poultry and fish: 62 percent of urban women consumed this food group compared with
+50 percent of rural women.
+Figure 11: Percentage of women of reproductive age consuming each food group by geographic level in Nigeria (2023)
+Grains, white roots and tubers, and plantains
+Pulses (beans, peas and lentils)
+Nuts and seeds
+Dairy
+Meat, poultry and fish
+Eggs
+Dark green leafy vegetables
+Other vitamin A-rich fruits and vegetables
+Vegetables, other
+Fruits, other
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Source: FAO. 2025. FAOSTAT: Diversity (MDD-W, Minimum Dietary Diversity for Women). [Accessed
+While the calculation of MDD-W primarily focuses on ten mandatory food groups, it is strongly advised that survey designers incorporate additional food groups. These additional food groups do not count towards the indicator but may provide important information, such as food groups considered to be unhealthy and of interest in the context of non-communicable diseases. Select data for unhealthy food groups are presented for fried and salty snacks, sweet beverages and sweet foods (Figure 12).
+Unhealthy foods were slightly more frequently consumed in urban areas, with the exception of sweet beverages in Brazil (2014) and fried and salty snacks and sweet beverages in Jordan (2023) which were more frequently consumed in rural areas. Almost 90 percent of women of reproductive age in Mexico
+(2012) consumed sweet foods, and nearly 85 percent of women of reproductive age in the Philippines
+(2022) drank sweet beverages.
+Figure 12: Percentage of women of reproductive age consuming unhealthy foods by food group and geographic level
+Brazil -2014 Sweet beverages
+Ghana -2022 Sweet beverages
+Jordan -2023 Sweet beverages
+Lesotho -2024 Sweet beverages
+Mexico -2012 Sweet beverages
+Nepal -2022 Sweet beverages
+Philippines -2022 Sweet beverages
+Tajikistan -2017 Sweet beverages
+Note: "Fried and salty snacks" includes deep-fried snacks, such as doughnuts/fried dough and samosas, as well as packaged or prepared salty snacks. "Sweet beverages" includes all sweetened fruit juices and juice drinks, soft drinks/sodas/carbonated or fizzy drinks. "Sweet foods" includes all food items, excluding beverages, with a high content of different sweetening agents.
+Source: FAO. 2025. FAOSTAT: Diversity (MDD-W, Minimum Dietary Diversity for Women). [Accessed
+
+EXPLANATORY NOTES
+
+The SUA provide a picture of the food availability from the agriculture, fisheries and aquaculture sectors in a given country in a given calendar year (FAO, 2025a). They refer to individual products and their quantities, and cover around 500 food items, of which 90 percent are crops and livestock food products and 10 percent fisheries and aquaculture products. The uses of the SUA data include (a) building the food balance sheets, and consequently, the global monitoring of the prevalence of undernourishment; and (b) analysing/assessing dietary patterns in food supply in terms of quantities and nutrients, both within a country and between countries. The statistics on nutrient supply are based on a recently published global nutrient conversion table (NCT) created specifically for the SUA data (Grande et al., 2024).
+The HCES label is an umbrella term for household-level surveys developed to inform economic policies, such as household budget surveys, household income and expenditure surveys, and living standard measurement surveys. These surveys collect information on household characteristics (e.g. region and urban-rural status), household member characteristics (e.g. sex, age, education, food and non-food expenditures) and food quantities consumed and/or acquired during a reference period. These surveys have been widely used to assess the access dimension of food security (Russell et al., 2018). The HCES microdata were downloaded from the World Bank Data Catalog (World Bank, 2023) and national statistical websites. In cases where the microdata were not available online, the data owners granted access to the data and permission to upload the statistics. The statistics on apparent nutrient intake are based on survey-specific NCTs prepared by the Food Security and Nutrition Statistics team in the FAO
+Statistics Division. The statistics are not presented for all nutrients for all surveys due to missing data
+(mainly for vitamins B6 and B12, C, and retinol and carotenes needed to compute vitamin A). The statistics are presented for the geographic areas that have survey representativeness and by income quintile groups when aggregated values for income13 were available in the microdata.14
+Individual quantitative dietary data provide sex- and age-disaggregated quantified data on food consumption and nutrient intake, which are key for developing evidence-based policies and programmes for food, agriculture and nutrition. FAO/WHO GIFT (FAO and WHO, 2025a) was used as the source for individual quantitative dietary data. The datasets were screened for inclusion in the food and diet domain, and surveys that were statistically representative of the surveyed population at the national level (with sampling weights available in the data), were included. The statistics on nutrient intake are based on food consumption information already matched to food composition values by the data owning institutions.
+MDD-W is a food group diversity indicator developed by FAO and its partners that reflects one key property of a healthy diet: dietary diversity (FAO, 2021). It is used as a proxy for micronutrient adequacy, setting targets in a country or region, and for assessing the dietary impact of large-scale nutrition-sensitive interventions. As of 2025, MDD-W was officially adopted as a new indicator for Sustainable Development
+Goal (SDG) 2, bridging an essential gap in global monitoring of diets (FAO, 2025b). Data sources for
+MDD-W-related statistics included in the food and diet domain are nationally representative surveys from the living standards measurement study (LSMS) from the World Bank, demographic and health survey
+(DHS) programme country reports, the multiple indicator cluster surveys (MICS) from UNICEF, and retroactively calculated statistics from individual quantitative dietary data from FAO/WHO GIFT.
+13 When the survey does not collect information on income, total consumption expenditure is used as a proxy for income.
+14 For more information on data processing and comparability of the statistics please refer to the technical notes on
+FAOSTAT.
+The statistics from SUA and HCES are harmonized in terms of: (a) the selection of high-quality FCTs based on the FAO/International Network of Food Data Systems (INFOODS) evaluation framework
+(Charrondière et al., 2023), (b) the selection of the nutrients based on health relevance and their
+
+(FAO/INFOODS, 2022), and (d) the use of FAO/INFOODS food matching guidelines (FAO/INFOODS,
+2012).
+Statistics on supply, apparent intake and intake are presented for energy, protein, fat, dietary fibre, calcium, iron, magnesium, phosphorus, potassium, zinc, vitamin A,15 thiamin, riboflavin and vitamin C.
+While statistics on available carbohydrate (i.e. excluding fibre) are presented for supply and apparent intake, statistics on total carbohydrate are presented only for intake. Statistics on vitamin B6 and vitamin
+B12 are presented for apparent intake and intake, and in the case of supply, these vitamins are presented only from aquatic products. Finally, statistics for copper, selenium, total saturated fatty acids, total monounsaturated fatty acids, total polyunsaturated fatty acids, docosahexaenoic acid n-3 (DHA) and eicosapentaenoic acid n-3 (EPA) are presented for supply from aquatic products only. All nutrients were compiled from the selected FCTs, except for energy, available carbohydrate by difference, and vitamin A, which were calculated for standardization purposes for the SUA and HCES.
+Food group statistics from SUA and HCES data types are further harmonized with those from individual quantitative level data by using the nutrition-sensitive classification, previously developed within the framework of FAO/WHO GIFT (FAO and WHO, 2025b), with a minor adaptation. The additional
+"Miscellaneous" food group was added to the original FAO/WHO GIFT grouping to include food items that could not be classified in any of the other 19 groups, and was particularly relevant for HCES and
+SUA data. For more information on how foods are classified into food groups, please refer to the document "Food group classification" on FAOSTAT.
+The SUA data reflect the new methodology adopted by FAO for the compilation of national SUA/FBS
+(FAO, 2017). The detection and imputation of outliers in HCES data were performed as explained in the guidelines developed by FAO, the Pacific Community, Statistics Norway and the World Bank (FAO et al., 2025). The statistics from HCES were based on common variable names and a common data processing methodology (Moltedo et al., 2014). Consistency checks between statistics from SUA and
+HCES data by food item were done by matching HCES foods with SUA foods, based on the Central
+Product Classification (CPC) v2.1 (United Nations, 2015).
+One of the major challenges of bringing together different types of dietary data is contrasting them, what they intend to measure, and the statistics that can be generated from them. The types of data included in the food and diet domain measure different dimensions across the food supply chain, from supply through to consumption. Estimations from these sources of dietary data are difficult to compare because they measure different levels of dietary information. While the food and nutrient statistics generated from these data types are not directly comparable, they can be used to complement one another and help to understand the relationship between the different levels, which can be important in formulating and evaluating policies. Diets are the core link between food systems and their health and nutrition outcomes and policymakers need to ensure that all parts of the food system work together to deliver high-quality diets that prevent food insecurity and malnutrition. Robust data on food availability, food consumption and dietary diversity are needed to help explain the different forms of malnutrition that can potentially result from food insecurity, as well as to guide food systems policies.
+15 Data for vitamin A are presented in retinol equivalents (RE) and retinol activity equivalents (RAE).
+The SUA data provide information on the availability of foods at the country level, without informing how the foods or nutrients are distributed or consumed within the population. The HCES data provide information on access to food by private households, but without information on intra-household food distribution to ascertain individual intake. The individual quantitative dietary data provide information on individuals' food intake, and finally, the MDD-W data provide a measurement of dietary diversity, a key component of healthy diets, among women of reproductive age within a population. While the SUA include food available for human consumption in schools, hospitals, military, prisons, restaurants and food service, the HCES and the individual quantitative intake surveys account, respectively, for private households and individuals living in private households. Furthermore, the SUA include food waste at the retail and household levels, while HCES do not collect information on wastage, stocked foods and food given to pets, other households or charity. In the case of individual quantitative dietary intake surveys, individuals might not report all eaten foods in the previous 24 hours or misreport portion sizes
+(Gibson et al., 2017) leading to an underestimation of food consumption. Furthermore, dietary diversity, measured through the MDD-W indicator, may also be at risk of misreporting errors, and does not take into consideration the quantities consumed.
+The matching of foods from the SUA and the HCES data with food composition data did not account for the cooking of the food, which commonly leads to a loss of nutrients such as water-soluble vitamins, heat-labile nutrients, and fats (Greenfield and Southgate, 2003). Furthermore, while fortification/enrichment and biofortification of crops were excluded from the SUA global NCT, they were included in some exceptional cases in the food matching for HCES. These exceptions were applied when (a) the description of the food clearly stated fortified, (b) the fortified food was listed in a regional
+
+foods used to create HCES specific-NCTs is available in the survey metadata file available on FAOSTAT for download.
+Despite the classification of foods into standardized food groups, the comparison of statistics by food group across the different data types should be undertaken with caution. The SUA data account for food availability over a year, while HCES and individual quantitative intake surveys might be conducted during a shorter period (FAO, 2017), therefore not capturing variation in consumption across seasons, for example for fruits and vegetables. A short survey-reference period might also have an impact on the final statistics if the survey is conducted before or after harvesting, or if it includes events such as religious festivals. Furthermore, HCES might not capture the whole diet when the food consumption data are collected based on a predefined food list as mentioned in the guidelines on food data collection in HCES for low- and middle-income countries (FAO and the World Bank, 2018). In the case of SUA data, the data collection may not account for fruit and vegetable production in family and other small gardens, which might constitute an important part of the estimated total production (FAO, 2025c). In the case of HCES, the use of fortified foods in the food matching process impacts on the statistics by food group, especially for the oils and fats group.
+Furthermore, the statistics from HCES data are not comparable between countries, and in some cases, not comparable even between different years for the same country, due to differences in survey design, including the methodology for capturing food consumption data. The differences between countries and surveys include (a) the survey reference period, (b) the approach used to collect food information
+
+method (retrospective data collection using a recall method vs prospective data collection using a diary
+ - with or without predefined food list), (e) the unit of reference (household vs individual), (f) the food list
+(the number of foods and the food labels), (g) the type of information collected by food source (quantities and/or monetary values), (h) the unit of measurement for food quantities (local vs standard), and (i) additional information collected (e.g. food partakers, guests living in the household). Differences between countries and surveys are also expected for specific micronutrients such as vitamin A, based on the use (or not) of fortified foods when matching the survey food list to foods in FCTs. Most foods in
+HCES data reported as prepared away from home are classified within the food groups "Composite dishes" and "Miscellaneous", so statistics based on the other groups could be considered as a proxy for at-home apparent intake.
+The statistics from the individual quantitative dietary data benefit from the comprehensive harmonization process undertaken prior to sharing of data through the FAO/WHO GIFT platform. To be inserted in the
+FAO/WHO GIFT platform, dietary data undergo a process of retrospective harmonization, which comprises several steps, including: (a) the use of the FoodEx2 food description and classification system to harmonize the food list (EFSA, 2023); (b) the disaggregation of mixed dishes into their respective
+
+quality checks. It is not possible to draw comparisons across countries because the data used to compute the statistics may be collected in different years and according to different survey methodologies and data collection tools. Due to the limited availability of this very granular and detailed type of dietary data, and the criteria to share statistics through FAOSTAT, only statistics on a small number of surveys could be shared through the food and diet domain. This evidence base provides a foundation on which to understand the food consumption, in a given country at a given time, advocate for and demonstrate the added value of this data, and build future research in the area of dietary surveys, identifying data gaps and priority areas for future data collection and sharing. While gaps in the evidence remain for this type of dietary data, an increasing number of national and subnational dietary surveys have been completed in low- and middle-income countries in past decades, in particular from 2000
+onwards (de Quadros et al., 2022). It is hoped that this trend continues, together with associated efforts to validate and standardize the methods and tools used in the data collection and the subsequent data harmonization and dissemination to make the data available. The establishment of routine, regularly implemented dietary surveys, with more expansive population and area coverage, together with data sharing and in-depth data analysis, are key to support evidence-based policy and programs for improved nutrition (de Quadros et al., 2022).
+The MDD-W statistics have been prepared from diverse data sources. The accuracy of all presented statistics can vary depending on the design and data processing methods employed by the original data owners, and for these reasons it is not possible to draw comparisons across surveys. In a small number of cases, MDD-W was retrospectively calculated using the foods reported in the individual level data shared through the FAO/WHO GIFT platform (Tunisia [1996], Mexico [2012] and Brazil [2014]). These calculations were performed using the FoodEx2 food description and classification system (version
+15.2), which may have introduced errors. All other MDD-W statistics were extracted directly from DHS reports or derived from re-analysis of open access food group consumption data collected through individual-level questionnaires, without portion size estimation.
+The food and diet domain will be further populated with additional statistics as more data become available. Available documents for download include the main "Food group classification" document
+(which provides a detailed description of the food groups used for the availability, apparent intake and intake subdomains), the "Food group classification for MDD-W" document (for the diversity subdomain), the global NCT for FAO supply utilization accounts (Grande et al., 2024), survey metadata and technical notes for each data type.

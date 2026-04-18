@@ -1,0 +1,332 @@
+Abdelkawy et al. BMC Public Health (2023) 23:956 BMC Public Health
+
+RESEARCH Open Access
+Changes in dietary habits during Covid-19
+lockdown in Egypt: the Egyptian COVIDiet study
+Khaled Abdelkawy1, Fawzy Elbarbry2 , Soha M El-masry3, Amr Y. Zakaria4 , Celia Rodríguez-Pérez5,6,7 and
+Noha M El-khodary1*
+Abstract
+Purpose COVID-19 lockdown changed social habits and lifestyle, including dietary habits, of people worldwide.
+However, limited information is available about these changes in Egypt. This cross-sectional study investigates the effects of COVID-19 lockdown on dietary habits among the Egyptian populations.
+Methods An online questionnaire, based on sociodemographic data and dietary adherence in accordance with the validated PREDIMED MedDiet Adherence Screener (MEDAS), was used all over the Egyptian governorates. The dietary changes were statistically evaluated for significance in relation to age, gender, body mass index (BMI), education level and governorates.
+Results A total of 1010 participants (76% aged below 36 years, 77% female, 22% obese, and 62% universitylevel education) answered the questionnaire. Respondents ≤ 20 years had a significant increase in weight and consumption of carbonated beverages, commercial pastries, fried and fast food. Egyptians > 50 years old had a significant decrease in physical activity. Underweight people (less than 3% of participants) increased their fast food intake with a prominent rise in weight. However, obese people increased cooking frequency and increased eating times with a decrease in physical activity. Male participants reported increased intake of carbonated beverages and fast food, while female participants increased the intake of homemade pastries with a significant decrease in physical activity. Approximately 50% of participants with postgraduate education reported decreased intake of fast food and carbonated beverages as well as decreased body weight. Residents of Cairo showed a significant increase in vegetable intake, and fried food intake with a decrease in seafood consumption. Participants from the Delta region had a significant increase in pastries intake.
+Conclusion The findings of this study explored the need for increasing awareness about healthy lifestyle in future lockdown periods.
+Keywords COVID-19, Diet, Egypt, Lockdown, Physical activity, Mediterranean diet
+*Correspondence:
+Noha M El-khodary noha_mahmoud@pharm.kfs.edu.eg
+Full list of author information is available at the end of the article
+
+sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will
+
+Creative Commons Public Domain Dedication waiver ( applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 2 of 15
+Introduction herbal products or seeking healthy foods that improve
+COVID-19 is a severe acute respiratory syndrome caused immunity especially for those with disability, immuneby SARS coronavirus 2 (SARS-CoV-2). It affects the compromised, elderly, and people with higher CVD lower respiratory tract causing pneumonia in humans risk. At the time of writing this manuscript, there was
+[1]. Recent reports showed that the COVID-19 is primar- no approved specific drug to treat or prevent COVID-19
+ily transmitted through respiratory droplets or contact infection. Therefore, following a healthy and well-balroutes either by close contact with another one who is anced diet was important to enhance the body's immune carrying the virus [2] or through fomites in the imme- response. Gene expression levels of most of the inflamdiate environment around the infected person [3]. On matory mediators of COVID-19 are influenced by food
+January 2020, and due to the high spreading rates of the and can modulate the processes of inflammation and oxivirus in China and worldwide, the World Health Orga- dative stress during COVID attack [12]. The WHO pronization (WHO) Emergency Committee declared it as vided many nutritional advices during the lockdown [13].
+a global health emergency [4] and later on as pandemic Consequently, changes in dietary and behavioral habits disease with recommendation of total lockdown of the during the COVID-19 lockdown were expected in Egypt.
+population in their homes [5]. However, limited information regarding these changes
+In response to the rapid spread of infections, the Egyp- in dietary habits is available during the COVID-19 locktian government gave strict decisions by ordering Egyp- down period. Therefore, this study aimed to examine the tian populations to stay at home from March 15 till the effects of COVID-19 lockdown on dietary habits among end of June 2020, to prevent the spread of COVID-19. the adult Egyptian populations using a validated quesAdditionally, the Egyptian government has taken cru- tionnaires distributed among the Egyptian governorates cial measures to combat the pandemic such as closing to help the Egyptian Ministry of health formulate their schools, kindergartens, religious places, airports, and recommendations and nutrition policies for population malls, as well as preventing social gatherings. During the in case of future lockdown periods [14].
+lockdown period, people were only allowed to buy their
+Materials and methods essentials from supermarkets and pharmacy stores with strict adherence to maintaining social distance. Study design and participants
+Being unprecedented in the recent history of Egypt, A cross-sectional study within the COVIDiet project such lockdown introduced major modifications in the [15]"clinical trials registration number NCT04449731" population ́s norm. Restriction of staying at home greatly was conducted with Egyptian individuals who were affected social habits and life style such as cooking habits, encouraged to take part in the current study. The incluwatching TV, smoking, alcohol drinking, exercise, and sion criteria were as follow: adults (≥ 18 years old) popusleeping habits [6 - 8]. During lockdown, it was difficult to lation while the exclusion criteria included neonates and get fresh groceries and shortages of certain food products people with comorbid conditions like thyroid, diabetes, happened nationwide. As recognized by The Food and ascites, active hepatic and renal disorders to ensure that
+Agriculture Organization (FAO), the COVID-19 pan- changes are mainly due to COVID-19 lockdown. The demic disrupted food chains around the world, affecting questionnaire was completely voluntary and anonymous.
+both supply and demand [9]. The study was approved by the Research Ethics CommitIn addition, staying at home affected physical activi- tee of the University of Granada (1526/CEIH/2020) and ties like practicing exercise, and outdoors walking and it was performed following the Helsinki Declaration, and in-gym physical activity [8]. Such changes in physical approved by the University of Kafrelsheikh's Research activities are expected to create sedentary behavior that Ethics Committee (KFS-Ph-003/20). Before beginning is known to increase risk of morbidity and cardiovascular the questionnaire, participants were informed about diseases (CVD) [6 - 8]. Furthermore, the decline in physi- the purpose of the study and requested permission to cal activity could affect energy requirement and food use and publish the data from the study. The questionintake. Similarly, the lockdown period influenced psy- naire was launched during the lockdown period in Egypt chological state causing boring feeling, fearing sensation, between March-August 2020.
+teleworking stress, and social isolation especially for the elderly [10]. These psychological and physical changes Instruments and variables may predispose people to many disorders that require The questionnaire (Supplementary Table S1) included medical attention to control weight and psychological many items divided into three main sections. The first disorders with possibility of many drug interactions and one included socio-demographic information items medication errors [11]. such as sex, age, place of residence, dependent children,
+Also, the COVID-19 pandemic altered healthy habits of weight, height, and level of education. The second part populations by seeking for immune-boosters mainly from of the questionnaire included the validated 14-items
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 3 of 15
+PREDIMED Mediterranean diet (MedDiet) Adherence survey questions were piloted with 25 individuals who
+Screener (MEDAS-14) with some modifications [16]. The completed the questionnaire twice with 5 weeks in questionnaire is based on a multiple choice close ended between and measured the reliability using the Cronquestion that, together with the way of evaluation, have bach's alpha. The Egyptian COVIDiet study was coordibeen previously described [17]. In brief, one point was nated by the Clinical Pharmacy Research Center, Faculty scored when participants employed olive oil for cooking, of Pharmacy Kafrelsheikh University. The Arabic translaconsumed ≥ 4 olive oil tablespoons, white meat instead tion can be obtained from the authors upon request.
+red meat, ≥ 2 serving of vegetables, ≥ 3 pieces of fruit, <
+1 serving of red meat, ≥ 7 glasses of wine per week, ≥ 3 Procedure servings of legumes, fish/seafood, or nuts, and ≥ 2 dishes To try to cover as much population as possible, the seasoned with sofrito, < 2 servings of non-homemade self-administered questionnaire was launched online pastries and preference of white meat vs. red meat. and distributed using the Google Forms tool and it was
+However, in this case, wine intake was excluded due to broadcasted using instant messaging apps such as Whatlow intake incidence in Egypt as alcohol is prohibited sApp, social media such as Facebook and Twitter, social in Islamic countries. In addition, 35 in-house questions networking sites such as LinkedIn and ResearchGate aimed at investigating changes in their general dietary through snowball sampling.
+habits during the lockdown such as the changes in the intake of olive oil, vegetables, fruits, red meats, butter, Data and statistical analysis beverages, honey, legumes, fish, pastries, nuts, chicken, Data analysis was carried out using Statistical Package cooked food, pasta, rice, fried food, and fast food added of Social Sciences (SPSS) version 21 for Windows (SPSS, to changes in physical activity and body weight of the Inc., Chicago, IL, USA). The self-reported weight (in participants. The internal validity (reliability) of the kilograms) and height (in meters) were used to calculate
+BMI = Weight(kg)
+BMI from this formula ( Height(m2)). SociodemoTable 1 Demographic and anthropometric characteristics of graphic characteristics, weight status, BMI, and changes questionnaire respondents during the COVID-19 lockdown in in dietary behaviors were described, when applicable, by
+Egypt frequency, percentage, and mean +/- standard deviation.
+Variable Frequency, n (%)
+Student's t-test (continuous normal) and Chi square test
+Age (Years old)
+(for categorical data) were used to analyze differences in
+≤ 20 87 (8.6) means or proportions of the tested variables. Cronbach's
+21 - 35 683 (67.6) alpha was used to test the reliability (internal consistency)
+36 - 50 219 (21.7) of the scales of the questionnaire. A p-value of less than
+> 50 21 (2.1)
+0.05 (p < 0.05) was considered statistically significant.
+< 18.5 23 (2.3)
+Results
+18.5-< 25 369 (36.5)
+A total of 1010 responders were included in the study;
+25-< 30 394 (39.0) of which 77.3% were females, 22.7% were males, 8.6%
+> 30 224 (22.2)
+Gender aged ≤ 20, 67.6% aged 21 - 35, 21.7% aged 36 - 50, and 2%
+Male 229 (22.7) aged > 50. Approximately 62% of the participants had
+Female 781 (77.3) university education, 31% had postgraduate education
+Children in Care and the remaining had only secondary education as a terYes 469 (46.4) minal degree. According to their calculated body mass
+No 541 (53.6) index (BMI), 39% of the respondents were overweight
+Place of Residence while 22% were obese. Nearly half of the subjects resided
+Family home 877 (86.8) in Alexandria, while 34% in the delta region, and 11%
+Alone 133 (13.2) in Cairo. The socio-demographic and anthropometric
+Educational Level characteristics of the study participants are reported in
+University 629 (62.3) Table 1.
+Postgraduate 315 (31.2) The implemented survey questions showed good interSecondary 66 (6.5) nal validity with Cronbach's alpha = 0.83. Our study idenGovernorate tified significant changes related to lockdown among
+Alexandria 504 (49.9) the different age groups, especially with the daily intake
+Cairo 342 (33.9) of carbonated and sugary beverages, honey, commercial
+Delta 114 (11.3) pastries, nuts, fried food, and fast food. In addition, there
+Others 50 (4.9) was a significant change in meals frequency (breakfast,
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 4 of 15
+lunch, or dinner) outside home and a difficulty to find Table 3 details the baseline characteristics of questioncertain types of food during the COVID-19 lockdown. naire respondents by BMI. Except for the place of resiFurthermore, the lockdown caused significant changes in dence (family home versus alone) and gender, all BMI physical activity and weight gain. As illustrated in Fig. 1, categories demonstrated statistically significant differpeople ≤ 20-year-old significantly increased the intake ences (p < 0.05) in all tested variables.
+of carbonated beverages (18.4%), commercial pastries The study also found significant modifications in food
+(23%), fried food (36%), and fast food (17%). Moreover, habits, physical activity, and weight changes in relation this age group demonstrated a significant rise in body to gender during the lockdown. There were significant weight (31%), significant increase in physical activity changes in daily intake of vegetables, butter, margarine
+(19.5%) and difficulties to find certain food (23%) like or cream, honey, fish-seafood, cooked vegetables, pasta, honey, olive oil, broccoli, orange and pineapple. A sig- rice, and frequency of meals outside of home between nificant portion (> 60 - 80%) of respondents > 50-year- male and female participants. Besides, there were sigold reported no change in consumption of commercial nificant increase in carbonated beverages, homemade pastries, fried food, and fast food during the lockdown. pastries, fast food and frequency of cooking during the
+Despite a reported significant reduction (> 78%) in physi- lockdown, added to a significant change in physical activcal activity, more than 60% of respondents > 50-year-old ity. Figure 3 revealed the significant changes related to the reported decrease in body weight during the lockdown. lockdown, where male Egyptians increased the intake of
+Approximately 40% of participants aged 21 - 50 reported carbonated beverages (21%), and fast food (14%). Female no changes in the consumption of carbonated and sugary Egyptians, on the other hand, increased the intake of beverages, commercial pastries, fried food and fast food, homemade pastries (39%), and cooking frequency (42%).
+and weight gain during the lockdown. Approximately 40 - 50% of the participants reported a
+Table 2 details the baseline characteristics of ques- decline in their physical activity and body weight regardtionnaire respondents by age. Except for the place of less of the gender, without any statistically significant residence (family home versus alone) and BMI, all age differences.
+groups demonstrated statistically significant differences Table 4 details the baseline characteristics of ques-
+(p < 0.05) in all tested variables. tionnaire respondents by gender. Except for the place of
+The changes in participants' body weight were reported residence (family home versus alone) and geographical in the form of BMI, calculated as kg/m2. According to location (governorates), both gender categories demonthe definition of WHO, BMI was categorized as under- strated statistically significant differences (p < 0.05) in all weight (BMI < 19; n = 23), normal weight (BMI = 19-24.9; tested variables.
+n = 369), overweight (BMI = 25-29.9; n = 394), and obese Participants' dietary habits and physical activity dur-
+(BMI > 30; n = 224). With relation to BMI, there were sig- ing lockdown also showed changes in relation to their nificant changes in daily intake of red meats, hamburgers, geographical location, which was categorized into four sausages or deli meats, butter, margarine and cream. In main governorates: Alexandria (n = 504), Delta (n = 342), addition, there was significant changes in daily frequency Cairo (n = 114), and others (n = 50). There were notable of having meals (breakfast, lunch or dinner) outside of differences among the four governorates in the intake home and frequency of cooking compared to before the of olive oil, nuts, vegetables, fish-seafood, commercial lockdown started. Furthermore, there was significant (non-homemade) pastries, homemade pastries and friedchanges in the intake of fast food, weekly consumption food during the lockdown with increasing in frequency of fried food, and eating times during the lockdown. of cooking. Figure 4 displays the significant changes durBesides, there were both modifications of physical activ- ing lockdown among governorates. Residents of Cairo ity and weight gain during lockdown. Figure 2 shows showed an increase in vegetable intake (47%), fried food the most notable and significant changes related to par- intake (40.5%) and cooking frequency (44%) with 19.5% ticipants' BMI during the lockdown. As shown from the and 41% reported a decrease in the intake of seafood and figure, underweight people decreased the cooking fre- commercial pastries, respectively. Residents of the Delta quency (9%) and increased the fast food intake (17.5%) governorates reported an increase in intake of commerwith prominent rise in weight (39%) during lockdown. cial pastries (20%), homemade pastries (37%), and fired
+In contrast, obese people increased cooking frequency food (43.5%) with increasing cooking frequency in 43%
+(46%) and increased eating time (67.5%) with prominent of the respondents. However, participants from Alexandecrease in physical activity (22%), and minimal increase dria showed a decrease in intake of commercial pastries in body weight (12.5%) during lockdown. At least 50% (34%), homemade pastries (19.5%), fried food (21%) and of participants who have normal body weight reported cooking frequency (9%) during lockdown. Approximately no weight gain or changes in physical activity or dietary 50% of participants from all governates reported weight habits. decrease while 33 - 40% reported no changes in body
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 5 of 15
+Fig. 1 Dietary and lifestyle modifications by age during the COVID-19 lockdown in Egypt. * Indicates significant difference at p < 0.05
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 6 of 15
+Table 2 The baseline characteristics of questionnaire respondents by age
+Age (Years)
+Total (n = 1010) ≤ 20 (n = 87) 21 - 35 (n = 683) 36 - 50 (n = 219) > 51 (n = 21) p-Value1
+Family home 877 (86.8%) 82 (94.2%) 596 (87.3%) 182 (83.1%) 17 (80.9%) 0.055
+Alone 133 (13.2%) 5 (5.7%) 87 (12.7%) 37 (16.9%) 4 (19.0%)
+Male 229 (22.7%) 22 (25.3%) 148 (21.7%) 48 (21.9%) 11 (52.4%) 0.010*
+Female 781 (77.3%) 65 (74.7%) 535 (78.3%) 171 (78.1%) 10 (47.6%)
+No 541 (53.6%) 85 (97.7%) 416 (60.9%) 29 (13.2%) 11 (52.4%) < 0.001*
+Yes 469 (46.4%) 2 (2.3%) 267 (39.1%) 190 (86.8%) 10 (47.6%)
+University 629 (62.3%) 52 (59.8%) 467 (68.4%) 96 (43.8%) 14 (66.7%) < 0.001*
+Postgraduate 315 (31.2%) 1 (1.1%) 194 (28.4%) 115 (52.5%) 5 (23.8%)
+Secondary 66 (6.5%) 34 (39.1%) 22 (3.2%) 8 (3.7%) 2 (9.5%)
+Alexandria 504 (49.9%) 47 (54.0%) 362 (53.0%) 84 (38.4%) 11 (52.4%) < 0.001*
+Delta 342 (33.9%) 40 (46.0%) 228 (33.4%) 72 (32.9%) 2 (9.5%)
+Cairo 114 (11.3%) 0 (00.00%) 65 (9.5%) 45 (20.5%) 4 (19.1%)
+Others 50 (4.9%) 0 (00.00%) 28 (4.1%) 18 (8.2%) 4 (19.0%)
+< 19 23 (2.28%) 6 (6.90%) 16 (2.34%) 1 (0.46%) 0 (00.00%) 0.25
+19-24.9 369 (36.53%) 53 (60.92%) 268 (39.24%) 43 (19.63%) 5 (23.81%)
+25-29.9 394 (39.01%) 21 (24.14%) 268 (39.24%) 97 (35.62%) 8 (38.10%)
+> 30 224 (22.18%) 7 (8.05%) 131 (19.18%) 78 (35.62%) 8 (38.10%)
+Chi square test (for categorical data) and Student's t-test (continuous normal data) were used to analyze differences in means or proportions of the tested variables.
+1Significant difference (*) was considered at p < 0.05
+weight. Statistical analysis did not reveal any significant decrease in body weight, and 33% reported no change in differences among governorates, except for participants their body weight during the lockdown.
+from "other governorates" who reported significant Table 6 demonstrates the baseline characteristics of increase in consumption of pastries (commercial and questionnaire respondents by their educational level.
+home-made). Except for the place of residence (family home versus
+Table 5 details the baseline characteristics of question- alone), all educational background categories demonnaire respondents by their geographical locations. Except strated statistically significant differences (p < 0.05) in all for the place of residence (family home versus alone) tested covariates.
+and gender, all governorates' categories demonstrated statistically significant differences (p < 0.05) in all tested Discussion variables. The COVID-19 outbreak and subsequent lockdown has
+Similarly, our study revealed that educational level of resulted in significant changes in the nutritional and participants demonstrated a significant effect on the food activity patterns worldwide [6 - 8, 18]. These behavioral habits, physical activity, and weight changes during lock- changes have been confirmed in several previous epidedown. Educational levels were categorized into university miological studies [19 - 24]. For example, the cross-sec-
+(n = 629), Postgraduate (n = 315), and Secondary (n = 66). tional questionnaire of Christopher Papandreou et al. on
+There were significant differences in the intake of vegeta- 1,002 adult participants in Spain and 839 in Greece durbles, honey, fish-seafood, cooked vegetables, pasta, rice, ing the year 2020 revealed interesting findings of lower fried food among different educational level. Besides, restraint and external eating during the lockdown period during the lockdown, there were significant changes in [25]. Similarly, the cross-sectional questionnaire of Alothe intake of carbonated beverages and fast food. Figure 5 mari et al. in 1844 Jordanian adults during the lockdown shows the main changes related to the lockdown. Partici- period between April and May of 2020, demonstrated pants with secondary education showed increased intake significant changes in physical activity and sedentary of carbonated beverages (29%). Approximately 45% of all behavior [26]. Changes like reduced physical activity and participants regardless of their education level reported a minimal intake of healthy food could result in negative
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 7 of 15
+Fig. 2 Dietary and lifestyle modifications by Body Mass Index (BMI) during the COVID-19 lockdown in Egypt. * Indicates significant difference at p < 0.05
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 8 of 15
+Table 3 The baseline characteristics of questionnaire respondents by BMI
+Total (n = 1010) < 19 (n = 23) 19-24.9 (n = 369) 25-29.9 (n = 3949) > 30 (n = 224) p-Value1
+Family home 877 (86.8%) 20 (87.0%) 328 (89.0%) 343 (87.0%) 186 (83.0%) 0.24
+Alone 133 (13.2%) 3 (13.0%) 41 (11.0%) 51 (13.0%) 38 (17.0%)
+Male 229 (22.7%) 5 (21.7%) 81 (22.0%) 97 (24.6%) 46 (20.5%) 0.67
+Female 781 (77.3%) 18 (78.3%) 288 (78.0%) 297 (75.4%) 178 (79.5%)
+No 541 (53.6%) 19 (82.6%) 269 (72.9%) 194 (49.2%) 59 (26.3%) < 0.001*
+Yes 469 (46.4%) 4 (17.4%) 100 (27.1%) 200 (50.8%) 165 (73.7%)
+University 629 (62.3%) 18 (78.3%) 241 (65.3%) 249 (63.2%) 121 (54.0%) < 0.001*
+Postgraduate 315 (31.2%) 3 (13.0%) 92 (24.9%) 126 (32.0%) 94 (42.0%)
+Secondary 66 (6.5%) 2 (8.7%) 36 (9.8%) 19 (4.8%) 9 (4.0%)
+Alexandria 504 (49.9%) 11 (47.8%) 180 (48.8%) 207 (52.5%) 106 (47.3%) < 0.001*
+Delta 342 (33.9%) 10 (43.5%) 144 (39.0%) 121 (30.7%) 67 (29.9%)
+Cairo 114 (11.3%) 2 (8.7%) 32 (8.7%) 47 (11.9%) 33 (14.7%)
+Others 50 (4.9%) 0 (0.00%) 13 (3.5%) 19 (4.8%) 18 (8.1%)
+< 20 87 (8.6%) 6 (26.1%) 53 (14.4%) 21 (5.3%) 7 (3.1%) 0.025*
+21 - 35 683 (67.6%) 16 (69.6%) 268 (72.6%) 268 (68.0%) 131 (58.5%)
+36 - 50 219 (21.7%) 1 (4.3%) 43 (11.6%) 97 (24.6%) 78 (34.8%)
+> 50 21 (2.1%) 0 (0.0%) 5 (1.4%) 8 (2.1%) 8 (3.6%)
+Chi square test (for categorical data) and Student's t-test (continuous normal data) were used to analyze differences in means or proportions of the tested variables.
+1 Significant difference (*) was considered at p < 0.05
+health consequences. Therefore supportive healthy have reported increased mental health problem and behaviors should be a public health priority. stress among teens and young adults during strict quarThe current findings revealed that Egyptians younger antine and lockdown conditions [30]. Perceived stress has than 20 demonstrated increased body weight during been positively associated with unhealthy dietary behavthe COVID-19 lockdown which could be associated iors and reduced physical activity [31]. Governmental with a rise of fast food, fried food, carbonated bever- agencies should prioritize establishing social and mentorage, and commercial pastries intake during confinement. ship programs to help young adults to cope with stress
+These changes might predispose this age category to and improve their dietary choices during lockdown.
+more health complications like CVD, diabetes, hyper- Furthermore, during the lockdown period, particilipidemia, and obesity. Our findings are generally in line pants older than 50 years had a significant decrease in with a recent longitudinal study by Pietrobelli et al. who consumption of commercial pastries, fast food and carrevealed the loss of weight control in obese children and bonated beverages. Moreover, they had a significant adolescents in Verona, Italy during the lockdown [27]. decrease in physical activity with no increase in body
+Similarly, other studies reported increased consumption weight. The systemic review of Murillo Rezende Oliveira of cereals and grains (rice, noodles, pasta, and bread) et al. revealed close findings to our study. The elderly by young adults during the pandemic lockdown and population's physical activity levels were decreased in the was associated with weight gai. [15, 28]. A Malaysian quarantine period of COVID-19 worldwide with negastudy revealed that more than 50% of the online learning tive impacts on their health [32]. Similarly, other studies undergraduates skipped meal (mostly breakfast) and 94% suggested pandemic-induced psychological distress and of participants snacked between meals [29]. Although sedentarism [33 - 36]. The WHO recommends at least this later study did not investigate the impact of the meal 2.5 h of weekly moderate physical activity [37]. Thereskipping on weight, it is believed that breakfast skipping fore, reduced exercise may predispose senior citizens to can in fact cause more intake of energy dense food during many health and psychological problems. The findings of the day, and potentially more weight gain. A possible rea- our study, and others, strongly suggest establishing eduson behind this observation is the lack of stress manage- cational programs about the need for regular exercise ment among this age group. Several systematic reviews
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 9 of 15
+Fig. 3 Dietary and lifestyle modifications by gender during the COVID-19 lockdown in Egypt. * Indicates significant difference at p < 0.05
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 10 of 15
+Table 4 The baseline characteristics of questionnaire overweight and obese respondents are more likely to respondents by gender underestimate their weight. In a similar study conducted to examine the perceived changes to a range of weightTotal Male Female p-Value1
+related behaviors in British adults during social lock-
+(n = 1010) (n = 229) (n = 781) down, participants with higher BMI reported lower levels
+Place of residence of physical activity and diet quality, and an increased
+Family home 877 (86.8%) 201 (87.8%) 676 (86.6%) 0.47 frequency of overeating [39]. There is an urgent need to
+Alone 133 (13.2%) 28 (12.2%) 105 (13.4%) counteract the environmental factors that predispose
+BMI population to weight gain. Changing energy balance by
+≤ 19 23 (2.28%) 5 (2.2%) 18 (2.3%) 0.02* 100 kilocalories per day through a combination of reduc19-24.9 369 (36.53%) 81 (35.3%) 288 (36.9%) ing energy intake and increasing physical activity could
+25-29.9 394 (39.01%) 97 (42.5%) 297 (38%) avoid weight gain which could be especially relevant dur-
+> 30 224 (22.18%) 46 (20%) 178 (22.8%) ing the lockdown periods. Having a clear behavioral tarChildren in get for weight gain prevention may be critical to halting
+Care the obesity during the pandemic [40].
+No 541 (53.6%) 153 (66.8%) 388 (49.7%) < 0.001* The current study shed the light on the difference in
+Yes 469 (46.4%) 76 (33.2%) 393 (50.3%) physical and dietary behaviors among Egyptians with
+Educational respect to their educational background. It was not surLevel prising to have no participants with only primary eduUniversity 629 (62.3%) 166 (72.5%) 463 (59.3%) < 0.001* cation as this population is less likely to rely on and use
+Postgraduate 315 (31.2%) 44 (19.2%) 271 (34.7%) smart technologies, which could have been a hindrance
+Secondary 66 (6.5%) 19 (8.3%) 47 (6%) to participate in the study. Our study shows an increased consumption of carbonated beverages and fast food,
+Alexandria 504 (49.9%) 11 (47.8%) 180 (48.8%) 0.09
+and increased weight gain among respondents with secDelta 342 (33.9%) 10 (43.5%) 144 (39.0%) ondary education compared to other populations. This
+Cairo 114 (11.3%) 2 (8.7%) 32 (8.7%) might be related to the spread of junk-fast food chains
+Others 50 (4.9%) 0 (0.00%) 13 (3.5%) around Egyptian schools as consistent with the study of
+Al-Otaibi et al [41]. Individuals with secondary educa-
+≤ 20 87 (8.6%) 22 (9.6%) 65 (8.3%) 0.01*
+21 - 35 683 (67.6%) 148 (64.6%) 535 (68.5%) tion have lower social status and are less financially stable
+36 - 50 219 (21.7%) 48 (21%) 171 (21.9%) with expectation of low healthy dietary pattern compared
+> 50 21 (2.1%) 11 (4.8%) 10 (1.3%) to populations with higher educational background. It
+Chi square test (for categorical data) and Student's t-test (continuous normal should be mentioned that our sample has only 66 particidata) were used to analyze differences in means or proportions of the tested pants with secondary education which represents only variables. 1Significant difference (*) was considered at p < 0.05
+6.5% of the whole study population. Further investigation is required to analyze these findings and evaluate the to help overcome potential health problem from the impact of educational background on dietary and physidecrease of physical activity. cal patterns. On the other hand, approximately 40 - 60%
+Our study has also demonstrated interesting influ- of the participants with university or postgraduate eduence of BMI on dietary and personal behavior of Egyp- cation reported reduced consumption of fast food and tians during the COVID-19 lockdown. Approximately carbonated beverages as well as lower weight gain dur74% of participants who are currently taking care of kids ing the lockdown. This might be attributed to their better have shown higher percentage of obesity (BMI > 30). choices in choosing healthy life style (diet and physical
+This might be related to a lack of self-care and increased activity) to cope with the lockdown compared to particilevel of stress especially when there is absence of social pants with just secondary education level. Additionally, and economic support [38]. Our data shows a trend of closure of university campuses could potentially miniincreasing cooking frequency, eating time, consumption mize the access to unhealthy food and drinks options of fried and fast foods and reduction in physical activity that are commonly available on campus and in the surwith increasing body weight. Surprisingly, more than 60% rounding areas. These findings are in alignment with a of obese respondents reported a reduction in their body study that examined the perceived behavioral changes weight during the lockdown. This contradiction between in a large sample of UK adults during the lockdown, and unhealthy dietary/physical behavior and reduction in revealed that lower education level is significantly assobody weight requires further investigation. The percep- ciated with increased overeating during the lockdown tion that participants could have about the food portions [39]. Our study shows that the lockdown has impacted could underestimate/overestimate their real intake. Also, the Egyptians differently based on their geographical
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 11 of 15
+Fig. 4 Dietary and lifestyle modifications by geographical location during the COVID-19 lockdown in Egypt. * Indicates significant difference at p < 0.05
+location. Participants from Cairo governorate had higher as reported in a recent cross-sectional descriptive study
+BMI with 70% of respondents from Cairo were either [42]. The geographical location of Alexandria governoroverweight or obese. This could be attributed to spread ate being close to the Mediterranean Sea made responof fast food brands, overcrowding, and high cost of living dents more relying on sea food and less on fried food
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 12 of 15
+Table 5 The baseline characteristics of questionnaire respondents by geographical location
+Governorates
+Total (n = 1010) Alex (n = 504) Delta (n = 342) Cairo (n = 114) Others (n = 50) p-Value1
+Family home 877 (86.8%) 443 (87.9%) 301 (88.0%) 95 (83.3%) 38 (76.0%) 0.06
+Alone 133 (13.2%) 61 (12.1%) 41 (12.0%) 19 (16.7%) 12 (24.0%)
+Male 229 (22.7%) 123 (24.4%) 62 (18.1%) 31 (27.2%) 13 (26.0%) 0.09
+Female 781 (77.3%) 381 (75.6%) 280 (81.9%) 83 (72.8%) 37 (74.0%)
+No 541 (53.6%) 296 (58.7%) 198 (57.9%) 40 (35.1%) 7 (14.0%) < 0.001*
+Yes 469 (46.4%) 208 (41.3%) 144 (42.1%) 74 (64.9%) 43 (86.0%)
+University 629 (62.3%) 329 (65.3%) 208 (60.8%) 64 (56.1%) 28 (56.0%) 0.045*
+Postgraduate 315 (31.2%) 148 (29.4%) 102 (29.8%) 45 (39.5%) 20 (56.0%)
+Secondary 66 (6.5%) 27 (5.3%) 32 (9.4%) 5 (4.4%) 2 (4.0%)
+< 19 23 (2.3%) 11 (2.2%) 10 (2.9%) 2 (1.7%) 0 (00.0%) 0.029*
+19-24.9 369 (36.5%) 180 (35.7%) 144 (42.1%) 32 (28.1%) 13 (26.0%)
+25-29.9 394 (39.0%) 207 (41.1%) 121 (35.4%) 47 (41.2%) 19 (38.0%)
+> 30 224 (22.2%) 106 (21.0%) 67 (19.6%) 33 (29.0%) 18 (36.0%)
+≤ 20 87 (8.6%) 47 (9.3%) 40 (11.7%) 0 (00.0%) 0 (00.0%) < 0.001*
+21 - 35 683 (67.6%) 362 (71.8%) 228 (66.7%) 65 (57.0%) 28 (56.0%)
+36 - 50 219 (21.7%) 84 (16.7%) 72 (21.0%) 45 (39.5%) 18 (36.0%)
+> 50 21 (2.1%) 11 (2.2%) 2 (0.6%) 4 (3.5%) 4 (8.0%)
+Chi square test (for categorical data) and Student's t-test (continuous normal data) were used to analyze differences in means or proportions of the tested variables.
+1Significant difference (*) was considered at p < 0.05
+and commercial pastries compared to other geographi- al. for eating habits and adherence to the Mediterranean cal regions [33]. It is interesting to find that respondents Diet pattern during the COVID-19 lockdown [16].
+from Cairo cooked more during the lockdown compared Our study is not devoid of limitations, and therefore, to participants from Alexandria, which could be associ- the reported findings should be interpreted with careated with more healthy food choice. ful consideration of such limitations. Most of the study
+Similar to a previous study [24], our study has also respondents were from the northern part of Egypt while demonstrated some significant difference in dietary hab- other regions such as the Canal cities, Upper Egypt, its between males and females during the lockdown. For and Sinai were not fairly represented. We acknowledge example, female Egyptians preferred vegetables, but- the cultural differences between the different regions in ter, margarine, honey, homemade pastries cooked veg- Egypt, and therefore we expect different findings if we etables, pasta, rice with increasing frequency of cooking. had equal representation from all geographical regions
+On the other side, male Egyptians consumed higher in Egypt. However, our study included the two largamounts from carbonated beverages, fish seafood, fast est well known governorates of Egypt (Cairo and Alexfood and increased physical activity during lockdown. andria). Considering the cross-sectional design of this
+It should be noted that the responsibilities of cooking, study, it is not feasible to establish a direct cause-effect grocery shopping, and providing home care for children relationship between the lockdown, dietary and personal rely mostly on the women. Therefore, it is not surpris- behaviors, and weight changes. Finally, while the study ing to see increased intake of home-made pastries and reported observed changes, we were unable to measure higher cooking frequency among Egyptian women dur- the magnitude of these changes (e.g., % weight increase ing the lockdown. On the other hand, men in Egypt are or decrease).
+the ones responsible for providing living expenses for Although the number of male participants is still their families and therefore they go outside and work. remarkable "229" to reflect the dietary habits changes
+Consequently, Egyptian men reported increased intake of between males and females, we acknowledged this carbonated beverages and fast food and had more weight imbalance in gender representation as one limiting facgain compared to women. These findings were also con- tor in our study. It is interesting to find that similar sistent with the structured questionnaire of Schroder et degree of gender imbalance (where female is > 1.5x male
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 13 of 15
+Fig. 5 Dietary and lifestyle modifications by level of education during the COVID-19 lockdown in Egypt. * Indicates significant difference at p < 0.05
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 14 of 15
+Table 6 The baseline characteristics of questionnaire
+Further studies covering all regions of Egypt and have respondents by educational level similar representation from participants of all genders and educational background are required in the future.
+Total Uni- Post- Sec- p-Value1
+(n = 1010) versity gradu- ondary
+Conclusion
+(n = 629) ate (n = 66)
+(n = 315) In conclusion, we provide for the first time an insight of
+Place of the dietary and physical changes in the adult Egyptian residence population during the COVID-19 lockdown. From our
+Family home 541 389 98 54 0.07 study, it is evident that age, body weight, educational
+(53.6%) (61.8%) (31.1%) (81.8%) level, geographical location, and gender play key factors
+Alone 469 240 217 12
+in determining perception of adult Egyptians to the lock-
+(46.4%) (38.2%) (68.9%) (18.2%) down. Our findings provide essential information for the
+Egyptian Ministry of health to broadcast recommendaMale 229 166 44 19 < 0.001*
+(22.7%) (26.4%) (14.0%) (28.8%) tions in the future pandemic lockdown about the awareFemale 781 463 271 47 ness of healthy dietary habits and physical activity to
+(77.3%) (73.6%) (86.0%) (71.2%) protect their health from enhance their immune system
+Children in against infection complications [34].
+Care
+No 541 389 98 54 < 0.001* Supplementary Information
+(53.6%) (61.8%) (31.1%) (81.8%) The online version contains supplementary material available at
+Yes 469 240 217 12 org/10.1186/s12889-023-15777-7.
+(46.4%) (38.2%) (68.9%) (18.2%)
+Supplementary Material 1
+Governorates
+Alexandria 504 329 148 27 0.045
+(49.9%) (52.3%) (47.0%) (40.9%) Acknowledgements
+Delta 342 208 102 32 We would like to thank the study participants for devoting their time to the
+(33.9%) (33.1%) (32.4%) (48.5%) study and for sharing their experiences and/or clinical expertise with the research team.
+Cairo 114 64 45 5 (7.6%)
+(11.2%) (10.2%) (14.3%) Authors' contributions
+Others 50 (05.0%) 28 (4.4%) 20 (6.3%) 2 (3.0%) K.A. and C.R.-P. contributed to the study conception and design and data
+BMI (kg/m2) analysis. F.E. and A.Z. wrote the main manuscript text. S.E. and N.E. contributed to the study conception and design and data collection. All authors reviewed
+< 19 23 (2.3%) 18 (2.9%) 3 (1.0%) 2 (3.0%) < 0.001* and approved the manuscript.
+19-24.9 369 241 92 36
+(36.5%) (38.3%) (29.2%) (54.5%) Funding
+25-29.9 394 249 126 19 No funding was received for conducting this study.
+Open access funding provided by The Science, Technology & Innovation
+(39.0%) (39.6%) (40.0%) (28.8%)
+Funding Authority (STDF) in cooperation with The Egyptian Knowledge Bank
+> 30 224 121 94 9 (EKB).
+(22.2%) (19.2%) (29.8%) (13.7%)
+Age (years) Data Availability
+All data generated or analyzed during this study are included in this published
+< 20 87 (8.6%) 52 (8.3%) 1 (0.3%) 34 < 0.001* article and its supplementary information file.
+(51.5%)
+21 - 35 683 467 194 22
+Declarations
+(67.6%) (74.2%) (61.6%) (33.3%)
+36 - 50 219 96 115 8
+Ethics approval and consent to participate
+(21.7%) (15.3%) (36.5%) (12.1%) All procedures and methods performed in this study were in accordance
+> 50 21 (2.1%) 14 (2.2%) 5 (1.6%) 2 (3.1%) with the 1964 Helsinki declaration and its later amendments. This study was
+Chi square test (for categorical data) and Student's t-test (continuous normal approved by the Research Ethics Committee of the University of Granada data) were used to analyze differences in means or proportions of the tested (1526/CEIH/2020) and the Research Ethics Committee of the University variables. 1Significant difference (*) was considered at p < 0.05 of Kafrelsheikh (KFS-Ph-003/20) and informed consent to participate was obtained from the participants.
+participants) is very common in similar studies (most of Consent for publication them are cited in this manuscript). We have mentioned Not applicable.
+that our future goal is to design further studies and
+Competing interests make sure we have equal gender representation through Authors do not have any financial or non-financial interests that are directly or aggressive marketing of the survey and keep collecting indirectly related to the work submitted for publication.
+data until a certain % of each gender is met.
+Abdelkawy et al. BMC Public Health (2023) 23:956 Page 15 of 15
+Author details 20. Kriaucioniene V, et al. Associations between changes in health behaviours
+1Department of Clinical Pharmacy, Faculty of Pharmacy, Kafrelsheikh and body weight during the COVID-19 quarantine in Lithuania: the lithuUniversity, Kafr el-Sheikh, Egypt anian COVIDiet study. Nutrients. 2020;12(10):3119.
+2Pacific University School of Pharmacy, Oregon, USA 21. Molina-Montes E, et al. Impact of COVID-19 confinement on eating behav3Department of Pharmaceutics, Faculty of Pharmacy, Damanhour iours across 16 european countries: the COVIDiet cross-national study. Food
+University, Damanhour, Egypt Qual Prefer. 2021;93:104231.
+4Department of Pharmacy Practice, Faculty of Pharmacy, Horus University, 22. Giacalone D, Frøst MB, Rodríguez-Pérez C. Reported changes in dietary
+New Damietta, Egypt habits during the COVID-19 lockdown in the danish population: the danish
+5Department of Nutrition and Food Science, University of Granada, COVIDiet study. Front Nutr. 2020;7:294.
+Campus Universitario de Cartuja, Granada 18017, Spain 23. Pfeifer D, et al. Cooking at home and adherence to the Mediterranean diet
+6Biomedical Research Centre, Institute of Nutrition and Food Technology during the COVID-19 confinement: the experience from the croatian COVI-
+(INYTA) 'José Mataix', University of Granada, Avenida del Conocimiento Diet study. Front Nutr. 2021;8:102.
+s/n, Granada 18071, Spain 24. Sulejmani E, et al. Relationship in dietary habits variations during COVID-19
+7Instituto de Investigación Biosanitaria ibs.GRANADA, Granada lockdown in Kosovo: the COVIDiet study. Appetite. 2021;164:105244.
+18012, Spain 25. Papandreou C, et al. Comparing eating behaviours, and symptoms of depression and anxiety between Spain and Greece during the COVID-19 outbreak:
+Received: 26 August 2022 / Accepted: 27 April 2023 Cross‐sectional analysis of two different confinement strategies. Eur Eat
+Disorders Rev. 2020;28(6):836 - 46.
+26. Alomari MA, Khabour OF, Alzoubi KH. Changes in physical activity and sedentary behavior amid confinement: the bksq-covid-19 project. Risk Manage
+Healthc Policy. 2020;13:1757.
+27. Pietrobelli A, et al. Effects of COVID-19 lockdown on lifestyle behaviors in children with obesity living in Verona, Italy: a longitudinal study. Obesity.
+References 2020;28(8):1382 - 5.
+1. Rabi FA, et al. SARS-CoV-2 and coronavirus disease 2019: what we know so 28. Pellegrini M, et al. Changes in weight and nutritional habits in adults with far. Pathogens. 2020;9(3):231. obesity during the "lockdown" period caused by the COVID-19 virus emer2. Thaper R. Transmission of SARS-CoV-2 through the air. Curr Med Res Pract. gency. Nutrients. 2020;12(7):2016.
+2020;10(4):196. 29. Pung CYY, et al. Eating behaviors among online learning undergradu3. Ong SWX, et al. Air, surface environmental, and personal protective equip- ates during the COVID-19 pandemic. Int J Environ Res Public Health.
+ment contamination by severe acute respiratory syndrome coronavirus 2 2021;18(23):12820.
+(SARS-CoV-2) from a symptomatic patient. JAMA. 2020;323(16):1610 - 2. 30. Temple JR, et al. The impact of the COVID-19 pandemic on adolescent men4. Velavan TP, Meyer CG. The COVID-19 epidemic. Tropical Med Int Health. tal health and substance use. J Adolesc Health. 2022;71(3):277 - 84.
+2020;25(3):278. 31. Martín-Rodríguez A, et al. Dietary patterns of adolescent students during the
+5. Legido-Quigley H, et al. The resilience of the spanish health system against COVID-19 pandemic lockdown. Volume 249. Physiology & Behavior; 2022. p.
+the COVID-19 pandemic. The lancet public health. 2020;5(5):e251 - 2. 113764.
+6. Tan CX, et al. Eating behavior among remote working adults during the 32. Oliveira MR et al. Covid-19 and the impact on the physical activity level of elderly
+COVID-19 pandemic. Nutrition & Food Science; 2022. people: A systematic review. Exp Gerontol, 2021: p. 111675.
+7. Tan ST, Tan SS, Tan CX. Screen time-based sedentary behaviour, eating regula- 33. AbdAllah EA, Ahmed HH. Optimum Distribution of Fish Production tion and weight status of university students during the COVID-19 lockdown. Between Egyptian Governorates. Agricultural Economics Egyptian Journal.
+Nutr Food Sci. 2022;52(2):281 - 91. 2015;4:2158 - 71
+8. Tan ST, Tan CX, Tan SS. Physical activity, sedentary behavior, and weight 34. Yousfi N, et al. The COVID-19 pandemic: how to maintain a healthy immune status of university students during the covid-19 lockdown: a cross-national system during the lockdown - a multidisciplinary approach with special focus comparative study. Int J Environ Res Public Health. 2021;18(13):7125. on athletes. Biology of sport. 2020;37(3):211.
+9. COVID F. and the risk to food supply chains: How to respond? 2020. 35. Berland LL. Slip-ring and conventional dynamic hepatic CT: contrast material
+10. Tan ST, Lee L. Social determinants of self-reported psychological distress and timing considerations. Radiology. 1995;195(1):1 - 8.
+during the COVID-19 pandemic: a cross-sectional study. Psychol health Med. 36. Reddy M, Baskaran K, Molteni A. Inhibitors of angiotensin-converting enzyme
+2023;28(2):419 - 26. modulate mitosis and gene expression in pancreatic cancer cells. Proc Soc
+11. Sobhy K, et al. Potential Cardiovascular drug interactions in Egypt: incidence, Exp Biol Med. 1995;210(3):221 - 6.
+outcomes, mechanism, and management. Kafrelsheikh Veterinary Medical 37. WHO, W. Global recommendations on physical activity for health. Geneva
+Journal. 2021;19(2):22 - 7. World Heal Organ; 2010. p. 60.
+12. Di Renzo L, et al. Role of personalized nutrition in chronic-degenerative 38. Ferguson TW, et al. Occupational conditions, self-care, and obesity among diseases. Nutrients. 2019;11(8):1707. clergy in the United States. Soc Sci Res. 2015;49:249 - 63.
+13. Ammar A, et al. Effects of COVID-19 home confinement on eating behaviour 39. Robinson E, et al. Obesity, eating behavior and physical activity during and physical activity: results of the ECLB-COVID19 international online survey. COVID-19 lockdown: a study of UK adults. Appetite. 2021;156:104853.
+Nutrients. 2020;12(6):1583. 40. Hill JO, et al. Obesity and the environment: where do we go from here? Sci14. Galli F, et al. Better prepare for the next one. Lifestyle lessons from the COVID- ence. 2003;299(5608):853 - 5.
+19 pandemic. PharmaNutrition. 2020;12:100193. 41. Al-Otaibi HH, Basuny AM. Fast food consumption associated with obesity/
+15. Who W. global recommendations on physical activity for health. geneva World overweight risk among university female student in Saudi Arabia. Pakistan J
+Heal. Organ, 2010. 60. Nutr. 2015;14(8):511.
+16. Schröder H, et al. A short screener is valid for assessing Mediterra- 42. El-Gazzar HH, et al. Relationship between dietary intake and obesity among nean diet adherence among older spanish men and women. J Nutr. a group of primary school-aged children in Cairo Governorate. J Med Sci Res.
+2011;141(6):1140 - 5. 2019;2(1):42.
+17. Martínez-González MA et al. A 14-item Mediterranean diet assessment tool and obesity indexes among high-risk subjects: the PREDIMED trial 2012.
+18. Fernández-Aranda F, et al. COVID isolation eating scale (CIES): analysis of the impact of confinement in eating disorders and obesity - A collaborative Publisher's Note international study. Eur Eat Disorders Rev. 2020;28(6):871 - 83. Springer Nature remains neutral with regard to jurisdictional claims in
+19. Rodríguez-Pérez C, et al. Changes in dietary behaviours during the published maps and institutional affiliations.
+COVID-19 outbreak confinement in the spanish COVIDiet study. Nutrients.
+2020;12(6):1730.

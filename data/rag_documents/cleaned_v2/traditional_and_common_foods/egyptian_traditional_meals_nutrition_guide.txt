@@ -1,0 +1,586 @@
+Nutrire (2021) 46: 10
+
+RESEARCH
+
+Dietary practices of adult Egyptians before and during the COVID‐19
+lockdown
+Samar Abd El Mohsen Ali1 - Maged Ossama Aly1 - Nessrin Ahmed El‐Nimr2
+Received: 22 March 2021 / Accepted: 28 May 2021 / Published online: 15 June 2021
+
+Abstract
+Aim The aim of this study was to describe dietary practices of adult Egyptians, estimate changes in their body mass index
+(BMI), and identify possible determinants of such changes before and during the COVID-19 lockdown.
+Subject and methods A cross-sectional web-based survey was conducted during the nationwide COVID-19 partial lockdown.
+Data were obtained from 430 Egyptian adults regarding their personal and socio-demographic characteristics, routine daily physical activities, dietary patterns, practices related to food purchase and food handling, and weight and BMI before and during the lockdown using an online web-based questionnaire.
+Results The number of daily meals and daily snacks significantly increased during the lockdown. Moreover, the consumption of all types of snacks increased, except for chocolate and sweets, whose consumption decreased. Eating of fast food decreased, whereas the number of individuals practicing indoor physical activities increased during the lockdown. During the lockdown, no significant changes in the mean BMI were observed. The mean weekly consumption of starch, meat, milk, fat, and free foods decreased, whereas the mean weekly consumption of fruits and vegetables increased. Food handling practices improved during the lockdown. Based on the results of the linear regression analysis, age, the number of daily meals, practicing of physical activities during lockdown, and mean weekly consumption of meat were the independent predictors of BMI during the lockdown.
+Conclusion During the lockdown, no significant changes in the BMI of adult Egyptians were observed, whereas dietary practices and food handling practices changed.
+Keywords Body mass index - COVID-19 - Dietary habits - Egyptians
+Introduction than 3 million deaths, were reported to the World Health
+Organization (WHO). The Eastern Mediterranean Region
+A pandemic of severe acute respiratory syndrome corona- ranked fourth with 9,428,010 confirmed cases. In Egypt, virus 2 (SARS-CoV2) has affected countries and territories from January 3, 2020, to May 16, 2021, a total of 244,520
+around the world, leading to the development of the corona- confirmed cases and 14,269 deaths were reported [3].
+virus disease 2019 (COVID-19) [1, 2]. Globally, more than Because of the COVID-19 pandemic, many countries
+157 million confirmed cases of COVID-19, including more enforce strict confinement rules on their citizens to reduce the spread of the contagious disease, such as working from
+* home, closing of schools and shops, and ceasing of any other
+Maged Ossama Aly hiph.magedaly@alexu.edu.eg; dr.magedossama@gmail.com non-essential activities [4]. Obligatory mass quarantine is useful in controlling the spread of infectious diseases, but
+Samar Abd El Mohsen Ali hiph.smohsen@alexu.edu.eg; samarmo7sen@yahoo.com it must be weighed carefully against the possible adverse health effects of the exposure to unpleasant experiences durNessrin Ahmed El-Nimr n.elnimr@alexu.edu.eg; dr.elnimr@gmail.com ing the lockdown including loss of freedom, uncertainty over disease status, and boredom [5, 6].
+1 Department of Nutrition, High Institute of Public Health, A lot of restrictions were imposed in Egypt during the
+Alexandria University, Alexandria, Egypt
+COVID-19 pandemic. All schools and universities, res2 Department of Epidemiology, High Institute of Public taurants, and religious places like churches and mosques
+Health, Alexandria University, Alexandria, Egypt
+Vol.:(0112 33456789)
+10 Page 2 of 12 Nutrire (2021) 46: 10
+were closed. All touristic trips were cancelled. A restriction or have even worsened, leading to positive energy balance, between 8 pm and 6am local time had been introduced. All increased risk of overweight and obesity, and increased oxiairports were closed, and air travel and international flights dative stress [26 - 28].
+have been postponed. The number of governmental employ- The aim of the present study was to describe the dietary ees had been reduced in all sectors. Supermarkets, baker- practices of adult Egyptians, estimate changes in their body ies, and pharmacies remained open. These restrictions have mass index (BMI), and identify possible determinants of been changed continuously to reduce the risk of infection such changes before and during the COVID-19 lockdown.
+transmission during Ramadan, Easter, and Eid breaks. In addition, putting facial masks became mandatory in public
+Subjects and methods places [7].
+During the lockdown, dietary habits change because of the reduced availability of goods and limited access to food A cross-sectional web-based survey was conducted durcaused by restricted store opening hours. This leads to food ing the nationwide COVID-19 partial lockdown. Data were stockpiling and unhealthy food choices [8]. People in such obtained from May 24 to June 24, 2020. Adult Egyptians situations are forced to consume fewer fruits, vegetables, aged 18 years and above, both males and females, who were and fish, which are rich in antioxidants, and rely on highly currently living in Egypt and could read and write in Arabic processed ones, such as convenient foods, junk foods, and were included in the study.
+ready-to-eat cereals, which tend to be high in fats, sugar, The sample size was calculated using the Epi Info softand salt [9]. The pathophysiology of hypertension and ath- ware. Based on the worldwide prevalence of consuming erosclerosis involves oxidative stress that results from low unhealthy food during the COVID-19 lockdown (23.3%) antioxidant intake [10]. Boredom sensation resulting from [29] and the 4% confidence limits, the minimum required staying at home, online education and work, limited physical sample size at 95% confidence level was calculated to be 429
+activity and outdoor recreation, and more time spent watch- and was rounded to 430 participants. Egyptian adults were ing TV can lead to excessive energy intake [11] due to the invited to participate on different social media platforms, increase in the snacking frequency, especially that of energy- and their responses were consecutively recorded until the dense snacks, fast foods, and soda beverages [12, 13]. completion of the required sample size. The survey quesPeople can also develop inappropriate eating behaviors tionnaire was also distributed using different social media during the COVID-19 quarantine, including emotional eat- platforms (Facebook, WhatsApp, and Instagram) that are ing (psychological and emotional responses to the COVID- popular among the Egyptian population and was readily
+19 outbreak) [14 - 17], stress-related eating (coping with available on any device with an Internet connection. The stress by eating and drinking to feel better) [18, 19], and responses were consecutively recorded until the fulfillment food craving (consuming a high amount of comfort foods of the required sample size.
+rich in sugar to cope with the stress associated with hearing An online web-based questionnaire, which was news about the COVID-19 from media) [20, 21]. Such eat- designed using Google Forms, was used for data collecing behaviors are characterized by the regular consumption tion. The questionnaire consisted of five sections. The of unhealthy foods. The lack of social support from friends first section included personal and socio-demographic and family was indicative of stress-driven eating during the characteristics of the participants (age, gender, the govquarantine [18, 19]. Exposure to stress due to the quarantine, ernorate of current residence, marital status, the level which is translated into sleep disturbances, further worsens of education, work status, and family income). It also stress and increases food cravings among individuals [22]. included questions regarding their routine daily physical
+Food craving is associated with an increased risk of obe- activities and/or exercises before and during the locksity and cardiovascular diseases, beyond a chronic state of down such as indoor (home workouts) and outdoor physiinflammation, which has been demonstrated to increase the cal activity (walking, jogging, cycling, swimming, and risk for more severe complications of COVID-19 [23, 24]. gym workouts). The second section included 20 quesBy contrast, physiological stress can sometimes lead to the tions about the dietary habits of participants before and restriction of food intake and increase in satiety sensation during the lockdown, such as the number of meals per
+[25]. day, main meal, snacks, fast food consumption, tea and
+During the quarantine, several countries have prohib- coffee consumption, dieting and weight loss trials, and ited most outdoor and social activities (e.g., going to the searching for nutritional advice.
+gym and sports centers), resulting in a reduction of physical Data about practices related to food purchase and food activity level and a sedentary lifestyle [8]. As a result of the handling (e.g., grocery shopping, methods for cleaning current situation, physical activity and exercise levels have and washing canned food, fresh vegetables and fruits, greatly decreased, whereas dietary habits remain unchanged and disinfecting kitchen surfaces, utensils, and cutting
+1 3
+Nutrire (2021) 46: 10 Page 3 of 12 10
+boards) before and during the lockdown were included Results in the third section of the questionnaire, which consisted of 10 questions. The fourth section included the The age of the participants ranged from 18 to 72 years with weight and height of participants before and during the a mean of 33.1 ± 9.3 years. Nearly half (49.1%) of the parlockdown. The BMI was calculated using the appropri- ticipants were aged from 30 to < 40 years, and 32.1% were ate formula (BMI = Weight (kg)/Height Squared ( m2)) aged from 20 to < 30 years. More than two-thirds of the and categorized as underweight (< 18.5 kg/m2), normal participants (68.4%) were females. The highest percent-
+(18.5 - 24.9 kg/m2), overweight (25 - 29.9 kg/m2), and age of the participants (51.7%) were from the Alexandria obese (≥ 30 kg/m2) [30]. Also, the body image percep- Governorate, followed by the Cairo Governorate (14.4%);
+tion of the participants was recorded in this section. The 57.9% and 38.1% were married and single, respectively;
+final section consisted of 26 questions about specific and 54.9% and 41.6% had university and postgraduate edufood items and was constructed guided by the Food Fre- cation, respectively. Approximately 69% were currently quency Questionnaire (FFQ) [31]. Each participant was employed; 50.9% had sufficient family income and could asked to indicate, on a 5-point scale, the average weekly save; and 43.7% had sufficient family income but could consumption of each food item before and during the not save.
+lockdown. The original validated FFQ was not used in Table 1 indicates that during the lockdown, the perthe present study because specific food measuring units centage of adults who practiced indoor physical activities
+(cup, ounce, tablespoon, and teaspoon) are rarely used significantly increased by 12.6%, whereas the percentin the Egyptian culture. The internal consistency of this age of adults who practiced outdoor physical activities section was tested (Cronbach's alpha = 0.778). A special significantly decreased by 30% compared with the data scoring system was constructed to assess the frequency before the lockdown. During the lockdown, a decrease in of consumption of each food item. The responses were the percentage of all types of outdoor physical activities scored as follows: each response with "never" was given was observed. Moreover, these changes were considered a score of 0, "less than twice per week" was given a score statistically significant. The mean number of hours spent of 1, "twice per week" was given a score of 2, "3 - 4 times at home significantly increased from 14.23 ± 4.31 h before per week" was given a score of 3, and "daily" was given a the lockdown to 20.16 ± 4.67 h during the lockdown.
+score of 4. Different food items were then classified into Although no significant change was observed in the seven groups (starch, fruit, vegetable, milk, meat, fat, and main meal of the participants during the lockdown comfree food) guided by the food exchange list [32]. After pared to that before the lockdown (Table 2), a significant completing the survey, nutritional advice was provided increase was observed in the mean number of daily meals to the participants based on the WHO recommendations and snacks during the lockdown compared to that before during the COVID-19 pandemic [33]. the lockdown. During the lockdown, the consumption of all types of snacks decreased, whereas the consumption of chocolate and sweets decreased. The increase was signifiStatistical analysis cant for the consumption of salad and cooked vegetables.
+The mean weekly consumption of fast food decreased from
+The responses were downloaded on an Excel file and then twice per week before the lockdown to more than oneexported into the Statistical Package for the Social Sci- and-a-half times per week during the lockdown, and this ences version 21 software for analysis. Quantitative vari- change was considered statistically significant, whereas ables were described using means and standard devia- the increase in the mean daily consumption of tea and tions (SDs). A paired sample t-test was used to determine coffee during the lockdown was insignificant.
+whether the mean difference between the paired obser- Table 2 also indicates the increase in the proportion of vations (before and during lockdown) was significantly participants who reported being on diet programs during different from zero. For categorical variables, McNe- the lockdown when compared with the data before the mar's test was used for 2 × 2 tables, whereas the McNe- lockdown, but this increase was statistically insignificant.
+mar - Bowker test was used for R × C tables to determine Weight loss and weight maintenance were the most comany differences before and during the lockdown. Pearson's mon reasons for being on a diet program. An insignificant correlation was used to test the relationship between the decrease in the percentage of participants who were on diet quantitative variables. The multiple linear regression plans for weight loss and a statistically significant increase model was used to identify the predictors of BMI during in the percentage of participants who were on diet plans the COVID-19 lockdown. The 0.05 level was used as the for weight maintenance and general health were observed cut-off value for statistical significance. during the lockdown when compared with the data before
+1 3
+10 Page 4 of 12 Nutrire (2021) 46: 10
+Table 1 Distribution of adult Egyptians according to their physical activity practices before and during the COVID-19 lockdown
+Physical activity practices Before LD During LD % change Test of significance
+Practicing PA
+Indoor 93 (21.6) 147 (34.2) 12.6 McNemar - Bowker test = 112.1 (p < 0.001*)
+Outdoor 182 (42.3) 53 (12.3) − 30.0
+Both 11 (2.6) 5 (1.2) − 6.0
+No 144 (33.5) 225 (52.3) 18.8
+Type of physical activity (top 5)a
+Walking 140 (49.0) 66 (32.2) − 16.8 McNemar p = 0.001*
+Daily household chores 102 (23.9) 85 (41.5) 17.6 McNemar p = 0.557
+Gym workout 68 (16.0) 17 (8.3) − 7.7 McNemar p < 0.001*
+Indoor workouts 61 (14.3) 82 (40.0) 25.7 McNemar p = 0.001*
+Running 33 (7.7) 11 (5.4) − 2.3 McNemar p = 0.004*
+Number of hours spent at home 14.23 ± 4.31 20.16 ± 4.67 Paired t-test = − 27.48 (p < 0.001*)
+(mean ± SD) a Responses are not mutually exclusive the lockdown. More than two-thirds of the participants with the data before the lockdown, and these differences reported searching for nutrition-related advice before were statistically significant.
+and during the lockdown. Common sources of nutritional Figure 1 indicates that the mean weekly consumption of advice before the lockdown included nutritionists, physi- starch, meat, milk, fat, and free foods decreased, whereas the cians, family members or friends, and influencers. Dur- mean weekly consumption of fruits and vegetables increased ing the lockdown, the only significant change could be during the lockdown. The decrease in the mean weekly conobserved in the percentage of participants asking family sumption of starch, meat, milk, and fat and the increase in members and friends for nutritional advice. the mean weekly consumption of fruits were statistically
+Table 3 demonstrates that the mean number of days insignificant (p = 0.18, 0.09, 0.35, 0.83, and 0.24, respecof stockpiling food had significantly increased from tively), but the decrease in the mean weekly consumption
+7.18 ± 5.75 days before the lockdown to 8.73 ± 6.93 days of free foods and the increase in the mean weekly consumpduring the lockdown. An almost fourfold increase could be tion of vegetables were statistically significant (p = 0.001
+observed in the percentage of adults who reported clean- and 0.015, respectively).
+ing or disinfecting canned food containers before using or The correlations between the BMI during the lockstoring and a 10.3% increase in the percentage of partici- down and the number of hours spent at home, the number pants who reported cleaning or disinfecting kitchen uten- of daily snacks, the frequency of drinking tea and coffee sils and surfaces before use during the lockdown when per day, the number of days of stockpiling food, and the compared with the data before the lockdown. This increase number of times of eating fast food during the lockdown was considered statistically significant. Moreover, almost were positive, weak, and statistically insignificant, whereas all participants reported washing fruits and vegetables the correlation between the BMI during the lockdown and before and during the lockdown. the participants' age and number of daily meals during the
+Table 4 indicates that the proportion of participants lockdown was positive, weak, and statistically significant with overweight and obesity slightly increased during the (r = 0.201 (p < 0.001) and r = 0.155 (p = 0.001), respeclockdown compared with the data before the lockdown, tively). A positive, weak, and insignificant correlation was whereas the mean BMI was almost the same before and detected between the BMI and the weekly consumption of during the lockdown. By contrast, the proportion of par- starch, fruits, milk, fat, and free foods during the lockdown, ticipants who believed that they were slightly or highly whereas the correlation of BMI with the weekly consumpobese had increased, and the proportion of participants tion of vegetables during the lockdown was negative, weak, who believed that they were slightly slim or had a normal and insignificant. Furthermore, a positive, weak, and sigweight had decreased during the lockdown when compared nificant correlation was observed between the BMI and the
+1 3
+Nutrire (2021) 46: 10 Page 5 of 12 10
+Table 2 Distribution of adult Egyptians according to their dietary habits before and during the COVID-19 lockdown
+Dietary habits Before LD During LD % change Test of significance
+Main meal
+Breakfast 56 (13.0) 57 (13.3) 0.3 McNemar - Bowker test = 0.28 (p = 0.96)
+Lunch 329 (76.5) 331 (77.0) 0.5
+Dinner 45 (10.5) 42 (9.7) − 0.8
+Number of daily meals (mean ± SD) 2.74 ± 0.88 2.86 ± 0.91 Paired t-test = − 2.04 (p = 0.017*)
+Eating snacks
+Always 109 (25.3) 144 (33.5) 8.2 McNemar - Bowker test = 12.05 (p = 0.007*)
+Sometimes 276 (64.2) 237 (55.1) − 9.1
+No 45 (10.5) 49 (11.4) 0.9
+Number of daily snacks (mean ± SD) 1.95 ± 0.85 2.19 ± 0.98 Paired t-test = 4.02 (p = 0.000*)
+Type of s nacksa
+Fruits and fresh fruit juices 267 (70.4) 272 (72.3) 1.9 McNemar p = 0.720
+Chocolate and sweets 180 (47.5) 171 (45.5) − 2.0 McNemar, p = 0.661
+Homemade sandwiches 90 (23.7) 107 (28.5) 4.8 McNemar p = 0.082
+Milk and yogurt 78 (20.6) 88 (23.4) 2.8 McNemar p = 0.222
+Salad and cooked vegetables 73 (19.3) 135 (35.9) 16.6 McNemar p < 0.001*
+Carbonated beverages 72 (19.0) 72 (19.1) 0.1 McNemar p = 0.795
+Nuts 5 (1.3) 9 (2.4) 1.1 McNemar p = 0.727
+Eating fast food
+Always 54 (12.6) 28 (6.5) − 6.5 McNemar - Bowker test = 99.5 (p < 0.001*)
+Sometimes 298 (69.3) 196 (45.6) − 23.7
+No 78 (18.1) 206 (47.9) 29.8
+Weekly number of times of eating fast food (mean ± SD) 2.04 ± 1.83 1.76 ± 1.17 Paired t-test = 2.4
+(p = 0.017*)
+Drinking tea and coffee 372 (86.5) 359 (83.5) − 3.0 McNemar p = 0.019*
+Number of times drinking tea and coffee daily (mean ± SD) 2.40 ± 1.05 2.45 ± 1.09 Paired t-test = − 0.14
+(p = 0.887)
+On diet 152 (35.3) 163 (37.9) 2.6 McNemar p = 0.406
+Reason for the diet program
+Weight loss 98 (64.6) 90 (55.2) − 9.4 McNemar p = 0.180
+Weight maintenance and general health 40 (26.3) 53 (32.5) 6.2 McNemar p = 0.049*
+Improve athletic performance 9 (5.9) 10 (6.1) 0.2 McNemar p = 1.000
+Therapeutic 3 (2.0) 8 (4.9) 2.9 McNemar p = 1.000
+Weight gain 2 (1.2) 2 (1.2) 0.0
+Searching for nutrition-related advice 304 (70.7) 305 (70.9) 0.2 McNemar p = 1.000
+Source of nutritional a dvicea
+Nutritionist 260 (60.0) 253 (58.8) − 1.2 McNemar p = 0.477
+Physician 164 (38.2) 167 (38.8) 0.6 McNemar p = 0.801
+Family or friends 76 (17.7) 57 (13.3) − 4.4 McNemar p = 0.001*
+Influencers 46 (10.7) 51 (11.9) 1.2 McNemar p = 0.511
+Chef 29 (6.8) 30 (7.0) 0.2 McNemar p = 1.000
+Internet 4 (0.9) 2 (0.5) − 0.4 McNemar p = 0.625
+a Responses are not mutually exclusive
+1 3
+10 Page 6 of 12 Nutrire (2021) 46: 10
+Table 3 Distribution of adult Egyptians according to their food handling practices before and during the COVID-19 lockdown
+Food handling practices Before LD During LD % change Test of significance
+Number of days of stockpiling food (mean ± SD) 7.18 ± 5.75 8.73 ± 6.93 Paired t-test = 6.56
+(p < 0.001*)
+Cleaning or disinfecting canned food containers before using and storing 161 (37.4) 369 (85.8) 48.4 McNemar p < 0.001*
+Washing fruits and vegetables before eating 423 (98.4) 427 (99.3) 0.9 McNemar p = 0.125
+Cleaning or disinfecting kitchen utensils and surfaces before use 348 (80.9) 392 (91.2) 10.3 McNemar p < 0.001*
+Table 4 Distribution of
+BMI and body weight Before LD During LD % change Test of significance adult Egyptians according to perception No. (%) No. (%) their BMI and body weight perception before and during
+BMI the COVID-19 lockdown
+Underweight 4 (0.9) 5 (1.2) 0.3 McNemar - Bowker = 9.5 (p = 0.091)
+Normal 123 (28.6) 112 (26.0) − 2.6
+Overweight 167 (38.8) 170 (39.5) 0.7
+Obese 136 (31.6) 143 (33.3) 1.7
+Mean ± SD 28.36 ± 6.70 28.57 ± 6.59 Paired t-test = − 1.12
+(p = 0.265)
+Perception of body weight
+Highly slim 4 (0.9) 6 (1.4) 0.5 McNemar - Bowker = 40.79 (p < 0.001*)
+Slightly slim 23 (5.3) 21 (4.9) − 0.4
+Optimum/normal 186 (43.3) 140 (32.6) − 10.7
+Slightly obese 167 (38.8) 179 (41.6) 2.8
+Highly obese 50 (11.6) 84 (19.5) 7.9
+Fig. 1 Distribution of adult
+Egyptians according to their mean weekly consumption of different food groups before and during the COVID-19 lockdown
+1 3
+1 3
+scitsiretcarahc cihpargomed dna lanosrep rieht yb defiissalc nwodkcol
+91-DIVOC eht gnirud dna erofeb sdnert yrateid dna
+
+IMB
+
+'snaitpygE tluda fo nosirapmoC 5
+elbaT sdoof eerF taF kliM tiurF elbategeV taeM hcratS
+IMB elbairaV eulav p naeM eulav p naeM eulav p naeM eulav p naeM eulav p naeM eulav p naeM eulav p naeM eulav p naeM
+)D-B(
+)D-B(
+)D-B(
+)D-B(
+)D-B(
+)D-B(
+)D-B(
+)D-B( redneG
+*200.0
+)3.1 - 6.1(
+90.0
+)8.7 - 3.8(
+76.0
+)8.4 - 9.4(
+97.0
+)1.4 - 2.4(
+00.1
+)2.5 - 2.5(
+74.0
+)6.9 - 7.9(
+*840.0
+)3.21 - 9.21(
+17.0
+)9.82 - 8.82(
+)631 = n( elaM
+*40.0
+)2.1 - 3.1(
+32.0
+)8.8 - 6.8(
+93.0
+)4.5 - 5.5(
+80.0
+*400.0
+)3.5 - 1.5(
+21.0
+)7.9 - 8.9(
+48.0
+)3.21 - 4.21(
+92.0
+)4.82 - 1.82(
+)492 = n( elameF )sraey ni( egA
+*200.0
+)3.1 - 5.1(
+*940.0
+)3.8 - 8.8(
+66.0
+)4.4 - 5.4(
+90.0
+)4.4 - 2.4(
+*10.0
+)3.5 - 9.4(
+80.0
+)5.9 - 9.9(
+52.0
+)9.21 - 2.31(
+05.0
+)7.62 - 9.62(
+)641 = n( 03
+<
+71.0
+90.0
+)7.8 - 4.8(
+05.0
+)6.5 - 7.5(
+27.0
+)3.4 - 2.4(
+82.0
+83.0
+54.0
+)1.21 - 3.21(
+*40.0
+)4.92 - 9.92(
+)952 = n( - 03
+21.0
+)8.0 - 1.1(
+25.0
+)4.7 - 8.7(
+44.0
+)9.5 - 1.6(
+64.0
+)4.4 - 6.4(
+00.1
+)5.5 - 5.5(
+86.0
+)9.8 - 8.8(
+38.0
+)6.11 - 7.11(
+86.0
+)4.03 - 2.03(
+)52 = n( +
+
+etaronrevoG
+82.0
+)2.1 - 3.1(
+68.0
+)4.8 - 3.8(
+19.0
+)4.5 - 4.5(
+54.0
+)2.4 - 3.4(
+23.0
+53.0
+)9.9 - 1.01(
+77.0
+)2.21 - 1.21(
+12.0
+)3.92 - 9.82(
+)222
+= n( airdnaxelA
+21.0
+)1.1 - 2.1(
+49.0
+)6.8 - 7.8(
+37.0
+)9.5 - 9.5(
+71.0
+)3.4 - 1.4(
+*30.0
+)6.5 - 3.5(
+33.0
+)5.9 - 7.9(
+21.0
+)8.11 - 3.21(
+48.0
+)1.72 - 8.62(
+)26 = n( oriaC
+)3.1 - 6.1(
+45.0
+)5.8 - 6.8(
+41.0
+)7.4 - 9.4(
+*940.0
+)5.4 - 3.4(
+80.0
+)1.5 - 9.4(
+62.0
+)3.9 - 5.9(
+70.0
+)9.21 - 3.31(
+39.0
+)2.82 - 1.82(
+)641 = n( srehtO sutats latiraM
+*300.0
+)2.1 - 4.1(
+91.0
+)9.7 - 3.8(
+92.0
+)3.4 - 1.4(
+93.0
+)1.4 - 9.3(
+*340.0
+*630.0
+)2.9 - 5.9(
+12.0
+)8.21 - 1.31(
+65.0
+)3.62 - 5.62(
+)461 = n( elgniS
+70.0
+53.0
+)7.8 - 6.8(
+18.0
+)9.5 - 9.5(
+14.0
+)5.4 - 4.4(
+51.0
+)4.5 - 2.5(
+76.0
+)9.9 - 9.9(
+15.0
+)1.21 - 2.21(
+*830.0
+)9.92 - 5.92( deirram revE )662 = n( noitacude fo leveL
+91.0
+)6.1 - 4.1(
+52.0
+)0.9 - 3.8(
+00.1
+)5.4 - 5.4(
+13.0
+)7.3 - 2.4(
+51.0
+)6.4 - 3.5(
+32.0
+)3.9 - 1.01(
+22.0
+)7.31 - 1.31(
+67.0
+)9.72 - 7.72( dna yradnoceS )51 = n( woleb
+90.0
+)4.1 - 5.1(
+56.0
+)6.8 - 7.8(
+41.0
+)9.4 - 1.5(
+02.0
+)3.4 - 2.4(
+*610.0
+48.0
+)6.9 - 6.9(
+89.0
+)7.21 - 8.21(
+54.0
+)9.82 - 7.82(
+)632
+= n( ytisrevinU
+)1.1 - 3.1(
+89.0
+)3.8 - 3.8(
+77.0
+)6.5 - 5.5(
+44.0
+21.0
+)4.5 - 3.5(
+50.0
+)8.9 - 0.01(
+*910.0
+)7.11 - 3.21(
+24.0
+)2.82 - 9.72( etaudargtsoP )971 = n( sutats kroW
+<
+)1.1 - 4.1(
+45.0
+)3.8 - 4.8(
+04.0
+)3.5 - 4.5(
+19.0
+)2.4 - 3.4(
+21.0
+)4.5 - 2.5(
+31.0
+22.0
+)0.21 - 2.21(
+52.0
+)5.82 - 3.82(
+)792
+= n( deyolpmE
+59.0
+)5.1 - 5.1(
+35.0
+)9.8 - 8.8(
+96.0
+)1.5 - 2.5(
+*900.0
+)5.4 - 2.4(
+*230.0
+54.0
+)3.9 - 4.9(
+75.0
+)1.31 - 3.31(
+26.0
+)7.82 - 5.82( deyolpmenU )331 = n( emocni ylimaF
+31.0
+07.0
+)6.8 - 5.8(
+65.0
+)2.5 - 3.5(
+51.0
+51.0
+45.0
+53.0
+)1.21 - 3.21(
+42.0
+)8.72 - 6.72( ylimaf tneicffius daH dluoc dna emocni )912 = n( evas
+*310.0
+)2.1 - 4.1(
+27.0
+)5.8 - 6.8(
+84.0
+)3.5 - 4.5(
+00.1
+)3.4 - 3.4(
+60.0
+)3.5 - 1.5(
+73.0
+)6.9 - 7.9(
+95.0
+)7.21 - 9.21(
+86.0
+)2.92 - 0.92( ylimaf tneicffius daH dluoc tub emocni
+)881
+= n( evas ton
+*930.0
+)6.0 - 1.1(
+32.0
+)7.6 - 4.7(
+19.0
+)7.3 - 8.3(
+44.0
+)9.3 - 7.3(
+15.0
+)1.5 - 8.4(
+*420.0
+)3.8 - 3.9(
+31.0
+)2.21 - 0.31(
+84.0
+)6.03 - 3.03( tneicffiusni daH emocni ylimaf )32 = n( nwodkcol eht gnirud
+,D
+;nwodkcol erofeb
+,B
+;xedni ssam ydob
+,IMB
+;)50.0
+< p( tnacfiingiS
+*
+Nutrire (2021) 46: 10 Page 7 of 12 10
+10 Page 8 of 12 Nutrire (2021) 46: 10
+weekly meat consumption during the lockdown (r = 0.125, model also indicates that 17% of the variability in BMI durp = 0.009). ing the lockdown could be attributed to these four factors
+Table 5 indicates that the mean BMI significantly (r2 = 0.17, p < 0.001).
+decreased among the participants aged 30 to less than
+50 years and significantly increased among ever married parDiscussion ticipants (who have been married at least once in their lives although their current marital status may not be "married") during the lockdown when compared with the data before It has been established that the lockdown could lead to the lockdown. A significant decrease in the mean weekly inevitable boredom and stress, which can result in disturbed consumption of starch during the lockdown compared to eating patterns and frequent snacking on high-calorie food that before the lockdown was observed among males and [11, 34]. The combination of disturbed eating patterns and participants with postgraduate education. A statistically prolonged hours of confinement, which is one of the consignificant reduction in the mean weekly consumption of sequences of social isolation, is a major risk factor for allmeat during the lockdown compared to that before the lock- cause and cardiovascular mortality and is associated with down was observed among single participants and those who an increased risk of obesity, diabetes, hypertension, and reported having an insufficient family income. Moreover, cardiovascular diseases [35].
+a statistically significant increase in the mean weekly con- Since the quarantine was implemented, health organizasumption of vegetables during the lockdown was observed tions including the American College of Sports Medicine among female participants, participants less than 30 years of (ACSM) reported that physical activity strengthens the age, participants living in Cairo, participants with a univer- immune system and that every minute of activity counts sity education, and unemployed participants. A significant [36]. The present results indicate an increase in the numincrease in the mean weekly consumption of fruits during ber of individuals exercising indoors of approximately 13%, the lockdown was also observed among participants who despite the surge in the mean number of hours spent at home lived in governorates other than Alexandria and Cairo and by approximately 6 h. Similarly, the number of physically among unemployed participants. During the lockdown, a active individuals in Spain who did exercise ≥ 6 times per significant reduction in the mean weekly fat consumption week was elevated by approximately 7% during confinement was observed among participants aged less than 30 years. [37]. On the contrary, based on an international survey conTable 5 also indicates a statistically significant reduction ducted by 35 research organizations from Europe, North in the mean weekly consumption of free foods during the Africa, Western Asia, and the USA, home confinement lockdown compared to that before the lockdown in each of had a negative effect on all levels of physical activity and a the following participants: males, females, participants less rise in sitting time during the day by more than 28% [29].
+than 30 years, participants living in governorates other than Moreover, in Kuwait, the sedentary behavior was worsened
+Alexandria and Cairo, single participants, participants with as the percentage of physical inactivity was doubled from postgraduate education, employed participants, participants 20 to 40% and more than 6-h screen time was surged from who reported having enough family income but could not 16 to 42% [38]. The increase in the number of individuals save, and participants with insufficient family income. exercising indoors in the present study could be attributed to
+The multiple linear regression model showed four predic- the initiative of the Egyptian Ministry of Youth and Sports tors of the BMI during the lockdown (Table 6). Older age, that provided live exercise sessions performed by personal the larger number of daily meals, and a higher mean weekly trainers on social media platforms to encourage people to consumption of meat during the lockdown were associated train at home. A study also found a high acceptance rate of with higher BMI, whereas practicing physical activities 15% for technological solutions to support people's physical during the lockdown was associated with lower BMI. The and mental health [39].
+Table 6 Linear regression
+Independent variables B Standard error p value analysis of the factors predicting the BMI of adult Egyptians Age 0.189 0.054 0.001* during the COVID-19 lockdown
+Number of daily meals during the lockdown 0.844 0.422 0.047*
+Practicing physical activities during the lockdown (yes) − 2.106 0.810 0.010*
+Mean weekly consumption of meat during the lockdown 0.324 0.158 0.041*
+Constant 14.636 3.466 < 0.001* r2 = 0.17 F = 4.743 p < 0.001*
+1 3
+Nutrire (2021) 46: 10 Page 9 of 12 10
+By contrast, the number of individuals practicing out- of participants who were on diet for weight maintenance and door physical activities decreased by 30% due to lockdown general health during the lockdown.
+restrictions imposed by the Egyptian government, which The correlation between BMI and daily snacking was included the closure of fitness facilities and clubs and the positive, weak, and insignificant, whereas the correlation lack of street workout spots. However, more than half of between BMI and the number of daily meals was weak, posithe present sample did not practice any type of exercise tive, and statistically significant, which was consistent with during the quarantine. A similar finding was reported by the findings of a study in Poland [41]. Moreover, during an international online survey [29]. The variation in the the lockdown, the present study found that the correlations physical activity levels during the COVID-19 pandemic between the weekly consumption of different food groups could be linked to different strategies of preventing the and BMI were insignificant. Only a positive and signifispread of infection, which were applied not only in each cant but weak correlation was observed between BMI and country but also in each governorate in the same country. weekly meat consumption. Sidor et al. found a significant
+The present study also found a significant increase in association between BMI and the frequency of consumpthe number of daily meals and snacks, which is consist- tion of selected food products during the quarantine, such as ent with the results of other studies from Europe, South vegetables, fruits, legumes, fast food, meat, dairy products,
+America, Asia, and Africa [29, 40]. A study among Polish and coffee [41].
+adults reported that approximately 44% and 50% of the Generally, the dietary pattern may or may not be affected surveyed participants had a higher frequency of eating and by social or demographic factors. The current survey snacking during the quarantine than before, respectively revealed that during the lockdown, the weekly consump-
+[41]. This can be attributed to the longer obligatory home- tion of the different food groups has changed according to stay so that the residents had more time to cook, which gender, place of residence, work status, and level of educamight be a good way to reduce the consumption of junk tion compared to that before the lockdown. A Polish survey food. This was observed in the current survey and the lat- reported a change in meat and instant products only accordter study in Poland [41]. ing to gender [41].
+Unexpectedly, the prevalence of overweight and obesity Panic shopping was a huge problem in the first few and the mean BMI in the present study did not change dur- months of confinement because people were afraid of long ing the lockdown. On the contrary, in a study conducted periods of quarantine. Consequently, they started to stockin Poland, approximately 30% and 19% of the participants pile durable foods in a short span of time. In the current reported a gain and loss of weight during the quarantine, survey, the mean number of days of stockpiling food had respectively. A significant weight gain was observed par- significantly increased, which was consistent with the results ticularly among subjects with overweight and obesity [41]. of the studies conducted by Jambor et al. [45] and Murphy
+Furthermore, an Italian study reported a significant weight et al. [43].
+gain during the lockdown among the obese patients attend- The present study observed a rise in the adoption of some ing the Obesity Unit of the Hospital of Torino [42], while practices during the quarantine than before, such as clean47% of the Spanish population did not gain weight and 37% ing or disinfecting canned food containers before using or gained between 1 and 3 kg during confinement [37]. The storing and cleaning or disinfecting kitchen utensils and surunchangeable BMI during the lockdown in the present study faces before use. These practices were recommended by the could be traced back to the increase in indoor physical activ- Directorate-General for Health and Food Safety, European ity engagement,increase in the consumption of salad and Commission, to minimize the risk of foodborne transmission cooked vegetables and fewer desserts and fast foods; the of the virus responsible for COVID-19 [46].
+reduced mean weekly consumption of starch, meat, milk, fat, and free foods; and the increased mean weekly consumption
+Strengths and limitations of the study of fruits and vegetables reported by the participants.
+The current study revealed that the consumption of takeaway foods decreased while the consumption of fruits and One of the article strengths was the limited numbers of artivegetables increased during the lockdown which was con- cles that describe the dietary practices of adult Egyptians sistent with the results of a study done on more than two before and during the COVID-19 lockdown. Written nutrithousand adults from four regions (Island of Ireland, Great tional advice was given to the participants after completBritain, USA, and New Zealand) [43]. Many studies found ing the questionnaire to help them to make better healthy that the consumption of chocolate and sweets was increased food choice during this pandemic. The online questionduring the lockdown which was in contrast with our study naire allowed for rapid and cost-efficient collection of self-
+[40, 44]. These findings were not surprising because a sta- reported information about dietary pattern. Online questiontistically significant increase was observed in the percentage naire was an effective method to collect information without
+1 3
+10 Page 10 of 12 Nutrire (2021) 46: 10
+risk of COVID-19 infection transmission that may occur in Author contribution SAA and MOA conceived the idea on the basis face-to-face interview. of the article. SAA supervised the implementation of the study. MOA designed the web survey and was responsible for the data collection.
+Some limitations were noted in this article, since an
+NAE was responsible for the study design, analysis of data, and critical online survey was used, this study is not expected to repre- revision of the manuscript for important intellectual content. All of the sent the total population of adult Egyptians. The sample did authors developed the different parts of the manuscript and revised and not include illiterates and adults who do not own a smart- approved the final draft.
+phone or a PC and those who are not familiar with social
+Data availability Available upon request.
+media platforms. Small sample size and highly educated participants make the sample not completely representative Code availability Available upon request.
+for Egyptian population. The data show the modifications of a relatively short lockdown time, and different outcomes Declarations may have been obtained over longer durations.
+Ethics approval Approval of the Ethics Committee of the Faculty of
+Medicine, Alexandria University, was obtained (reference number:
+0304825), and the study was conducted in accordance with the ethical
+Conclusion and recommendation standards as laid down in the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards.
+No significant changes in the BMI of adult Egyptians during Consent to participate The purpose of the research was stated at the the lockdown were observed, while the dietary practices and beginning of the questionnaire, and the participants were able to accept or reject to participate. They were also able to withdraw from the surphysical activity changed. The number of daily meals and vey any time before its completion. The participants were also assured snacks increased, whereas the consumption of chocolate, that all data would be used only for research purposes. Their answers sweets, and fast foods decreased. The weekly consumption were anonymous and confidential, and they were not permitted to proof starch, meat, milk, fat, and free foods decreased, whereas vide their names or contact information. It was declared that participation in this study was completely voluntary. Responses were saved only the weekly consumption of fruits and vegetables increased.
+by clicking on the provided "submit" button, and each participant was
+The number of individuals practicing indoor physical activi- able to submit his/her response only once.
+ties has increased during the lockdown. The predictors of
+BMI during the lockdown included age, the number of daily Consent for publication By submitting the form, the participants were indicating that they have read the description of the study, were over the meals, mean weekly consumption of meat, and physical age of 18, agreed to the terms as described, and consented to participate activities. in this study and for information to be published.
+Overall, the COVID-19 pandemic has created global inevitable distress. Despite the huge detrimental burden of Conflict of interest The authors declare no competing interests.
+the infection itself, the preventive measures, which were applied temporarily to decrease virus transmission, such as social distancing and lockdown at home, could also have long-lasting major negative effects on people's health, such References as depression, anxiety, nervousness, and insomnia, which consequently lead to stress-driven eating behaviors and lack 1. Gralinski LE, Menachery VD. Return of the coronavirus: 2019of exercise. During these hard times, maintaining the nor- nCoV. Viruses. 2020;12:135. oi.o rg/1 0.3 390/v 12020 135.
+2. Park M, Cook AR, Lim JT, Sun Y, Dickens BL. A systematic mal function of the immune system is important to combat review of COVID-19 epidemiology based on current evidence. J the COVID-19 pandemic in case of infection. Therefore, Clin Med. 2020;9:967. https:// doi. org/ 10. 3390/ jcm90 40967.
+adequate hydration, eating a balanced diet in an amount that 3. World Health Organization (WHO). Egypt situation. Geneva:
+meets the daily energy requirement, proper sleep duration WHO; 2021.
+4. Guthold R, Stevens GA, Riley LM, Bull FC. Worldwide trends in and quality, regular physical activity, and positive thinking insufficient physical activity from 2001 to 2016: a pooled analysis are the best ways of improving the physical and mental well- of 358 population-based surveys with 1-9 million participants.
+being of individuals. Lancet Glob Health. 2018;6:e1077 - 86. https:// doi. org/ 10. 1016/ s2214- 109x(18) 30357-7.
+Abbreviations BMI: Body mass index; SARS-CoV2: Severe acute 5. Giubilini A, Douglas T, Maslen H, Savulescu J. Quarantine, isolation and the duty of easy rescue in public health. Dev World respiratory syndrome coronavirus 2; COVID-19: Coronavirus disease
+Bioeth. 2018;18:182 - 9. https:// doi. org/ 10. 1111/ dewb. 12165.
+2019; WHO: World Health Organization; FFQ: Food Frequency Ques6. Mattioli AV, Nasi M, Cocchi C, Farinetti A. COVID-19 outbreak:
+tionnaire; EMRO: Eastern Mediterranean Region; ACSM: American impact of the quarantine-induced stress on cardiovascular disease
+College of Sports Medicine risk burden. Future Cardiol. 2020;16:539 - 42. https:// doi. org/ 10.
+2217/ fca- 2020- 0055.
+Acknowledgements The authors would like to thank all participants
+7. United Nations (UN). Egypt COVID-19 response and recovery who accepted to participate in the online survey.
+interventions of the United Nations in Egypt. UN, Egypt; 2020.
+1 3
+Nutrire (2021) 46: 10 Page 11 of 12 10
+https:// www. unodc. org/ docum ents/ middl eeast andno rthaf rica// 25. Singh M. Mood, food, and obesity. Front Psychol. 2014;5:925.
+2020/ COVID 19/ COVID_ 19_ Egypt_ Final. pdf. https:// doi. org/ 10. 3389/ fpsyg. 2014. 00925.
+8. Mattioli A, Puviani M, Milena N, Farinetti A. COVID-19 pan- 26. Booth FW, Roberts CK, Laye MJ. Lack of exercise is a major demic: the effects of quarantine on cardiovascular risk. Eur J Clin cause of chronic diseases. Compr Physiol. 2012;2:1143 - 211.
+Nutr. 2020;74:852 - 5. oi.o rg/1 0.1 038/s 41430-0 20-0 646-z. https:// doi. org/ 10. 1002/ cphy. c1100 25.
+9. Di Renzo L, Gualtieri P, Pivari F, et al. Eating habits and lifestyle 27. Karbach S, Wenzel P, Waisman A, Munzel T, Daiber A. eNOS changes during COVID-19 lockdown: an Italian survey. J Transl uncoupling in cardiovascular diseases - the role of oxidative stress
+Med. 2020;18:229. oi.o rg/1 0.1 186/s 12967-0 20-0 2399-5. and inflammation. Curr Pharm Des. 2014;20:3579 - 94. oi.
+10. Siti HN, Kamisah Y, Kamsiah J. The role of oxidative stress, anti- org/ 10. 2174/ 13816 12811 31966 60748.
+oxidants and vascular inflammation in cardiovascular disease (a 28. Sanchis-Gomar F, Lucia A, Yvert T, et al. Physical inactivity and review). Vascul Pharmacol. 2015;71:40 - 56. https:// doi. org/ 10. low fitness deserve more attention to alter cancer risk and prog1016/j. vph. 2015. 03. 005. nosis. Cancer Prev Res (Phila). 2015;8:105 - 10. oi.o rg/1 0.
+11. Moynihan AB, van Tilburg WA, Igou ER, Wisman A, Donnelly 1158/ 1940- 6207. capr- 14- 0320.
+AE, Mulcaire JB. Eaten up by boredom: consuming food to escape 29. Ammar A, Brach M, Trabelsi K, et al. Effects of COVID-19 home awareness of the bored self. Front Psychol. 2015;6:369. https:// confinement on eating behaviour and physical activity: results doi. org/ 10. 3389/ fpsyg. 2015. 00369. of the ECLB-COVID19 international online survey. Nutrients.
+12. Boulos R, Vikre EK, Oppenheimer S, Chang H, Kanarek RB. 2020;12:1583. https:// doi. org/ 10. 3390/ nu120 61583.
+ObesiTV: how television is influencing the obesity epidemic. 30. Litchford MD. Clinical: biochemical, physical and functional
+Physiol Behav. 2012;107:146 - 53. oi.o rg/1 0.1 016/j.p hysb assessment. In: Mahan LK, Stump SE, editors. Krause's food & eh. 2012. 05. 022. nutrition therapy. Philadelphia: Saunders; 2014. p. 98 - 121.
+13. Thomson M, Spence JC, Raine K, Laing L. The association of 31. Hammod KA. Intake: Analysis of the diet. In: Mahan LK, Escotttelevision viewing with snacking behavior and body weight of stumps S, Raymond JL, editors. Krause's food and nutrition care young adults. Am J Health Promot. 2008;22:329 - 35. https:// doi. process. 14th ed. Missouri: Elsevier Saunders; 2017. p. 52 - 63.
+org/ 10. 4278/ ajhp. 22.5. 329. 32. American Diabetes Association. Exchange lists for meal planning.
+14. Evers C, Dingemans A, Junghans AF, Boevé A. Feeling bad or Chicago: American Diabetes Association; 1995.
+feeling good, does emotion affect your consumption of food? A 33. Eastern Mediterranean Region (EMRO). Nutrition for adults durmeta-analysis of the experimental evidence. Neurosci Biobehav ing COVID-19. Geneva: WHO; 2020.
+Rev. 2018;92:195 - 208. oi.o rg/1 0.1 016/j.n eubio rev.2 018. 34. Wang G, Zhang Y, Zhao J, Zhang J, Jiang F. Mitigate the effects
+05. 028. of home confinement on children during the COVID-19 outbreak.
+15. Montemurro N. The emotional impact of COVID-19: from medi- Lancet. 2020;395:945 - 7. oi.o rg/1 0.1 016/s 0140-6 736(20) cal staff to common people. Brain Behav Immun. 2020;87:23 - 4. 30547-x.
+https:// doi. org/ 10. 1016/j. bbi. 2020. 03. 032. 35. Patterson R, McNamara E, Tainio M, et al. Sedentary behaviour
+16. van Strien T. Causes of emotional eating and matched treatment and risk of all-cause, cardiovascular and cancer mortality, and of obesity. Curr Diab Rep. 2018;18:35. https:// doi. org/ 10. 1007/ incident type 2 diabetes: a systematic review and dose response s11892- 018- 1000-x. meta-analysis. Eur J Epidemiol. 2018;33:811 - 29. oi.o rg/
+17. Wang C, Pan R, Wan X, Tan Y, Xu L, Ho CS, Ho RC. Immediate 10. 1007/ s10654- 018- 0380-1.
+psychological responses and associated factors during the initial 36. Denay KL, Breslow RG, Turner MN, Nieman DC, Roberts WO, stage of the 2019 coronavirus disease (COVID-19) epidemic Best TM. ACSM call to action statement: COVID-19 considamong the general population in China. Int J Environ Res Public erations for sports and physical activity. Curr Sports Med Rep.
+Health. 2020;17:1729. https:// doi. org/ 10. 3390/ ijerp h1705 1729. 2020;19:326 - 8. https:// doi. org/ 10. 1249/ jsr. 00000 00000 000739.
+18. Laitinen J, Ek E, Sovio U. Stress-related eating and drinking 37. Sánchez-Sánchez E, Ramírez-Vargas G, Avellaneda-López Y, behavior and body mass index and predictors of this behavior. et al. Eating habits and physical activity of the Spanish population
+Prev Med. 2002;34:29 - 39. https:// doi. org/ 10. 1006/ pmed. 2001. during the COVID-19 pandemic period. Nutrients. 2020;12:2826.
+0948. https:// doi. org/ 10. 3390/ nu120 92826.
+19. Torres SJ, Nowson CA. Relationship between stress, eating behav- 38. Husain W, Ashkanani F. Does COVID-19 change dietary habits ior, and obesity. Nutrition. 2007;23:887 - 94. https:// doi. org/ 10. and lifestyle behaviours in Kuwait: a community-based cross1016/j. nut. 2007. 08. 008. sectional study. Environ Health Prev Med. 2020;25:1 - 13. https://
+20. Rodríguez-Martín BC, Meule A. Food craving: new contributions doi. org/ 10. 1186/ s12199- 020- 00901-5.
+on its assessment, moderators, and consequences. Front Psychol. 39. Ammar A, Trabelsi K, Brach M, et al. Effects of home confine2015;6:21. https:// doi. org/ 10. 3389/ fpsyg. 2015. 00021. ment on mental health and lifestyle behaviours during the COVID21. Yılmaz C, Gökmen V. Neuroactive compounds in foods: occur- 19 outbreak: insight from the ECLB-COVID19 multicenter study.
+rence, mechanism and potential health effects. Food Res Int. Biol Sport. 2020;38:9 - 21. oi.o rg/1 0.5 114/b iolsp ort.2 020.
+2020;128: 108744. oi.o rg/1 0.1 016/j.f oodre s.2 019.1 08744. 96857.
+22. Muscogiuri G, Barrea L, Savastano S, Colao A. Nutritional 40. Ruiz-Roso MB, Padilha P, Mantilla-Escalante D, et al. Changes recommendations for CoVID-19 quarantine. Eur J Clin Nutr. of physical activity and ultra-processed food consumption in ado2020;74:850 - 1. https:// doi. org/ 10. 1038/ s41430- 020- 0635-2. lescents from different countries during Covid-19 pandemic: an
+23. Muscogiuri G, Pugliese G, Barrea L, Savastano S, Colao A. Com- observational study. Nutrients. 2020;12:2289. https:// doi. org/ 10.
+mentary: Obesity: the "Achilles heel" for COVID-19? Metabo- 3390/ nu120 82289.
+lism. 2020;108: 154251. https:// doi. org/ 10. 1016/j. metab ol. 2020. 41. Sidor A, Rzymski P. Dietary choices and habits during COVID154251. 19 lockdown: experience from Poland. Nutrients. 2020;12:1657.
+24. Wu C, Chen X, Cai Y, et al. Risk factors associated with acute https:// doi. org/ 10. 3390/ nu120 61657.
+respiratory distress syndrome and death in patients with corona- 42. Pellegrini M, Ponzo V, Rosato R, et al. Changes in weight and virus disease 2019 pneumonia in Wuhan, China. JAMA Intern nutritional habits in adults with obesity during the "lockdown"
+Med. 2020;180:934 - 43. https:// doi. org/ 10. 1001/ jamai ntern med. period caused by the COVID-19 virus emergency. Nutrients.
+2020. 0994. 2020;12:2016. https:// doi. org/ 10. 3390/ nu120 72016.
+1 3
+10 Page 12 of 12 Nutrire (2021) 46: 10
+43. Murphy B, Benson T, McCloat A, Mooney E, Elliott C, Dean 45. Jambor A, Czine P, Balogh P. The impact of the coronavirus on
+M, Lavelle F. Changes in consumers' food practices during the agriculture: first evidence based on global newspapers. SustainCOVID-19 lockdown, implications for diet quality and the food ability. 2020;12:4535. https:// doi. org/ 10. 3390/ su121 14535.
+system: a cross-continental comparison. Nutrients. 2021;13:20. 46. European Commission. Directorate-General for Health and Food https:// doi. org/ 10. 3390/ nu130 10020. Safety. COVID-19 and food safety. Questions and answers. Brus44. Scarmozzino F, Visioli F. Covid-19 and the subsequent lockdown sel: European Commission; 2020.
+modified dietary habits of almost half the population in an italian sample. Foods. 2020;9:675. https:// doi. org/ 10. 3390/ foods 90506
+75.
+1 3

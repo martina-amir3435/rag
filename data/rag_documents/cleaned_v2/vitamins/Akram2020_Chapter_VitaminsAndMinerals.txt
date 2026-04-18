@@ -1,0 +1,501 @@
+Chapter 9
+Vitamins and Minerals: Types, Sources and their Functions
+Muhammad Akram, Naveed Munir, Muhammad Daniyal,
+Chukwuebuka Egbuna, Mihnea-Alexandru Găman,
+Peculiar Feenna Onyekere, and Ahmed Olatunde
+9.1 Introduction
+Nutrients are grouped into two major classes: macronutrients and micronutrients.
+Macronutrients are nutrients that are needed by the body in large amounts while micronutrients are those needed by the body in minute amounts. Macronutrients such as carbohydrates, proteins, and lipids provide molecules for the structural and metabolic activities of the human body, while micronutrients (vitamins and
+M. Akram (*)
+Department of Eastern Medicine, Government College University Faisalabad-Pakistan,
+Faisalabad, Pakistan
+N. Munir
+Department of Biochemistry, Government College University Faisalabad-Pakistan,
+Faisalabad, Pakistan
+M. Daniyal
+TCM and Ethnomedicine Innovation & Development International Laboratory,
+School of Pharmacy, Hunan University of Chinese Medicine, Changsha, China
+C. Egbuna
+Department of Biochemistry, Faculty of Natural Sciences, Chukwuemeka Odumegwu
+Ojukwu University, Uli, Anambra, Nigeria
+Nutritional Biochemistry and Toxicology Unit, World Bank Africa Centre of Excellence,
+Centre for Public Health and Toxicological Research (ACE-PUTOR),
+University of Port-H arcourt, Port-Harcourt, Rivers State, Nigeria
+M.-A. Găman
+"Carol Davila" University of Medicine and Pharmacy, Bucharest, Romania
+P. F. Onyekere
+Department of Pharmacognosy & Environmental Medicine, Faculty of Pharmaceutical
+Sciences, University of Nigeria, Nsukka, Enugu State, Nigeria
+A. Olatunde
+Department of Biochemistry, Abubakar Tafawa Balewa University, Bauchi, Nigeria
+
+C. Egbuna, G. Dable-Tupas (eds.), Functional Foods and Nutraceuticals,
+
+150 M. Akram et al.
+minerals) are essential for the body's proper functioning. The need for micronutrients depends on the metabolic activities as well as on the life cycle of an individual.
+Even in intrauterine life, the need for micronutrients is essential for the normal development of the fetus. In particular, vitamin D, iodine, iron, and folic acid deficiencies could lead to congenital disorders or even death. The daily requirements of these micronutrients are not fixed, although many scientific papers have mentioned the daily-required allowance of various vitamins and minerals. Factors such as physical exercise, pregnancy, childhood, adolescence, old age or specific diets (e.g.
+Vegan) influence the need for micronutrients. Therefore, the evaluation of the micronutrients' requirements and the consequences of micronutrients' deficiencies are critical to explain their role in health and disease (Derbyshire 2018; Hans and
+Jana 2018).
+Fortification of food is one of the most effective and safe strategies used to enhance nourishment. For example, mother milk feeding can be considered a type of fortification, which is essential for the healthy growth of babies up to 2 years of age (Allen and Dror 2018). Micronutrients play an important role in reduction in the risk of disease and the maintenance of good health. Micronutrients and vitamins are vital for the proper functioning and proliferation of all dividing cells in the body.
+Therefore, micronutrients are essential for growth and metabolism. Balanced diet aids in maintaining good health by increasing the body's resistance to infection and, in the case of disease, can be a useful component of the therapy (Piccardi and
+Manissier 2009). Nutrients provide basic molecules which humans are unable to synthesize. Vitamins and minerals are required in small quantities (<100 mg/day) and are known as micronutrients (Ormsbee et al. 2014). The two important classes of micronutrients are shown in Fig. 9.1.
+Vitamins Minerals
+Fat-soluble vitamins Macro-minerals
+A, D, E, K Calcium
+Sodium
+Water-soluble vitamins
+Magnesium
+Thiamine (B1) Potassium
+Riboflavin (B2) Phosphorus
+Niacin (B3)
+Pantothenic acid (B5) Trace elements
+Pyridoxine (B6)
+Biotin (B7) Sulfur, Iron, Chlorine
+Folate (B9)
+Cobalamin (B12) Cobalt, Copper, Zinc
+Vitamin C (Ascorbic Acid, Ascorbate) Molybdenum, Iodine, Selenium
+Fig. 9.1 Classification of micronutrients
+9 Vitamins and Minerals: Types, Sources and their Functions 151
+9.2 Micronutrients: Health Benefits, Deficiencies and Risks
+The human body needs micronutrients only in small quantities (in milligrams or micrograms) although they are as important as the macronutrients (Welch and
+Graham 2004). They are essential for the body's healthy development. Some vitamins for example work as cofactors or coenzymes in many metabolic processes. Trace elements like Zinc can help to improve immune function and minerals like Iron can prevent anemia among others (www.cdc.gov). As the body cannot synthesize micronutrients, therefore, they need to be supplied in the diet in adequate amounts. If their supply is not enough deficiency is possible and this can results to a myriad of diseases. Vitamin A deficiency for example can lead to blindness. A folic acid deficient pregnant woman can give birth to infants with neural tube defects. Iodine deficiency can lead poor brain fetal development. Micronutrient deficiency can increase the risk of infections and can lead to more micronutrient deficiencies (www.unicef.org). These are just the tip of the iceberg. Micronutrient deficiency may lie hidden and usually, the signs and symptoms develop late in the disease and are most often irreversible. The details of the impact of these micronutrients on health and diseases are discussed in the succeeding parts of the chapter.
+9.3 Vitamins
+Vitamins are essential substances for the normal functioning and development of the body. There are two classes of vitamins namely: Fat-soluble and Water-soluble vitamins (Table 9.1). The known vitamins include A, C, D, E, and K, and the B vitamins: thiamin (B), riboflavin (B), niacin (B), pantothenic acid (B), pyridox1 2 3 5
+ine (B ), cyanocobalamin (B ), biotin, and folate/folic acid.
+6 12
+9.3.1 Fat-Soluble Vitamins
+As earlier mentioned, vitamins can be classified as either a water-soluble or fatsoluble vitamins. The fat-soluble vitamins are very vital for the smooth functioning of the body. Their deficiencies have been implicated in several health disorders. The recommended daily allowance (RDA) of the fat soluble vitamins A, D, E, and K is
+8000 - 1000 μg/day, 8000 - 5000 μg/day, 8 - 10 μg/day, and 70 - 140 μg/day respectively (Kamangar and Emadi 2012). The RDA for water soluble vitamins including thiamin, riboflavin, pyridoxine, niacin, biotin, ascorbic acid, and pantothenic acid are 1 mg/day, 1.2 mg/day, 2 - 2.2 mg/day, 13 mili-equivalents, 100 - 200 μg/day,
+60 μg/day, and 4 - 7 mg/day respectively (Kamangar and Emadi 2012).
+
+snimativ fo dna snoitcnuf
+,sepyT
+1.9
+elbaT secnerefeR secruoS snoitcnuF sessalcbuS/sepyT
+,tnempoleved dna htworg
+,noisiV
+A taF deR
+,noitcudorpeR enummI elbuloS enob dna nikS
+,noitamrof llec doolb
+.noitamrof ayamA-zeugirdoR raludnalg
+,klim namuh
+,stcudorp demroferP
+,kloy gge
+,)yllaicepse( slio revil hsfi dna revil
+,staem
+A
+.stcudorp yriad rehto dna
+,klim elohw dna
+)2991(
+.la te htooB
+,hcanips
+.g.e( yfael neerg
+,lio mlap deR
+A orP
+)7991( gnouV
+,snikpmup
+.g.e( wolley ,)illocorb
+,htnarama
+-non egnaro dna wolley dna ,)storrac dna
+,hsauqs der ,)sayapap dna
+,stocirpa
+,seognam
+.g.e( surtic mlap nailizarB ni dnuof oslA .seotatop teews
+,reppep sa nwonk tiurf maneteiV eht dna itiruB sa nwonk tiurf .caG dna rosrucerp ekil loretselohc a morf niks eht ni edaM evren dna elcsum
+,htlaeh enob sniatniaM
+:mrof evitca(
+
+)7991(
+.la te namdleF nac ro thgilnus ot erusopxe yb )loretselohcordyhed-7( lareneg dna dna noitcartnoc
+-52,1
+steiD
+.teid eht ni demrof-erp dedivorp eb
+.ydob eht fo sllec lla ni nimativyxordyhid
+.nomlas ;skloy gge
+;slaerec dna ,eseehc
+,klim defiitroF
+)D dna
+)4991(
+.la te izzilleB hcus ,stun
+E fo secruos yrateid dooG slessev doolb fo noitamrof
+,tnadixoitnA
+)lorehpocot-α(
+E
+,slio elbategev dna
+,stunlezah dna stunaep sa enummi fo gnitsoob dna dna nroc
+,rewoflfas
+,mreg taehw
+,rewoflnus yfael ,neerg dna sdees rewoflnus oslA
+.slio naebyos niatnoc iloccorb dna hcanips selbategev .E
+,)6991(
+.la te reraehS msilobatem enob
+,gnittolc doolb ni spleH
+K
+,)4991(
+.la te htooB
+.slevel muiclac doolb fo noitaluger dna
+,)3991(
+.la te htooB
+)2991( nietS dna ylnoC dna
+M. Akram et al.
+
+.iloccorb
+,hcanips ekil yfael neerG
+
+K 1
+
+.evilo dna deesepar
+,naebayos morf slio elbategeV
+)enoniuqollyhP( rewoflfas dna rewoflnus
+,nroc
+,tunaep ni dnuof oslA
+,eseehc sa hcus sdoof detnemref
+)enoniuqaneM(
+
+K 2
+
+lanitsetni
+,)ottan esenapaJ( naebayos detnemref aroflorcim dna
+)0102( avivA
+,sgge
+,krop
+,segnaro
+,stao
+,stun
+,klim deird
+,feeB ni devlovni semyzne lareves rof rotcafoC
+)enimaihT(
+B
+-retaW
+
+)9002( vokihcrakaM
+.tsaey dna semugel
+,sdees ni elor lartnec syalp
+,msilobatem ygrene elbuloS
+.msilobatem larberec
+)3102( nilviR dna otniP
+,taem
+,yrtluop yleman
+,secruos lamina dna sdoof tnalP rof esoculg otni setardyhobrac strevnoC
+)nivaflobiR(
+
+B 2
+
+.eseehc dna klim
+,sgge stcudorp yriad dna hsfi eerf sezilartuen
+,noitcudorp ygrene sa spinrut
+,sneerg dralloc sa hcus neerG tnadixo-itna sa stca ecneh slacidar
+.sdoof hcir-nietorp ytilauq hgih llew
+)6102(
+.la te eluL
+.revil dna yrtluop
+,taem der nael sa hcus sdoof ksir srewol
+,loretselohc
+LDL rewol spleH
+)nicaiN(
+
+B 3
+
+rehtO
+.nicain fo ecruos tnellecxe na si rettub aeP
+.sitirhtra sesae ,sesaesid ralucsavoidrac fo
+,aet daerb
+,slaerec niarg elohw lufesu
+.)nroc teews( eziam
+,eeffoc
+)1102( yrogerG taehw
+,stunaep
+,yendik
+,rettub tunaeP fo tnenopmoc yek a si dica cinehtotnaP cinehtotaP(
+
+B 5
+
+ydaerla si fo ytirojam tsaV .retsbol dna eseehc
+,narb spuorg lyca seirrac taht rotcafoc a
+,AoC
+)dica sa dna
+)AoC(
+A emyzneoC otni detaroprocni fo dna ,sessecorp citamyzne ynam rof eniehtetnpohpsohp reirrac lyca nihtiw eniehtetnapohpsohp dica yttaf eht fo tnenopmoc a
+,snietorp
+.xelpmoc esahtnys
+)8102(
+.la te anilecraM revil feeb
+,hsfi
+6B nimativ fo tsehciR esrevid a rof rotcaf-oc lacitirc a sa stcA
+)enixodiryP(
+
+B 6
+
+)8102(
+.la te nauJ dna yhcrats
+,staem nagro rehto dna taht snoitcaer lacimehcoib fo egnar
+.stiurf dna
+.msilobatem cisab etaluger
+)deunitnoc(
+9 Vitamins and Minerals: Types, Sources and their Functions
+
+)deunitnoc(
+1.9
+elbaT secnerefeR secruoS snoitcnuF sessalcbuS/sepyT
+;)9002(
+.la te sonaJ teews
+,kloy gge ni dnuof si nitoiB dna nimativ elbulos-retaw a si nitoiB
+)nitoiB(
+
+B 7
+
+/gro.stcaf-irtun.www
+.hcanips
+,eseehc
+,rewofliluac
+,moorhsum evfi rof emyzneoc a sa sevres
+7B_nimatiV
+.snamuh ni sesalyxobrac
+,esoculg otni doof trevnoc ot spleh tI tI .noitcudorp ygrene rof desu si hcihw dna sdica yttaf ecudorp ot spleh osla fo skcolb gnidliub eht( sdica onima onima/nietorp setavitca nitoiB
+.)nietorp dna stoor riah eht ni msilobatem dica
+.sllec lianregnfi
+)2102(
+.la te awasinuK
+,selbategev yfael neerg krad ni yllarutan sruccO fo msilobatem
+,noitacilper AND ni spleH
+)etaloF(
+
+B 9
+
+wap-wap
+,raep odacova ni dnuof oslA
+.hcanips llec reporp
+,sdica onima dna snimativ stun dna snaeb
+,egnaro
+,stiurf ksir ecuder ot spleh dica ciloF
+.noisivid ni )stcefed ebut laruen( adfiib anips fo tnangerp yb nekat nehw setanoen .srehtom
+)6002(
+.la te ylleK sdoof ni dnuof yllarutan si 21B ni elor tnacfiingis a syalP
+
+B 21
+
+klim dna
+,sgge
+,)hsfillehs dna revil yllaicepse( taem
+,sisehtnys
+AND ni yllaicepse ,msilobatem
+)nimalaboconayC(
+.stcudorp lairdnohcotim dna noitalyhtem dna niarb ni spleh tI .msilobatem .sllec doolb der fo sisehtnys nardneevaR dna ahduS larutan ynam ni elbaliava yltnadnuba si c nimatiV fo seitreporp tnatropmi eht fo enO
+)dica cibrocsA(
+
+reteulhcS dna
+)7102( ehT
+.selbategev dna hserf
+,secruos
+.ytivitca tnadixoitna sti si
+)1102( notsnhoJ dna naidnI dica cibrocsa fo tsehcir emyzne ni snoitcnuf
+C nimatiV dna segnaro
+,semil surtic
+,yrrebesoog dna
+,noitcuder sserts evitadixo
+,noitavitca der dna neerg
+,ayapap
+,seotamot
+,snomel fo ytivitca tnadixoitnA noitcnuf enummi
+,sepuolatnac dna seirrebwarts
+,tiurfiwik
+,sreppep niatrec tneverp ot spleh defiitrof
+,iloccorb yfael neerg ralucsavoidrac
+,recnac sa hcus sesaesid fo secruos hcir osla era seciuj sti dna slaerec detaler-ega
+,dloc nommoc
+,sesaesid yehT
+.slamina si fo ecruos rehtonA
+.C
+.tcaratac dna noitareneged ralucsum ylhgih era dna C nwo rieht ezisehtnys yllausu trap revil eht ni detartnecnoc
+M. Akram et al.
+9 Vitamins and Minerals: Types, Sources and their Functions 155
+9.3.1.1 Vitamin A
+Vitamin A was the first fat-soluble vitamin identified in 1913. Beta-carotene is converted to vitamin A in the liver. It protects the eyes in case of infections and contributes to the vision in dim light. Vitamin A combines with the protein opsin to form rhodopsin in the retinal rod cells. When vitamin A levels are inadequate, the lack of rhodopsin makes it difficult to see in dim light (Gräslund et al. 2008). Vitamin A is also involved in the physiological function of the epithelia and glands, and in normal cell differentiation. Vitamin A supports bone growth and the immune functions.
+Being oil-soluble, it is prescribed as retinol palmate every 6 months to pre-school children. The prevalence of vitamin A deficiency is 33.3% in pre-school children worldwide, while in Africa it is estimated at 44.4%. In Ethiopia, 80,000 deaths occur due to vitamin A deficiency. In this country, vitamin A deficiency prevalence is listed at 61% in preschool children (Abrha et al. 2016). Vitamin A deficiency is linked to the following diseases:
+Vitamin A insufficiency leads to visual impairment, xerophthalmia, Bitot's spots
+(triangular, frothy, harsh and raised patches seen on the bulbar conjunctiva), keratomalacia (softening of the thickness of the cornea), follicular hyperkeratosis, anorexia, growth retardation, respiratory and intestinal infections, and the degeneration of the myelin sheaths. The excess of vitamin A may cause nausea, vomiting, and anorexia. The functions of vitamin A in the body include: development and upkeep of the epithelial tissue, support of the skin, upkeep of visual sharpness (in diminishing light), bone development and immunity. Sources of vitamin A include:
+green leafy vegetables, germination cereals and pulses, meat, fish, green mango, papaya, pumpkin, yellow fruits and vegetables. Other sources are eggs, spinach, cabbage, carrots, amaranth, angle liver oils, cod liver oil, liver or halibut liver oil
+(Abrha et al. 2016; Gräslund et al. 2008).
+9.3.1.2 Vitamin D
+The best-known utility of vitamin D is to control the concentration of phosphorus and calcium in the blood. This anti-rachitic vitamin occurs in a number of forms.
+Four crystalline D vitamins are isolated and at least 10 pro-vitamins D are known.
+For humans, most of the vitamin D supply comes from animal sources or synthesized following sun exposure. Vitamin D is formed by exposing ergosterol to ultra-
+
+violet light. Vitamin D is the natural vitamin D found in fish oil and formed in the
+
+skin of man and animals following exposure to sunlight (Nair and Maseeh 2012). It may be formed by the irradiation of 7-dehydrocholesterol. Vitamin D and D are
+2 3
+known as vitamers. Vitamin D enhances the absorption of phosphorus and calcium from the intestine and their deposition in bones. Vitamin D sources include exposure to sunlight, liver, eggs, butter, cheese, fish liver oil, fortified foods, milk, and margarine. Vitamin D also stimulates the normal mineralization of bones and increases the tubular reabsorption of phosphate. It also possesses antioxidant
+156 M. Akram et al.
+properties (Christakos et al. 2015; Gaman et al. 2019). Ageing decreases the capacity of the skin to produce vitamin D . After the age of 70, vitamin D levels decrease
+
+to about 25% of the normal value in adults (Kennel et al. 2010). In the temperate zone, the cutaneous production of vitamin D is limited by the reduced ultraviolet
+
+radiations availability. In the absence of solar exposure, about 400 - 600 IU of vitamin D seems to be required daily to maintain the normal bone metabolism.
+Deficiency of vitamin D can affect bone development. In children, vitamin D deficiency causes rickets, a disorder in which bones deteriorate and bend under pressure. In adults, vitamin D deficiency results in osteomalacia (soft bones) which enhances the risk of bones fractures (Kennel et al. 2010; Nair and Maseeh 2012;
+Christakos et al. 2015).
+9.3.1.3 Vitamin E
+Vitamin E is an anti-sterility factor and a natural antioxidant. Structurally related names of vitamin E include tocopherols or tocotrienols (Gheorghe et al. 2019). It is involved in the healing of wounds and in immunity. Sources of vitamin E include wheat germ oil, nuts, cereals, meat, eggs, milk, green leafy vegetables, and other vegetables. The deficiency of vitamin E is associated in humans with cystic fibrosis, ataxia and abetalipoproteinemia (disorder that interferes with the normal absorption of fat and fat-soluble vitamins from food) and with habitual abortions and testicular degeneration in laboratory animals. Also, vitamin E deficiency can lead to increased hemolysis of the red blood cells and macrocytic anaemia in premature infants. The effects of excessive vitamin E doses lead to interference with the utilization of vitamins A and K, prolonged prothrombin time, intestinal irritability, headache, fatigue, and dizziness (Schmölz et al. 2018; Birringer et al. 2019;
+Gomez-Pomar et al. 2018; Moisa et al. 2018; Kemnic and Coleman 2019; Reddy and Jialal 2018).
+9.3.1.4 Vitamin K
+The major function of vitamin K is the formation of prothrombin in the liver along with other vitamin K dependent clotting factors namely: VII, IX,, X, protein C and
+S which are essential for normal blood coagulation or blood clotting. It is found in fresh green leafy vegetables, lettuce, cabbage, egg yolk, soybean oil, and liver.
+Our body can also produce its own vitamin K courtesy of the normal bacterial flora of our intestines. Premature babies receive 0.5 - 1 mg vitamin K intramuscularly or 1 - 2 mg orally at birth to prevent Vitamin K deficiency. Vitamin K deficiency can result to generalized bleeding, the development of hemorrhagic disease of the newborn, and prolonged clotting time in adults. Excessive doses of vitamin
+K can lead to hyperbilirubinemia in infants and vomiting in adults (Reddy and
+Jialal 2018).
+9 Vitamins and Minerals: Types, Sources and their Functions 157
+9.3.2 Water Soluble Vitamins
+9.3.2.1 Thiamine (Vitamin B1)
+Thiamine or vitamin B1 is water-soluble and acts as coenzyme known thiamine pyrophosphate. Thiamine pyrophosphate is involved in carbohydrate metabolism.
+Thiamine pyrophosphate is also involved in the hexose monophosphate shunt. It is a neuro-protective agent (Ikeda et al. 2016). Thiamine is found in nuts, potatoes, meat, beans, and cereals. Its deficiency leads to a disease known as beriberi. It is often observed in polished rice-eating communities because, in polished rice, the seed coat, which contains this vitamin, is removed. There are three types of beriberi:
+dry, wet and infantile (Romagnoli et al. 2012). Thiamine is a co-catalyst in sugar digestion and is necessary to the function of the heart, nerves, and muscles. Vitamin
+B1 sources include unmilled oat, wheat germ, beets, nuts, meat, lentils, potatoes, pork, eggs, poultry, dried beans, green peas, beans, green verdant vegetables.
+Thiamine insufficiency can cause beriberi, polyneuritis, mental disarray, ataxia or
+Wernicke-Korsakoff syndrome in alcoholics. Excess can lead to tachycardia, migraines or peevishness, a sleeping disorder (Wiley and Gupta 2019).
+9.3.2.2 Riboflavin (Vitamin B2)
+Riboflavin (or lactoflavin) is a yellow crystalline substance. Riboflavin is found in grain, milk, eggs, liver, oats, and green verdant vegetables. It is involved in tissue respiration. Its derivatives are FAD (flavin adenine dinucleotide in its oxidized state) and FADH (FAD in its reduced form). FADH gives two ATP in the electron trans2 2
+port chain. FAD and FADH are involved in oxidation-reduction reactions. One
+
+FADH is obtained in the TCA cycle (Barile et al. 2016). These act as coenzymes in
+
+the alpha-keto glutarate dehydrogenase and succinate dehydrogenase complexes.
+Its deficiency results in a condition known as ariboflavinosis. Ariboflavinosis is characterized by cheilosis (textured desquamation of the skin around the mouth), glossitis (sparkly red and sore tongue), soreness of the lips, eye disturbances and photophobia (light sensibility), oily skin the nose, scrotal dermatitis (Henriques et al. 2010).
+9.3.2.3 Niacin (Vitamin B3)
+It is a water-soluble vitamin essential to the human diet, but can be synthesized in the body from tryptophan. Its deficiency leads to a condition known as pellagra. It is found in some cereals, yeast extracts, and meat. In the body, niacin is converted to the NAD (nicotinamide adenine dinucleotide) coenzyme. These co-enzymes are involved in oxidation-reduction reactions. They act as coenzymes of the isocitrate
+158 M. Akram et al.
+dehydrogenase, alpha-ketoglutarate dehydrogenase and malate dehydrogenase complexes (Ronsein et al. 2016). Niacin has lipid-lowering effects and can be used in the treatment of diabetes mellitus (Elam et al. 2000).
+9.3.2.4 Pantothenic Acid (B5)
+It is a member of the vitamin B complex group. As part of the fatty acid synthase and of coenzyme A, it is involved in hormonogenesis and energy production.
+Patients with pantothenic acid deficit may develop adrenal insufficiency, enteritis or dermatological conditions (alopecia, dermatitis etc) (Lykstad and Sharma 2019).
+9.3.2.5 Biotin (Vitamin B7)
+Biotin is also considered as a member of the B-complex group. It helps in the synthesis of fatty acids, utilization of glucose, metabolism of proteins, and utilization of vitamin B and folic acid. The effects of biotin deficiency or excess have
+
+remained unknown. It is obtained from green beans, egg yolk, dark green vegetables, kidneys and liver (Hsu et al. 2016).
+9.3.2.6 Folic Acid (Vitamin B9)
+Folic acid is the synthesized form of folate, a water-soluble vitamin, found in green leafy vegetables, fruits and liver. Following conversion, vitamin B9 or folate becomes tetrahydrofolate, its active form. It is an essential molecule in the synthesis of nucleic acids (DNA and RNA). Folate deficiency can lead to neural tube defects, thus pregnant women should receive folate supplementations as a preventive method. Folate deficiency can also cause megaloblastic anemia, a type of macrocytic anemia, and prompts a differential diagnosis with vitamin B deficiency,
+
+which also causes megaloblastic anemia (Lykstad and Sharma 2019; Ankar and
+Kumar 2019).
+Methylenetetrahydrofolate is involved in the synthesis of thymidine, an important component of the DNA. Neural tube defects are common in children whose mothers were deficient in folic acid during pregnancy (Hodgetts et al. 2015). Neural tube defects can be prevented in children whose mothers receive folic acid supplements during pregnancy. Methyl vitamin B mediates the reaction in which the
+
+amino acid methionine, which is required for the synthesis of myelin, is generated from homocysteine. During this process, methyl tetrahydrofolate is also converted to tetrahydrofolate. The normal generation of methyl tetrahydrofolate depends upon an adequate supply of both folic acid and vitamin B . Deficiency of either of them
+
+can produce a defect in all the tissues with rapid rate of cellular proliferation, e.g.
+the bone marrow (resulting in megaloblastic anaemia) and the gastrointestinal tract.
+9 Vitamins and Minerals: Types, Sources and their Functions 159
+The administration of large doses of folic acid in a patient with vitamin B deficiency
+
+may alleviate the anaemia but it cannot cure or may even aggravate the neurological deficit, by increasing the tissue demand of vitamin B (Reynolds 2014).
+
+9.3.2.7 Cobalamin (Vitamin B12)
+Vitamin B (cyanocobalamin) is a water-soluble vitamin found in meat, dairy prod-
+
+ucts, fish and eggs. (Hariz and Bhattacharya 2019). It is essential for the normal production of red blood cells by the bone marrow and for the growth of nervous cells. Vitamin B deficiency causes megaloblastic anemia and, via myelin damage,
+
+neurological deficits (ataxia, neuropathy) or even neuropsychiatric symptoms such as dementia. Vegan diets contain insufficient amounts of vitamin B . Folate defi-
+
+ciency can also cause megaloblastic anemia and should be taken into account when looking for the potential cause of the anemic syndrome (Lykstad and Sharma 2019;
+Ankar and Kumar 2019).
+9.3.2.8 Vitamin C
+Vitamin C (ascorbic acid) is a crystalline solid which is soluble in water (Halliwell
+2001). Most animals and plants synthesize ascorbic acid; however, primates and humans lack gluconolactone oxidase, a key enzyme in the final step of ascorbate synthesis. Thus, in these species, the daily requirements of vitamin C should come from the diet. Oranges, lemons, grapefruit, leafy green vegetables and beef liver are the best sources of vitamin C (Ferraro et al. 2016). Vitamin C is needed to form collagen that gives strength to the connective tissues and required for wound healing and a normal immune function. Vitamin C deficiency causes changes in the connective, leading to the development of scurvy, a disease in which the synthesized collagen is unstable. The symptoms of scurvy include muscle pain, joint swelling, and bleeding. Vitamin C acts as antioxidant and free oxygen radical scavenger and can be used topically in skin disorders, including those caused by photo-aging (Sorice et al. 2014; Luis Gomez et al. 2018). The hyperpigmentation of the skin can be treated with vitamin C, since it inhibits the activity of melanocytes, i.e. the cells involved in the synthesis of melanin (Telang 2013).
+9.4 Minerals
+Minerals are inorganic elements that cannot be synthesized in the body but obtained from the diet. They are naturally present in soil and water. Some are essential to living organisms while some are very toxic. Plants absorb significant amount of minerals from the environment and usually passed them along the food chain to animals.
+The deficiency of such nutritionally important minerals usually proves fatal.
+160 M. Akram et al.
+Minerals are key elements of the body. They are needed in the buildup and function of important biomolecules in the human body. Although, minerals are not a source of energy in the body but they are necessary for the maintenance of normal biochemical processes in the body (Zhao et al. 2016). Based on the body needs, these essential minerals can be classified as either a macro or micro (trace) minerals.
+9.4.1 Macro-Minerals
+Macro-minerals are nutritionally important minerals such as sodium, calcium, phosphorus, magnesium and potassium. They are classified as macro because the average adult daily requirement is greater than 100 mg/day (Prashanth et al. 2015).
+9.4.1.1 Calcium
+It is obtained from hard water, shellfish, fish, dark green leafy vegetables and milk
+(Jeurnink and De Kruif 1995). Calcium is a mineral which is essential for an adequate growth and bone development (Matkovic and Ilich 1993). It is a common mineral found in blood (McCarron and Reusser 1999). Cells require an adequate amount of calcium to perform various functions (Miller et al. 2001). Teeth and bones are rich in calcium (Vallet-Regí and González-Calbet 2004). It is also involved in blood clotting (Hall et al. 1991). Most of the calcium is found in bones (Reid et al. 2015). The total extracellular fluid space contains about 900 mg of calcium which is in dynamic equilibrium with the skeleton (Bronner and Stein 1995). About
+1% of the skeletal calcium (10 g) is readily exchangeable with the calcium in extracellular fluids and constitutes a large calcium reservoir. The remaining 99% of the bone calcium is only slowly exchangeable. Nearly 500 mg of calcium are deposited in and mobilized from the bones daily in a continuous process of remodelling.
+Calcium is secreted into the intestine through bile, pancreatic juice, and intestinal secretion but is completely reabsorbed. As the blood level of calcium decreases, bones start to release calcium to increase the calcemia. When the calcium level increases in the blood, it is deposited in bones or excreted in urine. Calcium is involved in the nerve function, contraction of muscles and clotting of blood. Its level in blood is maintained by the parathyroid hormone and calcitonin. The dailyrecommended allowance for calcium is 1 g per day. Vitamin D is involved in the uptake of calcium by the body. Its deficiency results in rickets, osteoporosis, and osteomalacia. Tetany may occur due to the deficiency of calcium in the blood.
+Causes of hypocalcaemia include chronic renal failure (Naveh-Many et al. 1995), phosphate therapy etc. (Välimäki et al. 1999). The excess amount of calcium in the blood can result in the development of kidney stones (Pettifor 2008; Sahay and
+Sahay 2012).
+9 Vitamins and Minerals: Types, Sources and their Functions 161
+9.4.1.2 Sodium
+Sodium (natrium) is present in most foods and its dietary deficiency is rare. Sodium is involved in the control of blood. Sodium chloride is the most common form of sodium which is marketed as table salt (Cogswell et al. 2016). Kidneys are the main regulators of body sodium and normally 98% of the body loss of sodium occurs in urine. If more sodium is ingested, its excretion in the urine increases. If less sodium is ingested or if plasma sodium falls due to any reason, sodium may totally disappear from the urine. This is usually through the adrenocortical hormone aldosterone, which increases the tubular reabsorption of sodium in the renal tubules. An increased level of sodium in the blood defines hypernatremia, and is characterized by seizures, oedema, neuromuscular excitability, irritability, weakness and lethargy
+(Kalogeropoulos et al. 2015; Xi et al. 2015).
+9.4.1.3 Magnesium
+Magnesium is obtained from hard water, spices, apricots, bananas, soybeans, nuts, green leafy vegetables, and whole grains. It aids in the maintenance of bone growth and integrity and is involved in the regulation of the cardiac cycle and the functioning of muscles and nerves. Deficiency diseases are hypomagnesaemia and neuromuscular irritability. Toxicity symptoms are hypotension, respiratory failure, and cardiac disturbances (Allen and Sharma 2019; Gragossian and Friede 2019).
+9.4.1.4 Potassium
+It is obtained from whole and skimmed milk, meat, bananas, raisins and prunes. A proper plasma potassium level is essential for the normal heart functioning.
+Potassium ions also take part in the normal functioning of skeletal muscle fibers.
+Potassium is needed for many enzyme reactions (Weaver 2013). Glycogenesis requires the presence of potassium. Insulin administration causes a fall in plasma potassium level because the deposition of glycogen brought about by insulin is also accompanied by the deposition of potassium. Moreover, insulin also increases protein synthesis within the cells, which by binding potassium ions can lead to a low plasma potassium level. Potassium deficiency leads to hypokalemia, paralysis, and cardiac disturbances. Excessive potassium levels lead to hyperkalemia, paralysis and cardiac disturbances (He and MacGregor 2008).
+9.4.1.5 Phosphorus
+It is obtained from legumes, nuts, cereals, fish, meat, cheese and poultry (Takeda et al. 2012). The bioavailability of minerals such as iron and zinc may be low in a total vegetarian diet because of the presence of substances such as phytic acid.
+Besides, large amounts of dietary fiber may interfere with its proper absorption.
+162 M. Akram et al.
+Because humans are omnivorous, trace element deficiencies are unlikely to develop.
+Studies have shown that mineral deficiencies are not more frequent among vegetarians than among non-vegetarians. In fact, man's need for trace elements has not yet been precisely determined. Trace elements should not be used as dietary supplements, since excessive amounts can have injurious effects. Phosphorus is involved in the formation of bone and teeth, ATP, GTP and UTP. It is a component of DNA and RNA, it is present in phospholipids and it forms part of cell membranes.
+Hyperphosphatemia can occur in renal failure (Arai and Sakuma 2015).
+9.4.2 Trace Elements
+As the name implies, trace elements are essential group of minerals, which are needed, in small quantity for the day-to-day metabolic processes in man. They are regarded, as trace elements because their daily requirement should be below 100 mg, above which can be toxic to health. However, the deficiency of any of these trace elements can lead to serious health challenges (Prashanth et al. 2015). Trace minerals include iron, copper, zinc, iodine, manganese etc. (Table 9.2).
+Table 9.2 Trace minerals, functions and sources
+S/N Minerals Functions Sources References
+1 Iron (Fe) Helps in the formation of heme Fe is widely Fairweatherproteins needed for the transport distributed in organ Tait and Hurrell of oxygen to the red blood cells, meats, red meats (1996) flavoproteins and other enzymes. (30 - 70% is haem iron), egg yolks;
+legumes; dried fruits;
+dark, leafy greens;
+iron-enriched breads and cereals; and fortified cereals; fish;
+poultry; shellfish
+2 Copper (Cu) Part of many enzymes including Foods high in copper Fairweathermetalloenzymes; needed for red include liver, kidney, Tait and Hurrell blood cell formation, connective shellfish, wholegrain (1996) tissues cereals and nuts. Soft or acidic water passing through copper pipes can also contribute copper to the diet.
+3 Zinc (Zn) It plays main roles in the Meats, fish, poultry, Bagherani and cell-mediated immunity, bone oysters, leavened Smoller (2016) formation, tissue growth, brain whole grains, function, growth of the fetus and vegetables child. It also has roles in pathogenesis of some dermatological disorders.
+(continued)
+9 Vitamins and Minerals: Types, Sources and their Functions 163
+Table 9.2 (continued)
+S/N Minerals Functions Sources References
+4 Iodine (I) Growth and development, Seafood, foods grown FairweatherMetabolism, Reproduction, in iodine-rich soil, Tait and Hurrell
+Thyroid hormone production iodized salt, bread, (1996) dairy products
+5 Selenium Anti-oxidant; Selenium is Meats, seafood, grains. Combs (1988), needed for the proper Cereals, seafood and Fairweatherfunctioning of the immune meat products are the Tait and Hurrell system, and appears to be a key richest sources of Se (1996) and nutrient in counteracting the and are the main Margaret development of virulence and contributors to the (2000) inhibiting HIV progression to daily Se intake,
+AIDS. It is required for sperm whereas vegetables, motility and may reduce the risk fruits and beverages of miscarriage. are generally in Se
+6 Chromium Chromium acts as an Dietary sources of Anderson et al.
+(Cr) antioxidant. It also helps to chromium include (1992), decrease insulin resistance in brewer's yeast, cheese, Anderson diabetic patients pork kidney, whole (2000) and grain breads and Tulasi and Rao cereals, molasses, (2014) spices and some bran cereals. Lean beef, oysters, eggs, and turkey are sources of chromium
+7 Manganese It activates numerous Manganese is present Watts (1990),
+(Mn) enzymes - such as hydrolases, in a wide variety of Aschner and transferases, kinases, and foods, including whole Aschner (2005) decarboxylases - and is a grains, clams, oysters, and Buchman constituent of some enzymes. mussels, nuts, (2014)
+Manganese also plays a role in soybeans and other blood clotting and hemostasis in legumes, rice, leafy conjunction with vitamin K. vegetables, coffee, tea, and many spices, such as black pepper.
+8 Flouride (F) It is involved in formation of Drinking water (either O'Mullane bones and teeth; helps prevent fluoridated or naturally et al. (2016) dental decay and caries. containing fluoride), fish, and most beverages, from oral tooth pastes as well.
+9 Molybdenum Functions as a cofactor for at Legumes; nuts, breads Novotny (2011)
+(Mo) least four enzymes: sulfite and grains; leafy oxidase, xanthine oxidase, greens; leafy, green aldehyde oxidase, and vegetables; milk; liver mitochondrial amidoxime reducing component.
+Source: Modified from
+164 M. Akram et al.
+9.4.2.1 Iron
+Iron is obtained from green leafy vegetables, dried nuts, beans, peas, egg yolk, red meat, kidney, and liver. Iron is one of the most abundant metals present in the body and is essential for life. As a component of haemoglobin and myoglobin, it is involved in the transfer of oxygen between blood and tissues. In most of the cells, iron is present as a component of enzymes involved in oxidation-reduction reactions. At birth of an infant, large amount of iron (246 mg) accumulates in the body.
+This iron storage depends on the iron intake of the mother during pregnancy. The greatest demand for iron is during the last 3 months of pregnancy. The developing fetus requires about 20 - 30 mg/day of iron in the pregnant woman. The iron in diet comes in the form of haem and non-haem. Haem has a higher bioavailability and can be found in meat, fish, poultry, and milk (Abbaspour et al. 2014). Non-haem is found in varying degrees in plant products. Iron deficiency leads to hypochromic microcytic anaemia. Factors that reduce iron absorption are the surgical removal of the upper small intestine, subtotal gastrectomy, chronic infections, achlorhydria and anti-acid therapy, excess of phosphates and oxalates, diarrhoea and malabsorption. In the case of deficient intake of iron, blood loss or increased iron demand, iron deposits in the body depletes, and anaemia occurs. Symptoms include pallor, weakness, irritability, fissures of the angles of the mouth, heart murmurs and indigestion (Lopez et al. 2016). Iron excess leads to the development of cirrhosis, skin pigmentation, and hemochromatosis. In the United States of
+America, 5% of men and 2% of women are suffering from anaemia (JohnsonWimbley and Graham 2011).
+9.4.2.2 Chloride
+Sources of chloride include cornbread, potato chips, green olives, and animal products. Chloride is necessary to maintain the composition of blood and to the formation of hydrochloric acid. It regulates the acid-base balance and the osmotic pressure.
+Deficiency symptoms include alkalosis and failure to thrive in infants. Toxicity symptoms include an increase in the extracellular volume and hypertension
+(Shrimanker and Bhattarai 2019; Sur and Shah 2019).
+9.4.2.3 Cobalt
+Intestinal bacteria synthesize cobalt. It takes part in the formation of vitamin B . It
+
+is stored in the body in amounts of 1 - 2 mg. The liver stores enough cobalt for
+3 - 4 years as hydroxyl cobalamine and methyl cobalamine. The daily requirements are 2 - 3 microgram (Angelova et al. 2014).
+9 Vitamins and Minerals: Types, Sources and their Functions 165
+9.4.2.4 Copper
+It is obtained from organ meats, nuts, dried legumes, whole grains, and cereals. In food, it is present as copper complexes and released in the stomach due to the acidic pH of the gastric juice. It is involved in bone formation and hematopoiesis. It is absorbed in the small intestine mostly by diffusion and in small amounts using carriers. In the circulation, copper combines with albumin, reaches the liver, and incorporated into ceruloplasmin, which is distributed to the tissues. Copper is excreted through bile in faeces and in urine, skin, hair, and nails. It is transported by albumin and is bound to ceruloplasmin. It is part of certain enzymes like ferro-oxidase, catalase, cytochrome oxidase and tyrosinase (Leone et al. 2006). It is required for red blood cell production. Copper-containing proteins like ceruloplasmin contribute to the absorption of iron in the gastrointestinal tract. Copper deficiency can cause hypochromic anaemia. Copper toxicity manifests as hepatolenticular degeneration and biliary cirrhosis (Patil et al. 2013).
+9.4.2.5 Zinc
+It is obtained from liver, muscle, oysters, cereals, and pulses. Infants need 5 mg/day, children need 10 mg/day and adults need 35 mg/day. It is a constituent of metalloenzymes and enables cell growth and proliferation, sexual maturity, and fertility. It improves immunity, appetite, and taste. Iron and copper reduce its absorption. Zinc deficiency is rare and can be seen in patients with kidney diseases and in alcoholic patients. The growth of children with zinc deficiency is reduced. Zinc toxicity symptoms include the development of gastrointestinal diseases and a decreased immune function (Prasad 2008; Bredholt and Frederiksen 2016).
+9.4.2.6 Silicon
+Elevated levels of silicon are present in the connective tissue of the aorta, i.e. collagen and elastin components of the aortic wall. Silicon levels decline with ageing and with the development of atherosclerosis. Silicon seems to reduce the levels of fatty acids in the blood and the aorta. Fatty acids are associated with the formation of atherosclerotic plaques. Studies have shown silicon supplements also help in the prevention of osteoporosis (Jugdaohsingh 2007).
+9.4.2.7 Manganese
+It is obtained from nuts, cereals, and tea leaves. It is required for enzymes, such as succinate dehydrogenase, arginase, and glucosyltransferase. It is required for the synthesis of chondroitin sulphate which is necessary for cartilage formation (Tuschl et al. 2013). It stabilizes the DNA and the RNA. The total body content is 15 mg and
+166 M. Akram et al.
+the daily requirement is of 4 - 10 mg. It is excreted in the bile and the pancreatic juice. Its deficiency causes a defective bone formation and leads to glucose intolerance, alopecia, reddening of hair and dermatitis. Toxicity symptoms include functional abnormalities of the central nervous system (Pallauf et al. 2012).
+9.4.2.8 Fluoride
+It is obtained from seafood, vegetables, grains, tea, coffee (Moody et al. 1980) and fluorinated water (Buzalaf et al. 2001). It is necessary for the mineralization of bones, the development of the dental polish and the aversion of dental caries. Dental caries can be prevented by the fluoridation of water and the addition of fluorides to toothpaste. Fluoride salts can be administered to children in the form of drops, tablets, and mouthwash. Toxicity leads to dental fluorosis (Iheozor-Ejiofor et al. 2013).
+9.4.2.9 Iodine
+Sources of iodine include seafood, iodized salts, eggs, dairy products and water. It is an essential element for the normal growth and development of the body. Iodine is necessary for the formation of thyroid hormones. Iodine deficiency occurs in nearly 2.6 billion individuals. Various degrees of iodine deficiency affect 50 million children worldwide (Ershow et al. 2016). Iodine cannot be stored in the body and requires a lifetime intake in tiny amounts. Common salt fortified with iodine can be used as an effective intervention for a long time. Iodine deficiency can lead to the development of goiter. The daily-recommended dietary allowance of iodine is 40
+microgram/day. It is used also as antiseptic, as skin disinfectant prescribed in the form of povidone-iodine (Durani and Leaper 2008).
+9.4.2.10 Selenium
+Selenium is a mineral with antineoplastic effects against colon cancer, breast cancer and possibly other malignancies (Hoffmann and Berry 2008). It is a natural antioxidant (Gaman et al. 2014). The amount of selenium present in food depends on how much selenium was found in the soil where the food had grown. It is obtained from animal and vegetal products. The richest food sources of selenium include muscle meat, cereals, grains, and dairy products like eggs. It partakes in the activity of metallo-enzymes and protein synthesis, prevents liver necrosis, stimulates pancreatic lipase secretion and is involved ATP generation. Selenium deficiency causes hemolytic anaemia, muscle necrosis, and cardiomyopathy. The excess of selenium causes toxicity-dermatitis, loss of hair and gives a garlic odour in breath
+(Rayman 2012).
+9 Vitamins and Minerals: Types, Sources and their Functions 167
+9.5 Summary and Conclusion
+Vitamins and minerals are essential substances for the normal functioning and development of the body. There are two classes of vitamins namely: Fat-soluble and
+Water-soluble vitamins. The known vitamins include A, C, D, E, and K, and the B vitamins: thiamin (B), riboflavin (B), niacin (B), pantothenic acid (B), pyridox1 2 3 5
+ine (B ), cyanocobalamin (B ), biotin, and folate/folic acid. A number of minerals
+6 12
+are essential for health: calcium, phosphorus, potassium, sodium, chloride, magnesium, iron, zinc, iodine, sulfur, cobalt, copper, fluoride, manganese, and selenium.
+The essential minerals of the body are divided into two viz-a-viz: macrominerals and trace minerals. The trace minerals are those that are required in small amounts by the body but do not imply they have little significance to the body. Micronutrients satisfy both the qualitative and quantitative requirements in the human diet and are consumed in moderate amounts.

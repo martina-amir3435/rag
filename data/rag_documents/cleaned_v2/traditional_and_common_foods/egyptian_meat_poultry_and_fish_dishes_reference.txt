@@ -1,0 +1,193 @@
+ID Design 2012/DOOEL Skopje, Republic of Macedonia
+Open Access Macedonian Journal of Medical Sciences. 2016 Sep 15; 4(3):353-358.
+
+eISSN: 1857-9655
+Dietary Behaviour Pattern and Physical Activity in Overweight and Obese Egyptian Mothers: Relationships with Their
+Children's Body Mass Index
+Nayera E. Hassan1, Saneya Wahba2, Inas R. El-Alameey2*, Sahar A. El-Masry1, Mones M. AbuShady2, Enas R. Abdel
+Hameed2, Tarek S. Ibrahim2, Samia Boseila2 (Affiliation ID: 60014618)
+1Biological Anthropology Department, Medical Division, National Research Centre, Giza, Egypt; 2Child Health Department,
+Medical Division, National Research Centre, Giza, Egypt
+Abstract
+Citation: Hassan NE, Wahba S, El-Alameey IR, El-Masry BACKGROUND: Obesity and related morbidity increase in Egyptian women and their children. A
+SA, AbuShady MM, Abdel Hameed ER, Ibrahim TS, better understanding of dietary and activity patterns is needed to reduce obesity prevalence.
+Boseila S. Dietary Behaviour Pattern and Physical Activity in Overweight and Obese Egyptian Mothers:
+Relationships with Their Children's Body Mass Index. AIM: The present study aimed to assess dietary patterns and physical activity in Egyptian
+Open Access Maced J Med Sci. 2016 Sep 15; 4(3):353358. overweight and obese mothers and to explore its relationships with their children's body mass index
+Keywords: Overweight and Obese; mothers; Body Mass (BMI).
+Index; dietary Behaviour; physical Activity.
+*Correspondence: Inas R. El Alameey, PhD. Child SUBJECTS AND METHODS: This descriptive case-control study was conducted at the National
+Health Department, National Research Centre, Giza, Research Center. The study included a sample of 64 overweight and obese mothers and 75
+Egypt. E-mail: inasno@hotmail.com
+Received: 30-Jul-2016; Revised: 12-Aug-2016; children, compared with apparently healthy non-obese mothers and their children of matched age
+Accepted: 14-Aug-2016; Online first: 01-Sep-2016 and social class. Tested questionnaires were used to collect information of the studied subjects.
+
+Inas R. El-Alameey, Sahar A. El-Masry, Mones M. RESULTS: A statistically significantly higher incidence of unemployment, large family size was
+AbuShady, Enas R. Abdel Hameed, Tarek S. Ibrahim,
+Samia Boseila. This is an open-access article distributed observed in overweight & obese women compared to controls (P < 0.05). Those women who under the terms of the Creative Commons Attribution consumed vegetables more than 3 times a week were less likely to be overweight or obese (P <
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author 0.05). No significant association were detected between mothers' physical activity, dietary and source are credited.
+behaviour variables and children's BMI except for consuming beverages with added sugar (95%CI
+Competing Interests: The authors have declared that no competing interests exist. = 0.074-0.985, P<0.05).
+CONCLUSION: Improper dietary patterns, nonworking mothers and big family size are associated with obesity among Egyptian women. Emphasis should be given to increasing physical activity and encourage healthier diets among Egyptian mothers and their children.
+Introduction Organization statistics, Egypt occupies the 14th place in obesity worldwide [4]. Childhood obesity is currently around one in every ten is obese. According to CDC,
+Obesity has become an epidemic worldwide the percentage of childhood obesity in the 1980's problem affecting both developed and developing jumped from 7 percent to 17 percent (12.5 million) in countries [1]. The prevalence of overweight and 2010 [5].
+obesity in the Arab countries has reached an alarming
+Several risk factors have been cited as level ranging between 50% and 70% for women in the potential causes for obesity in mothers' and young
+21st century [2] which necessitates urgent action. In children, including socioeconomic status, lack of
+Egypt, the prevalence of obesity has increased physical activity [6], changes in eating habits such as markedly with the changing food habits and the skipping breakfast [7], consumption of fast foods rich increasingly sedentary lifestyles, with nearly 70
+in fat, sugar and salt, with a decrease in the intake of percent of the Egyptian adult population being obese whole grains, legumes, fruits and vegetables or
+[3]. According to the most recent World Health excessive eating [8, 9]. Obesity has led to an increase
+_______________________________________________________________________________________________________________________________
+Open Access Maced J Med Sci. 2016 Sep 15; 4(3):353-358. 353
+_______________________________________________________________________________________________________________________________ in the prevalence of chronic non-communicable index (BMI) was calculated by dividing weight by diseases as type 2 Diabetes, and cardiovascular height squared (kg/m^2), then we applied the cutoff disease [10]. All of these factors are being the main points recommended by World Health Organization causes of morbidity, mortality, and disability in Arab (WHO) reference as follows: Overweight (BMI = 25.00
+countries, and causing more than 50% of total deaths - 29.99), obesity (BMI = ≥ 30.00) while those with BMI
+[11]. Hence, our study aim was to identify the > 18-24.9 Kg/m^2 were considered normal [14].
+relationships of specific behaviors (dietary patterns and physical activity) on body mass index (BMI) of a sample of Egyptian overweight and obese mothers Data statistical analyses compared to controls and to study the effect of these
+Statistical analyses were performed using the behaviors, maternal BMI, socioeconomic factors,
+SPSS statistical package software for Windows family structure on their children's BMI.
+version 21 (SSPS Inc, Chicago, USA). Results were expressed as the mean ± SD, frequencies and percentages. Multiple logistic regression analysis was done to detect predictors of obesity in children. Odds
+Subjects and Methods ratios and 95% confidence intervals were calculated for the association between different variables and obesity in mothers and children. A p-value < 0.05 was
+Design and Sample considered significant and p < 0.005 was considered highly significant.
+This descriptive case-control study was conducted at the National Research Centre (NRC),
+Giza, during the period from April 2014 to March
+2015. The study included 64 overweight & obese mothers and 75 children compared with apparently Results healthy non-obese mothers and their children of matched age and social class. The mother's age was ranging from 24-57 years (mean age, 39.38 ± 8.51 The study included 64 overweight and obese years). All studied women provided signed written women (BMI > 25), with age ranging from 24-57 years consent form of the Medical Ethical Committee of (mean age, 39.38 ± 8.51 years), and their mean BMI
+NRC to participate in assessments. A thorough history was 35.18 ± 5.40. The age of 75 children ranged from and general examination of mothers and their children 6-19 years and their mean BMI was 17.62 ± 8.77.
+were done to exclude forms of obesity other than Table 1 shows age and anthropometric measures of exogenous dietetic obesity. the all studied sample.
+Table 1: Age and anthropometric measures of overweight and
+Methods obese mothers and their children
+Age Weight Height
+Variables BMI
+(yrs) (kgs) (cm)
+Mean ± SD 39.38 ± 8.51 88.14 ± 15.78 158.03 ± 8.06 35.18 ± 5.40
+Mothers
+Data Collection Range ( 24-57) ( 55-159) ( 148-195) ( 25.2-50.4)
+Mean ± SD 10.46 ± 4.17 36.70 ± 28.61 136.67 ± 19.24 17.62 ± 8.77
+Children
+Range (6-19) ( 12.2-95.4) ( 121-169) ( 8.2-33.40)
+Data were collected through the pretested questionnaire after modification of the same items to fit the Egyptian setting. Data collectors were Regarding the education levels of the conducted and supervised by a senior dietitian. participants, almost 83.3% have low educational
+Dietary patterns and physical activity were estimated levels; (20%) were illiterate, (63.3%) were up to as times per week according to Giovannucci et al, secondary educated, while (16.7%) were university
+[12]. educated. About 73.3% of overweight & obese women in the studied sample are not working, while 26.7% are working. More than half of the overweight & obese
+Anthropometric measurements sample (58.8%) had a large family size between 4 and
+10 family members (adults and children) in the home.
+Anthropometric measurements including
+As regards unemployment, large family size, there weight and height were assessed for all the studied was a statistically significantly higher incidence among subjects at the National Research Centre. Body overweight & obese women compared to controls (P < weight was measured to the nearest 0.1kg by a
+0.05), while no significant relationship with their levels standard clinical balance. Standing body height was of education (p > 0.05), as shown in Table 2.
+measured, to the nearest 0.1 cm by using Holtain
+Stadiometer. The scales were recalibrated after each Consumption of fast fried food: The measurement following the recommendations of the frequency of consuming of fast fried food prepared
+International Biological Program [13]. Body mass outside the home was a common practice in 53.9 % of
+_______________________________________________________________________________________________________________________________
+354
+Hassan et al. Dietary Behaviour Pattern and Physical Activity in Overweight and Obese Egyptian Mothers
+______________________________________________________________________________________________________________________________ the studied women, at least 1-3 times per week by obese mothers (15.7% vs. 42.9%) respectively with no
+(40.1%) versus 4-7 times per week by (13.8%), and significant differences). Having breakfast and
+44.6% did not consume any fast fried food. consumption of sugar-sweetened beverages was a common practice in the overweight & obese group,
+Table 2: Comparison of socio-demographic characteristics of with no significant difference when compared to the overweight and obese women and control groups control group (P > 0.05). There was no statistical
+Control Overweight difference between overweight & obese mothers as
+& Obese P- value
+Variables group group regards physical activity, both groups being mostly
+- Non working 14.3% 73.3% inactive (Table 4).
+Women occupation 0.002**
+- Worker, employee 85.7% 26.7%
+- Illiterate 0% 20.0%
+Women education - Up to secondary 85.7% 63.3% 0.387 Table 5 showed that women who consumed levels
+- University educated 14.4% 16.7% vegetables more than 3 times per week were less
+4 or less members 83.3% 41.2%
+Family size >4 members 16.7% 58.8% 0.048* likely to be overweight or obese (OR = 0.176, 95% CI
+*Significant difference at P < 0.05; **highly significant difference at P < 0.005.
+0.031-0.991, P < 0.05).
+Sugary Beverages: The intake of sugar- Table 5: Association between frequency of vegetables and sweetened beverages in the form of canned fruit juice, fruits consumption and mother's overweight and obesity women carbonated beverages, and hot drinks (tea, coffee, and herbal tea) with added sugar was high among the Non- Overweight Pearson
+Odds P
+Variables obese & Obese Chi- 95% CI studied women (95.9 %). ratio value women women Square
+1-3 28.6%
+Vegetables and fruits were consumed at Vegetables times 69.5% 0.031consumption 4.61 00.176 0.032*
+4-7 0.991
+least 1-3 times weekly by 64.6% and 44.6% of the per week times 71.4% 30.5% sample and 4-7 times weekly by 32.3%% and Fruits 1-3 57.1% 49.2% times 0.28450.9%of sample respectively. Consumption 4-7 0.160 10.39 6.707 0.690
+per week 42.9% 50.8% times
+The breakfast meal was skipped by 16.9% of *Significant difference at P < 0.05.
+the studied women, while 77 % used to have breakfast; the majority of them (58.5 %) had breakfast The regression analysis showed a statistically
+4-7 times weekly and the remaining 18.5 % had their significant positive association between children's BMI breakfast at least, 1-3 times per week. and consumption of beverages with added sugar by their mothers (95% CI 0.074-0.985, P < 0.05). The
+Table 3: Dietary patterns and physical activity per week in the other variables as maternal BMI, education, studied overweight and obese women occupation, family size, room number, physical
+Dietary patterns and physical activity per week activity, and other dietary behaviour variables were
+Variables
+0- time 1-3 times 4-7 times not significant predictors of children's BMI as shown in
+1-Fast food 44.6% 40.1% 13.8%
+2-Beverage with sugar 3.2% 42.9% 53.0% Table 6.
+3-Vegetables 0% 64.6% 32.3%
+4-Fruits 0% 44.6% 50.9%
+5-Breakfast meal 16.9% 18.5% 58.5% Table 6: Association between children BMI category and
+6-Physical activity 76.9% 9.2% 9.2% mother's BMI, socio-demographic characteristics, dietary behaviour, and physical activity (Multiple regression analysis)
+Concerning physical activity: Most (76.9%) Variables B Odds ratio 95% CI P- value of mothers stated that, they did not practice any sort Maternal education -0.209 0.811 0.219-3.0 0.755
+Maternal occupation -0.076 0.927 0.125-6.8 0.941
+of physical activity. Walking was the main physical Family size 0.1 1.1 0.256-4.7 0.893
+Number of rooms -0.105 0.9 0.219-3.6 0.884
+activity performed where 9.2% used to walk 1- 3
+Maternal BMI -0.804 0.448 0.37-5.3 0.526
+weekly and the same percentage 9.2% walked 4-7 Beverages/ week 1.331 1.259 0.074-0.985 0.047*
+Vegetables / week -0.135 0.873 0.602-1.267 0.476
+times/ week (Table 3). Fruits/ week -0.214 0.807 0.514-1.267 0.352
+Breakfast / week 0.075 1.078 0.77-1.51 0.660
+Physical activity -0.439 0.645 0.25-1.60 0.346
+Table 4: Comparison between cases and controls as regard to *Significant difference at P < 0.05.
+practising physical activity and some diet consumption
+Variables Behavior during Control Overweight P- value last week group & Obese group
+Discussion
+Physical No 85.7% 81.4% 0.77
+activity / week Yes 14.3% 18.6%
+Dietary patterns
+- Fast food / week No 57.1% 48.3% 0.659
+Yes 42.9% 51.7% Obesity is one of the most prevalent nutrition
+- Beverage with added No 0% 3.4% 0.62
+disorders with increasing trend among people of all sugar / week Yes 100% 96.6%
+- Breakfast / week No 14.3% 17.2% 0.844 ages all over the world creating a health and
+Yes 85.7% 82.8%
+*Significant difference at P < 0.05. economic burden on their government services [1].
+Most of the Arab countries had a major change in their lifestyle pattern including food consumption and
+Comparing the weekly dietary behaviour nutrient intake of high-caloric during last decades [15].
+between the studied samples revealed a higher
+A sedentary lifestyle has lead to the significant percentage of fast food consumption in overweight &
+_______________________________________________________________________________________________________________________________
+Open Access Maced J Med Sci. 2016 Sep 15; 4(3):353-358. 355
+_______________________________________________________________________________________________________________________________ prevalence of obesity among Egyptian populations < 0.005). In our study, vegetable consumption was the
+[16]. Hence, the aim of this study was to identify the only strong protector associated with controlling body relationship of specific behaviors (dietary patterns and mass index against obesity with a significance of less physical activity) that are known to affect energy than 0.05. No significant difference in the frequency of intake with the BMI among a sample of overweight fruit consumption was detected between the 2 groups and obese Egyptian mothers and to explore the (P > 0.05). Our results were similar to some other possible association between maternal BMI, studies in Australia and Spain that have reported low socioeconomic factors, family structure and the BMI of consumption of vegetables in overweight and obese their children. women [23, 24]. Data from WHO (Regional Office in
+Cairo) indicate that 79% to 96% of adults in 6 Arab
+Our study included 64 overweight and obese countries (Egypt, Jordan, Iraq, Kuwait, Saudi Arabia, women, with an age ranging from 24-57 years (mean and Syria) eat less fruit and vegetables per day [11].
+age, 39.38 ± 8.51 years) with a mean BMI of 33.98 ±
+6.28. Seventy-five children with an age ranged from 6- Skipping breakfast may be related to obesity,
+19 years and their mean BMI was 17.62 ± 8.77. as individuals who do not eat early in the morning, may feel hungry later on and then may consume a
+Education plays a role in obesity prevalence, greater number of calories during the evening hours where illiteracy was associated with obesity in the Gulf than individuals who eat consistently throughout the countries [17]. In the present study, economic status day [25, 26]. In our study, 77 % of the overweight and was measured by the education level, occupation, and obese women had their breakfast meal and it was family size of overweight and obese women compared skipped by only 16.9%, but most of the Egyptian to that of the controls. A large family size and low housewives tend to have late breakfast. The majority occupation percentages were common among of the participants had irregular meals with two main overweight and obese women. About 73.3% of meals per day.
+overweight and obese women were not working while
+85.7% of the control group were employed (p = Regular consumption of sugar-sweetened
+0.002). As regards education of the overweight and beverages, particularly carbonated soft drinks, obese women, (20%) were illiterate, (63.3%) were contributes to the epidemic of overweight and obesity educated up to secondary school level, while only [27, 28]. In our study, there was no significant
+(16.7%) had a university degree, the difference with difference between overweight & obese and nonthe control group was statistically not significant obese women concerning the intake of sugaralthough none of the mothers of the control group was sweetened beverages in the form of canned fruit juice, illiterate. Our findings are in agreement with studies carbonated beverages, and tea with added sugar.
+from Gulf countries, and Colorado that has shown a This is not in agreement with Rasheed et al., [29] who strong relationship between obesity prevalence and found that regular drinking of soft drinks was low educational level, unemployment, poverty, and significantly more common among Saudi obese low-income [17, 18]. women than non-obese women. On the other hand, consumption of beverages with added sugar by the
+Maternal behaviours influence their children's mothers in our study was the only significant predictor behaviours directly and the shared home environment for children's BMI, most probably due to easy access also provides access to foods among them, such as to these beverages kept in the house.
+eating fast food meals together [19]. In our study, more than 50% (53.9%) of overweight and obese Lack of physical activity in adults of 7 Arab women consumed fast food 1-7 times per week. Fast countries (Egypt, Iraq, Jordan, Kuwait, Saudi Arabia, foods are considered a high source of total energy, Sudan, and Syria) ranged from 33% to 86% according total fat, saturated fat, and cholesterol. Higher to WHO statistics [11]. The increase in the number of frequency of fast-food consumption with added sugars hours spent watching television and dependence on has been reported in persons of lower socioeconomic modern means of transport and the decreasing status among obese women in African Americans, physical activity leads to the sedentary lifestyle in and Arab countries [20-22]. Arab societies [30].
+Consuming a diet high in fruits and Analysis of physical activity pattern in our vegetables is associated with lower risks of numerous study has shown that more than 3/4 of the mothers chronic diseases. Fruits and vegetables in their (76.9%) had a sedentary life pattern. Walking and natural state have high water and fibre content and housework were almost the only activities that the thus are low in calories and energy density which may participants were engaged in. Walking was practised help people feel full with a greater quantity of food at a by 9.2% of the participants for 1-3 times/ week while meal while consuming fewer calories [23]. the same percentage (9.2%) walked 4-7 times weekly.
+Vegetables were consumed almost on a daily The problem of childhood obesity is not only basis by 71.4% of the non-obese mothers with a what the children eat, but also their consumption significantly higher percentage than the rate of patterns which mean where, when, and how much consumption of the obese and overweight mothers (p (amount) of food does a child eat [31, 32]. Our results
+_______________________________________________________________________________________________________________________________
+356
+Hassan et al. Dietary Behaviour Pattern and Physical Activity in Overweight and Obese Egyptian Mothers
+______________________________________________________________________________________________________________________________ showed a statistically positive association between PMid:19183541
+children's BMI and consumption of beverages with 11. WHO/EMRO. Regional data on non-communicable diseases added sugar by the mothers (95%CI 0.074-0.985, P < risk factors. World Health organization, Regional Office of East
+0.05), other variables as physical activity, dietary Mediterranean. Non-communicable diseases. Website:
+http//www.emr.who.int.ncd. Accessed April 10, 2010.
+behaviour were not significant predictors of children's
+BMI. Since parents are influential in the development 12. Giovannucci E, Colditz G, Stampfer MJ, Rimm EB, Litin L,
+Sampson L, Willett WC. The assessment of alcohol consumption of health behaviours of their children; efforts to reduce by a simple self-administered questionnaire. Am J Epidemiol.
+obesity should take into consideration the child's 1992;133(8):810-7.
+behaviours and weight status within the family [33].
+13. Tanner JM, Hiernaux J, Jarman S. Growth and physique studies, in Human Biology: A Guide to Field Methods, Weiner JS
+In conclusion, nonworking mothers, large and Lourie JA, Eds., pp. 315 - 340, IBP. London Blackwell family size, and higher frequency of fast-food
+Publications, Oxford, UK, 1969.
+consumption with added sugars are associated with
+14. WHO, Anthro Plus for personal computers. Manual Software obesity among the studied Egyptian mothers. We for assessing growth of the world's children and adolescents.
+recommend the encouragement of consuming healthy Geneva, 2009. ( diets and the promotion of physical activity among 15. Al-Hazza H, Musaiger AO, ATLS Research Group. Physical
+Egyptian mothers, and their children. activity patterns and eating habits of adolescents living in major
+Arab Cities: The Arab Teens Lifestyle Study. Saudi Med J. 2010;
+Limitations: The present study had several 31(20):210-211.
+notable limitations including the small sample size, in
+16. Hassan NE, El-Masry SA, Elshebini SM, Al-Tohamy M, Ahmed addition to the wide age range of children which made NH, Abdel Rasheed E, El-Saeed GS, Hassan NM, Zikri EN, El it difficult for more statistics. Hussieny MS. Comparison of Three Protocols: Dietary Therapy and Physical Activity, Acupuncture, or Laser Acupuncture in
+Management of Obese Females. OA Maced J Med Sci. 2014;
+2(2):191-197.
+17. Alnohair S. Obesity in Gulf Countries. International Journal of
+Health Sciences, Qassim University. 2014; 8 (1): 79 - 83.

@@ -1,0 +1,586 @@
+Calories and Macronutrients of Common Foods
+PROTEINS - MEAT (RAW)
+Lean Minced Beef
+Average Portion 150g 188 33 6.3 0 0
+100g 125 22 4.2 0 0
+Minced Beef
+Average Portion 150g 337 30 24 0 0
+100g 225 19.7 16.2 0 0
+Beef Rump Steak
+Average Portion 150g 187 33 6.2 0 0
+100g 125 22 4.1 0 0
+Beef Sirloin Steak
+Average Portion 150g 202 35 6.8 0 0
+100g 134 23 4.5 0 0
+Beef Stewing Steak
+Average Portion 150g 219 33 9.6 0 0
+100g 146 22 6.4 0 0
+Chicken Light Meat
+Average Portion 150g 159 35 1.7 0 0
+100g 106 24 1.1 0 0
+Chicken Dark Meat
+Average Portion 150g 163 31 4.2 0 0
+100g 109 20.9 2.8 0 0
+Lean Minced Lamb
+Average Portion 150g 234 29 13 0 0
+100g 156 19.1 8.8 0 0
+Minced Lamb
+Average Portion 150g 294 29 20 0 0
+100g 196 19.1 13.3 0 0
+Lamb Breast
+Average Portion 150g 431 24 37 0 0
+100g 287 16 25 0 0
+Lamb Neck
+Average Portion 150g 304 9 21 0 0
+100g 203 19.4 13.9 0 0
+Turkey Light Meat
+Average Portion 150g 157 37 1.2 0 0
+100g 105 24.4 0.8 0 0
+Turkey Dark Meat
+Average Portion 150g 156 31 3.8 0 0
+100g 104 20.4 2.5 0 0
+Pork Loin Steak
+Average Portion 150g 337 30 24 0 0
+100g 225 19.9 16.1 0 0
+
+Pork Ribs
+Average Portion 150g 293 28 20 0 0
+100g 195 18.7 13.4 0 0
+Minced Pork
+Average Portion 150g 246 29 15 0 0
+100g 164 19.2 9.7 0 0
+Bacon
+Average Portion 105g 225 17 17 0 0
+100g 215 16.5 16.5 0 0
+Streaky Bacon
+Average Portion 80g 221 13 19 0 0
+100g 276 15.8 23.6 0 0
+Duck Breast (no skin)
+Average Portion 150g 206 30 9.8 0 0
+100g 137 19.7 6.5 0 0
+Duck Breast (with skin)
+Average Portion 140g 582 20 56 0 0
+100g 388 13.1 37.3 0 0
+Venison
+Average Portion 150g 155 33 2.4 0 0
+100g 103 22.2 1.6 0 0
+Pheasant
+Average Portion 150g 199.5 36.6 4.9 0 0
+100g 144 24.4 3.3 0 0
+Boar
+Average Portion 150g 174 32.2 4.9 0 0
+100g 116 21.5 3.3 0 0
+PROTEINS - FISH (RAW)
+Cod
+Average Portion 150g 113 26 0.9 0 0
+100g 75 17.5 0.6 0 0
+Cod (smoked)
+Average Portion 150g 118 27 0.9 0 0
+100g 79 18.3 0.6 0 0
+Haddock
+Average Portion 150g 112 27 0.6 0 0
+100g 75 17.8 0.4 0 0
+Hake
+Average Portion 150g 138 27 3.3 0 0
+100g 92 18 2.2 0 0
+
+Halibut
+Average Portion 150g 155 32 2.9 0 0
+100g 103 21.5 1.9 0 0
+Monkfish
+Average Portion 150g 100 24 0.6 0 0
+100g 66 15.7 0.4 0 0
+Plaice
+Average Portion 150g 114 25 1.8 0 0
+100g 76 16.4 1.2 0 0
+Sole (lemon)
+Average Portion 150g 110 25 1.1 0 0
+100g 73 16.7 0.7 0 0
+Sole (dover)
+Average Portion 150g 133 27 2.7 0 0
+100g 89 18.1 1.8 0 0
+Wild Trout
+Average Portion 150g 173 31 5.4 0 0
+100g 116 20.8 3.6 0 0
+Wild Salmon
+Average Portion 150g 269 33 15 0 0
+100g 179 22.1 10.1 0 0
+PROTEINS - SEAFOOD (RAW)
+Lobster
+Average Portion 150g 115 25.5 1.5 0 0
+100g 77 17 1 0 0
+Mussels
+Average Portion 150g 111 18.1 2.7 0 0
+100g 74 12.1 1.8 0 0
+Oysters
+Average Portion 150g 99 16.2 1.9 0 0
+100g 66 10.8 1.3 0 0
+Prawns
+Average Portion 150g 115 26.4 1 0 0
+100g 77 17.6 0.7 0 0
+Scallops
+Average Portion 150g 132 42.5 2.5 0 0
+100g 88 17 1 0 0
+Squid
+Average Portion 150g 115 23.1 2.5 0 0
+100g 77 15.4 1.7 0 0
+
+PROTEINS - OTHER
+
+Eggs
+Average Portion 2 eggs 150 14 10 0 0
+100g 131 13 9 0 0
+Duck Eggs
+Average Portion 2 eggs 245 21 18 0 0
+100g 163 14 12 0 0
+Collagen Powder
+Average Portion 30g 107 27.4 0 0 0
+100g 358 91.6 0 0 0
+Pea Protein
+Average Portion 30g 109 19.8 1.5 3 0
+100g 366 66 5 10 0
+Rice Protein
+Average Portion 30g 106 23.2 0 2.8 0
+100g 354 77.4 0 9.6 0
+Whey Protein Isolate
+Average Portion 30g 114 27 0 0 0
+100g 379 90 1.5 1.4 0
+Whey Protein Concentrate
+Average Portion 30g 121 24 2 1.8 0
+100g 402 78 6.8 6.1 0
+Chicken Broth
+Average Portion 250ml 157.5 6 4.25 0 0
+100ml 63 2.4 1.7 0 0
+Beef Broth
+Average Portion 250ml 277.5 19.5 8.75 0 0
+100ml 111 7.8 3.5 0 0
+STARCHY CARBOHYDRATES (RAW/DRIED)
+Amaranth
+Average Portion 70g 72 9.5 4.9 41 4.7
+100g 102 14 7 59 6.7
+Beans (taken from red kidney)
+Average Portion 70g 206 15 1 28 11
+100g 295 22 1.4 41 16
+Buckwheat
+Average Portion 60g 217 4.9 0.9 46 2.2
+100g 362 8.1 1.5 77 3.6
+
+Chickpeas
+Average Portion 70g 236 15 3.8 32 7.5
+100g 338 21 5.4 46 11
+Lentils (taken from red)
+Average Portion 70g 226 17 0.9 36 3.4
+100g 323 24 1.3 52 4.9
+Millet
+Average Portion 70g 242 8.1 2.7 45 2.2
+100g 345 12 3.9 64 3.2
+Quinoa
+Average Portion 60g 191 8.3 3 31 4.2
+100g 319 14 5 51 7
+Rice - Brown
+Average Portion 75g 266 7 2.3 53 2.5
+100g 354 9.3 3.1 71 3.3
+Rice - White
+Average Portion 75g 259 6.4 0 57 0.8
+100g 345 8.5 0 76 1.4
+Rye
+Average Portion 70g 254 7.2 1.1 48 11
+100g 363 10 1.6 69 15
+STARCHY VEGETABLES (RAW)
+Beetroot
+Average Portion 80g 36 1.4 0 5.8 1.8
+100g 45 1.7 0 7.2 2.3
+Carrots
+Average Portion 70g 30 0 0 5.3 2.7
+100g 43 0 0 7.5 3.9
+Parsnips
+Average Portion 120g 88 2.2 1.3 14 5.6
+100g 73 1.8 1.1 12 4.7
+Potatoes
+Average Portion 135g 114 2.6 0 24 2.7
+100g 84 1.9 0 18 2
+Sweet Potatoes
+Average Portion 82g 74 1 0 16 1.8
+100g 91 1.2 0 20 2.2
+Squash (butternut)
+Average Portion 80g 33 0.9 0 6.3 1.6
+100g 41 1.1 0 7.9 2
+
+Turnips
+Average Portion 80g 24 0.7 0 3.8 1.9
+100g 30. 0.9 0 3.7 2.4
+Yams
+Average Portion 80g 94 1.3 0 21 2.5
+100g 119 1.6 0 26 3.1
+
+FRUIT
+
+Apple
+Average Portion 1 apple 99 1.1 0.9 20 2.1
+100g 27 0.6 0.5 12 1.2
+Apricot
+Average Portion 1 apricot 13 0 0 2.5 0.6
+100g 36 1.5 0 12 3
+Banana
+Average Portion 1 banana 108 1.4 0 24 1.7
+100g 90 1.1 0 20 1.4
+Blackberry
+Average Portion 16g 7 0 0 0.8 1.1
+100g 43 1.1 0 6.1 7.9
+Blueberry
+Average Portion 24g 11 0 0 2.2 0
+100g 45 0.9 0 9.1 1.5
+Cherry
+Average Portion 54g 30 0 0 6.2 0.9
+100g 56 0.9 0 12 1.6
+Coconut
+Average Portion 45g 170 1.7 16 1.6 5.5
+100g 378 3.8 36 3.5 12
+Date (dried)
+Average Portion 34g 100 1.1 0 23 1.4
+100g 295 3.3 0 68 4
+Grape
+Average Portion 54g 40 0 0 8.7 0.7
+100g 74 0.6 0 16 1.3
+Grapefruit
+Average Portion 1 fruit 95 2 0 17 4
+100g 38 0.8 0 6.7 1.6
+Kiwi
+Average Portion 60g 36 0.7 0 6.3 1.4
+100g 59 1.1 0.5 11 2.3
+
+Lemon
+Average Portion 1 lemon 35 1.1 0 2.9 1.4
+100g 27 0.8 0 2.2 1.1
+Lime
+Average Portion 1 lime 13 0 0 0 0.5
+100g 26 0.7 0 0.8 1.1
+Lychee
+Average Portion 6 fruits 31 0 0 7 0
+100g 64 0.9 0 14 0.7
+Mango
+Average Portion 52g 35 0 0 7.1 1.5
+100g 67 0.7 0 14 2.9
+Melon (watermelon)
+Average Portion 250g 84 1.1 0.8 17 0
+100g 33 0 0 6.9 0
+Nectarine
+Average Portion 110g 53 1.5 0 9.6 2.2
+100g 48 1.4 0 8.7 2
+Orange
+Average Portion 128g 55 1 0 10 1.5
+100g 43 0.8 0 8 1.2
+Passionfruit
+Average Portion 1 fruit 17 0.8 0 1.7 1.5
+100g 57 2.8 0 5.7 2.8
+Peach
+Average Portion 1 peach 45 1.1 0 8.1 2.5
+100g 41 1 0 7.4 2.3
+Pear
+Average Portion 160g 83 0.5 0 17 4.3
+100g 52 0 0 11 2.7
+Persimmon
+Average Portion 1 fruit 24 0 0 5.1 1.2
+100g 71 0.6 0 15 3.6
+Plum
+Average Portion 85g 39 0 0 7.4 2
+100g 46 0.6 0 8.7 2.3
+Pineapple
+Average Portion 80g 40 0 0 7.9 1.5
+100g 50 0 0 9.9 1.9
+Raspberry
+Average Portion 53g 24 0.7 0 2.4 3.6
+100g 46 1.4 0 4.6 6.7
+
+Satsuma
+Average Portion 1 fruit 29 0 0 5.6 0.9
+100g 49 0.7 0 9.3 1.5
+Strawberry
+Average Portion 78g 33 0 0 4.8 3
+100g 42 0.6 0.5 6.1 3.8
+Sultana
+Average Portion 18g 53 0 0 12 0
+100g 300 2.7 0 69 2
+NON STARCHY VEGETABLES (RAW)
+Artichokes
+Average Portion 80g 24 2.2 0 2.2 0.8
+100g 29 2.8 0 2.7 1
+Asparagus
+Average Portion 75g 24 2.2 0 1.5 1.3
+100g 32 2.9 0.6 2 1.7
+Aubergine
+Average Portion 80g 19 0.7 0 1.8 1.6
+100g 24 0.9 0 2.2 2
+Bamboo Shoots
+Average Portion 80g 22 1.2 0 0.6 5.3
+100g 27 1.5 0 0.7 6.6
+Bean Sprouts
+Average Portion 75g 29 2.2 0 2.8 1.1
+100g 38 2.9 0.5 3.8 1.5
+Bok Choy
+Average Portion 80g 14 0.8 0 1.1 1.2
+100g 18 1 0 1.4 1.5
+Broccoli
+Average Portion 85g 40 3.7 0.5 2.6 3.4
+100g 47 4.3 0.6 3.1 4
+Cabbage
+Average Portion 40g 15 0.7 0 1.8 1.4
+100g 37 1.8 0 4.4 3.5
+Cauliflower
+Average Portion 40g 15 1 0 1.8 0.7
+100g 38 2.5 0 4.4 1.8
+Celery
+Average Portion 80g 11 0 0 0.7 0.9
+100g 13 0 0 0.9 1.1
+
+Courgette
+Average Portion 80g 21 1.4 0 1.4 1.6
+100g 26 1.8 0 1.8 2
+Cucumber
+Average Portion 40g 8 0 0 0 0
+100g 19 1 0.6 1.2 0.7
+Fennel
+Average Portion 80g 19 0.8 0 1.4 2.8
+100g 23 0.9 0 1.9 3.5
+Garlic
+Average Portion 3g 3 0 0 0 0
+100g 109 7.9 0.6 15 4.4
+Green Bean
+Average Portion 75g 26 1.5 0 2.3 2.6
+100g 34 2.1 0 3 3.4
+Kale
+Average Portion 60g 27 2.1 1 0.8 2.2
+100g 45 3.4 1.6 1.4 3.7
+Leek
+Average Portion 80g 24 1.3 0 2.3 1.8
+100g 31 1.6 0.5 2.9 2.2
+Mangetout
+Average Portion 80g 33 2.9 0 3.3 1.8
+100g 41 3.6 0 4.1 2.3
+Mushroom
+Average Portion 30g 5 0.8 0 0 0
+100g 18 2.5 0 0 0.7
+Okra
+Average Portion 85g 37 2.1 0.9 2.5 3.8
+100g 43 2.5 1 2.9 4.5
+Onion
+Average Portion 20g 9 0 0 1.6 0
+100g 45 1 0 7.9 2.2
+Pea
+Average Portion 60g 49 3.2 0 6 3.2
+100g 82 5.3 0.7 10 5.3
+Pepper (bell)
+Average Portion 80g 27 0.8 0 3.8 1.6
+100g 34 1 0 4.8 2
+Radicchio
+Average Portion 50g 14 0.7 0 1.8 0
+100g 28 1.4 0 3.6 0.9
+
+Radish
+Average Portion 40g 6 0 0 0.8 0
+100g 14 0.7 0 1.9 0.9
+Runner Bean
+Average Portion 70g 19 1.1 0 2.2 1.4
+100g 26 1.6 0 3.1 2
+Spinach
+Average Portion 80g 15 2.1 0 0 0.8
+100g 19 2.6 0 0.6 1
+Tomato
+Average Portion 85g 75 0 0 2.6 0.9
+100g 21 0 0 3 1
+
+FATS
+
+Avocado
+Average Portion 70g 141 1.3 14 1.3 2.4
+100g 201 1.9 20 1.9 3.4
+Butter
+Average Portion 1 tsp 67 0 7.4 0 0
+100g 749 0.6 82 0.6 0
+Chia Seed
+Average Portion 20g 94 3.7 6.3 1.6 7.7
+100g 469 18 31 7.8 39
+Coconut Oil
+Average Portion 1 tsp 81 0 9 0 0
+100g 903 0 100 0 0
+Coconut Milk
+Average Portion 250ml 79 0.8 5 4.7 1.3
+100ml 32 0 2 1.9 0.5
+Coconut Yoghurt
+Average Portion 100g 219 2.5 21 3.9 0
+100g 219 2.5 21 3.9 0
+Feta Cheese
+Average Portion 30g 76 4.6 6.1 0 0
+100g 253 15 20 1.4 0
+Ghee
+Average Portion 5g 44 0 4.9 0 0
+100g 883 0 98 0 0
+Nuts - Almond
+Average Portion 10g 62 2.1 5.3 0.7 1.6
+100g 620 21 53 7 16
+
+Nuts - Brazil
+Average Portion 25g 178 4.1 17 0.7 2
+100g 711 16 68 2.9 8.1
+Nuts - Cashew
+Average Portion 22g 131 4.6 11 3.7 1
+100g 597 21 48 17 4.4
+Nuts - Macadamia
+Average Portion 25g 191 2 19 1.1 1.3
+100g 762 7.9 78 4.5 5.3
+Nuts - Walnuts
+Average Portion 15g 107 2.6 10 0 0.9
+100g 714 17 69 3.1 5.9
+Nut Butter (peanut)
+Average Portion 1 tbsp 128 5.7 11 1.4 1.4
+100g 640 29 53 7.2 7
+Olives (green)
+Average Portion 15g 17 0 1.7 0 0.6
+100g 114 0.9 11 0 4
+Olive Oil
+Average Portion 1 tbsp 108 0 12 0 0
+100ml 903 0 100 0 0
+Yoghurt (plain, full fat)
+Average Portion 125g 104 7 3.8 9.5 0
+100g 84 5.6 3 7.6 0
+HERBS (DRIED)
+Basil
+Average Portion 2g 5 0 0 0.9 0
+100g 266 14 4 43 0
+Caraway
+Average Portion 2g 9 0 0 0.9 0.8
+100g 468 29 15 45 38
+Dill
+Average Portion 2g 6 0 0 0.8 0
+100g 311 20 4.4 41 14
+Fennel
+Average Portion 2g 6 0 0 0 0.8
+100g 324 16 15 12 40
+Garlic
+Average Portion 3g 3 0 0 0 0
+100g 106 7.9 0.6 15 4.4
+
+Marjoram
+Average Portion 2g 6 0 0 0.9 0
+100g 284 13 7 43 0
+Mint
+Average Portion 2g 6 0 0 0.7 0
+100g 279 25 4,6 35 0
+Mustard Seed
+Average Portion 2g 8 0.6 0.6 0 0
+100g 416 29 29 0 21
+Oregano
+Average Portion 2g 5 0 0 0 0.9
+100g 257 9 4.3 24 43
+Parsley
+Average Portion 2g 5 0 0 0 0.9
+100g 273 16 7 14 45
+Rosemary
+Average Portion 2g 15 0 1.5 0 0
+100g 755 0 77 15 0
+Sage
+Average Portion 2g 6 0 0 0.8 0
+100g 312 11 13 39 0
+Thyme
+Average Portion 2g 7 0 0 0.9 0.7
+100g 358 9.1 7.4 45 37
+SPICES (DRIED)
+Cayenne Pepper
+Average Portion 2g 7 0 0 0.6 0
+100g 330 12 17 32 0
+Chilli
+Average Portion 2g 6 0 0 0 0.7
+100g 312 14 14 15 35
+Cinnamon
+Average Portion 2g 5 0 0 0.5 1.1
+100g 238 4 1.2 26 53
+Coriander
+Average Portion 2g 7 0 0 0 0.8
+100g 359 12 18 16 42
+Cumin
+Average Portion 2g 8 0 0 0.6 0
+100g 406 18 22 28 11
+
+Ginger
+Average Portion 2g 6 0 0 1.1 0
+100g 313 7.4 3.3 56 14
+Paprika
+Average Portion 2g 6 0 0 0 0.7
+100g 316 14 13 18 35
+Turmeric
+Average Portion 2g 8 0 0 1.3 0
+100g 404 6.7 7 67 23
+
+PROBIOTIC FOOD
+
+Kefir
+Average Portion 30g 17 1.8 0.6 1 0
+100g 58 6.1 2 3.4 1
+Kimchee
+Average Portion 40g 9 0 0 1 0.6
+100g 22 1.1 0.5 2.4 1.6
+Kombucha
+Average Portion 250ml 33 0 0 7.7 0
+100ml 13 0 0 3.1 0
+Probiotic Yoghurt
+Average Portion 65g 52 0.8 0.8 10 0
+100g 80 1.2 1.3 16 0
+Sauerkraut
+Average Portion 30g 4 0 0 0 0.7
+100g 13 1.1 0 1.1 2.2
+
+SUMMARY
+
+Kcals Protein Fats Carbs Fibre
+PROTEINS - MEAT (RAW)
+Turkey Light Meat 150g 157 37 1.2 0 0
+Bacon (streaky) 80g 221 13 19 0 0
+PROTEINS - FISH (RAW)
+Wild Salmon 150g 269 33 15 0 0
+Monkfish 150g 100 24 0.6 0 0
+PROTEINS - SEAFOOD (RAW)
+Scallops 150g 132 42.5 2.5 0 0
+Oysters 150g 99 16.2 1.9 0 0
+
+PROTEINS - OTHER
+
+Collagen Powder 30g 107 27.4 0 0 0
+Eggs - 2 eggs 150 14 10 0 0
+
+STARCHY CARBOHYDRATES
+
+Lentils (red) 70g 226 17 0.9 36 3.4
+Buckwheat 60g 217 4.9 0.9 46 2.2
+
+STARCHY VEGETABLES
+
+Potatoes 135g 114 2.6 0 24 2.7
+Carrots 70g 30 0 0 5.3 2.7
+
+FRUIT
+
+Coconut 45g 170 1.7 16 1.6 5.5
+Strawberry 78g 33 0 0 12 0
+
+NON STARCHY VEGETABLES
+
+Broccoli 85g 40 3.7 0.5 2.6 3.4
+Celery 80g 11 0 0 0.7 0.9
+
+FATS
+
+Plain yoghurt full fat 125g 104 7 3.8 9.5 0
+Butter 1 tsp 67 0 7.4 0 0
+
+Kcals Protein Fats Carbs Fibre
+HERBS (DRIED)
+Mustard Seed 2g 8 0.6 0.6 0 0
+Mint 2g 6 0 0 0.7 0
+SPICES (DRIED)
+Cumin 2g 8 0 0 0.6 0
+Turmeric 2g 8 0 0 1.3 0
+
+PROBIOTIC FOOD
+
+Kefir 30g 17 1.8 0.6 1 0
+Kimchee 40g 9 0 0 1 0.6

@@ -1,0 +1,351 @@
+nutrients
+Review ff
+E ects of Time-Restricted Feeding during Ramadan on Dietary Intake, Body Composition and
+Metabolic Outcomes
+FarhanaOsman1,SumantoHaldar1 andChristianiJeyakumarHenry1,2,*
+1 SingaporeInstituteofFoodandBiotechnologyInnovations,14MedicalDrive,Singapore117599,Singapore;
+farhana_osman@sifbi.a-star.edu.sg(F.O.);sumanto_haldar@sifbi.a-star.edu.sg(S.H.)
+2 DepartmentofBiochemistry,NationalUniversityofSingapore,8MedicalDrive,Singapore117596,Singapore
+* Correspondence: jeya_henry@sifbi.a-star.edu.sg;Tel.:+65-6407-0793
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+Received: 31July2020;Accepted: 14August2020;Published: 17August2020
+Abstract: Ramadanfastingisaformoftime-restrictedfeedingwhichcombinesafastandfeastperiod dailyforadurationofonemontheveryyear. DuringRamadan,Muslimsabstainfromfoodanddrink consumptionfromdawntillsunsetandthischangeinthemealscheduleandfrequencyresultsin significantchangestothecompositionofthediet,suchasenergyandnutrientintake. Thesechanges indietaryhabitsandtheircorrespondingeffectsoncardiometabolicdiseaseriskarecompiledin thisreview. Ramadanfastingshowslimitedbenefitstobodycompositionviareductionsinbody mass in both healthy and obese individuals, although the results are often found to be transient andheterogeneous. Thereis,however,amoreconsistentimprovementinbloodlipidprofileduring
+Ramadanfasting,whichoftenlastsbeyondtheRamadanperiod. Theresultsforglucosehomeostasis, onthecontrary,aremoreconflictingandinconclusive. Theheterogeneityinthefindingsfromthe variousstudiescanbegenerallyattributedtoculturalvariationsindietaryhabits,differencesinthe durationoffastingduetoseasonal/climaticdifferencesatvariousgeographicallocations,age,gender andsocioeconomicstatus,aswellasotherhealthandlifestylefactorsofthevariousstudypopulations.
+Keywords: Ramadanfasting;dietaryintake;healthoutcomes;bodycomposition;glucosehomeostasis;
+lipidprofile
+1. Introduction
+RamadanistheholiestmonthforMuslimsallaroundtheworld,wherebythefollowingofits practicesisobligatoryforallhealthyMuslims. FastingduringthemonthofRamadanisoneofthefive essentialpillarsofIslam,andthispracticeisconsideredanintegralpartofthefaith. Globally,overone billionMuslimsfastduringthemonthofRamadan[1],andthetotaltimeoffastingrangesfromless than12htoasmuchas19heachday[2]. FastingduringthemonthofRamadanoriginatedinthe seventhcenturytocommemoratethemonththatProphetMohammedreceiveddivinerevelation[3] anditspurposeistoattainspiritualgrowth,betterself-controlandlearnkindness[4].
+Ramadanfastingisaformof"time-restrictedfeeding",whichcombinesfastandfeastperiods dailyforadurationofonemontheveryyear. Ramadanfastingconstitutesabstainingfromfoodand drinkconsumptionfromdawntillsunset,whichistypicallyfollowedbyafeast. Inadditiontochanges inthetimingoffoodandfluidintake,Ramadanfastingresultsinsignificantchangestobothenergy balanceandthecompositionofthediet[5]. Thestudyofsuchchangestodietaryhabitsandtheeffect ofthesealterationsonhumanphysiologyisthusofimportance.
+DuetotheuniquenatureofRamadanfasting,althoughtherehasbeenextensiveresearchdone aboutit,theeffectsonhumanhealthareoftencontradictory,asRamadanfastingispractisedindifferent
+Nutrients2020,12,2478; www.mdpi.com/journal/nutrients
+Nutrients2020,12,2478 2of25
+waysindifferentpopulations[5]. Therearealsodifferencesinthephysicalactivitylevelsofthevarious studypopulationsandintheclimateofthevariouscountries, aswellinthedesignofthevarious studies[5]. Therefore,itisimportanttoinvestigatehowthedietaryhabitsofdifferentpopulations duringRamadanimpactvariousaspectsofhealth.
+Inrecentyears,therehasbeenaresurgenceofinterestintime-restrictedfeedinginrelationto weightmanagement,metabolichealthandchronicdiseaserisk[6 - 9]. TheRamadanfastingperiod offersauniqueformoftime-restrictedfeeding. Giventhenumerousmetabolicandbiologicalchanges that occur during the Ramadan fasting period, it was deemed necessary to undertake a review to provide a source of information to those participating in the Ramadan fasting period. Inevitably, thismeantthereviewfocusesonthemostrelevantchangesthatoccurduringthisperiod,notably changesindietaryhabits,bodycompositionandmetabolicparameters.
+Infact,therehasbeenalackofcomprehensivereviewslinkingdietarychangestohealthoutcomes duringtheRamadanperiod. Therefore,theobjectiveofthereviewwastocompilevariousresearch doneontheseoutcomesduringRamadanfasting. Inparticular,thispaperaimedtofocusontheeffects ofRamadanfastingonthechangesinfluidintake,dietarypattern,energyandmacronutrientintakes, aswellaschangesinbodycomposition,glucosehomeostasisandlipidprofile.
+2. MaterialsandMethods
+AsystematicreviewofthepublishedliteraturewasconductedaccordingtoPRISMA(Preferred
+ReportingItemsforSystematicreviewsandMeta-Analyses)guidelinesintwodatabases: PubMed andGoogleScholar. Thesearchtermsusedwere"Ramadanfasting"AND"fluidintake","hydration status", "dietary habits", "nutrient intake", "energy intake", "body composition", "body mass",
+"weight","bodyfatpercentage","obesity","glucosehomeostasis"and"lipidprofile",respectively.
+The studies were first screened by title and abstract. Those that were relevant were then further screenedbyfulltextaccordingtotheinclusionandexclusioncriteria.
+Onlypeer-reviewedresearchpublishedinscientificjournalsmeasuringtheeffectofRamadan fastingonselectedparameters,suchasdietaryhabits,bodycompositionandmetabolicparameters, wereincludedinthisstudy. Publicationswithdatafromhealthyindividualswereincluded,aswellas thoseinvestigatingglucosehomeostasisandfluidintakeinindividualswithtype2diabetesormetabolic syndrome. Studiesinvolvingsurgery,allotherillnessesorillnessesmeasuringotherparameterswere excluded. Publicationswithobeseindividualswereanalysedanddiscussedseparately. Anyavailable dataonphysicalactivitywereextractedforanalysisbutstudiesinvolvingonlyasub-groupofathletes wereexcluded.
+Original research papers with studies containing fewer than nine volunteers were excluded fromthissystematicreview,aswellasthoseinvolvingmedications. Weexcludedstudiesinvolving volunteerswhowerechildren,pregnantorbreastfeeding. Studieswerealsoexcludedwhenthefulltext ofthepublicationhadnoEnglishtranslationoriftherewasnofulltextavailable. Theflow-diagram showingstudyselectionprocessisshowninFigure1. Meta-analysesorpreviouslypublishedsystematic reviewswerediscussedunderrelevantsectionstocontextualisethefindingsfromoriginalpapers.
+Nutrients2020,12,2478 3of25
+Nutrients 2020, 12, x FOR PEER REVIEW 3 of 25
+Figure1. Flowdiagramshowingstudyselectionbasedoninclusionandexclusioncriteria.
+Figure 1. Flow diagram showing study selection based on inclusion and exclusion criteria.
+3. ChangesinDietaryIntake
+3. Changes in Dietary Intake
+3.1. FluidIntake
+3.1. Fluid Intake
+Itiswidelybelievedthatweneedtoconsumeapproximatelyseventotenglassesofwaterperday.
+GiveItn itsh watidwealyte breilnietavkeed itshhaitg whley nreeesdtr itcot ecdonwsuitmhien athpeprpoexriimodatoeflyR saemveand aton ,tienn tghleasfisresst opfh wasaeteorf ptheris draeyv.i eGwiv,wene twhailtl wfoactuesr oinntathkee iims hpiagchtloyf rfleustirdicrteesdt rwicittihoinno tnhet hpeelreiovdel sofo Rfdamehayddarna,t iionn t.hSet ufidrsite spihnadsiec aotfe ththisa trRevaimewad, awnef awstiilnl gforceusus lotsni nthleo wimerpwacat teorf ifnlutaidke rdesutrriinctgiotnh eomn otnhteh l[e1v0e,l1s1 ]o.f Tdheihsypdortaetnitoinal. lyStcuaduiseess inandiaclatteer athtiaotn Rinamkiaddnaeny ffausnticntgio rne,swulhtse rienb lyowweart ewraisterre ianbtsaokreb eddurbiyngth teheb omdoynitnhs [te1a0d,11o]f. bTehinisg peoxtcernettieadllyin coarudseers taonm aaltienrtaatiinonfl uinid kbidanlaenyc efu[n11ct]i.oAn,s wsuhcehr,etbhye rweaisteerff ies crteivaebsworabteerdc boyn stehrev abtoidony dinusrtienagd Roaf mbeaidnagn efxacsrteintegd, ibny omrdaexri mtoi msinaginutariinn aflruyidc obnaclaennctrea [t1io1n]. Aass wsueclhl,a tshdereec ries aesfifnecgtiovbel iwgaattoerr ycounrsienrevoatuiotpnu dtu[1ri,n12g] .
+RHaomwaedvaenr ,fpasrtoilnogn,g beyd mdeahxyimdrisaitniogn uirnidnuarcye scoandceegnrtereatoifonst raess wsoenll tahse dceocnreceansitnragt ionbgliagbaitloitryyo ufrtihnee koiudtnpeuyts
+[1a,n1d2]a. ffHeocwtsetvheere, pffircoileonncgyedof dtehheywdaratetirocno innsdeurvceinsg a mdeegcrheaen oisfm str[e1s3s] .oTnh teher ecsounlctienngtrhaytidnrga atiboinlitsyt aotfu tshoef ktihdonseeyws hanodfa asftfeisctsst itllhue necflfeicaire,nacsyt hoef rtehaer wecaotenrfl cicotninsegrfivnindgi nmgsecrheganarisdmin g[1t3h]e. iTrhleev reelsoufltdinehg yhdyrdartiaotnio.n statusH oyfd trhaotisoen wshtaot ufsasits icso mstimll ounnlyclemaer,a saus rethderbey asreer ucmonoflsimctionlga liftiyndainndgsu rriengearsdpiencgifi tchegirra vleivtyel[ 1o1f] .
+dIenhaysdtruadtiyonby. Ibrahimetal. of18healthyyoungmenduringRamadanfasting,itwasfoundthatserum osmHolyalditryatlieovne lsstawtuerse isw ciothminmtohnelnyo mrmeaaslurarendg eb,ya ssethruemho omsmeoosltaaltiitcym anecdh uanriinsme sspkeecpiftics egrruamvitoys m[1o1l]a. lIinty aa sttnuodrym bayl lIebvrealhsi[m11 e].t Halo. ossfe 1in8 iheetaallt.h,yM yuosutanfga emteanl. daunrdinDgi kRmameaanddanF afastsitningga,l sito wshaos wfoeudntdh athtatht esreeruwmas onsomsoilganliitfiyc alnevtedlisff ewreenrece winitsheirnu mthoe smnoorlmaliatly rbaenfogree, aansd tdhue rihnogmReaomstaadtiacn mfaesctihnagn[is1m2,1s 4,k1e5p].t Tsrearbuemls i oestmaol.lainlivtye sattig naotermdathl eleevffeelsc t[1o1f]R. aHmoassdeainnif aest tainl.g, Monusbtoadfay ewt aatle. ranledv eDlsikamnde ashnodw Feadsttihnagt atlhseor eshwoawsendo thdaifft etrheenrcee winatso tnaol bsoigdnyifwicaatnetr dbeifffoerreenacned ianf tseerrRuamm oadsmanol[a1l6i]ty. before and during Ramadan fasting
+[12,14H,1o5w]. eTvrearb,eMlsei oeta nald. iHnavsessatnigfaotuednd thhea eemffeactto ocrfi Rt,apmlaasmdaano fsamstoinlagr iotyn abnoddhya wematoegr lloebvienlst oabnedi snhcorewaseedd thdautr itnhgerRe awmaas dnaon dfiaffsetirnegncaen idn tthoetarle bbyodpyo wssaibtelyr binedfoicrea tainngd dafetheyr dRraamtiaodna[n1 ][.16T]h. isisinadditiontoan increHasoewinevuerri,n eMoesom oanladli tHyraespsaonrt efdouinntdy phea2emdiaatboectriicts, wphlaosmfaast eodsmduorlianrgityR aamnadd ahnae[1m7o].gFloubrtinhe rtom obree , inaccroemaspeadr idsounrionfgu Rrianmeaspdeacni fifcasgtrianvgi taynbde fothreeraenbdy dpuorsisnigblRy aimndadicaantinfags tidneghbyydrIabtriaohni m[1e].t aTlh.issh oisw iend atdhdaittitohne rteo iannd einedcrewaasse dine huyridnrea toisomnodlualriitnyg reRpaomrtaedda inn ftaysptien 2g d[1ia1b].eTtihcsi swshtaot efaosftedde hdyudrirnagti oRnamisaodfatenn
+[1ca7u].s Fedurbthyetrhmeofraec,t ath caotminpdairviisdouna olsf huarvineet hspeescaimfice gwraatveirtyi nbteafkoereh aabnidts dbuefroinreg aRnadmdaudrainn gfaRsatimnga dbayn
+Ibfarsathinimg, teht earle. bsyhonwoteddr tihnakti nthgemreo irnedweeadte rwdaus rdineghyndorna-tfiaosnti ndgurhionugr Rsaamndadeavnen ftausatilnlyg h[1a1v]i.n Tghloisw setartfle uoifd dienhtaykdera[1ti1o,1n8 i]s. often caused by the fact that individuals have the same water intake habits before and during Ramadan fasting, thereby not drinking more water during non-fasting hours and eventually having lower fluid intake [11,18].
+A study investigating the effect of Ramadan fasting on serum osmolarity in females showed that there was no significant change in osmolarity levels and total water when the subjects exercised
+Nutrients2020,12,2478 4of25
+A study investigating the effect of Ramadan fasting on serum osmolarity in females showed thattherewasnosignificantchangeinosmolaritylevelsandtotalwaterwhenthesubjectsexercised regularlyduringRamadanfasting,buttherewasadecreaseinsomeelectrolytes[14]. Inastudyby
+Ramadanetal.,itwasfoundthattherewasasignificantincreaseinplasmaosmolarityinthosewho weresedentarycomparedtoactiveindividualsafteramonthofRamadanfasting[19].
+Thesestudiesrevealthatthehydrationstatusofthosewhofastisdependentontheirwaterintake habitsandphysicalactivitystatus. Serumosmolalitylevelsarelikelytoremaininthenormalrange duringthemonthofRamadan, withincreasedwaterintakeduringnon-fastinghoursandregular exercise. Nonetheless,whileRamadanfastinghasbeenshowntoresultininadequatefluidintakein somestudies,itisnotclearwhetheritcausesacutedehydrationorchronichypohydrationduetothe abovementionedfactorsthatplayaroleindeterminingthehydrationstatusofthosewhofast[13].
+Moreover,negativewaterbalancethatmaybecausedbyRamadanfastingdoesnotseemtohaveany detrimentalhealtheffectsinthelongterm[12,13].
+Finally,intermsofrenalfunctionparameters,studiesinvestigatingtheeffectofRamadanfasting showthattherewasasignificantreductioninserumcreatinine,estimatedglomerularfiltrationrate
+(eGFR)andurinaryalbumin/creatinineratioinhealthyindividuals,butthedeclinewaswithinthe normalrange[20]. InMuslimpatientswithtype2diabetes,therewasalsoasignificantdecreasein eGFRafterRamadanfasting[21]. Inpatientswithchronickidneydisease(CKD),onestudyshowed thattherewasanincreaseinserumcreatinineinthosewhofasted[22],whilenosignificantchangewas observedinanotherstudy[23]. Conversely,itwasshownthatserumcreatininesignificantlydecreased and eGFR significantly increased in those who fasted with CKD [24]. Once again, the data show inconsistenciesandthefindingsaregenerallydependentonthehydrationlevelsduringnon-fasting hours,aswellasotherlifestylefactorsduringthefastingandnon-fastingperiods.
+3.2. FoodIntakePattern
+DuringRamadanfasting,thereisavariationinthefrequency,timingandcompositionofthemeals eaten[1]. However,acommonpatternduringfastingisonemealtakenbeforedawn("Suhoor")andthe fastisbrokenbyasecondmealatsunset("Iftar"),whichistypicallyalargermeal[25]. Asthenumber ofmealsconsumedisreducedfromthreeormoretotwomealsdaily,theoverallamountandtypes ofeachmealeatenarechanged. Thisinturnalsoaffectenergyandnutrientintake[25]. Duetothe latitudeandlongitudevariationsbetweenthevariousnationswheretheprimarydatawereobtained, thedurationoffastingbetweensunriseandsunsetvaries. Itisthereforeadifficultchallengetointegrate foodintakepatternandnutrientintaketogeneratecomparableresults. Sometypicalexamplesof pre-dawn"Suhoor"andpost-dusk"Iftar"mealsareshowninTable1[26,27]whichrevealsadiverse foodintakepatternbasedongeographicallocationandculture.
+The change in the composition of meals eaten during Ramadan is expected to contain more carbohydrate-richfoodsintheformoffruits,juicesanddates[1]. Inastudyof366Ghanaianadolescents, itwasfoundthattheconsumptionofmilkandvitaminA-richfruitsincreasedduringRamadan,while therewasalowerconsumptionofnuts,darkleafyvegetablesandlegumes[28]. Ontheotherhand, in a study of 160 Iranian subjects, it was found that there was a higher consumption of fruits and vegetablesduringRamadan,whereastheconsumptionofmeat,dairyproductsandcerealsdecreased significantly[29]. Thus,thereisalargevariabilitybetweenculturesandvariousgeographicallocations inthechangesindietarypatternsthatoccurduringRamadan.
+Nutrients2020,12,2478 5of25
+Table1. FoodintakepatternduringRamadanindifferentcountriesaroundtheworld[26,27].
+BreakingFastMeal(Iftar)
+Pre-DawnMeal(Suhoor)
+Starters Main Others Drinks
+- Chorbasoup:tomatoes, vegetables,vermicelliand - Salads - Lahamlalou:dried
+- Couscousmixedwith lambneck fruitscookedwith
+Algeria sultanasandbuttermilk - Borek:friedfilopastries - Stews freshapple/pear withspinachand - Bread andspices cheese/lambandpotato
+- Rice
+- Meat/fish
+- Chapatti - Seasonalfruits:
+- Lentils watermelon,mango, - Lassi
+Bangladesh - Lentilsoup guava,jackfruit - Potatocakes
+- Kichiri:rice,lentils,onions, garlic,ginger
+- Fulmadammas:warm - Sambusak:pastrieswithcheese dipmadewith ormeatfilling broadbeans - Dates - Mahshi:stuffedvegetables
+Egypt - Eggs - Greensalad - Moloukhia:green - Milk leafyvegetable
+- Cheese - Dips - Kebabs
+- Bread - Rice
+- Dates
+- Rice - Salad
+- Meatsoup
+- Salad - Bread
+- Sweets - Coffee
+SaudiArabia - Sambosa:pastryfilled
+- Cookedvegetables - Meat withmeatorcheese
+- Meat - Beans
+- Pastries
+- Rice
+- Dates
+- Curry
+Singapore - Bread/Cereal - C fil u le r d ry w p i u th ff: p f o r t i a e t d o/ p s a a s r t d r i i n es e - Vegetables - Fruits - B sw an e d et u d n r g i : nk
+- Traditionalsweetsnacks - Riceporridgemadewithrice, meat,vegetablesandspices.
+Nutrients2020,12,2478 6of25
+3.3. MacronutrientandEnergyIntake
+Ramadanfastinghasauniqueeffectondietaryhabits,wherebychangesinthecompositionof themealseatendirectlyaffectnutrientandenergyintakeforaperiodofamonth. Withdiabetesand cardiovasculardiseasesbeingwidelyprevalentinMuslimcommunities,itisimportanttoelucidatethe extentoftheeffectRamadanfastinghasonnutrientandenergyintakeandthemetabolicconsequences ofsuchchanges.
+When comparing nutrient intake, some studies have found an increased intake of fat during
+Ramadanfasting[30 - 37]. Inacross-sectionalstudyinvolving173Saudifamiliesthatreportedweight gainduringRamadan,itwasfoundthat40%ofthesubjectsattributedtheirweightgaintotheincreased consumptionoffoodsrichinfatsandcarbohydrates[27]. However,otherstudiessuggestthatthere is a decrease in fat intake during Ramadan fasting [38,39]. These equivocal results on fat intake mustinterpretedwithcaution. Assuch,thesedifferencesmaybeofmarginallonger-termmetabolic relevance. Furthermore,Savasetal. foundthattherewasnochangeintheeatingbehavioursofobese womenduringRamadanfasting[40]whereasKhaledetal. showedthat,althoughmealfrequency wasdecreased,therewasanincreaseintheconsumptionfatanddietarycholesterolbyobesesubjects duringRamadanfasting[41]. TheeffectsofRamadanfastingonnutrientintakearelistedinTable2.
+Theobserveddifferencesinnutrientintakesuggestthatmealcompositionsaredifferentacross countriesandcultures. ThiswasalsonotedbyKaraagaogluandYucecan,whofoundthat,whilethe pre-dawnmealsconsistedoffoodthatwasusuallyeatenatbreakfast,themealsatthebreakingoffast seemedtobemuchmorevariable[42].
+Table2. EffectofRamadanfastingonenergy,carbohydrate,proteinandfatintakes.
+Authors Date Country Subjects(n) EffectofRamadanonNutrientIntake
+Nochangeinenergy,carbohydrateorprotein
+Rahmanetal.[30] 2004 Bangladesh 20males
+ElAtietal.[31] 1995 Tunisia 16females Increaseinproteinandfat
+FrostandPirani[33] 1987 SaudiArabia 15 Increaseincarbohydrate,proteinandfat
+Nochangeinenergy,carbohydrateorprotein
+Yeohetal.[34] 2015 Singapore 29
+Lamineetal.[35] 2006 Tunisia 30 Increaseinfat
+Sadiyaetal.[36] 2011 UAE 19 Decreaseinprotein,increaseinfat
+Decreaseincarbohydrateandprotein
+Bouhleletal.[37] 2006 Tunisia 9
+Nochangeinprotein.Decreaseincarbohydrate
+Pohetal.[38] 1996 Malaysia 117
+andfat
+Surianietal.[39] 2015 Malaysia 84 Decreaseincarbohydrate
+Khattaketal.[43] 2013 Malaysia 30 Nochangeinenergyormacronutrientintake
+Calorie intake is also affected by modifications in the timing and composition of food eaten, withageneraltrendinthefirstweekofRamadantowardsareductionincalorieintake,followedbya progressiveincreasethroughoverconsumption[1]. However,astudybyAl-HouraniandAtoumon
+57femalesubjectsfoundthattheaverageenergyandnutrientintakesbeforeandduringRamadan werenotsignificantlydifferent[25],withthisresultbeingconsistentwithmanyotherstudies[30,31,43] andcontrarytotheideathatthosewhofasttendtoconsumemorefoodthanusualwhenbreaking fast[25]. Indeed,somestudiesdidshowincreasesintotalenergyintakeduringRamadanincludingin
+Saudi,Moroccan,IranianandTurkishsubjects[33,35,44 - 48],whereasotherstudiesfoundasignificant decrease in energy intake [32,38,49,50]. These contradictory results can again be attributed to the uniquefoodhabitsofthedifferentcountriesandcultures[25].
+4. ChangesinBodyComposition
+Sincethefoodintakepatternissignificantlyaltered,wherebyfoodintakeisrestrictedforabout twelvehours,thefundamentalquestioniswhetherthistime-restrictedfeedingaffectsbodycomposition
+Nutrients2020,12,2478 7of25
+andmetabolicoutcomes. Inthissubsequentsection,wewilldiscussdifferencesinbodycomposition duringRamadanfastingcomparedwithothertimes.
+StudiesinvestigatingtheeffectofRamadanfastingonbodymassandbodyfatpercentageshow heterogeneousresults,withsomeindicatingdecreasesinbodymassandbodyfatpercentage[18,51 - 57], whereasothersshownochangesinbodycomposition[31,58 - 61]. Theheterogeneityoftheresultscan beexplainedbyavariousdemographicfactorsofthestudyparticipants. Wehavethereforelistedthe findingsaspervarioussub-groupslistedbelow.
+4.1. NormalWeight
+TheeffectofRamadanfastingonbodycompositionandbodymassdependslargelyontheenergy intake and expenditure of the subjects during the Ramadan period [5,62]. The findings from the various studies are listed in Table 3. In a study by Racinais et al., it was observed that 11 Qatari malesofnormalweightshowedsimilartotaldailyenergyexpenditurebefore,duringandafterthe monthofRamadan[60]. Asaresult,therewasnosignificantchangeinbodymassorcomposition reported. Similarly,Harder-Lauridsenetal. studied10menofnormalweightinDenmarkandfound no change in body mass or composition before or after Ramadan [58]. The maintenance of body compositionwasfoundtobeduetoabalanceintotalenergyintakeandenergyexpenditurebythe studyparticipants[58].
+Otherstudieshavefoundareductioninbodymassandfatpercentageandthesediscrepancies canbeattributedtovaryingpracticeswithregardtoenergyintakeandexpenditureduringRamadan fastingbydifferentpopulations[62]. Justassomestudieshaveshownadecreaseinbodyweightandfat percentageduringRamadan[25],ithasalsobeenfoundthattheeffectstayedtilltheendofRamadan[63].
+Shehab et al., investigating the effects of Ramadan fasting on body weight, found that there were lossesbothinbodyweightandwaistcircumferenceimmediatelyfollowingRamadan[64],althoughall theabovementionedstudieshadlimitedfollow-upperiodsbeyondRamadan. Ameta-analysisof eighty-fivestudiesshowedthatRamadanfastingcancauseasignificantsmallreductioninweight inhealthyadultsthathasdirectassociationswithfastingdurationandcorrelateswithseasonand country[65].
+However,anumberofstudiesshowedthat,byfourtofiveweeksafterRamadan,thedecreasein bodyweightandfatpercentagehadreturnedtopre-Ramadanlevels[55,66,67]. Sadeghiradetal. did asystematicreviewandmeta-analysisofthirty-fivestudiesdeterminingthechangesinbodymass becauseofRamadanfastingandshowedthatweightlossdidnotlastformorethantwoweeksafter
+Ramadan[68]. Itwasshownthatmostofthesubjectswholostweightregaineditwithintwoweeks andonlyasmallamountofweightlosswasmaintainedafterRamadancomparedtothestartofit[68].
+ThismaybeattributabletothefactthatRamadanfastinglastsforaperiodofonlyonemonthand thusthereislimitedimpactonbodymassandfatpercentage. AscanbeseenfromTable3,studies showedlessthana5%reductioninbodymassandfatpercentageduetoRamadanfasting. Though theobservedeffectissmall,itisindicativeofapossiblepositiveimpactoveralongerperiodoftime.
+Therefore,itisworthwhiletoinvestigatethecumulativeeffectofRamadanfastingonbodycomposition overanumberofyearstoascertainitsclinicalimpact.
+Studies involving physically active individuals during Ramadan fasting is of importance to understandthelinkbetweenenergyexpenditureandbodycomposition. Moststudiesinphysically activeindividualswhoexercisedduringRamadanfastingshowedadecreaseinbodymass[19,72 - 74].
+Thisislikelyduetodehydrationandadecreaseincaloricintakewhilemaintainingtraining[72].
+Asimilartrendofdecreasesinbodyfatpercentagewasnoticedinmoststudiesinvestigatingthe effectofRamadanfastingonbodycompositioninphysicallyactiveindividuals[16,72,73]. Thedecrease in body fat percentage is likely due to the increased utilisation of stored body fat as an energy substrate[72]. Inthestudieswhereanabsenceofweightchangeandbodyfatpercentagewasshown, thediscrepancycanbeexplainedbydifferencesindietaryintakes,exerciseregimensandmethodsof bodyfatmeasurements[72].
+Nutrients2020,12,2478 8of25
+ItcanbeobservedformtheresultsthatthereisamoreconsistentlinkbetweenRamadanfasting andanimprovementinbodycompositioninphysicallyactiveindividuals. Thisshowsthatphysical activityisanimportantpartofenergyexpenditureduringRamadanfastingandsuggeststhatthe greatestbenefitfromthefastingregimecanonlybeobtainedwhenvolunteersundertakeRamadan fastingincombinationwithphysicalactivity. Overall,ithasbeenfoundthatRamadanfastingresults invariableamountsofweightlossandchangesinbodycompositioninnormalweightindividuals, butthechangesareoftentransient.
+Other factors could also play a role in determining the effect of Ramadan fasting on body compositionandmass,includinggenderandage[1,52]. Norouzyetal. assessedtheeffectofRamadan fastingonbodycompositionandfoundthatmalesandyoungerindividualshadagreaterreductionin bodyweightaswellasbodyfatpercentage[52]. López-Buenoetal. studiedtheinfluenceofageon bodycompositionduringRamadanfastingandshowedthattherewasamorepronouncedreduction inbodyfatpercentageofwomenoverthirtyyearsofage[51]. Husainetal. studiedtropicalAsiatic
+Muslimsandfoundthatfemaleslostmorebodyweightandsubcutaneousfatthanmales[49].
+Yucel et al. studied the effect of Ramadan fasting on abdominal fat distribution and found thattherewasasignificantreductioninthevisceralfatareawithinthesub-groupsoffemalesand individualsintheirtwenties[75]. Yeohetal. showedthattherewasareductioninvisceraladiposity onlyamongstfemaleswhentheresultswerestratifiedbygender[34]. Incontrast,Syametal. found thatproteinbodymassdidnotsignificantlychangeduetoRamadanfastingandthatweightlosswas notvariableaccordingtogender[55]. Itislikelythatyoungerindividualshavegreaterreductions inbodyfatpercentage,asitisafactoraffecteddirectlybypersonalactivity[75]. Youngpeopleare generallymorephysicallyactiveandhavehigherbasalmetabolism[75]. Additionally,manyofthe studiesshowedthatfemalesexperiencedagreaterchangeinbodycomposition,astheyarelikelytobe morephysicallyactivethanmenduringRamadanfasting[75].
+4.2. OverweightandObese
+Ramadan fasting is often practiced as a lifestyle modifier in tackling obesity among Muslim communities. The decreased frequency of meals is expected to result in lower caloric intake and eventualweightlossattheendofRamadan. However,theeffectofRamadanfastingonthebodyweight andcompositionofobeseindividualsisheterogeneous,withsomestudiesshowingalossinbody weightonly[41,76 - 79],whereasotherstudiesshowachangeinbodyfatpercentageaswell[53,80 - 83].
+Thisheterogeneityinthefindingscouldbeduetodifferentdietaryhabitsbetweendifferentcultures duringthemonthofRamadan. ThevariousfindingsarelistedinTable4.
+Nutrients2020,12,2478 9of25
+Table3. EffectofRamadanfastingonbodymassandfatpercentageofnormalweightindividuals.
+Date Country Subjects(n) EffectonBodyMass EffectonBodyFatPercentage
+Bouhleletal.[18] 2008 Tunisia 9males Significantreductionof1.8kg Significantreductionof1.3%
+López-Buenoetal.[51] 2015 Spain 62females Significantreductionof1.6% Significantreductionof2.2%
+Nachvaketal.[57] 2019 Iran 160males Significantreductionof1.93kg Significantreductionof0.3%
+Significantreductionof2.2%inmalesand Significantreductionof2.5%inmales≤35
+Norouzyetal.[52] 2013 Iran 240 1.4%infemalesaged≤35years yearsand1.1%inmales36to70years
+Shruthietal.[54] 2013 India 50 Significantreductionof0.59kg Significantreductionof3.155%
+Syametal.[55] 2016 Indonesia 43 Significantreductionof0.874kg Significantreductionof0.484kg
+Kocaagaetal.[69] 2019 Turkey 33males Significantreductionof0.84kg Significantreductionof1.32%
+Amirietal.[70] 2016 Iran 51 Significantreductionof0.78kg Significantreductionof0.49kg
+ElAtietal.[31] 1995 Tunisia 16females Nosignificantchange Nosignificantchange
+Harder-Lauridsenetal.[58] 2017 Denmark 10males Nosignificantchange Nosignificantchange
+Ramadan[59] 2002 Kuwait 16males Nosignificantchange Nosignificantchange
+Racinaisetal.[60] 2012 Qatar 11males Nosignificantchange Nosignificantchange
+Finchetal.[61] 1998 UK 41 Nosignificantchange Nosignificantchange
+Al-barhaetal.[71] 2019 SaudiArabia 44 Nosignificantchange Nosignificantchange
+Table4. EffectofRamadanfastingonbodymass,bodyfatpercentageandvisceraladiposityofoverweightandobeseindividuals.
+Authors Date Country Subjects(n) EffectonBodyMass
+EffectonBodyFat EffectonVisceral
+Percentage Adiposity
+Khattaketal.[76] 2012 Malaysia 25 Significantreductionof15.8kginmalesand15.4kginfemales Nochange Khanetal.[77] 2002 Pakistan 10males Significantreductionof3.2±1.7kg - Significantreductionof0.95kgforoverweightsubjectsand
+Rohinetal.[78] 2013 Malaysia 27 Nochange 2.07kginobesesubjects
+Celiketal.[80] 2014 Turkey 42 Significantreductionof1.6kg - Surianietal.[81] 2015 Malaysia 48 Significantreductionof1.76kg of0.32% of0.75kg
+Khaledetal.[41] 2009 Algeria 276 Significantreductionof3.12kg - Madkouretal.[82] 2019 UAE 56 Significantreductionof1.15kg of1.22kg of5.82cm2
+Ünalacaketal.[79] 2011 Turkey 10males Significantreductionof2.9kg - Significantreduction
+Radhakishunetal.[83] 2014 Netherlands 25 Nochange of2.5%
+Salehietal.[84] 2007 Iran 28males Significantreductionof6% - Sezenetal.[53] 2016 Turkey 70 of0.9kg of0.5%
+Ganjalietal.[85] 2016 Iran 24 Significantreductionof2.2±1.81kg - Nutrients2020,12,2478 10of25
+Inastudywhereamediumcaloriebalanceddietwasprescribedto28overweightmalesduring themonthofRamadan,fastingresultedinasignificantdecreaseinbodyweight[84],indicatingthat thecompositionofthedietisimportant. Furthermore,ameta-analysisof70publicationsbyFernando etal. showedthattherewasasignificantpositivecorrelationbetweenstartingBMIandlossofweight duringRamadanfasting[66]. Inthesamereport, therewasalsoasignificantdecreaseinbodyfat percentage among obese individuals after Ramadan as compared to before Ramadan (−1.46 (95% confidenceinterval: −2.57to−0.35)%,p=0.010)[66]. Therefore,Ramadanfasting,whencoupledwith abalanceddiet,canresultinapositivechangeinobeseindividuals. However,thereductionsinweight andfatmassweretransientandbodyfatpercentagereturnedtopre-Ramadanlevels2to5weeksafter theendofRamadan. Theauthorsexplainedthatonepossiblereasonforthegreaterweightlossin peoplewithahigherBMIisthattheyhavebiggerglycogenstoresthanindividualswithalowerBMI, andthusarelikelytolosemorebodywaterduringRamadanfasting. Furthermore,obeseindividuals loselessweightasfat-freemassascomparedtoindividualsofnormalweight,therebyresultingin lowerbodyfatpercentageintheobese[66].
+Therefore,Ramadanfastingresultsinweightlossamongstobeseindividualswithapossibleeffect onbodyfatpercentageaswell. However,moststudiesshowthatthechangesinweightandbodyfat percentageinoverweightandobeseindividualsareoftentransientandreturntopre-Ramadanlevels withinafewweeksaftertheendoftheRamadanperiod.
+5. MetabolicParameters
+Inmanyregionsoftheworld,notablyAsia,theMiddleEastandpartsofAfrica,manyresidentsare highlysusceptibletopre-diabetes,diabetesandcardiovasculardiseases. Therefore,forthesubsequent partsofthisreview,wewilldiscusshowRamadanfastinginfluencesglucoseandlipidmetabolism before,duringandafterRamadaninstudiesfromvariousgeographicallocationsandwithdistinct dietaryandlifestylehabits. Wewillpresentdatanotonlyfromhealthyindividualsbutalsothoseat riskofvariouschronicconditions(e.g.,obesity,type2diabetics,etc.).
+5.1. GlucoseHomeostasis
+SomestudiesshowthatthereisanincreaseinfastingbloodglucoselevelsduringtheRamadan fastingperiod[36,86],whileotherstudiesshowdecreasesornochange[35,50,59,86 - 96]. Thesefindings arelistedinTable5. TheincreasedfastingbloodglucoselevelsinThaiwomen,asshownbyOngsara etal.,inadditiontotheirdietarychange,maybeduetothedecreasedfrequencyofexerciseduring andafterRamadancomparedwithbeforeRamadan[86]. Thisissupportedbyresearchshowingthat exerciseincreasesinsulinsensitivityandglucoseuptakeintoperipheraltissues[86,97]. Ashiftinthe intakeofcarbohydratesfromcomplextomoresimplesugarscouldhavealsoincreasedthelevelsof fastingbloodglucose[36].
+Furthermore,themeasurementoffastingbloodglucoseatdifferenttimesofthedaycouldhave resultedintheobservedhigherfastingbloodglucoselevelsduringRamadan. Inmostofthestudies, beforethestartoftheRamadanperiod,fastingbloodglucoselevelsweremeasuredinthemorning, whereas during Ramadan, fasting glucose levels were measured in the evening after the daytime fast[50,87,90]. Thisdifferenceinthetimewhenfastingbloodglucosewasmeasuredisofsignificance, astheglucosevaluesintheeveningmaybehigherduetodiurnalvariation[98]. Thus,fastingblood glucosemeasuredafteranovernightfastisnotnecessarilyequivalenttothattakenintheeveningafter
+Ramadanfastingandtheircomparisonisinaccurate. Furthermore,inadditiontothediurnalvariation inglucosemetabolism,thedurationsoffastingperiodswerealsodifferent.
+Nutrients2020,12,2478 11of25
+Table5. EffectofRamadanfastingonfastingbloodglucoselevelsinhealthysubjects.
+EffectofRamadan
+Authors Date Country Subjects(n) FastingonFastingBlood
+GlucoseLevels
+Ongsaraetal. [86] 2017 Thailand 65 Increase
+Fakhrzadehetal. [50] 2003 Iran 91 Decrease
+Larijanietal. [87] 2003 Iran 115 Decrease
+Sarraf-Zadeganetal. [89] 2000 Iran 50 Nochange
+Ziaeeetal. [90] 2006 Iran 81 Decrease
+AziziandRasouli[91] 1987 Iran 9 Nochange
+Kiyanietal. [92] 2017 Pakistan 80 Decrease
+Ramadan[59] 2002 Kuwait 16 Nochange
+Lamineetal. [35] 2006 Tunisia 30 Nochange
+Beltaifaetal. [93] 2002 Tunisia 20 Nochange
+Royetal. [96] 2017 India 37males Decrease
+Darzabietal. [99] 2019 Iran 15males Decrease
+In a study of twenty healthy males during Ramadan fasting, it was revealed that there were significantdecreasesinfastingplasmainsulinandglucoseby52.8%and12.3,respectively(p<0.01)[100] and,consequently,adecreaseininsulinresistanceusingHOMA-IR(HomeostaticModelAssessment ofInsulinResistance,p<0.01),whichtheauthorsbelievedwasduetocalorierestrictions. However, this study also showed reductions in fasting adiponectin by 45.6%, which was in fact positively associatedwithdecreasesinbodyweight. TheseresultssuggestedthatRamadanfastingcanhelpwith maintainingglucosehomeostasisamongyoungpeople[100].
+In type 2 diabetics, however, Ramadan fasting leads to much more variable changes, with some studies finding negligible changes in glycaemic control [83,101 - 104], whereas others show improvements[88,105 - 107]. ThesefindingsarelistedinTable6. Theeffectsofnochangeinglycaemic controlhaveoftenbeensubstantiatedwithevidenceshowingthatHbA1cvaluesandfructosaminedid notchangeduringRamadanfasting[103,108,109]. However,thetimeframefortheHbA1canalysesof about4weeksduringthemonthofRamadanisnotlongenoughtogiveanappropriatereflectionof glycaemiccontrol,thusleadingtouncertaintiesinthefindings.
+Ontheotherhand,continuousglucosemonitoring(CGM)maybeabetterreflectionofglycaemic controlwithinthetimeframeofRamadan. Pallayovaetal. studiedglucosehomeostasisbefore,during andafterRamadanwithCGMinnon-diabeticadultsandreportedahigherhyperglycaemicareaunder thecurveafterRamadanthanbeforeandduring[111]. Hassaneinetal. investigatedtheriskofRamadan fastingindiabeticsthroughtheuseofCGMandfoundthattherewasasignificantlyhigheroccurrence andprolongeddurationofhypoglycaemiaduringRamadanfasting[112]. Similarly,thereareother studiesreportingacuteadverseevents,suchasseverehyperglycaemiaorhypoglycaemia,indiabetic patientsduringRamadan[113,114]. Apopulation-basedstudyofdiabetesanditscharacteristicsduring
+Ramadanfastingin13countriesrevealedthatseverehypoglycaemiawassignificantlymorecommon duringRamadanthaninothermonths(type1diabetes,0.14vs. 0.03episodes/month,p=0.0174;type2
+diabetes,0.03vs. 0.004episodes/month,p<0.0001)[113].
+TheseresultssuggestthatRamadanfastingislikelytocausesubstantialchangesinglycaemic controlintype2diabeticsandthereforetheirmealpatternsrequireparticularattention. Thisisbecause whenfoodiseatenatthebreakingoffast,bloodglucoseincreasesdrastically,followedbyovernight hyperglycaemiaduetolate-nighteating,whilethemealtakenbeforedawncausesprolongedglucose decayinthedaytime[115]. Thispatternofglycaemicincreaseanddecreaseismorecommonamong diabeticpatientsundermedicationandinpatientswhohavepoorcontroloftheirconditionordonot complywithlifestylerecommendations[115,116]. Hence,fromareligiousandculturalpointofview,
+Ramadanfastingisencouragedinhealthyindividualsandthosewithhealthconditionsareexempted fromthisfastingritual.
+Nutrients2020,12,2478 12of25
+Table6. EffectofRamadanfastingonfastingbloodglucoselevelsinsubjectswithhealthconditions.
+EffectofRamadan
+Subjects Health FastingonFasting
+Authors Date Country
+(n) Condition BloodGlucose
+Levels
+Metabolic
+Sadiyaetal. [36] 2011 UAE 19 Increase syndrome
+Metabolic
+Shariatpanahietal. [88] 2008 Iran 55 Decrease syndrome
+Radhakishunetal. [83] 2014 Netherlands 25 Obesity Nochange
+Mafauzyetal. [101] 1990 Malaysia 22 Type2diabetes Nochange
+Lessanetal. [102] 2015 UAE 56 Type2diabetes Nochange
+Al-Haderetal. [103] 1994 Jordan 23 Type2diabetes Nochange
+Yarahmadietal. [104] 2003 Iran 57 Type2diabetes Nochange
+KhatibandShafagoj[106] 2004 Jordan 44 Type2diabetes Decrease
+Obesityand
+Khaledetal. [107] 2006 Algeria 60 Decrease
+Type2diabetes
+Norouzyetal. [110] 2012 Iran 89 Type2diabetes Increase
+Itshouldbenoted,however,thatpreviousstudiesofRamadanfastingintype2diabeticswere ofteninfluencedbyrecallbias,anduptotwo-thirdsofthepatientseithermaintainedorincreased theirinsulindosingduringRamadan,whichcouldbeoneofthereasonsfortheincreasedincidence of severe hypoglycaemia [105,117]. There are, however, some studies which indicated that the prevalenceofseverehyperglycaemiaorhypoglycaemiaduringRamadanwaslowamongdiabetic patients[36,105,118]. AstudyinPakistaninvestigatingtheglycaemiclevelsofpatientswithdiabetes duringRamadanfastingshowedthattheincidenceofhyperglycaemiawas19.8%andhypoglycaemia was21.7%andthatlessthan10%hadmajorhypoglycaemicandhyperglycaemicepisodes[119].
+Therefore,theresultssuggestthatRamadanfastinghasvariableimpactsonglucosehomeostasis in both healthy and diabetic individuals and that the specific food choices and lifestyle factors, as part of the fasting regime, could also play important roles. In order to achieve better glucose homeostasis, itisrecommended that there be an increased intake of fruits and vegetables high in complexcarbohydratesandadecreasedintakeofsimplesugars[86].
+5.2. LipidProfile
+StudiesinvestigatingtheeffectofRamadanfastingonthelipidprofilehavebeenpromising,as mostofthemshowimprovementsinhighdensitylipoprotein(HDL)andlowdensitylipoprotein
+(LDL)cholesterollevelsafteronemonthofRamadan[30,44,50,64,120 - 132]. Thevariousstudiesare listedinTable7.
+TheincreaseinHDLcholesterollevelscanbeexplainedbythepost-prandiallipaemiachanges thatoccurduringRamadanfasting[126]. Sincetheamountofpost-prandiallipaemiahasbeenshown tobeofgreatimportancetolipidmetabolismandHDLlevelsinplasma[146],thelargermagnitude anddurationoflipaemiaduringthegorgingmeal,followedbylongerabsorptive-freehoursduring fasting, results in a net balance that is more efficient in the metabolism of triglyceride (TG) rich lipoproteins[126]. ThiscouldbethereasonfortheobservedincreasedplasmaHDLcholesterollevels inmanyofthestudies.
+Nutrients2020,12,2478 13of25
+Table7. EffectofRamadanfastingonlipidprofileinhealthyindividuals.
+Authors Date Subjects(n) EffectofRamadanonParameters
+Adlounietal. [44] 1997 32males
+ReductionsinTC,TGandLDL
+IncreasesinTC,HDLandLDL
+Akaberietal. [129] 2014 43 NochangeinTG
+ReductionsinLDL/HDLandTG/HDL
+IncreasesinapoA-1,apoA-1/apoB,apo
+Akanjietal. [125] 2000 64 A-1/HDL
+NochangeinTC,TGorLDL
+NochangeinTC,HDLorLDL
+AlHouranietal. [133] 2009 57females
+ReductioninTG
+Asgaryetal. [134] 2000 50males ReductionsinTCandTG
+NochangeinTC,TG,HDLorVLDL
+Dowood[131] 2004 60
+Fakhrzadehetal. [50] 2003 91
+ReductionsinTC,TGandLDL
+NochangeinHDL
+Furuncuogluetal. [135] 2007 39
+ReductionsinTCandTG
+HaghdoostandPoorranjbar[74] 2009 93 ReductioninTG
+Haouari-Oukerroetal. [121] 2013 38males NochangeinTC
+ReductionsinTGandLDL
+HosseiniandHejazi[132] 2013 26males ReductionsinTC,LDL,VLDL,LDL/HDL andTC/HDL
+Lamri-Senhadjietal. [120] 2009 46
+ReductionsinTG,LDL,TC/HDLand
+Mahoobetal. [136] 1999 35males LDL/HDL
+MMaislosetal. [126] 1998 22
+NochangeinTC,TG,LDLorVLDL
+IncreasesinHDL,apoA-1
+MMaislosetal. [123] 1993 24 NochangeinTC,TG,LDLorVLDL
+ReductionsinTC/HDLandLDL/HDL
+Mansi[122] 2007 70 NochangeinTCorTG
+Nematyetal. [130] 2012 82
+ReductionsinTC,TG,LDLandVLDL
+Qujeqetal. [128] 2002 83
+Rahmanetal. [30] 2004 20males NochangeinTC,TGorLDL
+ReductionsinTC/LDLandLDL/HDL
+NochangeinTG,HDLorVLDL
+Salehetal. [137] 2005 60
+ReductionsinTCandLDL
+Shehabetal. [64] 2012 65 NochangeinTC
+ReductionsinTGandLDL
+Nutrients2020,12,2478 14of25
+Table7. Cont.
+Authors Date Subjects(n) EffectofRamadanonParameters
+NochangeinHDL
+Temizhanetal. [127] 2000 52
+ReductionsinTC,TG,LDLandVLDL
+NochangeinTC,HDLorLDL
+Ünalacaketal. [79] 2011 20males
+ReductioninTG
+IncreasesinHDLandHSP70
+Zareetal. [124] 2011 32males ReductionsinTC,TG,LDL,LDL/HDL andTC/HDL
+IncreaseinLDL
+Ziaeeetal. [90] 2006 81 NochangeinTC,TGorVLDL
+ReductioninHDL
+Thannounetal. [138] 2010 31
+ReductioninTC,LDLandTG
+Marbutetal. [139] 2006 30males
+Akhtaruzzamanetal. [140] 2014 28females
+ReductioninTCandLDL
+Ismailetal. [141] 2014 31
+ReductioninLDLandTG
+Pathanetal. [142] 2010 30males
+ReductioninTC,LDL,VLDLandTG
+Dowod[131] 2004 60 ReductioninLDL
+ReductioninTCandHDL
+Shahsavanetal. [143] 2015 89 NochangeinLDL,TGorLDL/HDL
+IncreaseinLDL
+Khanetal. [144] 2017 Pakistan
+ReductioninHDL
+Indraetal. [145] 2007 Indonesia ReductioninTC,LDLandTG
+TC:Totalcholesterol,TG:Triglycerides,HDL:Highdensitylipoprotein,LDL:Lowdensitylipoprotein,VLDL:Very lowdensitylipoprotein.
+In addition, the effect of Ramadan fasting on lipid profile was shown to extend to even after
+Ramadan. Shehabetal. foundthattherewasasignificantincreaseinHDLandadecreaseinLDL cholesterollevelsamonthafterRamadanfasting[64]. TheseresultssuggestthatRamadanfastingmay beasuitablelifestylemodificationtoimprovebloodlipidprofile[64,129,147]. Thus,futurestudies evaluatingtheeffectofRamadanfastinginpeoplewithlipiddisordersisofimportance[129].
+However, a cohort study by Ziaee et al. of 81 students found that there was a decrease in
+HDLandanincreaseinLDLlevelsduringRamadanfasting[90]. Thecontradictionintheresults may be due to a change in the dietary regimen during Ramadan, decreased physical activity and culturalinfluenceondietarypatterns[90,133,148]. Haghdoostetal. studiedtheconnectionbetween physical activity and Ramadan fasting on the lipid profile and found that total cholesterol levels decreased significantly during and after Ramadan for subjects who were physically active while fasting(by−12.24and−8.4mg/dL,respectively)[74]. However,thepatternsofchangesinHDLand
+LDL cholesterol were more or less comparable in both physically active and inactive groups [74].
+Thisfindingshowsthattheobservedreductionintotalcholesterolwasprobablyduetoreductionsin
+TGlevelsandphysicalactivitymayhavebeentheeffectmodifier.
+Infact,severalstudiesshowedadecreaseinTGlevelsduringRamadanfasting[44,64,74,79,121,124,133 - 136], although other studies found no change [90,122,123,125,129,131,137]. Two studies did observe an increaseinserumTG,whichmaybeduetotheconsumptionoffoodsrichincarbohydratesaccompanied by less physical activity during Ramadan [90,129]. This is linked back with studies showing that
+Nutrients2020,12,2478 15of25
+peoplearemorelikelytoconsumecarbohydrate-richfoodsduringRamadan[33,90,149 - 151]. Hallak andNamonishowedapositivecorrelationbetweenserumtriglyceridelevelsandsugarintakeduring
+Ramadan[135,152]. Theincreaseinbloodtriglycerideswithhighsugarconsumptionwasalsoobserved byAlbrinkandUllrich[135,153]. Alternatively,thelipolyticeffectoffastingforlongperiodsoftime mayresultinhigherserumtriglyceridelevelsattheendofRamadanfasting[131,154].
+IncaseswhereadecreaseinTGlevelswasfound,itcouldbeduetotheincreasedconsumptionof monounsaturatedandpolyunsaturatedfattyacids,aswellasthedecreasedconsumptionofsaturated fatty acids [64]. This was likely to be so in a study from Morocco, where a significant decrease in triglyceridelevelswasobservedevenafterthemonthofRamadan[44,64]. Itseemsasthoughthetype offatintakeduringRamadandeterminestheresultingbloodcholesterollevel[131].
+Thus,thevariationsinthelipidprofilebeforeandafterRamadaninhealthyindividualsareoften attributedtodifferencesindietaryhabitsbetweencountries,likethatoftheclassicMediterraneandiet inMoroccoandthediethighinsaturatedfatinaffluentcountriesoftheArabianGulfstates[64,137].
+Thesedifferencescouldalsobeexplainedbythefactthatthedurationoffastingdiffersamongcountries dependingontheseasonalclimatefollowingthelunarcalendar[137]. Thisreiteratesthefactthat
+Ramadan fasting and the breaking of fast is practised differently in different populations and has varyingimpactsonthehealthoutcomesofthosewhofast.
+Overall,thereisapotentialforafavourableimpactoncardiometabolicriskfactorsduetoimproved lipid profile during Ramadan fasting. A meta-analysis by Kul et al. found that Ramadan fasting resultedinlowerLDLcholesterollevelsinbothmalesandfemales,aswellasallofthesubjects[155].
+Additionally,HDLcholesterollevelswerealsoincreasedamongfemales,whereastriglycerides(TGs) decreasedtoasmallextentinamongmalesonly. Overall,thiscausedariseintotalcholesterol[155].
+Similarly,areviewbyMazidietal. foundthatthemajorityofstudiesreportedanincreaseinHDLlevels, adecreaseintriglyceridelevelsandnochangeoradeclineintotalcholesterolandLDLlevels[156].
+Beyondbloodlipidprofile,asystematicreviewinvestigatingtheeffectofRamadanfastingon cardiometabolicriskfactorsshowedthat,generally,theeffectsmaybedescribedasbeneficialorneutral, althoughthereweresomeexceptions[157]. Infact,threestudiesinvestigatingtheeffectsofRamadan fastingonbloodpressure,ariskfactorforcardiometabolicdiseases,reportedasignificantdropin systolic blood pressure during Ramadan fasting, while most studies revealed no change in blood pressure[157]. Furthermore,aprospectiveobservationalstudyshowedsignificantchangesinsome cardiovascularriskfactorsduringRamadanfasting,includinganimprovementin10-yearcoronary heartdiseaserisk(basedonFraminghamriskscore)andareductioninsystolicbloodpressure,body massindexandwaistcircumference,althoughC-reactiveprotein(CRP)andhomocysteinewerenot significantlydifferent[130]. Ramadanfastinghasalsobeenshowntohavesomebeneficialeffects on endothelial function, like improved nitric oxide availability, which can affect cardiometabolic risk [158]. Some studies investigated the effect of Ramadan fasting on inflammatory markers and showed that there was a significant reduction in CRP levels, the attenuation of proinflammatory cytokines,adecreaseinIGF-1andIL-2levels,anincreaseinadiponectin,adecreaseinTNF-αanda reductionofserumamyloidAandproteincarbonylgrouplevels[159 - 163]. However,theeffectsare notconclusiveandanimprovementincardiometabolicriskfactorscannotbesubstantiatedbycurrent studiesduetoseverallimitations. Thisisbecauseprospectivestudiescarriedoutoveralongperiodof timearelackingandthestudiesaregenerallysmallinsize[157].
+OverweightandObese
+Giventhatoverweightandobeseindividualsarelikelytoresponddifferentlycomparedtonormal weightindividualstovariousdietaryinterventions, inthissectionwewillspecificallydiscussthe changesinlipidprofileduetoRamadanfastinginoverweightandobeseindividuals. Astudyconducted on103obeseindividualsinEgyptshowedthatRamadanfastingresultedinasignificantimprovement intotalcholesterol,totaltriglycerides,highdensitylipoprotein,lowdensitylipoprotein,TC/HDLratio,
+LDL/HDLratio,lipoproteina,apolipoprotein,apolipoproteinBlevelsandcoagulationparameters,
+Nutrients2020,12,2478 16of25
+whichcontinuedforfourweeksafterfasting[164]. Similarly,inanotherstudyon60obesewomen withtype2diabetesinAlgeria,Ramadanfastingresultedinasignificantimprovementinglucose homeostasis,althoughtotalcholesterol,triglyceridesandLDLlevelsalsoincreasedsignificantly[107].
+Ramadan fasting has also been shown to increase the genetic expression of anti-inflammatory, antioxidantandmetabolicregulatorygenesinoverweightandobeseindividuals[79,165].
+Leptinlevelsareimportantinregulatingthelong-termdepositionoffatbuttheeffectofRamadan fastingonleptinlevelsisnotwellestablished[166]. Kassabetal. showedthatserumleptinlevels increased significantly by 37% during Ramadan fasting in obese individuals [166]. In contrast,
+Alzoghaibietal. observedasignificantdropinplasmaleptinlevelsduringRamadanfasting[167].
+Even though the loss of weight typically results in a drop in serum leptin levels, in the case of obeseindividuals,increasedfatoxidationandincreasedserumleptinwerecorrelated[168]. Assuch, itisnotclearhowRamadanfastingaffectsserumleptinlevelsandtheeventualdepositionoffatin obesepeopleandmorefuturestudiesinthisareaarerecommended.
+6. Discussion
+RamadanfastingisamandatorypracticeforallhealthyMuslimsanditisoneofthefivepillarsof
+Islam. Itsuniquenessasatypeoftime-restrictedfeedingresultsindietaryhabitsthatareunlikeany othertypeoffastingortime-restrictedfeedingdiet. Inparticular,Ramadanfastingleadstochangesin nutrientintakeandthecompositionofthediet,althoughthechangesarevariablebasedonlocation, aswellasculture.
+TheeffectofRamadanfastingonhealthoutcomesisanimportantinvestigationtounderstandthe linkbetweenabstainingfromfoodandwaterduringdaylighthoursforanentiremonthandhuman physiology. Furthermore,thehighoccurrenceofcardiovasculardiseasesinMuslimcommunitiesmakes theseinvestigationsparticularlypertinent[157]. WhilstrecognisingthatfastingduringRamadanis notanexperimentallyrigoroustime-restrictedfeedingregimen,itsadvantageistheavailabilityofa verylargenumberofdatasets. Recognisingpotentialbias,itisfairtoassumethat,duetothereligious conviction,mostwillcomplywithtime-restrictedfasting.
+Ramadan fasting has been shown to be of some benefit, as it causes significant reductions in bodymassinhealthyandobeseindividualsand,insomecases,reductionsinbodyfatpercentageas well. Thiscanbeexplainedbythefactthatthehumanbodyadaptsduringfastingtoslowdownbasal metabolismandutilisefatsmoreefficientlyinconditionsofnegativeenergybalance[131]. Themost promisinghealthoutcomeduetoRamadanfastingappearstobeanimprovementinlipidprofile, whichoftenextendsevenafterthemonthofRamadanfasting. Animprovementinlipidprofilecould bebeneficialforthecardiovascularsystem,asHDLisprotectiveagainstcoronaryheartdisease[95,169].
+Theresultsforglucosehomeostasisaremoreconflictingandthereareonlyafewstudiesshowing an improvement in fasting blood glucose levels and, given that fasting measurements are often measuredatdifferenttimespre-andpost-Ramadanfasting,thisisofsomeconcernintheinterpretation ofthesefindings. Furthermore,inconsistenciesintheresultsofthevariousstudiesinvestigatingthe effectsofRamadanfastingonhealthoutcomescanbeexplainedbytheabovementionedlimitations, suchasdifferencesinthedurationoffastingcausedbyseasonsandclimate,variationsindietaryhabits andsocioeconomicstatus,differentstudymethodologyandtheageandgenderoftheindividuals, aswellasotherhealthandlifestylefactors[157].
+WhencomparingRamadanfastingtoothertypesofintermittentfasting,suchasalternateday fasting,time-restrictedfeeding(e.g.,feedingduringdaylighthoursonly)andmodifiedfastingregimens, itcanbeobservedthattheeffectonbodymassandcompositionismorepronouncedintheothertypes ofintermittentfasting[170]. Manyofthestudiesinvolvingothertypesofintermittentfastingshow weightlossthatislesstransientthanRamadanfasting[170]. However,theeffectsoftheothertypes ofintermittentfastingonmetabolicparametersaremixedandnomoreconclusivethanRamadan fasting[170].
+Nutrients2020,12,2478 17of25
+OneofthelimitationsofinvestigatingtheeffectofRamadanfastingonhealthoutcomesisthe lackoflonger-termprospectivestudies. Forexample,thecumulativelonger-termeffectsofRamadan fastingfor1montheveryyearforseveralyearsareyettobeestablished. Indeed,thisisanareaoffocus thatshouldbeinvestigatedinfuturestudiesandisofsignificanceinunderstandingthelonger-term healthimplicationsofRamadanfastingoveranumberofyears. Anotherlimitationofstudiesinvolving
+Ramadanfastingisthatmanyofthemdonothavecontrols,thusresultinginfurtherlimitationstothe data[157]. Thisisbecauseitisproblematictocomparefastingandnon-fastingindividualsorinclude randomisationinthestudyprocedure[157].
+Overall, this review shows that there are some aspects of Ramadan fasting that result in an improvementinhealthoutcomes. Thetypeofdiet,inparticular,isanimportantarbitratoroftheeffect ofRamadanfastingonhealth. IncaseswheretherewerepositivechangesindietduringRamadan, therewereobservedimprovementsinhealthoutcomes. Inparticular, itisrecommendedinIslam to have a balanced diet rich in fruits and vegetables. Studies that showed improvements in body compositionormetabolicparameterswerefoundtohavefruit-andvegetable-richdiets,thusfollowing these recommendations more closely [64,137]. On the other hand, studies of Ramadan fasting in countrieswithdietsrichinsaturatedfatdidnotshowfavourableresults[64,137].
+Furthermore,itisrecommendedinIslamtohavemoderatefoodintakeandbephysicallyactive duringRamadan. ThepositiveeffectofphysicalactivityduringRamadanfastingcanbeobservedin studiesinvolvingphysicallyactiveindividuals,whereadecreaseinbodyfatpercentagewasobserved inmostcases[16,72,73]. Assuch,therearemanydifferentconditionsthatplayapartinRamadan fastingandhavevariedeffectsonhealthoutcomes. Allthesefactorsneedtobekeptinmindwhile followinganoptimalRamadanfastingregimetoobtainthemaximalhealthbenefitsthatthisreligious practiceismeanttoimpart.
+AuthorContributions: ConceptualisationC.J.H.,S.H.andF.O.;methodologyC.J.H.andS.H.;validationF.O.,
+C.J.H.andS.H.;formalanalysisF.O.;investigationFO.;resourcesC.J.H.;datacurationF.O.;writing - original draftpreparationF.O.;writing - reviewandeditingC.J.H.andS.H.;supervisionC.J.H.;projectadministration
+S.H.Allauthorshavereadandagreedtothepublishedversionofthemanuscript.
+Funding: ThisresearchhasbeenfundedbyWilmarInternationalLtd.
+ConflictsofInterest: Theauthorsdeclarenoconflictofinterest. Thefundershadnoroleinthedesignofthe study;inthecollection,analyses,orinterpretationofdata;inthewritingofthemanuscript,orinthedecisionto publishtheresults.

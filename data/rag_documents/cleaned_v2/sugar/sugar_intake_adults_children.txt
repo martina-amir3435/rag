@@ -1,0 +1,1111 @@
+Guideline:
+Sugars intake for adults and children
+
+Guideline:
+Sugars intake for adults and children
+WHO Library Cataloguing-in-Publication Data
+Guideline: sugars intake for adults and children.
+1.Carbohydrates. 2.Dietary Sucrose - administration and dosage. 3.Dental Caries - prevention and control. 4.Obesity - prevention and control. 5.Chronic Disease - prevention and control. 6.Energy Intake.
+7.Food Habits. 8.Recommended Dietary Allowances. 9.Guideline. 10.Adult. 11.Child. I.World Health
+Organization.
+ISBN 978 92 4 154902 8 (NLM classification: QU 145.7)
+
+(www.who.int) or can be purchased from WHO Press, World Health Organization, 20 Avenue Appia,
+1211 Geneva 27, Switzerland (tel.: +41 22 791 3264; fax: +41 22 791 4857; e-mail: bookorders@who.int).
+Requests for permission to reproduce or translate WHO publications - whether for sale or for non-commercial distribution - should be addressed to WHO Press through the WHO website
+(
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers' products does not imply that they are endorsed or recommended by the World Health Organization in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall the World Health Organization be liable for damages arising from its use.
+Design and layout: Alberto March
+Printed by the WHO Document Production Services, Geneva, Switzerland
+Suggested citation Guideline: Sugars intake for adults and children. Geneva: World Health
+Organization; 2015.
+
+Contents Acknowledgements vii
+Abbreviations and acronyms viii
+Executive summary 1
+Introduction 6
+Scope and purpose 6
+Background 7
+Guideline development process 8
+Advisory groups 8
+Guideline development group 8
+External peer-review group 8
+Public consultation 9
+Scoping of the guideline, evidence appraisal and decision-making 10
+Management of conflicts of interest 11
+Summary of evidence 12
+Body weight 12
+Dental caries 13
+Recommendations and remarks 16
+Recommendations 16
+Remarks 16
+Dissemination, translation and implementation, and monitoring and evaluation 18
+Dissemination 18
+Translation and implementation 18
+Monitoring and evaluation of guideline implementation 19
+Research gaps and future initiatives 20
+Implications for future research 20
+Updating the guideline 20
+
+Annex 1 GRADE evidence profiles 21
+Annex 2 WHO Secretariat 27
+Annex 3 Members of the WHO Steering Committee for Nutrition Guideline
+Development 2012 - 2014 29
+Annex 4 Members of the guideline development group (NUGAG Subgroup on Diet and Health) and external resource persons 2012 - 2014 31
+Annex 5 External peer-review group 33
+Annex 6 Priority questions in the format of population, intervention, control and outcomes (PICO) 34
+Annex 7 Summary of considerations for determining the strength of the recommendations 37
+Annex 8 Management of conflict of interest 38
+R eferences 46
+
+Acknowledgements
+Technical support This guideline was coordinated by Dr Chizuru Nishida, Coordinator of the Nutrition
+Policy and Scientific Advice Unit (NPU) in the WHO Department of Nutrition for Health and Development (NHD), with technical support and inputs from Dr Jason Montez,
+Technical Officer, NPU, and Dr Francesco Branca, Director, NHD. WHO gratefully acknowledges the technical input and expert advice provided by the members of the
+WHO Nutrition Guidance Expert Advisory Group Subgroup on Diet and Health, and by the external experts and resource persons for the development of this guideline, including the authors of the background systematic reviews. WHO also recognizes the valuable contributions made by the external peer reviewers and interested stakeholders who provided comments in response to public consultation.
+Thanks are due to the members of the WHO Steering Committee for Nutrition
+Guidelines Development and the WHO Guidelines Review Committee (GRC) for their support and guidance throughout the guideline development process; special appreciation is given to Dr Susan Norris, GRC Secretariat, and Dr Charles Penn,
+Chair of GRC. Deep appreciation is expressed to Mr Issa Matta from the WHO Office of the Legal Counsel for his support and valuable guidance in the management of the conflicts of interest procedures. Special thanks are also due to colleagues in the
+WHO Department of Communications for their support with media communications throughout the guideline development process, particularly Ms Fadela Chaib, Mrs
+Kimberly Chriscaden, Ms Christine Feig, Mr Paul Garwood, Mr Gregory Hartl, Mr Tarik
+Jasarevic, Ms Olivia Lawe-Davies and Mr Glenn Thomas.
+Acknowledgement is made to the staff of NPU, especially Ms Emma Kennedy,
+Assistant to the Coordinator, for providing administrative and logistic support throughout the guideline development process, and Ms Kaia Engesveen, Ms Line
+Vogt and Dr Katharina da Silva Lopes, for supporting the guideline publication process. WHO also acknowledges Dr Hilary Cadman from Cadman Editing Services in
+Australia for technical editing of this guideline, and Mr Alberto March from Grafmac
+Inc in Spain for the cover design and layout.
+Financial support WHO expresses special appreciation to the following offices, organizations and institutions, for providing financial support for the guideline development work:
+- The Ministry of Health, Labour and Welfare of the Government of Japan;
+- The Korean Food and Drug Administration, through grants to the Korea
+Health Industry Development Institute (a research institute affiliated to the
+Korean Government);
+- Zhejiang University in Hangzhou, China; and
+- The WHO Regional Office for Europe.
+
+Abbreviations and acronyms
+BMI body mass index
+CI confidence interval
+CVD cardiovascular disease eLENA WHO e-Library of Evidence for Nutrition Actions
+FAO Food and Agriculture Organization of the United Nations
+GINA WHO Global database on the Implementation of Nutrition Action
+GRADE Grading of Recommendations Assessment, Development and Evaluation
+NCD noncommunicable disease
+NGO nongovernmental organization
+NHD WHO Department of Nutrition for Health and Development
+NUGAG WHO Nutrition Guidance Expert Advisory Group
+OR odds ratio
+PICO population, intervention, comparison and outcome
+RCT randomized controlled trial
+SD standard deviation
+UK United Kingdom of Great Britain and Northern Ireland
+UN United Nations
+WHO World Health Organization
+
+Executive summary
+Background Noncommunicable diseases (NCDs) are the leading causes of death and were responsible for 38 million (68%) of the world's 56 million deaths in 2012 (1). More than 40% of those deaths (16 million) were premature (i.e. under the age of 70 years).
+Almost three quarters of all NCD deaths (28 million), and the majority of premature deaths (82%), occurred in low- and middle-income countries. Modifiable risk factors such as poor diet and physical inactivity are some of the most common causes of
+NCDs; they are also risk factors for obesity1 - an independent risk factor for many
+NCDs - which is also rapidly increasing globally (2). A high level of free sugars2 intake is of concern, because of its association with poor dietary quality, obesity and risk of
+NCDs (3, 4).
+Free sugars contribute to the overall energy density of diets, and may promote a positive energy balance (5-7). Sustaining energy balance is critical to maintaining healthy body weight and ensuring optimal nutrient intake (8). There is increasing concern that intake of free sugars - particularly in the form of sugar-sweetened beverages - increases overall energy intake and may reduce the intake of foods containing more nutritionally adequate calories, leading to an unhealthy diet, weight gain and increased risk of NCDs (9-13). Another concern is the association between intake of free sugars and dental caries (3, 4, 14-16). Dental diseases are the most prevalent NCDs globally (17, 18) and, although great improvements in prevention and treatment of dental diseases have occurred in the past decades, problems still persist, causing pain, anxiety, functional limitation (including poor school attendance and performance in children) and social handicap through tooth loss. The treatment of dental diseases is expensive, consuming 5 - 10% of health-care budgets in industrialized countries, and would exceed the entire financial resources available for the health care of children in most lower income countries (17, 19).
+1 Overweight and obesity are defined as follows:
+- Children (<5 years):
+Overweight: weight for height >+2 standard deviations (SD) of the WHO Child Growth Standards median
+- School-aged children and adolescents (5 - 19 years):
+Overweight: body mass index (BMI)-for-age >+1 SD of the WHO growth reference for school-aged children and adolescents (equivalent to BMI 25 kg/m2 at 19 years)
+Obesity: >+2 SD of the WHO growth reference for school-aged children and adolescents
+(equivalent to BMI 30 kg/m2 at 19 years)
+- Adults (≥20 years):
+Overweight: BMI ≥25 kg/m2
+Obesity: BMI ≥30 kg/m2
+2 The term "free sugars" was used by the 2002 Joint WHO/FAO Expert Consultation on Diet, Nutrition and the Prevention of Chronic Diseases (3) when updating the population nutrient intake goals, which were originally established by the
+WHO Study Group in 1989 (4). The term "free sugars" was referred to in the 2002 WHO/FAO Expert Consultation as "all monosaccharides and disaccharides added to foods by the manufacturer, cook or consumer, plus sugars naturally present in honey, syrups and fruit juices" (3). However, as noted in the Remarks section under the Recommendations, the term has been further elaborated for this guideline by the WHO Nutrition Guidance Expert Advisory Group
+(NUGAG) Subgroup on Diet and Health as follows: "Free sugars include monosaccharides and disaccharides added to foods and beverages by the manufacturer, cook or consumer, and sugars naturally present in honey, syrups, fruit juices and fruit juice concentrates".
+
+Objective The objective of this guideline1 is to provide recommendations on the intake of free sugars to reduce the risk of NCDs in adults and children, with a particular focus on the prevention and control of unhealthy weight gain and dental caries. The recommendations in this guideline can be used by policy-makers and programme managers to assess current intake levels of free sugars in their countries relative to a benchmark. They can also be used to develop measures to decrease intake of free sugars, where necessary, through a range of public health interventions.
+Methods WHO developed the present evidence-informed guideline using the procedures outlined in the WHO handbook for guideline development (20). The steps in this process included:
+- identification of priority questions and outcomes;
+- retrieval of the evidence;
+- assessment and synthesis of the evidence;
+- formulation of recommendations;
+- identification of research gaps; and
+- planning for dissemination, implementation, impact evaluation and updating of the guideline.
+Grading of Recommendations Assessment, Development and Evaluation
+(GRADE)2 methodology was used to assess the quality of evidence identified through recent systematic reviews of the scientific literature on preselected topics related to free sugars intake. An international, multidisciplinary group of experts - the WHO Nutrition Guidance Expert Advisory Group (NUGAG) Subgroup on Diet and Health - participated in the WHO technical consultations. The experts reviewed and discussed the evidence, drafted recommendations and reached consensus on the strength of the recommendations. They took into consideration desirable and undesirable effects of the recommendation, the quality of the available evidence, values and preferences related to the recommendation in different settings, and the cost of the options available to public health officials and programme managers in different settings. All members of the NUGAG Subgroup on Diet and Health, as well as external resource persons, completed a declaration of interests form before each meeting. An external expert and stakeholder panel was also involved throughout the process.
+1 This publication is a World Health Organization (WHO) guideline. A WHO guideline is a document, whatever its title, containing WHO recommendations about health interventions, whether they be clinical, public health or policy interventions. A recommendation provides information about what policy-makers, health-care providers or patients should do. It implies a choice between different interventions that have an impact on health and that have ramifications for the use of resources. All publications containing WHO recommendations are approved by the WHO
+Guideline Review Committee.
+2
+
+The evidence Meta-analysis of randomized controlled trials (RCTs) in adults suggests an association between reduction of free sugars intake and reduced body weight. Increased intake of free sugars was associated with a comparable increase in body weight. The overall quality of the available evidence for adults was considered to be moderate.1 RCTs in children - in which the interventions comprised or included recommendations to reduce sugar-sweetened foods and beverages - were characterized by generally low compliance, and showed no overall change in body weight. However, metaanalysis of prospective cohort studies, with follow-up times of 1 year or more, found that children with the highest intakes of sugar-sweetened beverages had a greater likelihood of being overweight or obese than children with the lowest intakes. The overall quality of the available evidence for an association between a reduction of free sugars intake and reduced body weight in children was considered to be moderate, whereas the quality of the evidence for an association between an increase in free sugars intake and increased body weight was considered to be low.
+An analysis of cohort studies in children suggests a positive association between the level of free sugars intake and dental caries. The evidence suggests higher rates of dental caries when the level of free sugars intake is more than 10% of total energy intake compared with it being less than 10% of total energy intake. Furthermore, in three national population studies, lower levels of dental caries development were observed when per capita sugars intake was less than 10 kg/person/year
+(approximately 5% of total energy intake). Additionally, a positive log-linear doseresponse relationship between free sugars intake and dental caries was observed across all studies, at free sugars intakes well below 10 kg/person/year (i.e. <5% of total energy intake). The overall quality of the available evidence from cohort studies was considered to be moderate, whereas that from the national population studies was considered to be very low.
+Based on the entire body of evidence, WHO generated the following recommendations for free sugars intake in adults and children.
+1 Based on the grades of evidence set by the GRADE Working Group: high quality, we are very confident that the true effect lies close to that of the estimate of the effect; moderate quality, we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different; low quality, our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect; very low quality, we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect.
+
+Recommendations - WHO recommends a reduced intake of free sugars throughout the lifecourse
+(strong recommendation1).
+- In both adults and children, WHO recommends reducing the intake of free sugars to less than 10% of total energy intake2 (strong recommendation).
+- WHO suggests a further reduction of the intake of free sugars to below 5% of total energy intake (conditional recommendation3).
+Remarks - Free sugars include monosaccharides and disaccharides added to foods and beverages by the manufacturer, cook or consumer, and sugars naturally present in honey, syrups, fruit juices and fruit juice concentrates.
+- For countries with a low intake of free sugars, levels should not be increased.
+Higher intakes of free sugars threaten the nutrient quality of diets by providing significant energy without specific nutrients (3).
+- These recommendations were based on the totality of evidence reviewed regarding the relationship between free sugars intake and body weight (low and moderate quality evidence) and dental caries (very low and moderate quality evidence).
+- Increasing or decreasing free sugars is associated with parallel changes in body weight, and the relationship is present regardless of the level of intake of free sugars. The excess body weight associated with free sugars intake results from excess energy intake.
+- The recommendation to limit free sugars intake to less than 10% of total energy intake is based on moderate quality evidence from observational studies of dental caries.
+total energy intake is based on very low quality evidence from ecological studies in which a positive dose - response relationship between free sugars intake and dental caries was observed at free sugars intake of less than 5% of total energy intake.
+1 Strong recommendations indicate that "the desirable effects of adherence to the recommendation outweigh the undesirable consequences" (20). This means that "the recommendation can be adopted as policy in most situations" (20).
+2 Total energy intake is the sum of all daily calories/kilojoules consumed from food and drink. Energy comes from macronutrients, such as fat (9 kcal/37.7 kJ per gram), carbohydrate (4 kcal/16.7 kJ per gram) including total sugars
+(free sugars + intrinsic sugars + milk sugars) and dietary fibre, protein (4 kcal/16.7 kJ per gram) and ethanol (i.e.
+alcohol) (7 kcal/29.3 kJ per gram). Total energy intake is calculated by multiplying these energy factors by the number of grams of each type of food and drink consumed and then adding all values together. A percentage of total energy intake is therefore a percentage of total calories/kilojoules consumed per day.
+3 Conditional recommendations are made when there is less certainty "about the balance between the benefits and harms or disadvantages of implementing a recommendation" (20). This means that "policy-making will require substantial debate and involvement of various stakeholders" (20) for translating them into action.
+
+total energy intake, which is also supported by other recent analyses (15,
+16), is based on the recognition that the negative health effects of dental caries are cumulative, tracking from childhood to adulthood (21, 22). Because dental caries is the result of lifelong exposure to a dietary risk factor (i.e. free sugars), even a small reduction in the risk of dental caries in childhood is of significance in later life; therefore, to minimize lifelong risk of dental caries, the free sugars intake should be as low as possible.
+- No evidence for harm associated with reducing the intake of free sugars to less than 5% of total energy intake was identified.
+- Although exposure to fluoride reduces dental caries at a given age, and delays the onset of the cavitation process, it does not completely prevent dental caries, and dental caries still progresses in populations exposed to fluoride (23-35).
+- Intake of free sugars is not considered an appropriate strategy for increasing caloric intake in individuals with inadequate energy intake if other options are available.
+- These recommendations do not apply to individuals in need of therapeutic diets, including for the management of severe and moderate acute malnutrition. Specific guidelines for the management of severe and moderate acute malnutrition are being developed separately.
+
+Introduction
+Scope and purpose Following the work of the 1989 WHO Study Group on Diet, Nutrition and Prevention of Noncommunicable Diseases (4), the 2002 Joint WHO/FAO Expert Consultation on
+Diet, Nutrition and the Prevention of Chronic Diseases (3) updated the guidance on the free sugars1 intake as part of the guidance on population nutrient intake goals for the prevention of noncommunicable diseases (NCDs). Today, debate continues as to whether the available evidence of adverse health effects related to free sugars intake warrants appreciable reduction in free sugars intake. Therefore, it was considered important to review the existing evidence in a systematic manner, and update
+WHO's guidance on free sugars intake through the new WHO guideline development process.2
+The objective of this guideline is to provide recommendations on the intake of free sugars to reduce the risk of NCDs in adults and children, with a particular focus on the prevention and control of unhealthy weight gain and dental caries. This is in recognition of the rapidly growing epidemic of overweight and obesity3 around the globe and its role as a risk factor for several NCDs. In addition, dental caries is the most common NCD, and the cost of treatment places a heavy burden on healthcare budgets in many countries. The recommendations in this guideline can be used by policy-makers and programme managers to assess current levels of free sugars intake in their countries relative to a benchmark. They can also be used to develop measures to decrease the intake of free sugars, where necessary, through a range of public health interventions.
+The guideline will help Member States and their partners in making informed decisions about nutrition policies, programmes and interventions. It is hoped that the guideline will also help to accelerate the implementation of nutrition actions for improving health and development, and ultimately for reducing the burden of
+NCDs. The guideline is intended for a wide audience including government officials, scientists, the food industry and other partners involved in the development, design and implementation of policies and programmes in public health nutrition.
+1 The term "free sugars" was used by the 2002 Joint WHO/FAO Expert Consultation on Diet, Nutrition and the
+Prevention of Chronic Diseases (3) when updating the population nutrient intake goals, which were originally established by the WHO Study Group in 1989 (4). The term "free sugars" was referred to in the 2002 WHO/FAO Expert
+Consultation as "all monosaccharides and disaccharides added to foods by the manufacturer, cook or consumer, plus sugars naturally present in honey, syrups and fruit juices" (3). However, as noted in the Remarks section under the Recommendations, the term has been further elaborated for this guideline by the WHO Nutrition Guidance
+Expert Advisory Group (NUGAG) Subgroup on Diet and Health as follows: "Free sugars include monosaccharides and disaccharides added to foods and beverages by the manufacturer, cook or consumer, and sugars naturally present in honey, syrups, fruit juices and fruit juice concentrates".
+2 See the section on "Guideline development process" (p.8) for more details.
+3 Overweight and obesity are defined as follows:
+- Children (<5 years):
+Overweight: weight for height >+2 standard deviations (SD) of the WHO Child Growth Standards median
+- School-aged children and adolescents (5 - 19 years):
+Overweight: body mass index (BMI)-for-age >+1 SD of the WHO growth reference for school-aged children and adolescents (equivalent to BMI 25 kg/m2 at 19 years)
+Obesity: >+2 SD of the WHO growth reference for school-aged children and adolescents
+(equivalent to BMI 30 kg/m2 at 19 years)
+- Adults (≥20 years):
+Overweight: BMI ≥25 kg/m2
+Obesity: BMI ≥30 kg/m2
+
+This document presents the key recommendations and a summary of the supporting evidence. Further details of the evidence base are provided in Annex 1 and in other documents listed in the references.
+Background NCDs are the leading causes of death and were responsible for 38 million (68%) of the world's 56 million deaths in 2012 (1). More than 40% of those deaths (16 million) were premature (i.e. under the age of 70 years). Almost three quarters of all NCD deaths (28 million), and the majority of premature deaths (82%), occurred in lowand middle-income countries. Modifiable risk factors such as poor diet and physical inactivity are some of the most common causes of NCDs; they are also risk factors for obesity - an independent risk factor for many NCDs - which is also rapidly increasing globally (2). A high level of free sugars intake is of concern because of its association with poor dietary quality, obesity and risk of NCDs (3, 4).
+The term "sugars" includes intrinsic sugars, which are those incorporated within the structure of intact fruit and vegetables; sugars from milk (lactose and galactose);
+and free sugars, which are monosaccharides and disaccharides added to foods and beverages by the manufacturer, cook or consumer, and sugars naturally present in honey, syrups, fruit juices and fruit juice concentrates.
+Because there is no reported evidence of adverse effects of consumption of intrinsic sugars and sugars naturally present in milk, the recommendations of this guideline focus on the effect of free sugars intake. For the first time in 1989, the WHO
+Study Group established a dietary goal for free sugars intake of less than 10% of total energy intake (4), and this was reiterated by the Joint WHO/FAO Expert Consultation on Diet, Nutrition and the Prevention of Chronic Diseases in 2002 (3).
+Free sugars contribute to the overall energy density of diets, and may promote a positive energy balance (5-7). Sustaining energy balance is critical to maintaining healthy body weight and ensuring optimal nutrient intake (8). There is increasing concern that intake of free sugars - particularly in the form of sugar-sweetened beverages - increases overall energy intake and may reduce the intake of foods containing more nutritionally adequate calories, leading to an unhealthy diet, weight gain and increased risk of NCDs (9-13). Another concern is the association between intake of free sugars and dental caries, which has received increasing interest in recent years (3, 4, 14-16). Dental diseases are the most prevalent NCDs globally (17, 18) and, although great improvements in prevention and treatment of dental diseases have occurred in the past decades, problems still persist, causing pain, anxiety, functional limitation (including poor school attendance and performance in children) and social handicap through tooth loss. The treatment of dental diseases is expensive, consuming 5 - 10% of health-care budgets in industrialized countries, and would exceed the entire financial resources available for the health care of children in most lower income countries (17, 19).
+
+Guideline development process
+This guideline was developed in accordance with the WHO evidence-informed guideline development procedures outlined in the WHO handbook for guideline development (20).
+Advisory groups Development of this guideline was undertaken by the WHO Department of
+Nutrition for Health and Development (NHD), in partnership with the members of the WHO Secretariat (Annex 2). The work was guided by the WHO Steering
+Committee for Nutrition Guideline Development (Annex 3), which provided overall supervision of the guideline development process. The WHO Secretariat and the
+Steering Committee included representatives from all departments of WHO with an interest in the provision of scientific advice on nutrition. Two additional groups were formed - a guideline development group and an external peer-review group
+ - as outlined below.
+Guideline development group
+The guideline development group - entitled the WHO Nutrition Guidance Expert
+Advisory Group (NUGAG) Subgroup on Diet and Health - was convened to support the development of this guideline (Annex 4). This group included experts who had previously participated in various WHO expert consultations or were members of the
+WHO expert advisory panels, and others identified through open calls for experts.
+In forming this group, the WHO Secretariat took into consideration the need for a balanced gender mix, expertise from multiple disciplinary areas and representation from all WHO regions. Efforts were made to include subject-matter experts (e.g. in nutrition, epidemiology, paediatrics and physiology); experts in systematic review, programme evaluation and Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodologies; and representatives of potential stakeholders
+(e.g. programme managers, policy advisers and other health professionals involved in the health-care process). Representatives of commercial organizations were not invited to participate because the inclusion of such individuals is considered to be inappropriate for membership of any WHO guideline group because of actual, potential and perceived conflicts of interest. External resource persons - including subject-matter experts and systematic review and GRADE methodologists - were invited to the NUGAG meetings as observers to provide technical input and to present systematic reviews. These individuals did not participate in the decision-making processes. NUGAG's role was to advise WHO on the choice of outcomes important for decision-making, and on interpretation of the evidence for the development of recommendations.
+External peer-review group
+The WHO Secretariat selected, as external peer reviewers, representatives of public institutions that are members of the WHO Global Network of Institutions for Scientific
+Advice on Nutrition,1 subject-matter experts (including those in dentistry) and other stakeholders (including practitioners and editors of scientific journals). As with the
+1 NHD established the WHO Global Network of Institutions for Scientific Advice on Nutrition in 2010 to bring together the main public institutions that set guidelines for diet- and nutrition-related guidelines and guidance for their national governments, thus creating synergy and avoiding duplication of efforts (36).
+
+selection process for the guideline development group, this external peer-review group was selected taking into account the need for geographical and gender balance, to provide diverse and representative perspectives. The external peerreview group was asked to review the draft guideline to identify any errors or missing information before finalization of the guideline. The external peer reviewers who provided comments on the draft guideline are listed in Annex 5.
+Public consultation
+A public consultation was held during the planning stages of guideline development.
+The consultation called for comments on the scope of the guideline and on the specific research questions to be addressed and outcomes to be investigated in the systematic literature reviews. A call for comments was also posted on the NHD website, and disseminated through the electronic mailing lists of NHD (>4000
+addressees) and of the United Nations (UN) Standing Committee on Nutrition (also
+>4000 addressees).
+Through this public consultation, 16 comments were received from various stakeholders, including representatives of government agencies, academic institutions, nongovernmental organizations (NGOs) and food industries. The comments were reviewed and assessed by the WHO Secretariat, and then presented for review - along with the WHO Secretariat's assessment - to the NUGAG Subgroup on Diet and Health.
+Through a similar process, a public consultation was held to call for comments on the draft guideline before its finalization. A total of 173 comments were received, from representatives of 24 government agencies, two UN agencies, 52 NGOs, 54
+industry organizations and associations, 31 academic institutions and 10 other interested individuals. These comments were also reviewed by the WHO Secretariat, and were assessed and considered when finalizing the guideline.
+A list of people who submitted comments in response to the public consultations, summaries of their comments and the assessment of the received comments by the
+WHO Secretariat are available on the NHD website.1
+1
+
+Scoping of the WHO developed an initial set of questions to be addressed in the guideline. The questions guideline, evidence were based on the needs of Member States and international partners for policy and appraisal and programme guidance. The population, intervention, comparison and outcome (PICO) decision-making format was used in generating the questions (Annex 6). The PICO questions were first discussed and reviewed by the WHO Secretariat and the WHO Steering Committee for
+Nutrition Guideline Development, and were then made available for public comment in
+February 2010. Feedback was received from a total of 16 individuals and organizational stakeholders, and the questions were adapted as necessary.
+The draft set of PICO questions was presented to the NUGAG Subgroup on Diet and
+Health during its first meeting on 22 - 25 February 2010. During that meeting, the guideline topic was introduced, the scope of the guideline and the PICO questions were discussed, and outcomes and populations were ranked in importance by NUGAG members. The prioritization of the PICO questions defined the scope of the evidence to be used in informing development of the guideline. Subsequent to the meeting, WHO commissioned several systematic reviews and meta-analyses to address the PICO questions.
+During the NUGAG meeting in February 2010, the anticipated difficulties in identifying sufficient data on weight gain, especially from developing countries, were discussed. To address this potential limitation, a number of NUGAG members from developing countries offered to share available country data. Additionally, to achieve systematic collection of
+"best available data and evidence" from developing countries, in August 2010 WHO sent out a call for data to all countries, through the WHO regional offices. Identified data were then reviewed and evaluated to determine whether they could be included in the review and analysis; no data met the inclusion criteria described in the PICO questions in Annex 6.
+A follow-up meeting of the NUGAG Subgroup on Diet and Health was held on 14 - 17
+March 2011, at which preliminary outcomes of the systematic reviews were discussed.
+At this follow-up meeting, NUGAG members requested further analyses, including the preparation of GRADE evidence profiles, which had not previously been included in the reviews. The NUGAG Subgroup on Diet and Health continued to review and discuss the evidence presented, and the GRADE assessment of the quality of evidence, at their subsequent meetings (held on 29 November - 2 December 2011, 27 - 30 March 2012 and
+4 - 7 March 2013), and finalized the draft recommendations through consensus.
+The systematic reviews and the GRADE evidence profiles for each of the critical outcomes were used for drafting the recommendations. When determining the strength of each recommendation, the NUGAG members considered various factors, including the overall quality of the evidence, the desirable and undesirable effects of the recommendation, values and preferences related to the recommendation in different settings, and the feasibility and cost of the options available to public health authorities in implementing the recommendation in different settings. These findings are summarized in Annex 7. The classification was discussed among the
+NUGAG members, the invited external resource persons and the members of the
+WHO Secretariat present at the meeting. The final wording of the recommendations and their strength were based on the consensus of members of the WHO Secretariat present and the NUGAG members only. There were no strong disagreements among the NUGAG members on any aspect of the guideline.
+
+Management of According to the rules in the WHO Basic documents (37), all experts participating in conflicts of interest WHO meetings must declare any interest relevant to the meeting before participating.
+Declaration of interest forms were reviewed by the WHO Secretariat in consultation with the WHO Legal Office when finalizing the composition of the NUGAG Subgroup on Diet and Health. In addition, each participant verbally declared his or her interests at the start of each meeting. The procedures for management of interests outlined in the WHO Guidelines for declaration of interests for WHO experts (38) were strictly followed. The potential interests declared by members of the NUGAG Subgroup on Diet and Health and experts who participated in NUGAG meetings as external resource persons are summarized in Annex 8.
+Similarly, declaration of interest forms from external peer reviewers were assessed by the WHO Secretariat, and the summaries of those declared interests are also provided in Annex 8.
+People who submitted comments in response to the public consultation were also asked to fill in the declaration of interest forms, so that the nature of their interests could be understood when reviewing and assessing their comments.
+
+Summary of evidence
+Two systematic reviews were commissioned1, 2 to assess the effects of increasing or decreasing intake of free sugars on excess weight gain and dental caries - two health outcomes identified as critical in relation to free sugars intake. Initially, several other outcomes, such as diabetes and cardiovascular disease (CVD), were also considered by the NUGAG Subgroup on Diet and Health. However, after extensive discussions, it was decided that excess weight gain and dental caries should be the key outcomes of concern in relation to free sugars intake. Risk of developing type 2 diabetes and
+CVD is often mediated through the effects of overweight and obesity, among other risk factors. Therefore, measures aimed at reducing overweight and obesity are likely to also reduce the risk of developing type 2 diabetes and CVD, and the complications associated with those diseases.
+The specific research questions guiding the systematic reviews undertaken were:
+- What is the effect of a decrease or increase in free sugars intake in adults and children?
+- What is the effect of restricting intake of free sugars to below 10% of total energy?3
+Body weight The systematic review on body weight (39) examined the effects of free sugars intake on excess adiposity; that is, whether reducing or increasing the intake of free sugars influences measures of body weight in adults and children, and whether current evidence provides support for the existing recommendation to reduce intake of free sugars to less than 10% of total energy intake. Body weight was selected as an outcome, in view of the extent to which comorbidities of obesity contribute to the global burden of NCDs. Studies that included interventions involving advice to decrease or increase intake of free sugars, or sugar-containing foods or beverages, without emphasizing the need to achieve weight loss, were included in the review. In addition, evidence for differences between higher and lower free sugars intake was assessed from randomized controlled trials (RCTs) in which free sugars intake was altered but total energy intake was strictly controlled (i.e. isoenergetic). Trials that were specifically designed to achieve weight loss were excluded. It was acknowledged that the studies identified by this approach would inevitably be heterogeneous, that it would be difficult to disentangle the effects of a number of different dietary changes that might occur as a consequence of altering intake of free sugars, and that it might be difficult to identify a continuous relationship (dose - response) between intake of free sugars and body weight.
+1 A systematic review on free sugars intake and body weight was originally commissioned from the research team at the WHO Collaborating Centre at Durham University in the United Kingdom of Great Britain and Northern Ireland
+(UK) headed by Professor Carolyn Summerbell, because this team has conducted various systematic reviews on obesity-related issues including several Cochrane reviews. Due to unforeseen circumstances, responsibility for the review was then transferred to the WHO Collaborating Centre at the University of Otago in New Zealand and the review was led by Dr Lisa Te Morenga, a faculty member at the University.
+2 A systematic review on dental caries was commissioned from the research team at the WHO Collaborating Centre at
+Newcastle University in the UK, headed by Professor Paula Moynihan.
+3 Less than 10% of total energy intake is the existing population nutrient intake goal for free sugars (3).
+
+The systematic review of the effect of intake of free sugars on body weight included 30 of the 7895 RCTs and 38 of the 9445 cohort studies initially identified as meeting the inclusion criteria. Meta-analysis of the five trials in adults with ad libitum diets (i.e. no strict control on food intake) found that reduced intake of free sugars was associated with a decrease in body weight ( - 0.80 kg; 95% confidence interval [CI]: - 1.21, - 0.39). Meta-analysis of the 10 trials that involved increasing sugars intake (mostly sugar-sweetened beverages) suggested a comparable weight increase (0.75 kg; 95% CI: 0.30, 1.19). Meta-analysis of the 11 trials that examined isoenergetic exchanges of free sugars with other carbohydrates showed no change in body weight (0.04 kg; 95% CI: - 0.04, 0.13).
+The review identified five trials in children in which the intervention involved recommendations to reduce sugar-sweetened foods and beverages, but these trials were characterized by generally low compliance with dietary advice, and showed no overall change in body weight as measured by standardized body mass index (BMI) or BMI z score (0.09; 95% CI: - 0.14, 0.32). However, meta-analysis of five prospective cohort studies, with follow-up times of 1 year or more, found that those children with the highest intakes of sugar-sweetened beverages had a greater likelihood of being overweight or obese than those children with the lowest intakes (odds ratio [OR] 1.55; 95% CI: 1.32, 1.82). Significant heterogeneity was evident in one of the meta-analyses, and some trials were subject to potential bias that could have influenced the findings; nevertheless, sensitivity analyses showed that the trends were consistent and associations remained, even when excluding data from the potentially biased studies and studies contributing most to the observed heterogeneity.
+The overall quality of the available evidence for changes in body weight in relation to both increasing and decreasing free sugars intake in adults was considered to be moderate; this was due to downgrading for possible biases identified in a minority of studies and potential publication bias because of the small number of trials identified (Annex 1). In children, the quality of evidence for an association between a reduction in free sugars intake and reduced body weight was similarly considered to be moderate, whereas the quality of the evidence for an association between an increase in free sugars intake and increased body weight was considered to be low (Annex 1).
+Dental caries The systematic review on dental caries addressed the relationship between the level of free sugars intake and dental caries in adults and children (40). A literature search for studies conducted in adults identified two non-randomized intervention trials and two observational studies (cross-sectional studies) that met the inclusion criteria. In addition, one ecological study conducted in both adults and children was identified.
+No RCTs or longitudinal cohort studies were identified that met the inclusion criteria.
+The studies included about 1200 participants in total, and all studies in adults were conducted in industrialized countries.
+A literature search for studies conducted in children identified one nonrandomized intervention study and 50 observational studies that met the inclusion criteria. The observational studies included eight longitudinal cohort studies, 20
+
+ecological studies (including one with both adults and children) and 22 crosssectional studies. No RCTs were identified that met the inclusion criteria.
+Without including estimates on sample or population size from the population or ecological studies, the studies included more than 260 000 participants.
+Among the 47 studies that reported at least one positive association between sugars intake and dental caries, 42 were conducted in children, four in adults and one in a mixed population of both adults and children. Six studies reported both positive and null findings, depending on the age or ethnic group of the participants;
+seven studies reported null findings in all measured associations; and two studies reported at least one negative association. Positive associations between free sugars intake and dental caries were detected in all ages (including <5 years to >65 years); in developing, transitional and industrialized countries; and in all decades of publication of results. Overall, the evidence suggests a positive association between amount of free sugars intake and dental caries in both children and adults.
+The overall quality of the evidence pertaining to dental caries was generated from the eight cohort studies analysed (Annex 1). None of the studies were excluded on the basis of quality. Seven of the eight studies reported higher dental caries with higher sugars intake. Six of the eight studies accounted for fluoride exposure. For the analysis relating to dental caries in adults, data were not downgraded for indirectness, although all cohort studies were conducted in children. The etiology of dental caries is the same in children and adults and, because dental caries tracks from childhood to adulthood, the negative health effects of dental caries are cumulative. Five of the eight cohort studies enabled the comparison of dental caries development when free sugars intake was equivalent to an amount less than 10% of total energy intake or more than 10% of total energy intake. All of these studies reported higher levels of dental caries when the amount of free sugars intake was more than 10% of total energy intake compared with it being less than 10% of total energy intake.
+The data extracted from the cohort studies was not suitable for pooling and subsequent meta-analysis because of the high degree of variability in how the data were reported. This variability included differences in selection and reporting of outcomes, study populations, types of interventions, how sugars intake and caries were measured and analyses were performed, the types of sugars reported on, and the availability of information on level of fluoride exposure. Overall effect and quality of evidence for free sugars intake and dental caries was determined based on qualitative analysis of all relevant cohort studies.
+Three national population studies were identified that enabled comparison of dental caries levels when annual per capita free sugars intake was less than 10 kg/person/ year (about 5% of total energy intake), compared with more than 10 kg/person/ year but below 18.25 kg/person/year (about 10% of total energy intake). In all three studies, lower levels of dental caries development were observed when per capita free sugars intake was less than 10 kg/person/year. Across all studies, a log-linear dose - response relationship was also observed at free sugars intakes well below
+10 kg/person/year (i.e. <5% of total energy intake).
+
+All three population studies were conducted in Japan on children with low fluoride exposure. However, dental caries persists in fluoridated populations, especially in adults (41, 42); therefore, all populations, irrespective of fluoride exposure, could potentially benefit from a low level of free sugars intake to protect against dental caries.
+For the systematic review on dental caries, in most studies identified, dental caries was diagnosed at the level of cavitation (i.e. advanced stage).1 However, the pathological process of dental caries begins with pre-cavitation damage (43, 44), which may occur at amounts of sugars intake below that associated with limited or no cavities. The negative health effects of dental caries are cumulative because the disease is the result of lifelong exposure to the dietary risk factor (i.e. free sugars).
+Being free of cavities in childhood does not mean being caries-free for life, and most dental caries is now occurring in adults (41, 45-47). Therefore, even a small reduction in risk of dental caries in childhood is of significance in later life.
+1 Some modern dental surveys in industrialized countries use dental caries scoring systems such as the International
+Caries Detection and Assessment System (ICDAS) ( which is an integrated system for measuring dental caries that diagnoses the disease at both the pre-cavitation stage and the cavitation stage.
+
+Recommendations and remarks
+Recommendations - WHO recommends a reduced intake of free sugars throughout the lifecourse
+(strong recommendation1).
+- In both adults and children, WHO recommends reducing the intake of free sugars to less than 10% of total energy intake2 (strong recommendation).
+- WHO suggests a further reduction of the intake of free sugars to below 5% of total energy intake (conditional recommendation3).
+Remarks - Free sugars include monosaccharides and disaccharides added to foods and beverages by the manufacturer, cook or consumer, and sugars naturally present in honey, syrups, fruit juices and fruit juice concentrates.
+- For countries with a low intake of free sugars, levels should not be increased.
+Higher intakes of free sugars threaten the nutrient quality of diets by providing significant energy without specific nutrients (3).
+- These recommendations were based on the totality of evidence reviewed regarding the relationship between free sugars intake and body weight (low and moderate quality evidence) and dental caries (very low and moderate quality evidence).
+- Increasing or decreasing free sugars is associated with parallel changes in body weight, and the relationship is present regardless of the level of intake of free sugars. The excess body weight associated with free sugars intake results from excess energy intake.
+- The recommendation to limit free sugars intake to less than 10% of total energy intake is based on moderate quality evidence from observational studies of dental caries.
+total energy intake is based on very low quality evidence from ecological studies in which a positive dose - response relationship between free sugars intake and dental caries was observed at free sugars intake of less than 5% of total energy intake.
+1 Strong recommendations indicate that "the desirable effects of adherence to the recommendation outweigh the undesirable consequences" (20). This means that "the recommendation can be adopted as policy in most situations" (20).
+2 Total energy intake is the sum of all daily calories/kilojoules consumed from food and drink. Energy comes from macronutrients, such as fat (9 kcal/37.7 kJ per gram), carbohydrate (4 kcal/16.7 kJ per gram) including total sugars
+(free sugars + intrinsic sugars + milk sugars) and dietary fibre, protein (4 kcal/16.7 kJ per gram) and ethanol (i.e.
+alcohol) (7 kcal/29.3 kJ per gram). Total energy intake is calculated by multiplying these energy factors by the number of grams of each type of food and drink consumed and then adding all values together. A percentage of total energy intake is therefore a percentage of total calories/kilojoules consumed per day.
+3 Conditional recommendations are made when there is less certainty "about the balance between the benefits and harms or disadvantages of implementing a recommendation" (20). This means that "policy-making will require substantial debate and involvement of various stakeholders" (20) for translating them into action.
+
+total energy intake, which is also supported by other recent analyses (15,
+16), is based on the recognition that the negative health effects of dental caries are cumulative, tracking from childhood to adulthood (21, 22). Because dental caries is the result of lifelong exposure to a dietary risk factor (i.e. free sugars), even a small reduction in the risk of dental caries in childhood is of significance in later life; therefore, to minimize lifelong risk of dental caries, the free sugars intake should be as low as possible.
+- No evidence for harm associated with reducing the intake of free sugars to less than 5% of total energy intake was identified.
+- Although exposure to fluoride reduces dental caries at a given age, and delays the onset of the cavitation process, it does not completely prevent dental caries, and dental caries still progresses in populations exposed to fluoride (23-35).
+- Intake of free sugars is not considered an appropriate strategy for increasing caloric intake in individuals with inadequate energy intake if other options are available.
+- These recommendations do not apply to individuals in need of therapeutic diets, including for the management of severe and moderate acute malnutrition. Specific guidelines for management of severe and moderate acute malnutrition are being developed separately.
+
+Dissemination, translation and implementation, and monitoring and evaluation
+Dissemination The guideline will be disseminated through the:
+- WHO e-Library of Evidence for Nutrition Actions (eLENA),1 which is an online library of evidence-informed guidance for nutrition interventions that provides policy-makers, programme managers, health workers, partners, stakeholders and other interested actors with access to the latest nutrition guidelines and recommendations, as well as complementary documents, such as systematic reviews, and biological, behavioural and contextual rationales for the effectiveness of nutrition actions;
+- NHD website, along with the Executive summary in all six official WHO languages; and
+- mailing lists of NHD (>4000 addressees) and the UN Standing Committee on
+Nutrition (also >4000 addressees).
+Translation and This guideline should be used in conjunction with other nutrient guidelines and implementation dietary goals, in particular those related to fats and fatty acids (including saturated fatty acids and trans-fatty acids), to guide effective public health nutrition policies and programmes to promote a healthy diet. The recommendations in this guideline can be:
+- used by policy-makers and programme managers to:
+- assess current intake of free sugars of their populations relative to a benchmark; and
+- develop measures to reduce intake of free sugars, where necessary, through a range of public health interventions; measures and interventions that are already being implemented by countries include food and nutrition labelling, consumer education, regulation of marketing of food and non-alcoholic beverages that are high in free sugars, and fiscal policies targeting foods and beverages that are high in free sugars;
+- used to develop a strategy to reformulate food products; in particular, processed foods that are high in free sugars; and
+- translated at the country-level into culturally and contextually specific foodbased dietary guidelines that take into account locally available food and dietary customs.
+Providing overall dietary guidance is outside the scope of this guideline, because such guidance should be based on overall dietary goals that consider all required nutrients. However, it is feasible to achieve the recommendations in this guideline while respecting national dietary customs, because a wide variety of whole and fresh foods are naturally low in sugars.
+1
+
+Monitoring The impact of this guideline can be evaluated by assessing its adoption and and evaluation adaptation across countries. Evaluation at the global level will be through the WHO of guideline Global database on the Implementation of Nutrition Action (GINA)1 - a centralized implementation platform developed by NHD for sharing information on nutrition actions in public health practice implemented around the world. GINA currently contains information on about 1400 policies (including laws and legislation), and 2500 nutrition actions and programmes being implemented in 184 countries. GINA will be expanded in 2015 to include the country implementation of dietary guidelines. By sharing programmatic implementation details, specific country adaptations and lessons learnt, GINA will be able to provide examples of how guidelines are being translated into nutrition actions and national dietary guidelines in various countries.
+1
+
+Research gaps and future initiatives
+Implications for Based on the results of the systematic reviews and discussions with the NUGAG future research Subgroup on Diet and Health, a number of pending questions and implications for future research were identified, as outlined below.
+- Questions and research implications relevant to obesity and related NCDs:
+- Need for systematic reviews and meta-analyses relating free sugars intake to blood lipid levels, blood pressure and diabetes-related outcomes
+(i.e. glucose, insulin, metabolic syndrome, prediabetes and insulin resistance).
+- Need for longer term (>8 weeks) controlled trials of the effect of increasing or decreasing free sugars intake on body weight in free-living individuals, because most of the available evidence is from short-term trials.
+- Need to assess thresholds above which the consumption of free sugars increases the risk of unhealthy weight gain, obesity and other related NCDs.
+- Need to evaluate different behavioural-change approaches to promote the reduction of free sugars intake; in particular, the intake of sugar-sweetened beverages, which is identified as a behavioural risk factor contributing to calorie overconsumption, especially among children (48).
+- Questions and research implications relevant to dental caries:
+- Need to undertake new cohort studies with improved methodology for assessing dietary intake in areas that have or have not been fluoridated. It will be difficult to undertake clinical trials, but undertaking studies with improved dietary assessment would make it possible to more rigorously review threshold issues.
+Updating the WHO regularly updates its guidelines and recommendations to reflect the latest guideline scientific and medical knowledge; hence, updating of this guideline is part of the ongoing efforts of WHO to update existing dietary goals for the prevention of NCDs.
+It is planned that the recommendations in this guideline will be reviewed in 2020.
+If new data and information are available at that time, a guideline review group will be convened to evaluate the new evidence and revise the recommendations.
+NHD, together with partners in other departments within the WHO Secretariat, will be responsible for coordinating the updating of the guideline, following the formal procedure of the WHO handbook for guideline development (20). At the time the guideline is due for review, WHO will welcome suggestions for additional questions that could be addressed in the guideline.
+
+WHO|
+
+for and
+Annex 1: GRADE evidence profiles1
+Table 1: GRADE evidence profile for the effect of a reduction in free sugars intake in adults
+Question: What is the effect of a reduction in free sugars intake in adults?
+Setting: General adult population
+No. of studies Design Risk of bias Inconsistency Indirectness Imprecision Control considerations reductiona
+Body weight (follow-up 10 weeks to 8 months; measured in kg; better indicated by lower values)
+Randomized Serious risk of No serious No serious No serious No publication MD 0.80 lower
+5 397 414
+trials biasb inconsistency indirectness imprecision bias detectedc (1.21 to 0.39 lower) MODERATE
+⊕⊕⊕⊝
+8 2879i Not pooled studiesd of biase inconsistencyf indirectnessg imprecision sizeh MODERATE
+⊕⊕⊕⊝
+CI, confidence interval; MD, mean difference a Participants in this group reduced free sugar intake relative to the control group, which was allowed to consume their normal level of free sugars. This definition applies only to the randomized trials for body weight.
+b Three trials reported data only for those participants who completed the trial, which could result in an overestimation of the effect, but this was not deemed sufficient justification for downgrading.
+c Publication bias was difficult to ascertain, given that only five studies were included in the analysis. The evidence was not downgraded for publication bias.
+d Eight cohort studies contributed to the assessment of the effect of sugars intake on dental caries.
+e There was no evidence of risk of bias. Six of the eight studies accounted for fluoride exposure, and a consistent association between free sugars intake and caries was detected.
+f There was no evidence of inconsistency. The results from seven of the eight studies found higher levels of dental caries with higher sugars intake. As the data were not suitable for pooling, heterogeneity could g Evidence was not downgraded for indirectness for the following reasons:
+- All eight cohort studies were conducted exclusively in children; however, the etiology of dental caries is the same in children and adults (although enamel of the primary dentition is softer and more vulnerable to demineralization by plaque acid). Although there were no cohort studies conducted in adults, data from all five studies of other study design in adults included in the systematic review detected a statistically significant positive relationship between dietary free sugars and levels of dental caries. The negative health effects of dental caries are cumulative, tracking from childhood (permanent dentition) to adulthood. Four of the eight cohort studies included permanent dentition.
+- Studies were conducted in populations worldwide - Argentina, Brazil, England, Finland, South Africa, Sweden and the United States.
+- Six of the eight cohort studies directly reported on consumption of free sugars or components of free sugars, such as added sugars. Rugg-Gunn et al. (26) initially reported on total sugars intake, but subsequently assessed the percentage of added sugars in their original cohort study and confirmed that there was a positive correlation between total sugars intake and added sugars intake (49). Burt et al.
+(34) intended to measure various sugars, but were unable to do so because the relevant food composition data were not available to them at the time of the study. Given the results of the analysis of RuggGunn et al. (49), it was considered that a similar relationship between total sugars intake and added sugars intake would apply to the Burt et al. cohort study. The Burt et al. study was, therefore, retained in the h Data from the eight cohort studies were not suitable for pooling; however, there was evidence for a large effect in some of the individual cohort studies: Rodrigues et al. reported that children with high levels of sugars intake were 2.75 times more likely to have higher caries increment than those with lower levels of sugars intake (OR 2.75; 95% CI: 1.29, 5.85) (50); Rugg-Gunn et al. reported results of regression analysis of DMFS increment by amount of free sugars consumed, which indicated that there was an average increase of 1.28 DMFS (95% CI: 0.10, 2.46) over 2 years with each rise of 100 g/day of free sugars consumed
+(26); Ruottinen et al. reported DMFT in the high sugars group of 1.4 (SD 2.0) compared with 0.5 (SD 1.1) in the low sugars group, with a mean dmft/DMFT in the high sugars group of 3.9 (SD 3.9) and in the low sugars group of 1.9 (SD 2.5) and dmft of 2.7 (SD 3.3) for the high sugars group and 1.1 (SD 1.2) for the low sugars group (25); and the study by Battelino et al. supports a large effect but this is likely to be an overestimate due to confounding by socioeconomic status (51). Other studies did not report an effect size for caries. Additionally, the dose - response effect noted in the Rugg-Gunn et al.
+cohort study (26) was supported by ecological studies. Upgraded once for large effect size.
+i Total number of participants from the eight cohort studies.
+CI, confidence interval; DMFS, decayed, missing or filled (dental) surfaces; DMFT, decayed, missing or filled teeth; dmft/DMFT, decayed, missing or filled primary dentition and/or decayed, missing or filled teeth; OR, odds ratio; SD, standard deviation
+1 The GRADE evidence profiles incorporated the discussions and inputs from the NUGAG Subgroup on Diet and Health, based on the outcomes of the systematic reviews (39, 40).
+WHO|
+
+for and
+Table 2: GRADE evidence profile for the effect of an increase in free sugars intake in adults
+Question: What is the effect of an increase in free sugars intake in adults?
+Setting: General adult population
+No. of studies Design Risk of bias Inconsistency Indirectness Imprecision Control considerations increasea
+Body weight (follow-up 2 weeks to 6 months; measured in kg; better indicated by lower values)
+Randomized No serious risk No serious No serious No serious Potential publi- MD 0.75 higher
+10 251 258
+trialsb of biasc inconsistencyd indirectnesse imprecision cation biasf (0.30 to 1.19 higher) MODERATE
+⊕⊕⊕⊝
+8 2879l Not pooled studiesg of biash inconsistencyi indirectnessj imprecision sizek MODERATE
+⊕⊕⊕⊝
+CI, confidence interval; MD, mean difference a Participants in this group increased free sugar intake relative to the control group, which was allowed to consume their normal level of free sugars or reduce their free sugars intake. This definition applies only to the randomized trials for body weight.
+b It is unclear whether the study by Szanto and Yudkin (52) was randomized, but removal of that study does not change the overall conclusion (MD 0.83; 95% CI: 0.30,1.36).
+c One trial (53) reported data for those participants who completed the trial that had potential for bias; however, removal of that study does not change the overall conclusion (MD 0.83; 95% CI: 0.31,1.35).
+d Although there is some indication of statistical heterogeneity, the studies show a consistent positive effect of increased free sugars intake on weight change.
+e These short-term studies were of sufficient duration to detect a change on the evidence of interest; thus, the data provide relevant evidence for an association between increased free sugars intakes and weight gain.
+f The funnel plot is suggestive of publication bias; therefore, the evidence was downgraded.
+g Eight cohort studies contributed to the assessment of the effect of sugars intake on dental caries.
+h There was no evidence of risk of bias. Six of the eight studies accounted for fluoride exposure, and consistent association between free sugars intake and caries was detected.
+i There was no evidence of inconsistency. The results from seven of the eight studies found higher levels of dental caries with higher sugars intake. As the data were not suitable for pooling, heterogeneity could j Evidence was not downgraded for indirectness for the following reasons:
+- All eight cohort studies were conducted exclusively in children; however, the etiology of dental caries is the same in children and adults (although enamel of the primary dentition is softer and more vulnerable to demineralization by plaque acid). Although there were no cohort studies conducted in adults, data from all five studies of other study design in adults included in the systematic review detected a statistically significant positive relationship between dietary free sugars and levels of dental caries. The negative health effects of dental caries are cumulative, tracking from childhood (permanent dentition) to adulthood. Four of the eight cohort studies included permanent dentition.
+- Studies were conducted in populations worldwide - Argentina, Brazil, England, Finland, South Africa, Sweden and the United States.
+- Six of the eight cohort studies directly reported on consumption of free sugars or components of free sugars, such as added sugars. Rugg-Gunn et al. (26) initially reported on total sugars intake, but subsequently assessed the percentage of added sugars in their original cohort study and confirmed that there was a positive correlation between total sugars intake and added sugars intake (49). Burt et al.
+(34) intended to measure various sugars, but were unable to do so because the relevant food composition data were not available to them at the time of the study. Given the results of the analysis of RuggGunn et al. (49), it was considered that a similar relationship between total sugars intake and added sugars intake would apply to the Burt et al. cohort study. The Burt et al. study was, therefore, retained in the k Data from the eight cohort studies were not suitable for pooling; however, there was evidence for a large effect in some of the individual cohort studies: Rodrigues et al. reported that children with high levels of sugars intake were 2.75 times more likely to have higher caries increment than those with lower levels of sugars intake (OR 2.75; 95% CI: 1.29, 5.85) (50); Rugg-Gunn et al. reported results of regression analysis of DMFS increment by amount of free sugars consumed, which indicated that there was an average increase of 1.28 DMFS (95% CI: 0.10, 2.46) over 2 years with each rise of 100 g/day of free sugars consumed (26);
+Ruottinen et al. reported DMFT in the high sugars group of 1.4 (SD 2.0) compared with 0.5 (SD 1.1) in the low sugars group, with a mean dmft/DMFT in the high sugars group of 3.9 (SD 3.9) and in the low sugars group of 1.9 (SD 2.5) and dmft of 2.7 (SD 3.3) for the high sugars group and 1.1 (SD 1.2) for the low sugars group (25); and the study by Battelino et al. supports a large effect but this is likely to be an overestimate due to confounding by socioeconomic status (51). Other studies did not report an effect size for caries. Additionally, the dose - response effect noted in the Rugg-Gunn et al. cohort study (26) was supported by ecological studies. Upgraded once for large effect size.
+l Total number of participants from the eight cohort studies.
+CI, confidence interval; DMFS, decayed, missing or filled (dental) surfaces; DMFT, decayed, missing or filled teeth; dmft/DMFT, decayed, missing or filled primary dentition and/or decayed, missing or filled teeth; OR, odds ratio; SD, standard deviation
+WHO|
+
+for and
+Table 3: GRADE evidence profile for the effect of a reduction in free sugars intake in children
+Question: What is the effect of a reduction in free sugars intake in children?
+Setting: General child population
+No. of studies Design Risk of bias Inconsistency Indirectness Imprecision Control considerations reductiona
+BMI (follow-up 16 to 52 weeks; standardized mean difference; better indicated by lower values)
+SMD 0.09 higher
+Randomized No serious risk Serious No serious No serious
+5 None 1162 1076 (0.14 lower to 0.32
+trials of biasb inconsistencyc indirectness imprecisiond MODERATE higher) ⊕⊕⊕⊝
+8 2879j Not pooled studiese of biasf inconsistencyg indirectnessh imprecision sizei MODERATE
+⊕⊕⊕⊝
+BMI, body mass index; CI, confidence interval; SMD, standardized mean difference a Participants in this group reduced free sugar intake relative to the control group, which was allowed to consume their normal level of free sugars. This definition applies only to the randomized trials for BMI.
+b The studies included in this analysis report poor compliance with the intervention, which may have influenced the effectiveness of the intervention but this was not deemed sufficient justification for downgrading.
+c Significant heterogeneity: I2=82%.
+d Downgraded for inconsistency because of heterogeneity across individual studies. The inconsistency leads to the imprecision; therefore, the evidence was not downgraded a second time for imprecision.
+e Eight cohort studies contributed to the assessment of the effect of sugars intake on dental caries.
+f There was no evidence of risk of bias. Six of the eight studies accounted for fluoride exposure, and a consistent association between free sugars intake and caries was detected.
+g There was no evidence of inconsistency. The results from seven of the eight studies found higher levels of dental caries with higher sugars intake. As the data were not suitable for pooling, heterogeneity could not be formally assessed.
+h Evidence was not downgraded for indirectness for the following reasons:
+- All eight cohort studies were conducted in children.
+- Studies were conducted in populations worldwide - Argentina, Brazil, England, Finland, South Africa, Sweden and the United States.
+- Six of the eight cohort studies directly reported on consumption of free sugars or components of free sugars, such as added sugars. Rugg-Gunn et al. (26) initially reported on total sugars intake, but subsequently assessed the percentage of added sugars in their original cohort study and confirmed that there was a positive correlation between total sugars intake and added sugars intake (49). Burt et al. (34) intended to measure various sugars, but were unable to do so because the relevant food composition data were not available to them at the time of the study. Given the results of the analysis of Rugg-Gunn et al.
+(49), it was considered that a similar relationship between total sugars intake and added sugars intake would apply to the Burt et al. cohort study. The Burt et al. study was, therefore, retained in the analysis.
+i Data from the eight cohort studies were not suitable for pooling; however, there was evidence for a large effect in some of the individual cohort studies: Rodrigues et al. reported that children with high levels of sugars intake were 2.75 times more likely to have higher caries increment than those with lower levels of sugars intake (OR 2.75; 95% CI: 1.29, 5.85) (50); Rugg-Gunn et al. reported results of regression analysis of DMFS increment by amount of free sugars consumed, which indicated that there was an average increase of 1.28 DMFS (95% CI: 0.10, 2.46) over 2 years with each rise of 100 g/day of free sugars consumed (26); Ruottinen et al. reported DMFT in the high sugars group of 1.4 (SD 2.0) compared with 0.5 (SD 1.1) in the low sugars group, with a mean dmft/DMFT in the high sugars group of 3.9 (SD 3.9) and in the low sugars group of 1.9
+(SD 2.5) and dmft of 2.7 (SD 3.3) for the high sugars group and 1.1 (SD 1.2) for the low sugars group (25); and the study by Battelino et al. supports a large effect but this is likely to be an overestimate due to confounding by socioeconomic status (51). Other studies did not report an effect size for caries. Additionally, the dose - response effect noted in the Rugg-Gunn et al. cohort study (26) was supported by ecological studies. Upgraded once for large effect size.
+j Total number of participants from the eight cohort studies.
+BMI, body mass index; CI, confidence interval; DMFS, decayed, missing or filled (dental) surfaces; DMFT, decayed, missing or filled teeth; dmft/DMFT, decayed, missing or filled primary dentition and/or decayed, missing or filled teeth; OR, odds ratio; SD, standard deviation
+WHO|
+
+for and
+Table 4: GRADE evidence profile for the effect of an increase in free sugars intake in children
+Question: What is the effect of an increase in free sugars intake in children?
+Setting: General child population
+No. of studies / Other Free sugars (95% CI)
+Design Risk of bias Inconsistency Indirectness Imprecision Control comparisons considerations increasea
+Overweight in children in highest versus lowest intake categories at baseline (follow-up 1 - 8 years)
+Observational No serious risk No serious No serious No serious OR 1.55
+5 / 7 Nonec 4747 2508
+studiesb of bias inconsistency indirectness imprecision (1.32 to 1.82) LOW
+⊕⊕⊝⊝
+Dental caries (follow-up 1-8 years; measured with standard indices)
+8 2879i Not pooled studiesd of biase inconsistencyf indirectnessg imprecision sizeh MODERATE
+⊕⊕⊕⊝
+CI, confidence interval; OR, odds ratio a Participants in this group increased free sugar intake relative to the control group, which was allowed to consume their normal level of free sugars or reduce their free sugars intake. This definition applies only to the randomized trials for body weight.
+b Five cohort studies reporting data for the odds of being overweight at follow-up in children consuming about one daily serving of sugar-sweetened beverages at baseline compared with children consuming none or very little.
+c Data from 14 other cohort studies with 33 comparisons reporting beta coefficients were used to test a dose - response effect; however, the results were inconclusive.
+d Eight cohort studies contributed to the assessment of the effect of sugars intake on dental caries.
+e There was no evidence of risk of bias. Six of the eight studies accounted for fluoride exposure, and a consistent association between free sugars intake and caries was detected.
+f There was no evidence of inconsistency. The results from seven of the eight studies found higher levels of dental caries with higher sugars intake. As the data were not suitable for pooling, heterogeneity could g Evidence was not downgraded for indirectness for the following reasons:
+- All eight cohort studies were conducted in children.
+- Studies were conducted in populations worldwide - Argentina, Brazil, England, Finland, South Africa, Sweden and the United States.
+- Six of the eight cohort studies directly reported on consumption of free sugars or components of free sugars, such as added sugars. Rugg-Gunn et al. (26) initially reported on total sugars intake, but subsequently assessed the percentage of added sugars in their original cohort study and confirmed that there was a positive correlation between total sugars intake and added sugars intake (49). Burt et al.
+(34) intended to measure various sugars, but were unable to do so because the relevant food composition data were not available to them at the time of the study. Given the results of the analysis of RuggGunn et al. (49), it was considered that a similar relationship between total sugars intake and added sugars intake would apply to the Burt et al. cohort study. The Burt et al. study was, therefore, retained in the h Data from the eight cohort studies were not suitable for pooling; however, there was evidence for a large effect in some of the individual cohort studies: Rodrigues et al. reported that children with high levels of sugars intake were 2.75 times more likely to have higher caries increment than those with lower levels of sugars intake (OR 2.75; 95% CI: 1.29, 5.85) (50); Rugg-Gunn et al. reported results of regression analysis of DMFS increment by amount of free sugars consumed, which indicated that there was an average increase of 1.28 DMFS (95% CI: 0.10, 2.46) over 2 years with each rise of 100 g/day of free sugars consumed (26);
+Ruottinen et al. reported DMFT in the high sugars group of 1.4 (SD 2.0) compared with 0.5 (SD 1.1) in the low sugars group, with a mean dmft/DMFT in the high sugars group of 3.9 (SD 3.9) and in the low sugars group of 1.9 (SD 2.5) and dmft of 2.7 (SD 3.3) for the high sugars group and 1.1 (SD 1.2) for the low sugars group (25); and the study by Battelino et al. supports a large effect but this is likely to be an overestimate due to confounding by socioeconomic status (51). Other studies did not report an effect size for caries. Additionally, the dose - response effect noted in the Rugg-Gunn et al. cohort study (26) was supported by ecological studies. Upgraded once for large effect size.
+i Total number of participants from the eight cohort studies.
+CI, confidence interval; DMFS, decayed, missing or filled (dental) surfaces; DMFT, decayed, missing or filled teeth; dmft/DMFT, decayed, missing or filled primary dentition and/or decayed, missing or filled teeth; OR, odds ratio; SD, standard deviation
+WHO|
+
+for and
+Table 5: GRADE evidence profile for the effect of decreasing intake of free sugars to below 10% of total energy intake
+Authors: Paula Moynihan and Sarah Kelly
+Question: What is the effect of decreasing intake of free sugars to below 10% of total energy intake?
+Setting: General population
+Quality assessment
+No. of
+Effect Quality
+Other participants
+No. of studies Design Risk of bias Inconsistency Indirectness Imprecision considerations
+Dental caries (follow-up 1 to 8 years; measured with standard indices)
+Observational No serious risk No serious No serious No serious
+5 Large effect sizee 1301f Not pooled studiesa of biasb inconsistencyc indirectnessd imprecision MODERATE
+⊕⊕⊕⊝ a Five cohort studies contributed to the assessment of the effect on dental caries of decreasing sugars intake to below 10% of total energy intake.
+bThere was no evidence of risk of bias. All studies accounted for fluoride exposure. A consistent association between free sugars intake and caries was detected.
+c There was no evidence of inconsistency. The results from all five studies found higher levels of dental caries with higher sugars intake (comparison of free sugars intake above 10% of total energy intake, to free sugars intake below 10% of total energy intake). As the data were not suitable for pooling, heterogeneity could not be formally assessed.
+d Evidence was not downgraded for indirectness for the following reasons:
+- All five cohort studies were conducted exclusively in children; however, the etiology of dental caries is the same in children and adults (although enamel of the primary dentition is softer and more vulnerable to demineralization by plaque acid). Although there were no cohort studies conducted in adults, data from all five studies of other study design in adults included in the systematic review detected a statistically significant positive relationship between dietary free sugars and levels of dental caries. The negative health effects of dental caries are cumulative, tracking from childhood (permanent dentition) to adulthood.
+- Studies were conducted in populations worldwide - Argentina, Brazil, England, Finland, South Africa, Sweden and the United States.
+- Four of the five cohort studies directly reported on consumption of free sugars or components of free sugars, such as added sugars. Rugg-Gunn et al. (26) initially reported on total sugars intake, but subsequently assessed the percentage of added sugars in their original cohort study and confirmed there was a positive correlation between total sugars intake and added sugars intake (49).
+e Data from the five cohort studies were not suitable for pooling; however, there was evidence for a large effect in some of the individual cohort studies: Rodrigues et al. reported that children with high levels of sugars intake were 2.75 times more likely to have higher caries increment than those with lower levels of sugars intake (OR 2.75; 95% CI: 1.29, 5.85)(50); Rugg-Gunn et al. reported results of regression analysis of DMFS increment by amount of free sugars consumed, which indicated that there was an average increase of 1.28 DMFS (95% CI: 0.10, 2.46) over 2 years with each rise of 100 g/day of free sugars consumed
+(26); and Ruottinen et al. reported DMFT in the high sugars group of 1.4 (SD 2.0) compared with 0.5 (SD 1.1) in the low sugars group, with a mean dmft/DMFT in thehigh sugars group of 3.9 (SD 3.9) and in the low sugars group 1.9 (SD 2.5) and dmft of 2.7 (SD 3.3) for the high sugars group and 1.1 (SD 1.2) for the low sugars group (25). Other studies did not report an effect size for caries. Additionally, the dose - response effect noted in the Rugg-Gunn et al. cohort study (26) was supported by ecological studies. Upgraded once for large effect size.
+f Total number of participants from the five cohort studies.
+CI, confidence interval; DMFS, decayed, missing or filled (dental) surfaces; dmft, decayed, missing or filled primary dentition; DMFT, decayed, missing or filled teeth;
+dmft/DMFT, decayed, missing or filled primary dentition and/or decayed, missing or filled teeth; MD, mean difference; OR, odds ratio; SD, standard deviation
+WHO|
+
+for and
+Table 6. GRADE evidence profile for the effect of decreasing intake of free sugars to below 5% of total energy intake
+Authors: Paula Moynihan and Sarah Kelly
+Question: What is the effect of decreasing intake of free sugars to below 5% of total energy intake (<10 kg/person/year)?
+Setting: General population
+Quality assessment
+No. of participants
+(sugars intake Effecta Quality
+No. of Other
+Design Risk of bias Inconsistency Indirectness Imprecision <10 kg/person/year) studies considerations
+Dental caries (measured with standard indices)
+Development of dental caries decreased in all 3 studies when intake of sugars fell from
+<15 kg/person/year to
+3 Ecological Serious risk No serious No serious No serious None 18447f <10 kg/person/yearg studiesb of biasc inconsistencyd indirectnesse imprecision VERY LOWh
+⊕⊝⊝⊝
+Correlation between intake of sugars and dental caries was in the range of r=0.6 - r=0.8
+r, correlation coefficient a Meta-analysis was not possible due to the variability of the outcome measures.
+b The three studies were national studies of dental caries levels compared with per capita sugar availability data.
+c With ecological studies it is not possible to link exposures to outcomes at the individual level; hence, in this case, it is not possible to be sure that those individuals who are consuming less free sugars are the same individuals exhibiting a reduction in dental caries. Therefore, the evidence was downgraded to very low.
+dThere was no evidence of inconsistency. The results from all three studies found higher levels of dental caries with higher sugars intake (comparison of free sugars intake above 5% of total energy intake, to free sugars intake below 5% of total energy intake). As the data were not suitable for pooling, heterogeneity could not be formally assessed.
+eAll three studies assessed permanent dentition of children only; however, data were not downgraded for indirectness as the etiology of dental caries is the same in children and adults (although enamel of the primary dentition is softer and more vulnerable to demineralization by plaque acid), and the negative health effects of dental caries are cumulative with age. These studies were undertaken in populations with low fluoride exposure; however, there is no expectation of a difference in effect when extrapolating to populations with good fluoride exposure as the relationship between sugars intake and dental caries persists in the presence of exposure to fluoride.
+f Total number of participants from the three population studies.
+g All studies were conducted in Japan at a period when sugar availability dropped dramatically from 15 kg/person/year before the Second World War to a low of 0.2 kg/person/year (i.e. ≈0.1% of total energy) in 1946. In the study by Takeuchi (54, 55) and Takahashi (56, 57), a log-linear relationship between sugars availability and dental caries increment was demonstrated between 0.2 kg/person/year and 5-7.5 kg/ person/year in first permanent molars erupted for 7 - 8 years duration (r=0.8). In the study by Okuya (58), when sugars availability decreased from 15 kg/person/year to <10 kg/person/year, dental caries also decreased, but not to zero. The correlation between sugars and dental caries in second permanent molars was r=0.7. In the study by Koike (59, 60), when sugars availability decreased from 15 kg/person/year to <10 kg/person/year (and to a low of 0.2 kg/person/year), dental caries also decreased, but not to zero. Mean correlation between sugars availability and annual dental caries incidence rate was r=0.8 in the lower first permanent molars and r=0.6 for the upper first permanent molars. A straight line, log-linear relationship was shown between sugar availability and annual dental caries incidence between 0.1 kg/ person/year and 15 kg/person/year.
+h While the GRADE process is primarily used to assess evidence from controlled trials and cohort studies, the best available evidence in this case came from ecological studies. Under the guidance of a GRADE methodological expert, GRADE was used to assess the quality of evidence from the ecological studies, taking into consideration the limitations inherent in such studies (i.e. no adjustment for confounding and no information provided at the individual level), which precludes linking exposure data to outcomes along with any assessment of causality. A conservative approach was therefore taken and the evidence was rated as very low.
+Annex 2 WHO Secretariat
+WHO Headquarters
+Dr Ala Din Abdul Sahib Alwan Dr Hannah Neufeld
+Assistant Director-General Technical Officer, NPU, NHD
+Noncommunicable Diseases and Mental (left WHO in 2012)
+Health (NMH)
+(currently the Regional Director of the Mrs Chantal Martineau
+WHO Regional Office for the Eastern Secondment from Health Canada, NPU, NHD
+Mediterranean) (left WHO in 2013)
+Dr Oleg Chestnov Dr Poul Erik Petersen
+Assistant Director-General, NMH Dental Officer, Health Promotion (HPR)
+Prevention of Noncommunicable Diseases
+Dr Francesco Branca (PND)
+Director, Department of Nutrition for Health (retired in 2014) and Development (NHD)
+Dr Godfrey Xuereb
+Dr Chizuru Nishida Programme Officer, Surveillance and
+Coordinator, Nutrition Policy and Scientific Population-based Prevention (SPP), PND
+Advice Unit (NPU), NHD (moved to the WHO Country Office in
+Barbados in 2014 and currently the WHO
+Dr Jason Montez Representative in Barbados)
+Technical Officer, NPU, NHD
+Mr Leendert Maarten Nederveen
+Dr Nancy Aburto Technical Officer, SPP, PND
+Scientist, NPU, NHD
+(left WHO in 2012)
+WHO regional offices
+Dr Charles Sagoe-Moses Dr Ruben Grajeda
+Acting Regional Advisor in Nutrition Micronutrients Technical Advisor, Unit of
+WHO Regional Office for Africa Child and Adolescent Health
+Brazzaville, Congo WHO Regional Office for the Americas
+(currently the WHO Representative in Washington, DC, USA
+Gambia)
+Dr Ayoub Al-Jawaldeh
+Dr Abel Dushimimana Regional Adviser in Nutrition
+Medical Officer WHO Regional Office for the Eastern
+WHO Regional Office for Africa Mediterranean
+Brazzaville, Congo Cairo, Egypt
+(retired in 2013)
+Dr Gauden Galea
+Dr Chessa Lutter Director, Noncommunicable Diseases and
+Regional Advisor in Nutrition, Unit on Child Life Course and Adolescent Health WHO Regional Office for Europe
+WHO Regional Office for the Americas Copenhagen, Denmark
+Washington, DC, United States of America
+(USA)
+
+Dr João Breda Dr Howard Sobel
+Programme Manager, Nutrition, Physical Acting Regional Adviser in Nutrition
+Activity and Obesity WHO Regional Office for the Western Pacific
+WHO Regional Office for Europe Manila, Philippines
+Copenhagen, Denmark
+Dr Tommaso Cavalli-Sforza
+Ms Trudy Wijnhoven Regional Adviser in Nutrition
+Technical Officer, Nutrition, Physical Activity WHO Regional Office for the Western Pacific and Obesity Manila, Philippines
+WHO Regional Office for Europe (retired in 2013)
+Copenhagen, Denmark
+Dr Kunal Bagchi
+Regional Adviser, Nutrition and Food Safety
+Focal Point - Active Healthy Ageing
+WHO Regional Office for South-East Asia
+New Delhi, India
+(retired in 2014)
+
+Annex 3 Members of the WHO Steering Committee for Nutrition Guideline
+Development 2012 - 2014
+Emergency Risk Management and Humanitarian Response (ERM)
+Dr Richard Brennan
+Director, Emergency Risk Management and Humanitarian Response
+Ethics, Equity, Trade and Human Rights (ETH)
+Dr Ruediger Krech
+Director, Ethics, Equity, Trade and Human Rights
+(currently Director, Office of the Assistant Director General, Health Systems and Innovation)
+Food Safety, Zoonoses and Foodborne Diseases (FOS)
+Dr Kazuaki Miyagishima
+Director, Food Safety, Zoonoses and Foodborne Diseases
+Global Malaria Programme (GMP)
+Dr Robert Newman
+Director, Global Malaria Programme
+Innovation, Information, Evidence and Research (IER)
+Dr Ties Boerma
+Director, Health Statistics and Informatics
+HIV/AIDS (HIV)
+Dr Gottfried Otto Hirnschall
+Director, HIV/AIDS
+International Agency for Research on Cancer (IARC)
+Dr Isabelle Romieu
+Section and Group Head, Nutritional Epidemiology Group
+International Agency for Research on Cancer
+Lyon, France
+Dr Nadia Slimani
+Group Head, Dietary Exposure Assessment Group
+Immunization, Vaccines and Biologicals (IVB)
+Dr Jean-Marie Okwo-Bele
+Director, Immunization, Vaccines and Biologicals
+Knowledge Management and Sharing (KMS)
+Dr Najeeb Mohamed Al Shorbaji
+Director, Knowledge Management and Sharing
+Maternal, Newborn, Child and Adolescent Health (MCA)
+Dr Elizabeth Mason
+Director, Maternal, Newborn, Child and Adolescent Health
+(retired in 2014)
+
+Nutrition for Health and Development (NHD)
+Dr Francesco Branca
+Director, Nutrition for Health and Development
+Prevention of Noncommunicable Diseases (PND)
+Dr Douglas Bettcher
+Director, Prevention of Noncommunicable Diseases
+Dr Godfrey Xuereb
+Programme Officer, SPP, PND
+(currently the WHO Representative in Barbados)
+Reproductive Health and Research (RHR)
+Dr Marleen Temmerman
+Director, Reproductive Health and Research
+Stop TB (STB)
+Dr Mario Raviglione
+Director, Stop TB
+Dr Knut Lonnroth
+Medical Officer, Stop TB
+
+Annex 4 Members of the guideline development group (NUGAG Subgroup on Diet and Health) and external resource persons 2012 - 2014
+Members of the NUGAG Subgroup on Diet and Health
+(Note: the areas of expertise of each guideline group member are given in italics)
+Professor John H. Cummings Dr Anna Lartey
+Division of Cancer Research, Medical Nutrition Division
+Research Institute Economic and Social Development
+Ninewells Hospital and Medical School Department
+University of Dundee Food and Agriculture Organization of the
+United Kingdom of Great Britain and United Nations (FAO)
+Northern Ireland (UK) Italy
+Carbohydrates, dietary fibre Maternal and child nutrition, micronutrient deficiencies, complementary feeding
+Professor Ibrahim Elmadfa
+Institution of Nutritional Sciences Professor Duo Li
+University of Vienna Department of Food Science and Nutrition
+Austria Zhejiang University
+Human nutrition, nutrient requirements, fats People's Republic of China and fatty acids, dietary diversity Nutritional epidemiology, fats and fatty acids
+Dr Lee Hooper Professor Jim Mann
+Norwich Medical School Departments of Medicine and Human
+University of East Anglia Nutrition
+UK University of Otago
+Systematic review, research methods, dietetics, New Zealand human nutrition, hydration Carbohydrates, sugars, diabetes, fats and fatty acids
+Professor Nahla Hwalla
+Faculty of Agricultural and Food Sciences Dr Joerg Meerpohl
+American University of Beirut German Cochrane Centre
+Lebanon Institute of Medical Biometry and Medical
+Dietetics, nutrition, food-based dietary Informatics guidelines, diet and health University Medical Center Freiburg
+Germany
+Professor Shiriki Kumanyika Systematic reviews, GRADE methodology,
+Center for Clinical Epidemiology and paediatrics, paediatric haematology and
+Biostatistics oncology
+Perelman School of Medicine
+University of Pennsylvania, Philadelphia Professor Carlos Monteiro
+United States of America (USA) Department of Nutrition, School of Public
+Human nutrition, epidemiology, obesity, Health salt/sodium University of São Paulo
+Brazil
+Professor Mary L'Abbe Human nutrition, epidemiology,
+Department of Nutritional Sciences double-burden of malnutrition
+Faculty of Medicine
+University of Toronto
+Canada
+Nutrition science, trans-fatty acids, risk assessment/risk management, diet and health
+
+Professor Satoshi Sasaki Professor Murray Skeaff
+Department of Social and Preventative Department of Human Nutrition
+Epidemiology University of Otago
+School of Public Health New Zealand
+University of Tokyo Fats and fatty acids, biomarkers, diet and
+Japan health, human nutrition
+Human nutrition, epidemiology, dietary guidelines, diet and health Professor H.H. (Esté) Vorster
+Faculty of Health Sciences
+Professor Barbara Schneeman North-West University
+University of California, Davis South Africa
+USA Nutrition physiology, public health nutrition,
+Carbohydrates, dietary fibre, nutrition, diet food-based dietary guidelines and health, codex, food regulation
+External resource persons
+Dr Janice Albert Dr Sarah Kelly
+Nutrition Division Institute for Ageing and Health, School of
+Economic and Social Development Dental Sciences
+Department University of Newcastle
+
+FAO UK
+
+Italy
+Dr Cho-il Kim
+Professor Ingeborg A. Brouwer Department of Public Health Policy and
+Faculty of Earth and Life Sciences, Promotion
+Department of Health Sciences Korea Health Industry Development
+VU University Amsterdam Institute (KHIDI)
+Netherlands Republic of Korea
+Professor Francesco Cappuccio Professor Ronald P. Mensink
+Warwick Medical School Department of Human Biology
+University of Warwick NUTRIM School for Nutrition, Toxicology and
+UK Metabolism
+Maastricht University
+Dr Russell de Souza Netherlands
+Department of Clinical Epidemiology and Biostatistics Professor Paula Moynihan
+McMaster University Institute for Ageing and Health, School of
+Canada Dental Sciences
+University of Newcastle
+Professor Paul Elliott UK
+MRC-HPA Centre for Environment and
+Health Dr Lisa Te Morenga
+Department of Epidemiology and Department of Human Nutrition
+Biostatistics University of Otago
+School of Public Health New Zealand
+Imperial College London
+UK
+
+Annex 5 External peer-review group
+List of experts who were asked to serve as external peer reviewers and provided comments on the draft guideline
+Professor Annie S. Anderson
+Division of Cancer Research, Medical Research Institute, University of Dundee, Dundee, UK
+Professor Wulf Becker
+Chief nutritionist, Risk-Benefit Assessment Department, National Food Agency, Uppsala,
+Sweden
+Dr Hasan Hutchinson
+Director General, Office of Nutrition Policy and Promotion, Health Canada, Ottawa, Canada
+Dr Jenny Reid
+Manager, Food Science and Risk Assessment, Ministry for Primary Industries, Wellington,
+New Zealand
+Professor W. Murray Thomson
+Professor of Dental Epidemiology and Public Health
+Division of Health Sciences, School of Dentistry, Dunedin, New Zealand
+Dr Paula R. Trumbo
+Acting Director for Nutrition Programs, Office of Nutrition, Labeling and Dietary
+Supplements, Food and Drug Administration, College Park, Maryland, USA
+
+Annex 6 Priority questions in the format of population, intervention, control and outcomes (PICO)
+What is the effect of a decrease or increase in free sugars intake in adults and children?
+What is the effect of restricting intake of free sugars to below 10% of total energy intake?1
+Adults
+Population Apparently healthy adults in low-, middle- and high-income countries
+- In each, consider population characteristics, such as age, gender, ethnicity, country/region (urban/rural), socioeconomic status/demographic factors/sanitation, health background and health status
+Intervention/exposure Definitions
+- Total sugars
+- Free sugars
+- Added sugars (sucrose; table sugar; sugars in processed foods)
+- % of total energy intake from sugars
+- Consumption of sugar-sweetened beverages
+- Fruit juices
+Control Comparison of levels
+Continuous or categorical
+Adherence to recommendations
+Confounders/effect - Baseline level of all categories of sugars intake modifiers/intermediates - Energy intake
+- Energy expenditure; fitness and physical activity
+- Consider other interventions in design, dietary and non-dietary (protocol to specify)
+- Consider influence of other aspects of diet/dietary patterns
+In cohort studies: unadjusted and adjusted estimates; what adjusted for, how (protocol to specify) and impact
+Consider whether artificial sweeteners/milk/other foods are used as control
+Intermediates
+- Take into account effect of energy density
+1 Less than 10% of total energy intake is the existing population nutrient intake goal for free sugars (3).
+
+Outcome - Body weight or fatness gain measured by:
+- weight change, BMI
+- incidence of obesity and overweight
+- body fatness1 and distribution assessed in a variety of ways
+- Dental caries (not erosion)
+Time frame - For controlled feeding studies where a high proportion of food is directly provided and there is no caloric restriction, outcomes are change in weight or body fatness within a minimum study duration of 8 weeks
+- For studies where the intervention is advisory or shopping type, without caloric restriction, outcomes are obesity incidence, change in weight or body fatness with a minimum study duration of 6 months (26 weeks)
+Children
+Population Apparently healthy children in low-, middle- and high-income countries
+- In each, consider population characteristics, such as age, gender, ethnicity, country/region (urban/rural), socioeconomic status/demographic factors/sanitation, health background and health status
+Intervention/exposure Definitions
+- Total sugars
+- Free sugars
+- Added sugars (sucrose; table sugar; sugars in processed foods)
+- % of total energy intake from sugars
+- Consumption of sugar-sweetened beverages
+- Fruit juices
+Control Comparison of levels
+Continuous or categorical
+Adherence to recommendations
+1 The percentage of fat (i.e. adipose tissue) that a person's body contains
+
+Confounders/effect - Baseline level of all categories of sugars intake modifiers/intermediates - Energy intake
+- Energy expenditure; fitness and physical activity
+- Consider other interventions in design, dietary and non-dietary (protocol to specify)
+- Consider influence of other aspects of diet/dietary patterns
+In cohort studies: unadjusted and adjusted estimates; what adjusted for, how (protocol to specify) and impact
+Consider if artificial sweeteners/milk/other foods are used as control
+Intermediates
+- Take into account effect of energy density
+Outcome - Body weight or fatness gain measured by:
+- weight change, BMI
+- incidence of obesity and overweight
+- body fatness and distribution assessed in a variety of ways
+- Dental caries (not erosion)
+Time frame - For controlled feeding studies where a high proportion of food is directly provided and there is no caloric restriction, outcomes are change in weight or body fatness, with a minimum study duration of 8
+weeks
+- For studies where the intervention is advisory or shopping type, without caloric restriction, outcomes are obesity incidence, change in weight or body fatness, with a minimum study duration of 6 months
+(26 weeks)
+
+Annex 7 Summary of considerations for determining the strength of the recommendations
+Quality of - Moderate quality evidence for the effect of a reduction in free sugars evidence intake on body weight and dental caries in both adults and children
+- Moderate quality evidence for the effect of an increase in free sugars intake on body weight and dental caries in adults
+- Low quality evidence for the effect of an increase in free sugars intake on body weight in children and moderate quality on dental caries
+- Moderate quality evidence for the effect of restricting intake of free sugars to less than 10% of total energy intake on dental caries in adults and children
+- Very low quality evidence for the effect of restricting intake of free sugars to less than 5% of total energy intake on dental caries in adults and children
+Values and - This recommendation places a high value on reduction of risk of preferences NCDs associated with overweight and obesity and on improving and maintaining good oral health
+- Implementation of this guideline would help improve the quality of diets among individuals
+- NCDs are the main contributor to mortality globally, and interventions to reduce the burden of NCDs are valuable
+- NCDs affect countries in all regions and all income levels, meaning that interventions to reduce the burden of NCDs are valuable in all contexts
+Trade-off - High prevalence of overweight and obesity as well as dental caries between shows that large proportions of the population would benefit from benefits and reduction in weight gain and prevention of dental caries harm - Clear evidence of benefits on health
+- No known adverse effects on health have been documented
+Costs and - Implementing this recommendation is likely to be associated with feasibility long-term cost saving in health care in countries
+- The extent of these savings and resource use depend on strategies chosen for implementation and timescale for evaluation
+- Implementation of this intervention requires consumer education, public health communications and nutrition communication
+- Prevention of NCDs can significantly reduce health-care costs, with many interventions designed to reduce the risk of NCDs representing
+"best-buys"1 and other cost-effective approaches (1, 61)
+- These recommendations can be incorporated into existing public health nutrition education campaigns and other existing nutrition programmes at the global, regional, national and subnational levels
+1 Very cost-effective interventions that are also high-impact and feasible for implementation even in resourceconstrained settings (1).
+
+Annex 8 Management of conflict of interest
+NUGAG members
+No interest was declared by the following five members:
+- Professor John Cummings
+- Professor Shiriki Kumanyika
+- Professor Duo Li
+- Dr Joerg Meerpohl
+- Professor Carlos Monteiro
+Professor Ibrahim Elmadfa declared that he has received research grants from the Ministry of Health, Austria; the European Commission; the European Food Standard Agency; and
+Nutrisciencia, Switzerland. The grants were received by his university, and funds were mainly used for staff costs for those working in the research projects and fieldwork.
+In addition, Professor Elmadfa declared that as the President of the International
+Union of Nutrition Science (IUNS) during October 2009 - September 2013 he has signed a memorandum of understanding (MOU) between IUNS and Unilever for scientific cooperation during 2011 - 2014, whereby Unilever provides funds to IUNS (i.e. directly to the IUNS treasury) annually for supporting young nutrition scientists from developing countries to attend international scientific meetings and for capacity development activities, such as the workshops on nutrition leadership.
+Further information obtained from Professor Elmadfa regarding Nutrisciencia indicated that it is a Liechtenstein-based for-profit foundation, registered with the Public Registry of the
+Principality of Liechtenstein under number FL-0002.251.294-8. The purpose of the foundation is to support research, education and science in German universities. It also contributes to charitable and humanitarian organizations. No commercially operating companies are involved in the operation of the foundation, either directly or indirectly. The declared interests were not considered to constitute any conflict of interest for Professor Elmadfa's role as a member of the
+NUGAG Subgroup on Diet and Health, nor did they represent any conflict of interest for the work being undertaken by the NUGAG Subgroup on Diet and Health.
+Dr Lee Hooper declared that she has received research funding from Barry Callebaut (to her university) to carry out a systematic review on the effects of chocolate and cocoa on markers of oxidative stress; the review was completed in August 2010. She has also received research funding from Soy Nutrition Institute (to her university) to carry out a systematic review on the effects of soy and isoflavones on hormonal status in women; the review was completed in July 2008.
+Dr Hooper also declared that she had received a plane ticket and hotel accommodation from the European Hydration Institute (EHI) during her participation at the 20th IUNS
+International Congress of Nutrition held in Granada, Spain in September 2013 because she was an invited speaker at the EHI's symposium. Her talk was on dehydration in older people.
+She received no personal remuneration other than the travel and accommodation noted above.
+
+The declared systematic review supported by Barry Callebaut was on the effects of chocolate and cocoa on markers of oxidative stress, and was completed 2.5 years ago. Although it was not related to any aspects or scope of the guidelines on free sugars in relation to weight gain and dental caries, Dr Hooper nevertheless did not participate in the discussions and the work of the
+NUGAG Subgroup on Diet and Health related to the guidelines on free sugars as a member of the NUGAG. It was further agreed that the declared interests were not considered any conflict of interest for her participation in other on-going work of the NUGAG Subgroup on Diet and Health, including the updating of the guidelines on fats and fatty acids.
+Professor Nahla Hwalla declared that she has received research support including grants, collaborations, sponsorships and other funding from WHO, the International Atomic Energy
+Agency (IAEA), the Lebanese National Council for Scientific Research, the UN University (UNU) and Nestlé Middle East.
+Further information obtained from Professor Hwalla regarding the declared grant received from Nestlé Middle East indicated that the grant supports two types of projects at the American
+University of Beirut (AUB): intervention activities to promote healthy eating in schools, and research activities of three faculty members in the Faculty of Agriculture and Food Sciences, where
+Professor Hwalla, as the Dean of the Faculty, oversees the implementation of these activities.
+Professor Hwalla also indicated that there is an agreement between AUB and Nestlé Middle East that all intellectual property (including technology, method, know-how or data rights) produced during the course of the projects will belong to AUB. Professor Hwalla's declared interests do not present any conflict of interest for the work of NUGAG because the funds she received for her own research were from UN agencies (i.e. WHO, IAEA and UNU) and a governmental institution (i.e.
+the Lebanese National Council for Scientific Research). It was agreed that Professor Hwalla could participate as a member of the NUGAG Subgroup on Diet and Health, especially since:
+- the interest is not personal;
+- the amount received is not significant in view of the total budget of the faculty; and
+- funding is going to a programme that was already established before the Nestlé contribution and that has governmental support. It was suggested that an appropriate disclosure statement be prepared to indicate her declared interest. Professor Hwalla participated in the meetings in February 2010, March 2011 and March 2013, but was unable to attend the meetings in November 2011, March 2012 and October 2013.
+Professor Mary L'Abbe declared that she received research grants from the Canadian Institutes of Health Research, to evaluate the impact of Canada's sodium reduction policy; the Public Health
+Agency of Canada, to prepare a report on public food procurement policies related to sodium; and the Beef Information Centre (a non-profit research foundation funded, but administered at arm's length, by the Canadian beef industry), to examine the iron bioavailability of the diets of Canadians. Professor L'Abbe also receives other funding for research in NCD prevention and health promotion. She also declared that she has spoken at the annual meeting of the
+Canadian Meat Council to explain Canada's Sodium Working Group report recommendations, and the process being used to develop Canada's sodium targets for foods. Her travel expenses were paid by the Canadian Meat Council, but no honorarium was received. Professor L'Abbe appeared as a witness to the Canadian Parliament's Standing Committee on Health, as Chair of
+Canada's Sodium Working Group, to advocate for action to reduce sodium in Canadian foods and increase consumer awareness of sodium, and to support research in the sodium field.
+
+The research grant received from the Beef Information Centre was for a study to examine the iron availability of the diets among the Canadian populations; this activity was not related to the area of recommendations being reviewed and updated by the NUGAG Subgroup on Diet and Health. Hence, it was suggested that the declared interest be reported in the process and the meeting report with details, but that no action be taken and Professor L'Abbe be accepted as a member of the NUGAG Subgroup on Diet and Health.
+Dr Anna Lartey declared that her department runs a short course on food safety for nutritionists, and that this programme is supported by Industry Council for Development, which is a non-profit organization that has official relations with WHO and liaison status with the FAO, which aims to improve public health worldwide through the development of projects and learning resources on food safety. Its website provides access to a range of training materials on food safety, hazard analysis and critical control points (HACCP), risk analysis and assessment, and drinking water quality.
+It was considered that the declared interests do not constitute any conflict of interest for
+Dr Lartey's role as a member of the NUGAG Subgroup on Diet and Health, nor do they represent any conflict of interest for the work being undertaken by the NUGAG Subgroup on Diet and Health.
+Professor Jim Mann declared that he is employed by a university that has an interest in nutrition as it relates to human health, and receives research grants from New Zealand governmental agencies. He also declared that, as an individual and as an advisory committee member, he has provided expert advice relating to nutrition and human health to innumerable national and international bodies including WHO, FAO, the World Cancer Research Fund and the media.
+The declared interests were not considered to constitute any conflict of interest for Professor
+Mann's role as a member of the NUGAG Subgroup on Diet and Health, nor did they represent any conflict of interest for the work being undertaken by that subgroup.
+Professor Satoshi Sasaki declared that he had received an air ticket, hotel accommodation and a small lecture fee as a token of appreciation from Ajinomoto Co. for his participation at a scientific meeting held in Kuala Lumpur, Malaysia in March 2013.
+It was considered that the declared interests do not constitute any conflict of interest for
+Professor Sasaki's role as a member of the NUGAG Subgroup on Diet and Health nor they represent any conflict of interest for the work being undertaken by the NUGAG Subgroup on Diet and Health.
+Professor Barbara Schneeman declared that, until the end of 2012, she was employed by the US Food and Drug Administration (FDA), which is interested in scientific input for the development of nutrition recommendations. Dr Schneeman further declared that, as the US delegate to the Codex Committees on food labelling and on nutrition and foods for special dietary uses, she has represented the US position in these forums.
+Professor Schneeman also declared that she had served as a consultant to the consulting firm, Exponent, to provide information on FDA policies for labelling of genetically engineered plant ingredients and FDA policies on use of nutrient content claims. Furthermore, she had given a presentation on the development of the dietary guidelines for Americans and policies
+
+for nutrition labelling in the US at the Mushroom Council, which is a Commodity Board created under the government policy and supported by mushroom growers.
+It was considered that the declared interests do not constitute any conflict of interest for
+Professor Schneeman's role as a member of the NUGAG Subgroup on Diet and Health, nor do they represent any conflict of interest for the work being undertaken by the NUGAG Subgroup on Diet and Health.
+Professor Murray Skeaff declared that he was invited to an international symposium entitled
+"The role of reducing intakes of saturated fat in the prevention of cardiovascular disease.
+Where does the evidence stand in 2010" organized by the Faculty of Life Sciences at the
+University of Copenhagen. At that occasion, the Opus Centre (LIFE), the Centre of Advanced
+Food Research (LMC; DK) at the University of Copenhagen provided the funds for travel, accommodation and honorarium to the University of Otago. An international consortium also provided unrestricted educational grants. But Professor Skeaff withdrew his name from the meeting consensus statement when he became aware of the involvement of commercial interests.
+He also declared the following memberships:
+- Member of the Public Health Scientific Advisory Group of the New Zealand
+National Heart Foundation. This group advises the Heart Foundation (which is a nongovernmental organization [NGO]) about the scientific basis of its public health efforts to reduce the burden of heart disease in New Zealand. He is not an employee of the Heart Foundation and receives no remuneration for work related to the Advisory Group (2004 - present).
+- Chair of the Food and Nutrition Working Group of the New Zealand National Heart
+Foundation. This group advises the Heart Foundation about its food and nutrition programmes to reduce the burden of heart disease in New Zealand. He is not an employee of the Heart Foundation and receives no remuneration for work related to the working group (2004 - present).
+- Appointed in 2008 as a Scientific Fellow of Food Standards Australia New Zealand
+(FSANZ). "The FSANZ Fellows Program aims to establish a network of distinguished scientists and experts from key disciplines in areas relevant to food regulation.
+The network is intended to promote close collaborative relations between FSANZ staff, the Fellows, and their affiliated institutions to the benefit of all parties." No remuneration is given to Fellows.
+- Member of the New Zealand Food Safety Academy (NZFSA). The NZFSA is a government department within the Ministry of Agriculture and Fisheries. From time to time, NZFSA seeks the advice of expert members of the NZFSA in areas where its staff do not have expertise, or seeks confirmation of the advice provided by its expert staff. NZFSA also establishes expert groups in order to seek more specific assistance in relation to particular issues, drawing experts from the members of the
+Academy (2008 - present).
+
+Professor Skeaff also noted that he has been a member of the New Zealand Nutrition
+Foundation Scientific Advisory Committee, which is a non-paid service to provide independent scientific opinion about the scientific basis of work done by the New Zealand Nutrition
+Foundation. Although the committee has not met and members have not been asked for their opinions since 2005 - 2006, his name remains listed on the website of the New Zealand Nutrition
+Foundation as a member of the Advisory Group.
+It was considered that the declared interests do not constitute any conflict of interest for Professor
+Skeaff's role as a member of the NUGAG Subgroup on Diet and Health, nor do they represent any conflict of interest for the work being undertaken by the NUGAG Subgroup on Diet and Health.
+Professor H.H. (Esté) Vorster declared that she serves on the Scientific Panel that advises the South African Sugar Association (SASA)1 on which nutrition research studies should be funded at South African Universities. Professor Vorster further stated that serving on the
+Scientific Panel does not commit her in any way to support any policy or viewpoint of SASA.
+No financial benefits have been received by Professor Vorster.
+The SASA is an organization that promotes the global competitiveness, profitability and sustainability of the South African sugar industry by providing specialist support to the cane growers and sugar millers who make up the sugar industry, and to their representative bodies, the
+SA Canegrowers' Association and the SA Sugar Millers' Association. This partnership is administered by the SASA Council, and the Chairmanship and Vice-Chairmanship of Council usually alternates every 2 years between a grower and a miller. SASA specialist support services extend along the entire industry value chain, starting with agricultural research and extension, and including cane testing, agricultural and engineering training, and the export marketing of raw sugar.
+However, there is a statement on the SASA website about sugar and health, which states that "Eminent bodies such as the World Health Organization and the Food and Agricultural
+Organization agree that sugar, like other carbohydrate-containing foods, has an indispensable role to play in balanced diets. These bodies concluded that there is no evidence of sugar being the direct cause of lifestyle diseases such as diabetes, heart disease, obesity or cancer". This statement contradicts the existing guidance of WHO and also the work that the NUGAG Subgroup on Diet and Health is undertaking.
+The declared interest of Professor Vorster's involvement as a member of the Scientific Panel of SASA could be considered as a conflict of interest despite the fact that Professor Vorster does not receive any remuneration from SASA. It is, therefore, suggested that Professor Vorster could continue to serve as a member of NUGAG Subgroup on Diet and Health, but that she should refrain from participating in the specific discussions and decision-making process for developing recommendations and guidelines on free sugars. She could, however, participate fully in the discussions on the guideline development process related to other subject areas such as fats and fatty acids that the NUGAG Subgroup on Diet and Health is undertaking.
+1
+
+External resource persons
+External resource persons are external experts who participated in the meetings of the
+NUGAG Subgroup on Diet and Health, as required, to perform specific tasks and roles; for example, as the authors of systematic reviews, specific subject experts to provide further data and information, experts on methodologies and on GRADE, or practitioners who could provide guidance on the implications on proposed recommendations. External resource persons were involved in the discussions on the review of the evidence, but did not vote at the NUGAG meetings at which the recommendations were formulated. The final wording and determination of the strength of the recommendations were based on the consensus of the
+NUGAG members only. Therefore, there is no specific requirement to assess the declaration of interests of these external resource persons; however, for information and record purposes only, the interests they declared are summarized below.
+No interest was declared by the following three external resource persons:
+- Dr Janice Albert
+- Dr Sarah Kelly
+- Dr Lisa Te Morenga
+Professor Ingeborg Brouwer declared that she had assisted Dr Martin Katan in preparing an expert witness report for the Administrative Appeals Tribunal in Sydney, Australia for the case of Cognis versus FSANZ on the health effects of conjugated linoleic acids (CLA). However, she declined financial compensation for the work.
+Professor Francesco Cappuccio declared that he provided expert testimony on salt and CVD as part of the Guidance Development group of the UK's National Institute of Health and Clinical
+Excellence (NICE) in 2009. He is an unpaid member of the Consensus Action on Salt and Health
+(2000 - present), the World Action on Salt and Health (WASH) (2003 - present), the National Heart
+Forum (2010 - present), the Pan American Health Organization/WHO Salt Group (2009 - 2011), and the European Salt Action Group (2007 - present).
+Professor Russell de Souza declared that he was a co-applicant on an investigator-initiated, unrestricted research grant provided by Coca-Cola to Dr David Jenkins (his co-supervisor at St.
+Michael's Hospital in Toronto, Canada), to conduct systematic reviews of fructose and CVD risk.
+Some funds from this research grant were used to reimburse Professor de Souza's travel to a scientific meeting in Canada that was unrelated to trans-fatty acids.
+Professor Paul Elliott declared that he is a member of WASH. He also declared that his university is currently receiving research funds for the INTERMAP study from the US National Institutes of Health, and that he received research support for a sodium intake study from the US Centers for Disease
+Control and Prevention (CDC) in 2010. He declared that he provided an expert opinion related to:
+- population sodium intake to the US National Heart, Lung, and Blood Institute
+National Health and Nutrition Examination Survey Sodium Working Group,
+Bethesda, USA in January 2011; and
+- sodium intake measurement methods and efficacy for the Epidemiology and
+Surveillance Branch of CDC, USA during 2010 - 2011.
+
+Dr Cho-il Kim declared that, in 2009, she provided an expert opinion to the Korean Food and
+Drug Administration (KDFA) when the KFDA was developing a guideline to identify "energydense and nutritient-poor" foods according to the Special Act on Food Safety Management for
+Children. Since 2009, the sale of such food has been prohibited within school premises and in designated stores in the vicinity of schools (referred to as the "Green Food Zone"). Since 2010, television advertisements for such food are prohibited between 5:00 pm and 7:00 pm every day.
+Dr Kim thought that this information was relevant because the regulations on energy-dense and nutrition-poor foods deal with the fat and sugar content of food, and the meeting of the NUGAG
+Subgroup on Diet and Health was also reviewing recommendations related to total fat and sugars.
+Professor Ronald Mensink declared that he was an adviser of the European Food Safety
+Authority (EFSA) Panel on Dietetic Products, Nutrition and Allergies (NDA) for the Dietary
+Reference Values for Fats, published on 25 March 2010.
+He also served as an adviser of the Food, Nutrition and Quality Sub-committee of the
+Malaysian Palm Oil Board, which is a government agency, during 2011 - 2013. He received
+€ 800 each year, but the funds were paid to his research unit (NUTRIM).
+Professor Mensink also declared that he has received the following support for his research:
+- Funds for research on relevance of cardiovascular risk markers, Feb 2011 - Sept
+2015, received from Top Institute for Food and Nutrition (TIFN) which is a public - private partnership of science, industry and government conducting strategic research. Funds are paid to NUTRIM.
+- Funds for research on effects of stearidonic acid on serum triacylglycerol concentrations in overweight and obese subjects, June 2011 - May 2012, from
+Bioriginal Europe B.V. Funds are paid to NUTRIM.
+- Funds for research on the short-term effects of palm oil derived diacylglycerol
+(DAG) on postprandial lipid and glucose metabolism in overweight and slightly obese men, January 2010 - December 2010, received from Sime Daarby. Funds are paid to NUTRIM.
+- Funds for research on the effects of tiacy glycerol structure of palmitic acid-rich fats on postprandial changes in lipid and glucose metabolism, April 2009 - April 2011, received from the Malaysian Palm Oil Board. Funds are paid to NUTRIM.
+- Funds for research on the effects of dairy products on metabolic risk markers in subjects with metabolic syndrome, September 2007 - June 2011, received from
+Dutch Dairy Organization. Funds are paid to NUTRIM.
+Professor Paula Moynihan declared that she received a research grant (to her university) that included reviewing the intake of sugars in care homes as a small component of a large dietary study from the UK Food Standard Agency/Department of Health; the study was completed in January 2011.
+
+External peer reviewers
+No interest was declared by the following four external peer reviewers:
+- Professor Annie S. Anderson
+- Dr Jenny Reid
+- Professor W. Murray Thomson
+- Dr Paula R. Trumbo
+Professor Wulf Becker declared that he is employed by the Swedish National Food Agency and also served as the chair of the working group responsible for producing the 5th edition of the Nordic Nutrition Recommendations (NNR 2012)1 - a project financed by the Nordic
+Council of Ministers.
+The declared interests were not considered to constitute any conflict of interest for Professor
+Becker's role as an external peer reviewer for the guideline. Rather, his role as the chair of the working group responsible for producing the 5th NNR 2012 was considered important in critically reviewing the WHO guideline for ensuring synergy between the recommended dietary guidance for Sweden and global recommendations.
+Dr Hasan Hutchinson declared that he is the focal point for public health nutrition in Health
+Canada and presents healthy eating guidance at various fora to a number of different stakeholders including municipal, provincial and national governments, NGO health charities and consumer groups, health professionals, academics and industries.
+The declared interests were not considered to constitute any conflict of interest for Dr
+Hutchinson's role as an external peer reviewer for the guideline. Rather, his role as the focal point for public nutrition for Canada was considered important in critically reviewing the WHO guideline for ensuring synergy between the recommended dietary guidance for Canada and global recommendations.
+1
+
+References 1. Global status report on noncommunicable diseases 2014. Geneva: World Health Organization; 2014.
+( accessed 21 January 2015).
+2. Global health risks: mortality and burden of disease attributable to selected major risks. Geneva: World
+Health Organization; 2009 ( report_full.pdf, accessed 27 February 2014).
+3. Diet, nutrition and the prevention of chronic diseases: report of a Joint WHO/FAO Expert Consultation.
+WHO Technical Report Series, No. 916. Geneva: World Health Organization; 2003
+( accessed 27 February 2014).
+4. Diet, nutrition and the prevention of chronic diseases: report of a WHO Study Group. WHO Technical
+Report Series 797. Geneva: World Health Organization; 1990 ( publications/obesity/WHO_TRS_797/en/, accessed 27 February 2014).
+5. Johnson RK, Appel LJ, Brands M, Howard BV, Lefevre M, Lustig RH et al. Dietary sugars intake and cardiovascular health: A scientific statement from the American Heart Association. Circulation. 2009;
+120(11):1011 - 1020 ( accessed 17 January 2015).
+6. World Cancer Research Fund/American Institute for Cancer Research (WCRF/AICR). Food, nutrition, physical activity, and the prevention of cancer: A global perspective. Washington, D.C.: AICR; 2007
+( pdf, accessed 27 February 2014).
+7. Elia M, Cummings JH. Physiological aspects of energy metabolism and gastrointestinal effects of carbohydrates. Eur. J. Clin. Nutr. 2007; 61 Suppl 1:S40 - 74 ( pubmed/17992186, accessed 17 January 2015).
+8. Fats and fatty acids in human nutrition: report of an expert consultation. FAO Food and Nutrition Paper
+91. Rome: Food and Agricultural Organization of the United Nations; 2010
+( accessed 27 February
+2014).
+9. Hauner H, Bechthold A, Boeing H, Bronstrup A, Buyken A, Leschik-Bonnet E et al. Evidence-based guideline of the German Nutrition Society: carbohydrate intake and prevention of nutrition-related diseases. Ann. Nutr.
+Metab. 2012; 60 Suppl 1:1 - 58 ( accessed 17 January 2015).
+10. Malik VS, Pan A, Willett WC, Hu FB. Sugar-sweetened beverages and weight gain in children and adults: a systematic review and meta-analysis. Am. J. Clin. Nutr. 2013; 98(4):1084 - 1102
+( accessed 17 January 2015).
+11. Malik VS, Popkin BM, Bray GA, Despres JP, Willett WC, Hu FB. Sugar-sweetened beverages and risk of metabolic syndrome and type 2 diabetes: a meta-analysis. Diabetes Care. 2010; 33(11):2477 - 2483
+( accessed 27 February 2014).
+12. Malik VS, Schulze MB, Hu FB. Intake of sugar-sweetened beverages and weight gain: a systematic review.
+Am. J. Clin. Nutr. 2006; 84(2):274 - 288 ( accessed 27
+February 2014).
+13. Vartanian LR, Schwartz MB, Brownell KD. Effects of soft drink consumption on nutrition and health:
+a systematic review and meta-analysis. Am. J. Public Health. 2007; 10(4):120
+( accessed 27 February 2014).
+14. Moynihan P, Petersen PE. Diet, nutrition and the prevention of dental diseases. Public Health Nutr. 2004;
+7(1A):201 - 226 ( accessed 17 January 2015).
+15. Sheiham A, James WP. A reappraisal of the quantitative relationship between sugar intake and dental caries: the need for new criteria for developing goals for sugar intake. BMC Public Health. 2014; 14:863
+( accessed 17 January 2015).
+16. Sheiham A, James WP. A new understanding of the relationship between sugars, dental caries and fluoride use: implications for limits on sugars consumption. Public Health Nutr. 2014:1 - 9
+( accessed 17 January 2015).
+
+17. The World Oral Health Report 2003. Geneva: World Health Organization; 2003
+( accessed 27 February 2014).
+18 .Marcenes W, Kassebaum NJ, Bernabe E, Flaxman A, Naghavi M, Lopez A et al. Global burden of oral conditions in 1990 - 2010: a systematic analysis. J. Dent. Res. 2013; 92(7):592 - 597
+( accessed 17 January 2015).
+19. Petersen PE, Bourgeois D, Ogawa H, Estupinan-Day S, Ndiaye C. The global burden of oral diseases and risks to oral health. Bull. World Health Organ. 2005; 83(9):661 - 669 ( bitstream/10665/73285/1/bulletin_2005_83%289%29_661-669.pdf, accessed 17 January 2015).
+20. WHO handbook for guideline development, 2nd edition. Geneva: World Health Organization; 2014
+( accessed 17 January
+2015).
+21. Broadbent JM, Thomson WM, Poulton R. Trajectory patterns of dental caries experience in the permanent dentition to the fourth decade of life. J. Dent. Res. 2008; 87(1):69 - 72
+( accessed 17 January 2015).
+22. Broadbent JM, Foster Page LA, Thomson WM, Poulton R. Permanent dentition caries through the first half of life. Br. Dent. J. 2013; 215(7):E12 ( accessed 17
+January 2015).
+23. Slade GD, Sanders AE, Do L, Roberts-Thomson K, Spencer AJ. Effects of fluoridated drinking water on dental caries in Australian adults. J. Dent. Res. 2013; 92(4):376 - 382
+( accessed 17 January 2015).
+24. Sivaneswaran S, Barnard PD. Changes in the pattern of sugar (sucrose) consumption in Australia 1958 -
+1988. Community Dent. Health. 1993; 10(4):353 - 363 (
+25. Ruottinen S, Karjalainen S, Pienihakkinen K, Lagstrom H, Niinikoski H, Salminen M et al. Sucrose intake since infancy and dental health in 10-year-old children. Caries Res. 2004; 38(2):142 - 148
+( accessed 17 January 2015).
+26. Rugg-Gunn AJ, Hackett AF, Appleton DR, Jenkins GN, Eastoe JE. Relationship between dietary habits and caries increment assessed over two years in 405 English adolescent school children. Arch. Oral Biol. 1984;
+29(12):983 - 992 ( accessed 17 January 2015).
+27. Rodrigues CS, Sheiham A. The relationships between dietary guidelines, sugar intake and caries in primary teeth in low income Brazilian 3-year-olds: a longitudinal study. Int. J. Paediatr. Dent. 2000;
+10(1):47 - 55 ( accessed 17 January 2015).
+28. Masson LF, Blackburn A, Sheehy C, Craig LC, Macdiarmid JI, Holmes BA et al. Sugar intake and dental decay: results from a national survey of children in Scotland. Br. J. Nutr. 2010; 104(10):1555 - 1564 (http:// www.ncbi.nlm.nih.gov/pubmed/20637133, accessed 17 January 2015).
+29. Marthaler TM. Changes in the prevalence of dental caries: how much can be attributed to changes in diet? Caries Res. 1990; 24 Suppl 1:3 - 15; discussion 16 - 25 ( pubmed/2249227, accessed 17 January 2015).
+30. Leite TA. Dental caries and sugar consumption in a group of public nursery school children (In
+Portuguese). Rev. Odontol. Univ. Sao Paulo. 1999; 13:13 - 18.
+31. Lawrence HP, Sheiham A. Caries progression in 12- to 16-year-old schoolchildren in fluoridated and fluoride-deficient areas in Brazil. Community Dent. Oral Epidemiol. 1997; 25(6):402 - 411
+( accessed 17 January 2015).
+32. Kunzel W, Fischer T. Rise and fall of caries prevalence in German towns with different F concentrations in drinking water. Caries Res. 1997; 31(3):166 - 173 (
+33. Holt RD. Foods and drinks at four daily time intervals in a group of young children. Br. Dent. J. 1991;
+170(4):137 - 143 ( accessed 17 January 2015).
+
+34. Burt BA, Eklund SA, Morgan KJ, Larkin FE, Guire KE, Brown LO et al. The effects of sugars intake and frequency of ingestion on dental caries increment in a three-year longitudinal study. J. Dent. Res. 1988;
+67(11):1422 - 1429 ( accessed 17 January 2015).
+35. Arnadottir IB, Rozier RG, Saemundsson SR, Sigurjons H, Holbrook WP. Approximal caries and sugar consumption in Icelandic teenagers. Community Dent. Oral Epidemiol. 1998; 26(2):115 - 121
+( accessed 17 January 2015).
+36. WHO Global Network of Institutions for Scientific Advice on Nutrition. Report of the first meeting. Geneva:
+World Health Organization; 2010 ( accessed 27 February 2014).
+37. Basic documents. Edition 47. Geneva: World Health Organization; 2009 ( accessed 27 February 2014).
+38. Guidelines for declaration of interests for WHO experts. Geneva: World Health Organization; 2010.
+39. Te Morenga L, Mallard S, Mann J. Dietary sugars and body weight: systematic review and metaanalyses of randomised controlled trials and cohort studies. BMJ. 2013; 346:e7492
+( accessed 27 February 2014).
+40. Moynihan PJ, Kelly SA. Effect on caries of restricting sugars intake: systematic review to inform WHO guidelines. J. Dent. Res. 2014; 93(1):8 - 18 ( accessed 17
+January 2015).
+41. Griffin SO, Griffin PM, Swann JL, Zlobin N. New coronal caries in older adults: Implications for prevention.
+J. Dent. Res. 2005; 84(8):715 - 720 ( accessed 17 January
+2015).
+42. Broadbent JM, Thomson WM, Poulton R. Progression of dental caries and tooth loss between the third and fourth decades of life: A birth cohort study. Caries Res. 2006; 40(6):459 - 465 ( nih.gov/pubmed/17063015, accessed 27 February 2014).
+43. Mejare I, Stenlund H, Zelezny-Holmlund C. Caries incidence and lesion progression from adolescence to young adulthood: A prospective 15-year cohort study in Sweden. Caries Res. 2004; 38(2):130 - 141
+( accessed 17 January 2015).
+44. Fejerskov O. Concepts of dental caries and their consequences for understanding the disease.
+Community Dent. Oral Epidemiol. 1997; 25(1):5 - 12 (
+45. Thomson WM. Dental caries experience in older people over time: what can the large cohort studies tell us? Br. Dent. J. 2004; 196(2):89 - 92, discussion 87 (
+46. Bernabe E, Sheiham A. Age, period and cohort trends in caries of permanent teeth in four developed countries. Am. J. Public Health. 2014; 104(7):e115 - 121 (
+47. Bernabe E, Sheiham A. Extent of differences in dental caries in permanent teeth between childhood and adulthood in 26 countries. Int. Dent. J. 2014; 64(5):241 - 245
+( accessed 17 January 2015).
+48. Report of the first meeting of the Ad hoc Working Group on Science and Evidence for Ending Childhood
+Obesity, 18 - 20 June 2014. Geneva: World Health Organization; 2014
+( accessed 17 January 2015).
+49. Rugg-Gunn AJ, Hackett AF, Appleton DR, Moynihan PJ. The dietary intake of added and natural sugars in
+405 English adolescents. Hum. Nutr. Appl. Nutr. 1986; 40(2):115 - 124
+( accessed 17 January 2015).
+
+50. Rodrigues CS, Watt RG, Sheiham A. Effects of dietary guidelines on sugar intake and dental caries in
+3-year-olds attending nurseries in Brazil. Health Promot. Int. 1999; 14:329 - 335.
+( accessed 17 January 2015).
+51. Battellino LJ, Cornejo LS, Dorronsoro de Cattoni ST, Luna Maldonado de Yankilevich ER, Calamari SE,
+Azcura AI et al. [Oral health status evaluation of pre-school children: longitudinal epidemiologic study
+(1993 - 1994), Cordoba, Argentina]. Rev. Saude. Publ. 1997; 31(3):272 - 281
+( accessed 17 January 2015).
+52. Szanto S, Yudkin J. The effect of dietary sucrose on blood lipids, serum insulin, platelet adhesiveness and body weight in human volunteers. Postgrad. Med. J. 1969; 45(527):602 - 607
+( accessed 17 January 2015).
+53. Reid M, Hammersley R, Duffy M. Effects of sucrose drinks on macronutrient intake, body weight, and mood state in overweight women over 4 weeks. Appetite. 2010; 55(1):130 - 136
+( accessed 17 January 2015).
+54. Takeuchi DDS. Epidemiological study on dental caries in Japanese children, before, during and after
+World War II. Int. Dent. J. 1961; 11:443.
+55. Takeuchi M. Epidemiological study on relation between dental caries incidence and sugar consumption.
+The Bulletin of Tokyo Dental College. 1960; 1:58 - 70.
+56. Takahashi K. Statistical study on caries incidence in the first molar in relation with amount of sugar consumption. Jap. J. Oral. Hyg. 1959; 9:136.
+57. Takahashi K. Statistical study on caries incidence in the first molar in relation to the amount of sugar consumption. The Bulletin of Tokyo Dental College. 1961; 2:44 - 57.
+58. Okuya Y. The epidemiological study of the relation between caries incidence and sugar consumption on the second molar. J. Dent. Res. 1960; 60:1120 - 1134.
+59. Koike H. Studies on caries incidence in the first molar in relation to the amount of sugar consumption on primary school children in Kyoto city. The Bulletin of Tokyo Dental College. 1962; 3:44 - 56.
+60. Koike H. Studies on caries incidence in the first molar in relation with amount of sugar on primary school children in Kyoto city. J. Okayama Med. Soc. 1959; 72:407.
+61. Global status report on noncommunicable diseases 2010. Geneva: World Health Organization; 2010
+( accessed 27 February 2014).
+
+For more information, please contact:
+Department of Nutrition for Health and Development
+World Health Organization
+20, Avenue Appia, CH-1211 Geneva 27, Switzerland
+Fax: +41 22 791 4156
+E-mail: nutrition@who.int
+
+ISBN 978 92 4 154902 8
+
+www.who.int/nutrition
